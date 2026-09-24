@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Actualités - Salle de pause</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;background:#f4f6f8;color:#17212b}
+.header{height:13vh;background:#17324d;color:white;display:flex;align-items:center;justify-content:space-between;padding:0 3vw}
+.title{font-size:3.2vw;font-weight:700}
+.date{font-size:1.7vw}
+.content{height:87vh;padding:2.2vh 2.5vw;display:grid;grid-template-columns:2fr 1fr;gap:1.5vw}
+.main,.side{background:white;border-radius:18px;padding:1.8vw;box-shadow:0 3px 14px rgba(0,0,0,.10)}
+.section{font-size:1.7vw;font-weight:700;margin-bottom:1.3vh;text-transform:uppercase}
+#mainNews{height:100%;display:flex;flex-direction:column;justify-content:center}
+.main h1{font-size:3vw;line-height:1.12;margin:1vh 0}
+.main p{font-size:1.55vw;line-height:1.4;color:#52606d}
+.meta{font-size:1vw;color:#7b8794;margin-top:1vh}
+.side{overflow:hidden}
+.item{padding:1.25vh 0;border-bottom:1px solid #dfe4e8}
+.item:last-child{border-bottom:0}
+.item h2{font-size:1.45vw;line-height:1.18;margin:0 0 .6vh}
+.item p{font-size:1vw;color:#68737d;margin:0}
+.footer{position:absolute;bottom:0;left:0;right:0;height:4vh;background:#17324d;color:white;display:flex;align-items:center;padding:0 2.5vw;font-size:1vw}
+#status{margin-left:auto}
+@media(max-width:1000px){.title{font-size:32px}.date{font-size:18px}.content{grid-template-columns:1fr}.side{display:none}.main h1{font-size:34px}.main p{font-size:18px}}
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="title">📰 ACTUALITÉS</div>
+  <div class="date" id="clock"></div>
+</div>
+<div class="content">
+  <section class="main">
+    <div class="section">À la une</div>
+    <div id="mainNews"><h1>Chargement des actualités…</h1><p>Actualisation automatique.</p></div>
+  </section>
+  <aside class="side">
+    <div class="section">Les dernières infos</div>
+    <div id="newsList"></div>
+  </aside>
+</div>
+<div class="footer">
+  <span>Informations actualisées automatiquement</span>
+  <span id="status">Mise à jour…</span>
+</div>
+
+<script>
+const RSS = "https://news.google.com/rss?hl=fr&gl=FR&ceid=FR:fr";
+const API = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS);
+
+function clock(){
+  const d=new Date();
+  document.getElementById("clock").textContent =
+    d.toLocaleDateString("fr-FR",{weekday:"long",day:"2-digit",month:"long"}) +
+    "  •  " + d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
+}
+setInterval(clock,1000); clock();
+
+function clean(s){
+  const t=document.createElement("textarea");
+  t.innerHTML=s||"";
+  return t.value.replace(/<[^>]*>/g,"").trim();
+}
+
+async function loadNews(){
+  try{
+    const r=await fetch(API,{cache:"no-store"});
+    const data=await r.json();
+    if(!data.items || !data.items.length) throw new Error("Aucune actualité");
+    const items=data.items.slice(0,7);
+    const first=items[0];
+
+    document.getElementById("mainNews").innerHTML =
+      "<h1>"+clean(first.title)+"</h1>"+
+      "<p>"+clean(first.description).slice(0,260)+"</p>"+
+      "<div class='meta'>Source : "+clean(first.author || "Google Actualités")+" • "+new Date(first.pubDate).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})+"</div>";
+
+    document.getElementById("newsList").innerHTML = items.slice(1).map(x =>
+      "<div class='item'><h2>"+clean(x.title)+"</h2><p>"+
+      new Date(x.pubDate).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"})+
+      "</p></div>").join("");
+
+    document.getElementById("status").textContent =
+      "Dernière mise à jour : "+new Date().toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
+  }catch(e){
+    document.getElementById("mainNews").innerHTML =
+      "<h1>Actualités temporairement indisponibles</h1><p>La page réessaiera automatiquement.</p>";
+    document.getElementById("status").textContent="Nouvel essai dans 5 minutes";
+  }
+}
+loadNews();
+setInterval(loadNews,300000);
+</script>
+</body>
+</html>
