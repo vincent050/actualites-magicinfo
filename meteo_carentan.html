@@ -1,0 +1,189 @@
+s la grande zone blanche de GitHub, copie-colle tout le code ci-dessous.
+
+Ce premier fichier affiche la météo et le vent de Carentan, la date, la saint du jour et un espace réservé aux marées de Grandcamp-Maisy. Les données météo se mettent à jour automatiquement. Pour les marées, il faudra ensuite vérifier l’intégration de la source officielle.
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Météo Carentan - Informations du jour</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: #10243b;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+header {
+  text-align: center;
+  padding: 18px 10px;
+  background: #071629;
+}
+h1 { margin: 0; font-size: 2.4vw; }
+#date { margin-top: 8px; font-size: 1.5vw; color: #c7e4ff; }
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px;
+  padding: 20px;
+}
+.panel {
+  background: #1c3858;
+  border-radius: 16px;
+  padding: 22px;
+  min-height: 210px;
+  text-align: center;
+}
+h2 { color: #83d7ff; margin-top: 0; font-size: 2vw; }
+.big { font-size: 3vw; font-weight: bold; margin: 12px 0; }
+.info { font-size: 1.5vw; line-height: 1.7; }
+footer {
+  text-align: center;
+  padding: 10px;
+  color: #c7e4ff;
+  font-size: 1vw;
+}
+@media (max-width: 700px) {
+  main { grid-template-columns: 1fr; }
+  h1 { font-size: 26px; }
+  #date, .info { font-size: 16px; }
+  h2 { font-size: 22px; }
+  .big { font-size: 32px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>INFORMATIONS DU JOUR</h1>
+  <div id="date">Chargement de la date...</div>
+</header>
+
+<main>
+  <section class="panel">
+    <h2>🌤️ MÉTÉO - CARENTAN</h2>
+    <div class="big" id="temperature">-- °C</div>
+    <div class="info" id="conditions">Chargement...</div>
+    <div class="info" id="pluie"></div>
+  </section>
+
+  <section class="panel">
+    <h2>💨 VENT</h2>
+    <div class="big" id="vent">-- km/h</div>
+    <div class="info" id="rafales">Rafales : -- km/h</div>
+    <div class="info" id="direction">Direction : --</div>
+  </section>
+
+  <section class="panel">
+    <h2>🌊 MARÉES - GRANDCAMP-MAISY</h2>
+    <div class="info">
+      Horaires de marée du jour<br><br>
+      Consultez les horaires officiels sur le site du SHOM.
+      <br><br>
+      <a style="color:#83d7ff" href="https://maree.shom.fr/"
+         target="_blank">maree.shom.fr</a>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>📅 SAINT DU JOUR</h2>
+    <div class="big" id="saint">--</div>
+    <div class="info" id="fete"></div>
+  </section>
+</main>
+
+<footer>
+  Mise à jour automatique de la météo • Carentan, Manche
+</footer>
+
+<script>
+const jours = [
+"dimanche","lundi","mardi","mercredi",
+"jeudi","vendredi","samedi"
+];
+const mois = [
+"janvier","février","mars","avril","mai","juin",
+"juillet","août","septembre","octobre","novembre","décembre"
+];
+
+function afficherDate() {
+  const d = new Date();
+  document.getElementById("date").textContent =
+    jours[d.getDay()] + " " + d.getDate() + " " +
+    mois[d.getMonth()] + " " + d.getFullYear();
+}
+afficherDate();
+setInterval(afficherDate, 60000);
+
+const saints = {
+"1-1":"Marie","1-6":"Mélanie","1-17":"Roseline",
+"2-2":"Présentation du Seigneur","2-14":"Valentin",
+"3-19":"Joseph","4-1":"Hugues","5-1":"Joseph",
+"6-24":"Jean-Baptiste","7-14":"Camille",
+"8-15":"Marie","9-29":"Michel","10-20":"Adeline",
+"11-1":"Tous les saints","11-11":"Martin",
+"12-6":"Nicolas","12-25":"Noël"
+};
+const maintenant = new Date();
+const cle = (maintenant.getMonth()+1) + "-" + maintenant.getDate();
+document.getElementById("saint").textContent =
+  saints[cle] || "Saint du jour";
+document.getElementById("fete").textContent =
+  "Bonne fête à toutes les personnes concernées !";
+
+const descriptions = {
+0:"Ciel dégagé",1:"Principalement dégagé",2:"Partiellement nuageux",
+3:"Couvert",45:"Brouillard",48:"Brouillard givrant",
+51:"Bruine légère",53:"Bruine",55:"Bruine forte",
+61:"Pluie faible",63:"Pluie modérée",65:"Pluie forte",
+71:"Neige faible",73:"Neige modérée",75:"Neige forte",
+80:"Averses faibles",81:"Averses modérées",82:"Fortes averses",
+95:"Orage",96:"Orage avec grêle",99:"Orage fort"
+};
+
+async function chargerMeteo() {
+  const url =
+    "https://api.open-meteo.com/v1/forecast" +
+    "?latitude=49.303&longitude=-1.247" +
+    "&current=temperature_2m,relative_humidity_2m," +
+    "apparent_temperature,is_day,precipitation," +
+    "weather_code,wind_speed_10m,wind_direction_10m," +
+    "wind_gusts_10m&timezone=Europe%2FParis";
+
+  try {
+    const reponse = await fetch(url);
+    if (!reponse.ok) throw new Error("Erreur météo");
+    const data = await reponse.json();
+    const m = data.current;
+
+    document.getElementById("temperature").textContent =
+      Math.round(m.temperature_2m) + " °C";
+    document.getElementById("conditions").textContent =
+      (descriptions[m.weather_code] || "Conditions météo") +
+      " • Ressenti " + Math.round(m.apparent_temperature) + " °C";
+    document.getElementById("pluie").textContent =
+      "Humidité : " + m.relative_humidity_2m +
+      " % • Pluie : " + m.precipitation + " mm";
+    document.getElementById("vent").textContent =
+      Math.round(m.wind_speed_10m) + " km/h";
+    document.getElementById("rafales").textContent =
+      "Rafales : " + Math.round(m.wind_gusts_10m) + " km/h";
+
+    const directions = [
+      "Nord","Nord-Est","Est","Sud-Est",
+      "Sud","Sud-Ouest","Ouest","Nord-Ouest"
+    ];
+    const index = Math.round(m.wind_direction_10m / 45) % 8;
+    document.getElementById("direction").textContent =
+      "Direction : " + directions[index];
+  } catch (e) {
+    document.getElementById("conditions").textContent =
+      "Météo momentanément indisponible";
+  }
+}
+chargerMeteo();
+setInterval(chargerMeteo, 15 * 60 * 1000);
+</script>
+</body>
+</html>
