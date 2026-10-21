@@ -94,11 +94,12 @@ async function loadNews(){
 
     document.getElementById("status").textContent =
       "Dernière mise à jour : "+new Date().toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
-  }catch(e){
+ }catch(e){
     document.getElementById("mainNews").innerHTML =
-      "<h1>Actualités temporairement indisponibles</h1><p>La page réessaiera automatiquement.</p>";
-    document.getElementById("status").textContent="Nouvel essai dans 5 minutes";
-  }
+      "<h1>Erreur de chargement</h1><p>" + clean(e.message) + "</p>";
+    document.getElementById("status").textContent =
+      "Erreur : " + clean(e.message);
+}
 }
 loadNews();
 setInterval(loadNews,300000);
