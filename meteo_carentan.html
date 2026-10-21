@@ -184,5 +184,51 @@ async function chargerMeteo() {
 chargerMeteo();
 setInterval(chargerMeteo, 15 * 60 * 1000);
 </script>
+  <script>
+(function afficherSaintDuJour() {
+  const saints = [
+    "Thérèse", "Anges gardiens", "Gérard",
+    "François", "Faustine", "Bruno", "Auguste",
+    "Pélagie", "Denis", "Daniel",
+    "Ghislain", "Firmin", "Géraud", "Calixte",
+    "Thérèse d'Avila", "Hedwige",
+    "Ignace", "Luc", "René", "Adeline",
+    "Céline", "Élodie", "Jean de Capistran",
+    "Florentin", "Crépin", "Dimitri", "Émeline",
+    "Simon", "Narcisse", "Bienvenue", "Quentin"
+  ];
+
+  const maintenant = new Date();
+  const jour = maintenant.getDate();
+  const mois = maintenant.getMonth();
+
+  const saintElement = document.getElementById("saint");
+  const feteElement = document.getElementById("fete");
+
+  if (!saintElement || !feteElement) return;
+
+  const calendrier = {
+    "9-21": "Céline",
+    "9-22": "Élodie",
+    "9-23": "Jean de Capistran",
+    "9-24": "Florentin",
+    "9-25": "Crépin",
+    "9-26": "Dimitri",
+    "9-27": "Émeline",
+    "9-28": "Simon",
+    "9-29": "Narcisse",
+    "9-30": "Bienvenue",
+    "9-31": "Quentin"
+  };
+
+  const cle = mois + "-" + jour;
+  const nom = calendrier[cle];
+
+  saintElement.textContent = nom || saints[jour - 1] || "Bonne fête !";
+  feteElement.textContent =
+    "Bonne fête à toutes les personnes prénommées " +
+    saintElement.textContent + " !";
+})();
+</script>
 </body>
 </html>
