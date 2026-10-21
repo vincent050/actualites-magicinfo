@@ -1,8 +1,4 @@
-s la grande zone blanche de GitHub, copie-colle tout le code ci-dessous.
-
-Ce premier fichier affiche la météo et le vent de Carentan, la date, la saint du jour et un espace réservé aux marées de Grandcamp-Maisy. Les données météo se mettent à jour automatiquement. Pour les marées, il faudra ensuite vérifier l’intégration de la source officielle.
-
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -39,18 +35,48 @@ main {
 h2 { color: #83d7ff; margin-top: 0; font-size: 2vw; }
 .big { font-size: 3vw; font-weight: bold; margin: 12px 0; }
 .info { font-size: 1.5vw; line-height: 1.7; }
+.previsions {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 15px;
+}
+.jour-meteo {
+  text-align: center;
+  background: rgba(255,255,255,0.09);
+  border-radius: 10px;
+  padding: 12px 5px;
+  line-height: 1.7;
+  min-width: 0;
+}
+.jour-nom { font-weight: bold; font-size: 1.1em; }
+.jour-icone { font-size: 2em; }
+.jour-temp { font-weight: bold; white-space: nowrap; }
+#marees {
+  background: white;
+  color: #10243b;
+  border-radius: 10px;
+  padding: 10px;
+  min-height: 300px;
+  overflow: hidden;
+}
+#marees iframe, #marees img { max-width: 100%; }
 footer {
   text-align: center;
   padding: 10px;
   color: #c7e4ff;
   font-size: 1vw;
 }
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   main { grid-template-columns: 1fr; }
   h1 { font-size: 26px; }
   #date, .info { font-size: 16px; }
   h2 { font-size: 22px; }
   .big { font-size: 32px; }
+  .previsions { gap: 5px; }
+  .jour-meteo { font-size: 12px; padding: 8px 2px; }
+  .jour-icone { font-size: 1.6em; }
+  .jour-temp { font-size: 12px; }
 }
 </style>
 </head>
@@ -62,28 +88,23 @@ footer {
 
 <main>
   <section class="panel">
-    <h2>🌤️ MÉTÉO - CARENTAN</h2>
-    <div class="big" id="temperature">-- °C</div>
-    <div class="info" id="conditions">Chargement...</div>
-    <div class="info" id="pluie"></div>
+    <h2>🌤️ MÉTÉO - CARENTAN : 5 JOURS</h2>
+    <div id="previsions" class="previsions">Chargement des prévisions...</div>
   </section>
 
   <section class="panel">
-    <h2>💨 VENT</h2>
+    <h2>💨 VENT ACTUEL</h2>
     <div class="big" id="vent">-- km/h</div>
     <div class="info" id="rafales">Rafales : -- km/h</div>
     <div class="info" id="direction">Direction : --</div>
   </section>
 
-
-<section class="panel">
-  <h2>🌊 MARÉES - GRANDCAMP-MAISY</h2>
-  <div id="marees" style="background:white; color:#10243b;
-       border-radius:10px; padding:10px; min-height:300px;">
-    <script src="https://services.data.shom.fr/hdm/vignette/grande/GRANDCAMP?locale=fr"></script>
-  </div>
-</section>
-
+  <section class="panel">
+    <h2>🌊 MARÉES - GRANDCAMP-MAISY</h2>
+    <div id="marees">
+      <script src="https://services.data.shom.fr/hdm/vignette/grande/GRANDCAMP?locale=fr"></script>
+    </div>
+  </section>
 
   <section class="panel">
     <h2>📅 SAINT DU JOUR</h2>
@@ -97,138 +118,106 @@ footer {
 </footer>
 
 <script>
-const jours = [
-"dimanche","lundi","mardi","mercredi",
-"jeudi","vendredi","samedi"
-];
-const mois = [
-"janvier","février","mars","avril","mai","juin",
-"juillet","août","septembre","octobre","novembre","décembre"
-];
+const nomsJours = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+const nomsMois = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
 
 function afficherDate() {
   const d = new Date();
   document.getElementById("date").textContent =
-    jours[d.getDay()] + " " + d.getDate() + " " +
-    mois[d.getMonth()] + " " + d.getFullYear();
+    nomsJours[d.getDay()] + " " + d.getDate() + " " +
+    nomsMois[d.getMonth()] + " " + d.getFullYear();
 }
 afficherDate();
 setInterval(afficherDate, 60000);
 
-const saints = {
-"1-1":"Marie","1-6":"Mélanie","1-17":"Roseline",
-"2-2":"Présentation du Seigneur","2-14":"Valentin",
-"3-19":"Joseph","4-1":"Hugues","5-1":"Joseph",
-"6-24":"Jean-Baptiste","7-14":"Camille",
-"8-15":"Marie","9-29":"Michel","10-20":"Adeline",
-"11-1":"Tous les saints","11-11":"Martin",
-"12-6":"Nicolas","12-25":"Noël"
-};
-const maintenant = new Date();
-const cle = (maintenant.getMonth()+1) + "-" + maintenant.getDate();
-document.getElementById("saint").textContent =
-  saints[cle] || "Saint du jour";
-document.getElementById("fete").textContent =
-  "Bonne fête à toutes les personnes concernées !";
+function afficherSaintDuJour() {
+  const saints = {
+    "1-1":"Marie","1-6":"Mélanie","1-17":"Roseline",
+    "2-2":"Présentation du Seigneur","2-14":"Valentin",
+    "3-19":"Joseph","4-1":"Hugues","5-1":"Joseph",
+    "6-24":"Jean-Baptiste","7-14":"Camille",
+    "8-15":"Marie","9-29":"Michel","10-20":"Adeline",
+    "10-21":"Céline","10-22":"Élodie","10-23":"Jean de Capistran",
+    "10-24":"Florentin","10-25":"Crépin","10-26":"Dimitri",
+    "10-27":"Émeline","10-28":"Simon","10-29":"Narcisse",
+    "10-30":"Bienvenue","10-31":"Quentin",
+    "11-1":"Tous les saints","11-11":"Martin",
+    "12-6":"Nicolas","12-25":"Noël"
+  };
+  const d = new Date();
+  const cle = (d.getMonth() + 1) + "-" + d.getDate();
+  const nom = saints[cle] || "Saint du jour";
+  document.getElementById("saint").textContent = nom;
+  document.getElementById("fete").textContent =
+    nom === "Saint du jour" ? "Calendrier du jour" :
+    "Bonne fête à toutes les personnes prénommées " + nom + " !";
+}
+afficherSaintDuJour();
 
-const descriptions = {
-0:"Ciel dégagé",1:"Principalement dégagé",2:"Partiellement nuageux",
-3:"Couvert",45:"Brouillard",48:"Brouillard givrant",
-51:"Bruine légère",53:"Bruine",55:"Bruine forte",
-61:"Pluie faible",63:"Pluie modérée",65:"Pluie forte",
-71:"Neige faible",73:"Neige modérée",75:"Neige forte",
-80:"Averses faibles",81:"Averses modérées",82:"Fortes averses",
-95:"Orage",96:"Orage avec grêle",99:"Orage fort"
-};
+function iconeMeteo(code) {
+  if (code === 0) return "☀️";
+  if ([1, 2].includes(code)) return "🌤️";
+  if (code === 3) return "☁️";
+  if ([45, 48].includes(code)) return "🌫️";
+  if ([51, 53, 55, 56, 57].includes(code)) return "🌦️";
+  if ([61, 63, 65, 66, 67, 80, 81, 82].includes(code)) return "🌧️";
+  if ([71, 73, 75, 77, 85, 86].includes(code)) return "❄️";
+  if ([95, 96, 99].includes(code)) return "⛈️";
+  return "🌡️";
+}
 
 async function chargerMeteo() {
   const url =
     "https://api.open-meteo.com/v1/forecast" +
     "?latitude=49.303&longitude=-1.247" +
-    "&current=temperature_2m,relative_humidity_2m," +
-    "apparent_temperature,is_day,precipitation," +
-    "weather_code,wind_speed_10m,wind_direction_10m," +
-    "wind_gusts_10m&timezone=Europe%2FParis";
+    "&current=temperature_2m,relative_humidity_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m,wind_direction_10m,wind_gusts_10m" +
+    "&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,wind_speed_10m_max" +
+    "&forecast_days=5&timezone=Europe%2FParis";
 
+  const zone = document.getElementById("previsions");
   try {
     const reponse = await fetch(url);
-    if (!reponse.ok) throw new Error("Erreur météo");
+    if (!reponse.ok) throw new Error("Erreur météo HTTP " + reponse.status);
     const data = await reponse.json();
-    const m = data.current;
+    const daily = data.daily;
+    const current = data.current;
 
-    document.getElementById("temperature").textContent =
-      Math.round(m.temperature_2m) + " °C";
-    document.getElementById("conditions").textContent =
-      (descriptions[m.weather_code] || "Conditions météo") +
-      " • Ressenti " + Math.round(m.apparent_temperature) + " °C";
-    document.getElementById("pluie").textContent =
-      "Humidité : " + m.relative_humidity_2m +
-      " % • Pluie : " + m.precipitation + " mm";
+    zone.innerHTML = daily.time.map((date, i) => {
+      const d = new Date(date + "T12:00:00");
+      const nomJour = i === 0 ? "Aujourd'hui" :
+        nomsJours[d.getDay()].charAt(0).toUpperCase() + nomsJours[d.getDay()].slice(1);
+      const pluie = daily.precipitation_probability_max[i];
+      const vent = daily.wind_speed_10m_max[i];
+      return `
+        <div class="jour-meteo">
+          <div class="jour-nom">${nomJour}</div>
+          <div>${d.getDate()}/${d.getMonth() + 1}</div>
+          <div class="jour-icone">${iconeMeteo(daily.weather_code[i])}</div>
+          <div class="jour-temp">${Math.round(daily.temperature_2m_max[i])}° / ${Math.round(daily.temperature_2m_min[i])}°</div>
+          <div>🌧️ ${pluie == null ? "--" : pluie + "%"}</div>
+          <div>💨 ${vent == null ? "--" : Math.round(vent) + " km/h"}</div>
+        </div>`;
+    }).join("");
+
     document.getElementById("vent").textContent =
-      Math.round(m.wind_speed_10m) + " km/h";
+      Math.round(current.wind_speed_10m) + " km/h";
     document.getElementById("rafales").textContent =
-      "Rafales : " + Math.round(m.wind_gusts_10m) + " km/h";
-
-    const directions = [
-      "Nord","Nord-Est","Est","Sud-Est",
-      "Sud","Sud-Ouest","Ouest","Nord-Ouest"
-    ];
-    const index = Math.round(m.wind_direction_10m / 45) % 8;
+      "Rafales : " + Math.round(current.wind_gusts_10m) + " km/h";
     document.getElementById("direction").textContent =
-      "Direction : " + directions[index];
-  } catch (e) {
-    document.getElementById("conditions").textContent =
-      "Météo momentanément indisponible";
+      "Direction : " + directionVent(current.wind_direction_10m);
+  } catch (erreur) {
+    zone.textContent = "Météo momentanément indisponible.";
+    console.error("Erreur météo :", erreur);
   }
 }
+
+function directionVent(degres) {
+  const directions = ["Nord","Nord-Est","Est","Sud-Est","Sud","Sud-Ouest","Ouest","Nord-Ouest"];
+  return directions[Math.round(degres / 45) % 8];
+}
+
 chargerMeteo();
 setInterval(chargerMeteo, 15 * 60 * 1000);
-</script>
-  <script>
-(function afficherSaintDuJour() {
-  const saints = [
-    "Thérèse", "Anges gardiens", "Gérard",
-    "François", "Faustine", "Bruno", "Auguste",
-    "Pélagie", "Denis", "Daniel",
-    "Ghislain", "Firmin", "Géraud", "Calixte",
-    "Thérèse d'Avila", "Hedwige",
-    "Ignace", "Luc", "René", "Adeline",
-    "Céline", "Élodie", "Jean de Capistran",
-    "Florentin", "Crépin", "Dimitri", "Émeline",
-    "Simon", "Narcisse", "Bienvenue", "Quentin"
-  ];
-
-  const maintenant = new Date();
-  const jour = maintenant.getDate();
-  const mois = maintenant.getMonth();
-
-  const saintElement = document.getElementById("saint");
-  const feteElement = document.getElementById("fete");
-
-  if (!saintElement || !feteElement) return;
-
-  const calendrier = {
-    "9-21": "Céline",
-    "9-22": "Élodie",
-    "9-23": "Jean de Capistran",
-    "9-24": "Florentin",
-    "9-25": "Crépin",
-    "9-26": "Dimitri",
-    "9-27": "Émeline",
-    "9-28": "Simon",
-    "9-29": "Narcisse",
-    "9-30": "Bienvenue",
-    "9-31": "Quentin"
-  };
-
-  const cle = mois + "-" + jour;
-  const nom = calendrier[cle];
-
-  saintElement.textContent = nom || saints[jour - 1] || "Bonne fête !";
-  feteElement.textContent =
-    "Bonne fête à toutes les personnes prénommées " +
-    saintElement.textContent + " !";
-})();
 </script>
 </body>
 </html>
