@@ -68,10 +68,6 @@ function xmlText(node, tag){
   const el = node.getElementsByTagName(tag)[0];
   return el ? (el.textContent || "").trim() : "";
 }
-
-const RSS = "https://fr.news.yahoo.com/rss/france";
-const API = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS);
-
 async function loadNews() {
   const status = document.getElementById("status");
 
