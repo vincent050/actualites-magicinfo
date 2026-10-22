@@ -48,8 +48,8 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;font-family:Arial,Helv
   <span id="status">Chargement…</span>
 </div>
 <script>
-const RSS_URL = "https://www.lemonde.fr/rss/une.xml";
-const PROXY_URL = "https://api.allorigins.win/raw?url=" + encodeURIComponent(RSS_URL);
+const RSS = "https://fr.news.yahoo.com/rss/france";
+const API = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS);
 
 function clock(){
   const d = new Date();
