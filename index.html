@@ -68,44 +68,63 @@ function xmlText(node, tag){
   const el = node.getElementsByTagName(tag)[0];
   return el ? (el.textContent || "").trim() : "";
 }
-async function loadNews(){
+
+const RSS = "https://fr.news.yahoo.com/rss/france";
+const API = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS);
+
+async function loadNews() {
   const status = document.getElementById("status");
-  try{
+
+  try {
     status.textContent = "Chargement des actualités…";
-    const response = await fetch(PROXY_URL, {cache:"no-store"});
-    if(!response.ok) throw new Error("Erreur HTTP " + response.status);
-    const xmlTextData = await response.text();
-    const doc = new DOMParser().parseFromString(xmlTextData, "text/xml");
-    if(doc.querySelector("parsererror")) throw new Error("Flux RSS illisible");
-    const entries = Array.from(doc.querySelectorAll("item"));
-    if(!entries.length) throw new Error("Aucun article dans le flux");
-    const items = entries.slice(0,7).map(item => ({
-      title: xmlText(item,"title"),
-      description: xmlText(item,"description"),
-      pubDate: xmlText(item,"pubDate"),
-      link: xmlText(item,"link")
-    }));
+
+    const response = await fetch(API, { cache: "no-store" });
+    if (!response.ok) throw new Error("Erreur HTTP " + response.status);
+
+    const data = await response.json();
+    if (data.status !== "ok" || !data.items || !data.items.length) {
+      throw new Error("Aucun article reçu");
+    }
+
+    const items = data.items.slice(0, 7);
+    const cleanText = (value) => {
+      const el = document.createElement("div");
+      el.innerHTML = value || "";
+      return (el.textContent || "").trim();
+    };
+
     const first = items[0];
+
     document.getElementById("mainNews").innerHTML =
-      "<h1>" + clean(first.title) + "</h1>" +
-      "<p>" + clean(first.description).slice(0,320) + "</p>" +
-      "<div class='meta'>Source : Le Monde • " +
-      (first.pubDate ? new Date(first.pubDate).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"}) : "") +
-      "</div>";
-    document.getElementById("newsList").innerHTML = items.slice(1).map(x =>
-      "<div class='item'><h2>" + clean(x.title) + "</h2><p>" +
-      (x.pubDate ? new Date(x.pubDate).toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"}) : "") +
-      "</p></div>").join("");
-    status.textContent = "Mis à jour à " + new Date().toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
-  }catch(e){
+      "<h1>" + cleanText(first.title) + "</h1>" +
+      "<p>" + cleanText(first.description).slice(0, 320) + "</p>" +
+      "<div class='meta'>Source : Yahoo Actualités</div>";
+
+    document.getElementById("newsList").innerHTML =
+      items.slice(1).map(item =>
+        "<div class='item'><h2>" + cleanText(item.title) +
+        "</h2><p>" + (item.pubDate || "").slice(0, 16) +
+        "</p></div>"
+      ).join("");
+
+    status.textContent = "Mis à jour à " +
+      new Date().toLocaleTimeString("fr-FR", {
+        hour: "2-digit", minute: "2-digit"
+      });
+
+  } catch (e) {
     document.getElementById("mainNews").innerHTML =
-      "<h1>Actualités temporairement indisponibles</h1><p>La page réessaiera automatiquement.</p>";
+      "<h1>Actualités temporairement indisponibles</h1>" +
+      "<p>La page réessaiera automatiquement.</p>";
+
     document.getElementById("newsList").innerHTML = "";
-    status.textContent = "Erreur : " + (e && e.message ? e.message : "chargement impossible");
+    status.textContent = "Erreur : " + e.message;
   }
 }
+
 loadNews();
-setInterval(loadNews,300000);
+setInterval(loadNews, 300000);
+
 </script>
 </body>
 </html>
