@@ -1,154 +1,186 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Actualités - Salle de pause</title>
+<title>Actualités France</title>
 <style>
 *{box-sizing:border-box}
-html,body{margin:0;width:100%;height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;background:#f4f6f8;color:#17212b}
-.header{height:13vh;background:#17324d;color:white;display:flex;align-items:center;justify-content:space-between;padding:0 3vw}
-.title{font-size:3.2vw;font-weight:700}
-.date{font-size:1.7vw}
-.content{height:83vh;padding:2.2vh 2.5vw;display:grid;grid-template-columns:2fr 1fr;gap:1.5vw}
-.main,.side{background:white;border-radius:18px;padding:1.8vw;box-shadow:0 3px 14px rgba(0,0,0,.10);min-height:0}
-.section{font-size:1.7vw;font-weight:700;margin-bottom:1.3vh;text-transform:uppercase}
-#mainNews{height:calc(100% - 4vh);display:flex;flex-direction:column;justify-content:center;overflow:hidden}
-.main h1{font-size:3vw;line-height:1.12;margin:1vh 0}
-.main p{font-size:1.55vw;line-height:1.4;color:#52606d}
-.meta{font-size:1vw;color:#7b8794;margin-top:1vh}
-.side{overflow:hidden}
-#newsList{overflow:hidden}
-.item{padding:1.25vh 0;border-bottom:1px solid #dfe4e8}
-.item:last-child{border-bottom:0}
-.item h2{font-size:1.45vw;line-height:1.18;margin:0 0 .6vh}
-.item p{font-size:1vw;color:#68737d;margin:0}
-.footer{position:absolute;bottom:0;left:0;right:0;height:4vh;background:#17324d;color:white;display:flex;align-items:center;padding:0 2.5vw;font-size:1vw}
-#status{margin-left:auto}
-@media(max-width:1000px){.title{font-size:32px}.date{font-size:18px}.content{grid-template-columns:1fr}.side{display:none}.main h1{font-size:34px}.main p{font-size:18px}}
+body{
+  margin:0;
+  background:#101722;
+  color:#fff;
+  font-family:Arial,Helvetica,sans-serif;
+}
+header{
+  background:#163b65;
+  padding:22px 30px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:4px solid #39a9ff;
+}
+h1{font-size:34px;margin:0}
+#clock{font-size:25px;text-align:right}
+main{padding:22px 30px}
+#status{font-size:18px;color:#b9d7f3;margin-bottom:15px}
+#mainNews{
+  background:#20364e;
+  border-left:8px solid #39a9ff;
+  border-radius:8px;
+  padding:22px;
+  margin-bottom:22px;
+  min-height:120px;
+}
+#mainNews .source{color:#73c5ff;font-weight:bold;font-size:18px}
+#mainNews .title{font-size:30px;font-weight:bold;margin-top:12px}
+#newsList{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px;
+}
+.article{
+  background:#1b2939;
+  border-radius:7px;
+  padding:17px 20px;
+  border-left:4px solid #71869d;
+  min-height:100px;
+}
+.article .source{
+  font-size:15px;
+  color:#73c5ff;
+  font-weight:bold;
+  margin-bottom:8px;
+}
+.article a{
+  color:#fff;
+  text-decoration:none;
+  font-size:21px;
+  font-weight:bold;
+}
+footer{
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+  padding:10px 25px;
+  background:#163b65;
+  color:#d7e9f8;
+  font-size:15px;
+}
+@media(max-width:800px){
+  h1{font-size:24px}
+  #newsList{grid-template-columns:1fr}
+  #mainNews .title{font-size:23px}
+  .article a{font-size:18px}
+  footer{position:static}
+}
 </style>
 </head>
 <body>
-<div class="header">
-  <div class="title">📰 ACTUALITÉS FRANCE</div>
-  <div class="date" id="clock"></div>
-</div>
-<div class="content">
-  <section class="main">
-    <div class="section">À la une</div>
-    <div id="mainNews"><h1>Chargement des actualités…</h1><p>Actualisation automatique.</p></div>
+<header>
+  <h1>📰 ACTUALITÉS FRANCE</h1>
+  <div id="clock">Chargement...</div>
+</header>
+
+<main>
+  <div id="status">Chargement des actualités...</div>
+  <section id="mainNews">
+    <div class="title">Bienvenue sur les actualités</div>
   </section>
-  <aside class="side">
-    <div class="section">Les dernières infos</div>
-    <div id="newsList"></div>
-  </aside>
-</div>
-<div class="footer">
-  <span>Actualités France — actualisation automatique</span>
-  <span id="status">Chargement…</span>
-</div>
+  <section id="newsList"></section>
+</main>
+
+<footer>
+  Sources : Google Actualités et Yahoo Actualités
+  — Actualisation automatique toutes les 5 minutes
+</footer>
+
 <script>
-const RSS = "https://fr.news.yahoo.com/rss/france";
-const API = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS);
+const clock = document.getElementById("clock");
+const statusBox = document.getElementById("status");
+const mainNews = document.getElementById("mainNews");
+const newsList = document.getElementById("newsList");
 
-function clock(){
-  const d = new Date();
-  document.getElementById("clock").textContent =
-    d.toLocaleDateString("fr-FR",{weekday:"long",day:"2-digit",month:"long"}) +
-    "  •  " + d.toLocaleTimeString("fr-FR",{hour:"2-digit",minute:"2-digit"});
+function updateClock(){
+  const now = new Date();
+  clock.textContent = now.toLocaleDateString("fr-FR", {
+    weekday:"long", day:"2-digit", month:"long", year:"numeric"
+  }) + " • " + now.toLocaleTimeString("fr-FR", {
+    hour:"2-digit", minute:"2-digit"
+  });
 }
-setInterval(clock,1000); clock();
+updateClock();
+setInterval(updateClock, 1000);
 
-function clean(s){
-  const t = document.createElement("textarea");
-  t.innerHTML = s || "";
-  return t.value.replace(/<[^>]*>/g,"").trim();
+function escapeHTML(value){
+  return String(value || "").replace(/[&<>"']/g, function(c){
+    return {
+      "&":"&amp;", "<":"&lt;", ">":"&gt;",
+      '"':"&quot;", "'":"&#39;"
+    }[c];
+  });
 }
-function xmlText(node, tag){
-  const el = node.getElementsByTagName(tag)[0];
-  return el ? (el.textContent || "").trim() : "";
-}
 
-function loadNews() {
-  const status = document.getElementById("status");
-  status.textContent = "Chargement des actualités…";
+async function loadNews(){
+  try{
+    const response = await fetch("./news.json?ts=" + Date.now(), {
+      cache:"no-store"
+    });
+    if(!response.ok) throw new Error("Fichier news.json introuvable");
 
-  const oldScript = document.getElementById("yahooJsonp");
-  if (oldScript) oldScript.remove();
+    const data = await response.json();
+    const items = Array.isArray(data.items) ? data.items : [];
 
-  const callbackName = "afficherActualitesYahoo";
-
-  window[callbackName] = function(data) {
-    delete window[callbackName];
-
-    const script = document.getElementById("yahooJsonp");
-    if (script) script.remove();
-
-    if (!data || data.status !== "ok" ||
-        !data.items || !data.items.length) {
-      status.textContent = "Flux d'actualités indisponible";
+    if(items.length === 0){
+      statusBox.textContent = "Aucune actualité disponible pour le moment.";
       return;
     }
 
-    const cleanText = function(value) {
-      const el = document.createElement("div");
-      el.innerHTML = value || "";
-      return (el.textContent || "").trim();
-    };
+    const validItems = items.filter(item => item.title && item.link);
 
-    const items = data.items.slice(0, 7);
-    const first = items[0];
+    if(validItems.length === 0){
+      statusBox.textContent = "Aucun titre disponible.";
+      return;
+    }
 
-    document.getElementById("mainNews").innerHTML =
-      "<h1></h1><p></p><div class='meta'>Source : Yahoo Actualités</div>";
+    mainNews.innerHTML = "";
+    const first = validItems[0];
+    const firstSource = escapeHTML(first.source);
+    const firstTitle = escapeHTML(first.title);
+    const firstLink = escapeHTML(first.link);
 
-    document.querySelector("#mainNews h1").textContent =
-      cleanText(first.title);
-    document.querySelector("#mainNews p").textContent =
-      cleanText(first.description).slice(0, 320);
+    mainNews.innerHTML =
+      '<div class="source">' + firstSource + '</div>' +
+      '<div class="title"><a style="color:white;text-decoration:none" href="' +
+      firstLink + '" target="_blank">' + firstTitle + '</a></div>';
 
-    document.getElementById("newsList").innerHTML = "";
-
-    items.slice(1).forEach(function(item) {
-      const div = document.createElement("div");
-      div.className = "item";
-
-      const h2 = document.createElement("h2");
-      h2.textContent = cleanText(item.title);
-
-      const p = document.createElement("p");
-      p.textContent = (item.pubDate || "").slice(0, 16);
-
-      div.appendChild(h2);
-      div.appendChild(p);
-      document.getElementById("newsList").appendChild(div);
+    newsList.innerHTML = "";
+    validItems.slice(1, 11).forEach(item => {
+      const article = document.createElement("article");
+      article.className = "article";
+      article.innerHTML =
+        '<div class="source">' + escapeHTML(item.source) + '</div>' +
+        '<a href="' + escapeHTML(item.link) +
+        '" target="_blank">' + escapeHTML(item.title) + '</a>';
+      newsList.appendChild(article);
     });
 
-    status.textContent = "Mis à jour à " +
-      new Date().toLocaleTimeString("fr-FR", {
-        hour: "2-digit", minute: "2-digit"
-      });
-  };
+    const updated = data.updated ? new Date(data.updated) : null;
+    statusBox.textContent = "Actualités chargées : " + validItems.length +
+      " titres" + (updated && !isNaN(updated) ?
+      " • Fichier mis à jour le " + updated.toLocaleString("fr-FR") : "");
 
-  const script = document.createElement("script");
-  script.id = "yahooJsonp";
-  script.src = "https://api.rss2json.com/v1/api.json?rss_url=" +
-    encodeURIComponent(RSS) +
-    "&callback=" + callbackName;
-
-  script.onerror = function() {
-    delete window[callbackName];
-    script.remove();
-    status.textContent = "Erreur de chargement du service d'actualités";
-  };
-
-  document.body.appendChild(script);
+  }catch(error){
+    statusBox.textContent =
+      "Actualités indisponibles. Vérifiez la publication du fichier news.json.";
+    console.error(error);
+  }
 }
 
 loadNews();
-setInterval(loadNews, 300000);
-
-
+setInterval(loadNews, 5 * 60 * 1000);
 </script>
 </body>
 </html>
