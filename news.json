@@ -1,66 +1,6 @@
 {
-  "updated": "2026-10-31T14:45:24.207912+00:00",
+  "updated": "2026-10-31T19:05:24.224759+00:00",
   "items": [
-    {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, manifestations du 31 octobre : à Paris, porte de Bagnolet, le cortège attend le départ de la manifestation ; 150 rassemblements prévus en France - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMWFvX1VodWROQl83WGY4VE1KMVBRV0JCSWViSzVUMHM3SzBGNGJhRWJUbEs0SGR6RHZGTVZxQWUyTnZXXzh0eHN6bmwwOTRJSk1KWnloR1VSRHRGaFA3RTJIMXNvNWJtaUE4QmlSV0UxaE84NUJ4d3U2b0hsMllWR2YyRzBXc1dMc0Q2SUI0QnI0Y0JQWktNTThEbHZlT2hLZWl5U19WYWEtek5PUGN3YWxwTzdPMGxQdm01dUh5dlFMdHBvSXpxLU9ZeVgyNkpfdVA5M1FRLTVuRXNfQlYySXVscGZxeHhvaEF5X3hhbVVyaERsUnlLcE0ya3BiRnZDU0daSklDNndsTHFiVFA3S3lfbER0X1BZTlI4QThaUFEwY29CekoyU3JscmV5ZHJ2a0RNd2Z1Mzg?oc=5",
-      "date": "Sat, 31 Oct 2026 14:37:32 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "\"Clermont-Ferrand est en deuil\" : trois corps découverts dans les décombres d'un immeuble après un incendie, une personne placée en garde à vue - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYjRuS0d3ZXFKZkFWWGJFOTRreTc5UFNGWXZtRVRLV1NRTEVtOTVpUEJ5ZTcwLTFzQ2lYdkNGQzZBMDEwaTJ1a2R2VWVWOFNlTGxIU0lFdW53V05RTVZBTDFMRWZnNWhHSDhQMXdJSEdQWHpuLV9aVXAyVHhTeTV5eEFCTVZkajY0ZFdxdlNvY08tMGJrS09NS1V4eWVTUlR4VXRaTk5MVkhFYV8xbXVIbWNoM0ZoeWtsRzFRbW85ZEJtTVJpNGJ3OThjRV9UWkpQSDZha0VrNnZnei1kTndKSGRvNzNUcGtOdVJsSGdVRkw5YXI1TXViVTdFMzZFb0hmZF9BcnZHdl9HbkE?oc=5",
-      "date": "Sat, 31 Oct 2026 08:38:25 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Crise politique en Pologne : la police bloque l'accès au Tribunal constitutionnel - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWZkSHN3dk1CTkkyUzJUV1lyQ0M3V09kdXB4cF9XVjlScmJiaVVJVWFZbGFMMkNmYkE2LWNIWHFWTUlnSmxOcWh6a0xHYWZnU0s1QkIzZG53cWdFQi1jQUQ1QmJZaXZ2aXlXUGdibGluQ2M1VV84RkJINWg0aWY0TEFLa3QyU1hCa1RfeTJWVUtoVzNELTl3Y2dZbHJncmRBOWFIQUFKV0V1c3NfcVY4T19Pdw?oc=5",
-      "date": "Sat, 31 Oct 2026 10:28:54 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "A Trappes, l’« espoir d’un réveil » des Français, alors que l’arrivée de l’extrême droite au pouvoir est dans toutes les têtes - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRi12NmNxLWg0RU43VXAxdG9CdkV6YlYyaWltWTd5Wk1LR1NvZ2c1M0I0dTVYUE5IdW4zMmdfT0Y4MDRJd3h6dXFWLUItUHB2SmE1bnZoenJSMmVOTEtqS3RSSjQ4Vm5fREVHZVQ4MzM5UlZ0SWZwWHFiNzVuUEwwNFplaWhRS21sUGt3djI1NDVrc29aN0JxS0NhMXlQLTVWVlJTQURLVm9ld3dBSU9oYVY4LVg2b3VrVFBQQThzQTFIcWNHbjNPVHlWTFAzUlB3dWhKYUF5Z09QZUdfLWlEZHlxUllnU1dyamRoWlNGUFIzelJLenp0dWdpeWF0ZUgzanVjVzNQQjdtYlFBZWxsdlRLTzBhT0RNRE10ag?oc=5",
-      "date": "Sat, 31 Oct 2026 04:00:40 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Manifestation du 31 octobre à Paris : plus de 40 stations de métro et RER fermées - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQaTg4WFl3dlY5MXZqYUw2aktMRUw5SlRUaE9pYURqWUsxeFRoRmxYMjNVSTg5b2FDS0hXdk1fNU1QR0FNZ0FEamVOaHF3ekY4VFZ2dFprWG03blpMeDNEY2VPUEk5V05EZWdERGxsa1FuREU2VDd6TU9GVVRmUDdRRUg0cm5sNGZxWGpxX0NwVDAzVHJLd2dGQUZhd2ZwRXJ4YllzZXBEUmRvaEt4d3R3VmJIbFhCQ1RhZFlKNnByNldaYjdaRE4xbk1ocGhscmlIMXYxay1WUXdxTWtQTDFhOXgtTG5md0NvS0FOSlpqaVYzQWRrR29OZHBwSzhrVmFFNTlKRlBkZTZtMlEyX2tHUUUzRldzM28?oc=5",
-      "date": "Sat, 31 Oct 2026 05:00:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Midterms 2026 : la virilité, argument de la dernière chance pour un Donald Trump en difficulté, par Amy Greene - Libération",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQdlRmbmVScGdrQ0xqNU4tTTBSUVUyY2ZwOTY2T1EwaVlFUEU4R3NVUnpoT0p6UnBHSnRkcXBNbzlHa0lxd3d4Nk5RbzJlWTMwWGJicWpwVHVUZGdIM05iOVZULW5sa2hHM1Jfa3VHY0pwQzU4LUZmVENSM2Q4LUdsMGxRU18welZYQlVPV3FjSWYwM1kwRnRqZDVkRF8ydWZHNUlkb0VwNnVLb0hNUklORmNuSkE2N3JhM3ZqVTVrbTNuYkNXeEJTYVVWZHN1ZnBNTHd4TW1WLVRSSDc4SWpVQ2FVVURxR00zWjhoMmdmTHlJSnotQnNqdnBhdFRCN1UtUno1Q1dOWndkb1hab2NlZ1BsTDlXZlFjM01zYlZhcw?oc=5",
-      "date": "Fri, 30 Oct 2026 18:08:25 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Des « méthodes d’intimidation » : un rassemblement d’ultradroite devant une mairie d’arrondissement à Lyon signalé à la justice - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQOUF5MWtRQlc0LWNlRDdSVlpjRmtyT3NjODlJWFE0RG1DRVhxMlNxelRjLS1RMm1GNEtSQzB2X0tJSEkxSW96ZkVYS1QyMmp0ZVFhOFdQT3lDNzBTbzduN1Rld2ZPY0ZUYlNOcTFvMnFUdDF1bVN4MkpIakpRRFZFV0pFUXQ1R3d4UmRtdDR0VXgwRmYxUEpqd3lOejMxbFVEbGxrNlZPOE56RUdKbXpiTWh0Q2VJTGhDYWxaSlpXLUVoZFlVUXNXMV85TDVQSFR3d1dSdlVaZVhaWjhDN213MUFNWVZnWFR5ejBicEJNSFE4ZnlqU1VoeDlxNmlJYXRVMW5HZTBnWUkybFJhUXZOSnZ6X0NEaC1HVnlfZlI3aWw?oc=5",
-      "date": "Sat, 31 Oct 2026 12:24:09 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Mobilisations sociales : Emmanuel Macron et Sébastien Lecornu cherchent des leviers face à la sédimentation des colères - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUzg5WG9SMUpxT2JMQnl1UEE2cl9nTEczSndUNUNlWWExSlZvYWdZazdWcUc0WkV5aUxsWjE5VFZSdUZsWU1PYnlFbzNtV3lMNHYzX1ZjaVRRM3Q5S2taQzBCNFgzT0xScFVSQ0Vfd0FlYkhudGRPak1nbHUwNjItQUZZdmpSU05YaVc5V1J3TU50SFpObE1zZ3J5MlMyQVJUZjNPQmZEenZYZnBTU2J4RVNGS1RoRi0zUzF6ZXBNelFYaS1XZFBLWmtpRXExck5idERDWjJUT20wNkMtS05nU2ZKTGVOMkNmSmYyYUVSNmhzaW94YjJiYzVZcTZ0MDg?oc=5",
-      "date": "Sat, 31 Oct 2026 10:00:16 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "EN DIRECT Manifestation du 31 octobre à Montpellier : interdiction confirmée par le tribunal, départ du cortège à 14 h… suivez la situation - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPaHktMWFtWXN5YnJ1MzhKcUZrNXdmb3poTTVRLU1ieXpMZVg0LUI4NHZqRms5aDVndmhWbjNrWHU5c19DNG9VVGRYXzRqSHpzVDRsb2FadW4wMWRJOEkzbHlVRmlpeE05RFF1eTJWSmhMa1JNVmFwM25yLUdJV184N2lGV3Q3THhRamVmWlh5LWNQWnVFWEhUUDQ2X1NscGJIVmpRYmhHdGI1Y1ZNMjRHNnNfaUlscnpmUHFYTGVaUTNLVGR6ODNiell1SXJIbGw4Z182ZjRvZTdDY21jWjE2YWNldVEwMWxYME5nSE9hdk4tamdIdm5pdk1CVEhsSVNfVWVVX2VrS3lnT0ZXUlpRWk1jbGpKMWV4dU0zR2xB?oc=5",
-      "date": "Sat, 31 Oct 2026 12:25:31 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Une partie des 14 singes volés dans un zoo près de Pau ont été retrouvés - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTHhvTUFPcEcwZTRid0J3d1ZaSDU3c1FOc3dxa3VmR2dnMmF5VUlEbWZMUDNwbzZiRVVPWm1SeGI3RUFRT1ZnYTBQT3VrRm9uRjlmRHBkQmg4RGZ6R2NzN1RmOHhhMVdCWUxnb2M2c2xlS3U4c2RXQXdKdXZzREliQkhucnhucllUcURWQnpsaWhpeFllVWpfa3hoeV9PTmNkanlGLVpvc0QzMzA3Rnd1UXdDZk16NHRKNDJyMWZEdlBScEZCSllNMA?oc=5",
-      "date": "Sat, 31 Oct 2026 10:44:14 GMT"
-    },
     {
       "source": "Yahoo Actualites",
       "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
