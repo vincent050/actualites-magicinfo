@@ -7,94 +7,96 @@
 <title>Actualités Manche et France</title>
 
 <style>
-* {box-sizing:border-box}
+* { box-sizing: border-box; }
 
 body {
- margin:0;
- background:#101820;
- color:white;
- font-family:Arial,sans-serif;
+ margin: 0;
+ background: #101820;
+ color: white;
+ font-family: Arial, sans-serif;
 }
 
 header {
- background:#173b62;
- padding:22px;
- text-align:center;
- font-size:42px;
- font-weight:bold;
- letter-spacing:2px;
+ background: #173b62;
+ padding: 22px;
+ text-align: center;
+ font-size: 42px;
+ font-weight: bold;
+ letter-spacing: 2px;
 }
 
 main {
- display:grid;
- grid-template-columns:1fr 1fr;
- gap:20px;
- padding:20px;
+ display: grid;
+ grid-template-columns: 1fr 1fr;
+ gap: 20px;
+ padding: 20px;
 }
 
 section {
- background:#1c2935;
- border-radius:15px;
- padding:16px;
- min-height:75vh;
- overflow:hidden;
+ background: #1c2935;
+ border-radius: 15px;
+ padding: 16px;
+ min-height: 75vh;
+ overflow: hidden;
 }
 
 h2 {
- text-align:center;
- font-size:36px;
- padding:18px 8px;
- margin:0 0 18px;
- border-radius:10px;
+ text-align: center;
+ font-size: 36px;
+ padding: 18px 8px;
+ margin: 0 0 18px;
+ border-radius: 10px;
 }
 
-.manche h2 {background:#176b9c}
-.france h2 {background:#a43b35}
+.manche h2 { background: #176b9c; }
+.france h2 { background: #a43b35; }
 
 .article {
- background:#293b4b;
- border-left:9px solid #45a8df;
- border-radius:9px;
- padding:22px;
- margin-bottom:16px;
- min-height:145px;
- display:flex;
- flex-direction:column;
- justify-content:center;
+ background: #293b4b;
+ border-left: 9px solid #45a8df;
+ border-radius: 9px;
+ padding: 22px;
+ margin-bottom: 16px;
+ min-height: 145px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
 }
 
-.france .article {border-color:#e66a61}
+.france .article {
+ border-color: #e66a61;
+}
 
 .article a {
- color:white;
- font-size:27px;
- font-weight:bold;
- text-decoration:none;
- line-height:1.25;
+ color: white;
+ font-size: 27px;
+ font-weight: bold;
+ text-decoration: none;
+ line-height: 1.25;
 }
 
 .article small {
- color:#c5d3df;
- font-size:16px;
- margin-top:12px;
+ color: #c5d3df;
+ font-size: 16px;
+ margin-top: 12px;
 }
 
 #status {
- text-align:center;
- padding:12px;
- font-size:17px;
- color:#c5d3df;
+ text-align: center;
+ padding: 12px;
+ font-size: 17px;
+ color: #c5d3df;
 }
 
 footer {
- background:#173b62;
- padding:17px;
- text-align:center;
- font-size:22px;
+ background: #173b62;
+ padding: 17px;
+ text-align: center;
+ font-size: 22px;
 }
 
 @media(max-width:700px) {
- main {grid-template-columns:1fr}
+ main { grid-template-columns: 1fr; }
 }
 </style>
 </head>
@@ -106,14 +108,14 @@ footer {
 <main>
 
 <section class="manche">
-<h2>📍 MANCHE / NORMANDIE</h2>
+<h2>📍 ACTUALITÉS MANCHE</h2>
 <div id="manche">
 <div class="article">Chargement des actualités...</div>
 </div>
 </section>
 
 <section class="france">
-<h2>🇫🇷 FRANCE</h2>
+<h2>🇫🇷 ACTUALITÉS FRANCE</h2>
 <div id="france">
 <div class="article">Chargement des actualités...</div>
 </div>
@@ -127,87 +129,157 @@ footer {
 
 <script>
 
+// SOURCES DES ACTUALITÉS
+
 const flux = {
- manche:"https://www.franceinfo.fr/france/normandie.rss",
- france:"https://www.franceinfo.fr/titres.rss"
+ manche: "https://www.franceinfo.fr/france/normandie.rss",
+ france: "https://www.franceinfo.fr/titres.rss"
 };
 
-async function charger(url,zone) {
+// LECTURE DES FLUX RSS
+
+async function charger(url, zone) {
+
  try {
-  const reponse=await fetch(url,{cache:"no-store"});
 
-  if(!reponse.ok) throw new Error("Erreur HTTP");
+  const reponse = await fetch(url, {
+   cache: "no-store"
+  });
 
-  const texte=await reponse.text();
+  if (!reponse.ok) {
+   throw new Error("Erreur HTTP");
+  }
 
-  const xml=new DOMParser().parseFromString(
-   texte,"text/xml"
+  const texte = await reponse.text();
+
+  const xml = new DOMParser().parseFromString(
+   texte,
+   "application/xml"
   );
 
-  if(xml.querySelector("parsererror"))
-   throw new Error("RSS invalide");
+  if (xml.querySelector("parsererror")) {
+   throw new Error("Flux XML invalide");
+  }
 
-  const articles=[
-   ...xml.querySelectorAll("item")
-  ].slice(0,4);
+  const elements = Array.from(
+   xml.getElementsByTagName("*")
+  );
 
-  if(!articles.length)
+  const articles = elements.filter(el => {
+   const nom = el.localName.toLowerCase();
+   return nom === "item" || nom === "entry";
+  }).slice(0, 4);
+
+  if (articles.length === 0) {
    throw new Error("Aucun article");
+  }
 
-  const conteneur=document.getElementById(zone);
-  conteneur.innerHTML="";
+  const conteneur = document.getElementById(zone);
+  conteneur.innerHTML = "";
 
-  articles.forEach(item=>{
-   const titre=item.querySelector("title")?.textContent || "Actualité";
-   const lien=item.querySelector("link")?.textContent.trim() || "#";
-   const date=item.querySelector("pubDate")?.textContent || "";
+  articles.forEach(item => {
 
-   const bloc=document.createElement("div");
-   bloc.className="article";
+   const champs = Array.from(
+    item.getElementsByTagName("*")
+   );
 
-   const a=document.createElement("a");
-   a.textContent=titre;
-   a.href=lien;
-   a.target="_blank";
+   function chercher(nom) {
+    return champs.find(el =>
+     el.localName.toLowerCase() === nom
+    );
+   }
 
-   const small=document.createElement("small");
-   small.textContent=date
-    ? new Date(date).toLocaleDateString("fr-FR")
-    : "Actualité récente";
+   const titreElement = chercher("title");
 
-   bloc.append(a,small);
+   const titre = titreElement
+    ? titreElement.textContent.trim()
+    : "";
+
+   if (!titre) return;
+
+   const lienElement = chercher("link");
+
+   let lien = "#";
+
+   if (lienElement) {
+    lien = lienElement.getAttribute("href")
+     || lienElement.textContent.trim()
+     || "#";
+   }
+
+   const dateElement =
+    chercher("pubdate") ||
+    chercher("published") ||
+    chercher("updated");
+
+   const date = dateElement
+    ? dateElement.textContent.trim()
+    : "";
+
+   const bloc = document.createElement("div");
+   bloc.className = "article";
+
+   const a = document.createElement("a");
+   a.textContent = titre;
+
+   if (/^https?:\/\//i.test(lien)) {
+    a.href = lien;
+    a.target = "_blank";
+   }
+
+   const small = document.createElement("small");
+
+   if (date && !isNaN(Date.parse(date))) {
+    small.textContent = new Date(date).toLocaleDateString("fr-FR");
+   } else {
+    small.textContent = "Actualité récente";
+   }
+
+   bloc.appendChild(a);
+   bloc.appendChild(small);
+
    conteneur.appendChild(bloc);
+
   });
+
+  if (conteneur.children.length === 0) {
+   throw new Error("Titres introuvables");
+  }
 
   return true;
 
- } catch(e) {
+ } catch (erreur) {
 
-  document.getElementById(zone).innerHTML=
-   '<div class="article">Actualités temporairement indisponibles.</div>';
+  document.getElementById(zone).innerHTML =
+   '<div class="article">Flux indisponible. Vérification nécessaire.</div>';
 
   return false;
+
  }
+
 }
+
+// ACTUALISATION
 
 async function actualiser() {
 
- const resultats=await Promise.all([
-  charger(flux.manche,"manche"),
-  charger(flux.france,"france")
+ const resultats = await Promise.all([
+  charger(flux.manche, "manche"),
+  charger(flux.france, "france")
  ]);
 
- document.getElementById("status").textContent=
-  "Manche / Normandie : "+
-  (resultats[0]?"OK":"indisponible")+
-  " • France : "+
-  (resultats[1]?"OK":"indisponible")+
-  " • Mise à jour toutes les 15 minutes";
+ document.getElementById("status").textContent =
+  "Manche / Normandie : " +
+  (resultats[0] ? "OK" : "indisponible") +
+  " • France : " +
+  (resultats[1] ? "OK" : "indisponible") +
+  " • Actualisation toutes les 15 minutes";
+
 }
 
 actualiser();
 
-setInterval(actualiser,15*60*1000);
+setInterval(actualiser, 15 * 60 * 1000);
 
 </script>
 
