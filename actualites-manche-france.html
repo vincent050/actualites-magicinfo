@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Actualités Manche et France</title>
+<style>
+* {box-sizing:border-box}
+body {
+ margin:0;
+ background:#101820;
+ color:white;
+ font-family:Arial,sans-serif;
+}
+header {
+ background:#173b62;
+ padding:20px;
+ text-align:center;
+ font-size:38px;
+ font-weight:bold;
+}
+main {
+ display:grid;
+ grid-template-columns:1fr 1fr;
+ gap:20px;
+ padding:20px;
+}
+section {
+ background:#1c2935;
+ border-radius:15px;
+ padding:15px;
+ min-height:75vh;
+}
+h2 {
+ text-align:center;
+ font-size:36px;
+ padding:15px;
+ margin:0 0 15px;
+ border-radius:10px;
+}
+.manche h2 {background:#176b9c}
+.france h2 {background:#a43b35}
+.article {
+ background:#293b4b;
+ border-left:9px solid #45a8df;
+ border-radius:9px;
+ padding:20px;
+ margin-bottom:15px;
+ min-height:145px;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+}
+.france .article {border-color:#e66a61}
+.article a {
+ color:white;
+ font-size:27px;
+ font-weight:bold;
+ text-decoration:none;
+ line-height:1.2;
+}
+.article small {
+ color:#c5d3df;
+ font-size:16px;
+ margin-top:12px;
+}
+#status {
+ text-align:center;
+ padding:12px;
+ font-size:17px;
+}
+footer {
+ background:#173b62;
+ padding:15px;
+ text-align:center;
+ font-size:22px;
+}
+</style>
+</head>
+<body>
+
+<header>LES ACTUALITÉS</header>
+
+<main>
+<section class="manche">
+<h2>📍 ACTUALITÉS MANCHE</h2>
+<div id="manche">
+<div class="article">Chargement des actualités...</div>
+</div>
+</section>
+
+<section class="france">
+<h2>🇫🇷 ACTUALITÉS FRANCE</h2>
+<div id="france">
+<div class="article">Chargement des actualités...</div>
+</div>
+</section>
+</main>
+
+<div id="status">Actualisation des informations...</div>
+<footer>MANCHE • NORMANDIE • FRANCE</footer>
+
+<script>
+const flux = {
+ manche:"https://france3-regions.franceinfo.fr/normandie/manche/rss",
+ france:"https://www.franceinfo.fr/titres.rss"
+};
+
+async function charger(url, zone) {
+ try {
+  const reponse=await fetch(url,{cache:"no-store"});
+  if(!reponse.ok) throw new Error("Erreur HTTP");
+  const texte=await reponse.text();
+  const xml=new DOMParser().parseFromString(texte,"text/xml");
+  if(xml.querySelector("parsererror")) throw new Error("RSS invalide");
+
+  const articles=[...xml.querySelectorAll("item")].slice(0,4);
+  if(!articles.length) throw new Error("Aucun article");
+
+  const conteneur=document.getElementById(zone);
+  conteneur.innerHTML="";
+
+  articles.forEach(item=>{
+   const titre=item.querySelector("title")?.textContent || "Actualité";
+   const lien=item.querySelector("link")?.textContent.trim() || "#";
+   const date=item.querySelector("pubDate")?.textContent || "";
+
+   const bloc=document.createElement("div");
+   bloc.className="article";
+
+   const a=document.createElement("a");
+   a.textContent=titre;
+   a.href=lien;
+   a.target="_blank";
+
+   const small=document.createElement("small");
+   small.textContent=date ?
+    new Date(date).toLocaleDateString("fr-FR") :
+    "Actualité récente";
+
+   bloc.append(a,small);
+   conteneur.appendChild(bloc);
+  });
+  return true;
+ } catch(e) {
+  document.getElementById(zone).innerHTML=
+   '<div class="article">Flux temporairement indisponible. Vérification nécessaire.</div>';
+  return false;
+ }
+}
+
+async function actualiser() {
+ const resultats=await Promise.all([
+  charger(flux.manche,"manche"),
+  charger(flux.france,"france")
+ ]);
+
+ document.getElementById("status").textContent=
+  "Manche : "+(resultats[0]?"OK":"indisponible")+
+  " • France : "+(resultats[1]?"OK":"indisponible")+
+  " • Actualisation toutes les 15 minutes";
+}
+
+actualiser();
+setInterval(actualiser,900000);
+</script>
+</body>
+</html>
