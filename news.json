@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-03T21:01:39.785134+00:00",
-  "manche": [
+  "updated": "2026-11-03T22:13:42.434717+00:00",
+  "items": [
     {
-      "titre": "Football. Régional 3 : Au Val de Saire, \"les vents sont contraires en ce moment\"",
-      "lien": "https://actu.fr/sports/football-regional-3-au-val-de-saire-les-vents-sont-contraires-en-ce-moment_65010945.html",
-      "date": "Tue, 03 Nov 2026 21:28:30 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, midterms 2026 : du Texas à la Californie, suivez les élections de mi-mandat en direct - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSll6RW5SU1lfR1FNZkVEX1Bzczh2Q001c1BJQXFwQXZVamJkRno4R1Zpcmc2Y1JJM1ByVjhGQ1B4Y0hqOGRsTEM0ZjVYR2xnVnZLZTVTVGxldm13bE90MFcySkFTVWhiU0RyMGVWODlOOGN3VjBwX2xseUwxV3h4TEx5NHVaZ0xpZVdMRzJ5c2NzQ2NQZlVTLUtSc3V4R2NocWF6TXZMUHhxUEtFYzA3cklTUkFTX3luZmxxR1RYZ1JSd18zZTl5Z21PeTZNQVhmS3NFSUVHekNma2lOMS11NjVkczVCRU5pT0xRc3llYmVRaXdGMVE?oc=5",
+      "date": "Tue, 03 Nov 2026 21:03:30 GMT"
     },
     {
-      "titre": "Le projet Aval du futur d’Orano sera facilité par le gouvernement qui veut « lever les derniers obstacles »",
-      "lien": "https://actu.fr/normandie/la-hague_50041/relance-du-nucleaire-comment-le-gouvernement-francais-va-booster-le-mega-projet-aval-du-futur-dorano_64962861.html",
-      "date": "Mon, 26 Oct 2026 06:29:00 +0100"
+      "source": "Google Actualites",
+      "title": "Grève généralisée ce jeudi 5 novembre : la carte des manifestations partout en France - La République des Pyrénées",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQ2pvTmlVY2dXV2pSUnFnOEZ5X3p2WElnWXJ5VnlBMGlMa0ZOYVN2SGtpZ3lnVzFtdkZnc2xoaGJBWVcwT0IwRHo2aFVKMUhZaFdxYWplZE5iV0JHcWZqRndsWFVCZG5HREE0QnBORW5SZ3RuaTNHZ243cXh4UXRySF8yLWJ4aXNEZUxTWXh1VlN2dGc0LUloZzNJbGJPYUFqWGJZdzZYcVBRc2FITnQwQnBhUk13ZHJ5dWZFZXJhVEpxYktXMVBIY3R4dmRpSDVZd3ByaE45eHg2Qm9Ibzg0aVdrYzVLWmVCeUhJX0dFeGRCeG8tb2c4c1BSNA?oc=5",
+      "date": "Tue, 03 Nov 2026 14:17:46 GMT"
     },
     {
-      "titre": "De 13 à 22 euros la journée : un centre de loisirs pour enfants ouvre ce mercredi dans le Cotentin",
-      "lien": "https://actu.fr/normandie/digosville_50162/de-13-a-22-euros-la-journee-un-centre-de-loisirs-pour-enfants-ouvre-ce-mercredi-dans-le-cotentin_65010303.html",
-      "date": "Tue, 03 Nov 2026 20:06:02 +0100"
+      "source": "Google Actualites",
+      "title": "« Le racisme ne naît pas de nulle part » : Les écologistes ont déposé une proposition de loi visant à interdire la théorie du grand remplacement - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPdDl2VnVnWV9vQ3F5aEFHZlB4eUQ5Ymk1S1c4T3pqV1RCdzg3VDBvZGpsUXVVLU1jVWp5WEpUcjBkRGhzeGVtdWF2d29ick05ZUNFbzF5V3VCYk9yRFFuNHlpNnFwR0ZJdW9kVDE1SjJvRG5qVG1PZlNmTEpaeFBIcFNpU1V5cEZ1Nm5PclhXbUdZcG9pLW40RGtBRlFoWmlWYWRPalZGUXJuMFRwQ0dvMHNGNnAtUUJVZ2lGWUFSYW93dnE2VTJSNGZhMUJhU1lwZVp6RzJWaUtTYVhLZEVSZ0pvV3RGQXNqd2NZSldVY19EU21pTkhMRVBSRG16ajAwMDc4R1pMWDlTS2pZNGNweGZSY3Q?oc=5",
+      "date": "Mon, 02 Nov 2026 16:58:51 GMT"
     },
     {
-      "titre": "Au moins deux voitures impliquées dans un accident, circulation très compliquée entre Brix et Saint-Martin-le-Gréard",
-      "lien": "https://actu.fr/normandie/saint-martin-le-greard_50519/au-moins-deux-voitures-impliquees-dans-un-accident-circulation-tres-compliquee-entre-brix-et-saint-martin-le-greard_65010740.html",
-      "date": "Tue, 03 Nov 2026 19:28:55 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "\"Manque d'anticipation\", \"participation de l'ultragauche\", regrets sur \"les blessures graves\"… Trois déclarations à retenir de l'audition de Laurent Nuñez devant la commission d'enquête sur les violences du 17 octobre",
-      "lien": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/manque-d-anticipation-participation-de-l-ultragauche-regrets-sur-les-blessures-graves-trois-declarations-a-retenir-de-l-audition-de-laurent-nunez-devant-la-commission-d-enquete-sur-les-violences-du-17-octobre_8266397.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 03 Nov 2026 20:56:51 +0100"
+      "source": "Google Actualites",
+      "title": "«C'est à l'Arcom d'apprécier si les principes sont respectés» : la mise au point de la ministre Catherine Pégard après des attaques visant CNEWS - CNews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzg2bWhVcVExWFB5R0RuQTQtX0ZOREQyTVpRdjl6bTY3eTJjMGNjNkhnSGdvQ2pxbWNvNk91cG1WWldQemIwT1Z1eG5Hb0N2LW03cmE3TXA3Y2l4SEtTZ1ZYakRfbFh6MkNGb0RxQm5GY1lUU2dLaUMxVTV6NEVleWNkV2twNE5BQVZFMTZFN0JlZTRkNXhDVjZ5NGhwWE0wcXlwcE5QSS1qcTFZb3lfZFZocHZ0S0HSAbwBQVVfeXFMUHp2VmEtc21teF8tV3FoY1hMSVBOWElhUVNVYjVXMzVzSTRUTkh5RFlzX2d4XzlGMW1pTUZIai1SZEd4aXZzX1pIdGFKQVhsWVNfZ0YzVXMtVHJrMF9rX3J0WmVQb3Jsc1ZGRFRydFdPRXd0WHptRUxRUTBzaU1IZlVtYmJnTWgwV3oxaS1NWGRfZnd3Tm1lN1Bob0ZLRlRwOE5adTI3b3otRG9SX1Axbm9RNFVTMW9SR24yOFM?oc=5",
+      "date": "Tue, 03 Nov 2026 15:56:45 GMT"
     },
     {
-      "titre": "Alaska, Maine, Texas... Sept Etats où les résultats des midterms vont être particulièrement scrutés",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/carte-alaska-maine-texas-sept-etats-ou-les-resultats-des-midterms-vont-etre-particulierement-scrutes_8263649.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 03 Nov 2026 05:59:07 +0100"
+      "source": "Google Actualites",
+      "title": "Trump annonce mettre fin à une aide annuelle de 3,8 milliards de dollars à la sécurité d'Israël - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLVQtMUVfaHA1Nlg0UlRySEdvQ2tFNjFZSHJYSHJRcDRoOS1NX2JlSmdQUURZRVpMQmZyYkc4VlhCSm9nMTJsQXF1UXZDSXhzenRUZmpheG9sd2c0bnJGVFRQTS1GaWRNSVk2SWJaM0NIMUkwdG8wWG9PZjlvQTBCWFlKM0NZWkhId1BlNG9zMjRGeEphQVdpdXRkaDZsTmx0RFU0V05kdW43Zkx6MkhBRklHeUVKeFdnbVl5Zkk1UTY2NDN1MHNMVWlmY2wzMXZ3Nl9kdXU2RnhOYU0?oc=5",
+      "date": "Tue, 03 Nov 2026 14:41:23 GMT"
     },
     {
-      "titre": "Ligue des champions : le PSG mène déjà 4-0, tout reste à faire pour Lille à la pause... Suivez avec nous les matchs du soir",
-      "lien": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 03 Nov 2026 20:59:14 +0100"
+      "source": "Google Actualites",
+      "title": "Glucksmann glisse dans les sondages, le duel Le Pen - Mélenchon toujours plus plausible - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkxTSFFBZ3ltNTBlYjBvcm5GT3c0cmVBdkprcWluXzdFSkNoUks0N29JR2dTSlRfa3dfME5IUEx4NnRwVldVdS0xUVFTaHY2bjdoemFMNXV5OUJnUEhlVHVrMUV5XzNNVno1OEV1eHBsUDlEVzNrcXhnSjQtbDMzRDZPdDhYeVJKdmFmMm5MN3RUMkFrSWJnWWV5d3NtbS1MTDNzOEhlSXpRSUNnY1B2UF9BN1BoaDJ3STVjWUJXejdoYzZ5d3RqUEU5NUJtN2hHeklHbjJTR2w?oc=5",
+      "date": "Tue, 03 Nov 2026 19:42:00 GMT"
     },
     {
-      "titre": "Peut-on \"supprimer CNews\" ? On répond à quatre questions sur la fermeture de la chaîne, réclamée par plus de 700 000 personnes dans une pétition",
-      "lien": "https://www.franceinfo.fr/economie/medias/quatre-questions-sur-la-fermeture-de-la-chaine-cnews-reclamee-par-plus-de-700-000-personnes-dans-une-petition_8265569.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 03 Nov 2026 18:45:57 +0100"
+      "source": "Google Actualites",
+      "title": "Blocus lycéens, Gifi en redressement judiciaire, élections aux États-Unis : les infos à retenir ce mardi - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaldnX0k0TUlmcXZoUFlLYUpkRXRUbk5vLWtsT3l4c2o4LUJCeTVISHVVRXVmMXcwVl9JMHZndjg4Rk4zanNZNS0ya2p6QjVzUW9nX19fdXFyNjNXZWpPWllmcFA4OFJYNFpxbnhMQmlUS2x1X1ZveDE2V2JYZmwwalVBZUpGNWdrU0VRcVB1bVNwa0JXM0h1VFdJRTFfSUMyNHNQaDVoUDYzRnAwak5DZTh5M3hxbDBObF9VRU0xdG84ZllPUUY5TGFvYVBRZ242Qm9PS3pEVEU3OE9MbDBEODk5TmlCUWNqSThQTXFwekdqUzIwU1pNLWlsSDF0N3JJT0dZWnlR?oc=5",
+      "date": "Tue, 03 Nov 2026 10:55:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Agression à l’école Clément-Roassal à Nice : la mère de famille a tenté de s’évader lors d’une perquisition - Nice-Matin",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHRLQmw5VGpqaVVyUktINUpQSzR3S2xGTzhJZUZHNDBCazh3bUhPcDE5Y0x1SnIwTFVtZGlWZk0wM1plczhlWnpGaXpKMEw2NFo0dE1DWm5KVXFJa1I3Sko2bHM5SGRDZTJ0YVNFQnhCeXNzeFZva2VEVUpmdWQ3UGJtWkVxYWdTQS1yX1dLbVZOSFlXcjBCaVBHMGgzaFhhQ09rLVdVNUloYjE5bC0xUUJLN0tFUVhBNTJWQkVkN0JYVENMTXZyeFNtMlJ3RTlsZUJOc3JpR3BZR1BCV3JYaVRzTUZWbUha?oc=5",
+      "date": "Tue, 03 Nov 2026 15:52:19 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Le gouvernement lance une campagne d’information sur l’infertilité - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNl9kbDJBSFpiVDlJbW56aUVnQnZyWTFUamxpbWkwNDVwb1diRElpVnpzbmdIeUdzNG9sMndyNzlvbGpBSS1aaEltV0JoSlZLWmVkTlVlUXJHbjRWSkh2UXFQZWJtRmNlQS1jUkdURDBlT3IxTUF3Y2U3QnVyLUpKdXVZSlZIZ3F4Z2ZsN0xxOTdXS3RqZlpmdHE4M1V4aEFYdEhRY0VranMxaTdCZnAxR1pDNURzYlBmSzlfZzVqckg5dUZRYlZYY1RXOWM?oc=5",
+      "date": "Tue, 03 Nov 2026 15:51:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "REPLAY. Affaire de la petite inconnue de l'A10 : les témoignages des enfants du couple d'accusés, et frères et sœurs d'Inass, se feront à huis clos - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOVlBVlhoT0pJRUpGak0yUGRBb2JGUFhlcmhUYnhuRnJkRTJfcjRuQkpPVW5vYUN3NzFXR3hSdWVtWl8zOHVLN251bzRQdkh5M2Vaeks3dDNKbFVhbzloZ3QxTnUycUNSdjZ1dEpSN211c3JfckNQNzd4aVd1dXlZem9WRmVOWjhBaGhsVXJRUC1oeWtTOHVJWXUyWHRCTi1LRnUwTUVScWpBNmRINHZ4LVFJa0VNYkpIWW5YNG5TSnJkRzlyVWdGWklFX1ktQmpiNWdzZm8xSkpSb01HSTlPc0VEbTlubUJJbWZTcV9WWGd3SEVGOHVQMU0tSUE2LUJwaXFhYWczNWNId0ZFYnpWeklLNVlUaExZWml2eXdQUE5jdDdk?oc=5",
+      "date": "Tue, 03 Nov 2026 18:41:21 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
