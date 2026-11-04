@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-04T07:52:45.287493+00:00",
-  "manche": [
+  "updated": "2026-11-04T09:38:32.862202+00:00",
+  "items": [
     {
-      "titre": "Football. Le nouveau monde de Côte des Isles \"B\" en Départemental 1",
-      "lien": "https://actu.fr/sports/football-le-nouveau-monde-de-cote-des-isles-b-en-departemental-1_65010959.html",
-      "date": "Wed, 04 Nov 2026 08:46:01 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, midterms 2026 : après la déroute du camp Trump, suivez les derniers résultats en cartes et le décryptage en direct de notre éditorialiste, Gilles Paris - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNVWQtTXZHY0VpaTd6aEd1LXgyUUhsdGhhRjhoSTgxZ2h2T3RVckNmNW5vN3R4VFFZZG96aTYxelNrQ1VtdkJpTk5pNGdPVU1QZlFGV3VBZ3ZndER1c0JQQ01ENFZfQU8zZjdpaG5zX21rZ3AxM29GQzVNdXBBY3pDY21ET0o5WVpiRGNxWFRHWHlIVU9IUUF6QW9waVBGOFBXYWhXQTltN0JaaHVMaldNM2kzS3dRUWxRODl4Mm9tMTIxMVVqRzRKTkkzd1lPTmp6bXJVTlhIbU9WbmtMRjhIaG9oZzI4REdSMU9Dd2lXVEF6OE9CS3pHWHQ2NzRYcU9odEphOXlRcURWV096ckRqMXJ1NlhCXzFXYUEzTFNVSGFhekJRd0NBWjJpN0tsbHZLMjVtRVl1UFZTcDdzcTV3TlNJZmxMY05FY2tQQ1lnTWk?oc=5",
+      "date": "Wed, 04 Nov 2026 09:01:40 GMT"
     },
     {
-      "titre": "À Cherbourg, l'enseigne Courir s'installe dans une boutique beaucoup plus grande",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/a-cherbourg-lenseigne-courir-sinstalle-dans-une-boutique-beaucoup-plus-grande_65011088.html",
-      "date": "Wed, 04 Nov 2026 08:30:01 +0100"
+      "source": "Google Actualites",
+      "title": "Grève et manifestation du 5 novembre à Paris : transports, écoles, parcours, le point - Sortir à Paris",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3dvVGQyS21henhmZWRud0d2Q0gwUEY3RkFpcnMtNW90SDBnX3VKZFdfcEgyak1vRjVPZXJ2ODAwdWNYUklWcV94NjFRTDhzeWV6bi1wLUhwTVNkN0pDdVBCbndZWDV5anUtZC1vRy02Qld0Ml90bFRQMDNQMkJBaHA5cl81N3puR2tIVW4xb0NjOWtEbldlMW90QVRkTmVPd0tNZDBQMVNlNU04T1I0UmE3d2FnNjlZZG1MWnRKd3M3NEZyNEY5SmM2amc3Q2hRXzA5UkRibWJNYVph?oc=5",
+      "date": "Wed, 04 Nov 2026 07:11:21 GMT"
     },
     {
-      "titre": "Le parking de la gare de Cherbourg s’offre un premier petit lifting, en attendant mieux",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/le-parking-de-la-gare-de-cherbourg-soffre-un-premier-petit-lifting-en-attendant-mieux_65010594.html",
-      "date": "Wed, 04 Nov 2026 08:16:01 +0100"
+      "source": "Google Actualites",
+      "title": "\"C'est le seul enfant que j'ai vu dans cet état\" : au procès des parents de \"la petite martyre de l'A10\", le calvaire d'Inass Touloub se dessine - franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPSWozNHk5Ti1VU2FwYzNTaHNLTWxtVGpobEdBRUlWQmZiZ245dTR2YUoyYkJENWVKX0N1Zm1TYTZjVFJwZ0s3VVdxQXpMdm9aZ2oxZk9kM19MV2hGS3NwNXRobmdkVEI2WWlRaF9adHVwYjJGVFZ2cUZjczltTHBpbl9CTHVxNU1hSFczZDE4TU9mdEFpX0VKTGlpMWpmckluT1dEZnlrYXNLTFVydTA2RFpmVEJBdllUSU8yYm5yLXZhcDJtb2trSTQtMm1vVG8zbi1FcV9KVWx0LS1kQ0FaWkRYczFqR2pDcml3LXUyampNeVVsYlQwREJPUk11Z3FVRGkwdEhpemFSWWVXVUQ1WmJpNS1IcENodGVCTVNQVUtyMmJEbm42RGNHbmlnb0E?oc=5",
+      "date": "Wed, 04 Nov 2026 05:03:30 GMT"
     },
     {
-      "titre": "Trail : la Barjo veut organiser le championnat de France !",
-      "lien": "https://actu.fr/normandie/la-hague_50041/trail-la-barjo-veut-organiser-le-championnat-de-france_65011069.html",
-      "date": "Wed, 04 Nov 2026 08:02:02 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "\"Je serai monsieur Veto\" : que pourra faire Donald Trump jusqu'à la fin de son mandat face à un Congrès démocrate, après la défaite des républicains aux midterms ?",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/je-serai-monsieur-veto-que-pourra-faire-donald-trump-jusqu-a-la-fin-de-son-mandat-face-a-un-congres-cdemocrate-apres-la-defaite-des-republicains-aux-midterms_8265881.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 08:19:27 +0100"
+      "source": "Google Actualites",
+      "title": "Comment le succès en librairie de Jordan Bardella a fini par se retourner contre lui - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ1gzc0M5Mzk0OXh6VzU1ZXFmQkJXTXpQekN0REc0QXktcWVtWEtTSm5NZDRsX29OcE9ITnlzdHNUbGZGdXZnWXA0bVpFTjNsZlpqQ0FEQXMtVzVQa01qZUIwYVZNcktLZVhzNWFsc0pURFEyT0hXbHJXZGVyd3AxWmJzOWtINHR2QlUxYmNaamNMQk9uR0JiWEhYNENBSUEyR0dvYUlvcTlIT1BSbk5Fc25MZGo2eTJGRnVaS3FCVXB4ckg3SzlDMGZxYTFMNGFINEdZSk1MTmthaHRP?oc=5",
+      "date": "Wed, 04 Nov 2026 05:30:02 GMT"
     },
     {
-      "titre": "Midterms 2026 : Abdul e-Sayed, issu de l'aile gauche du Parti démocrate, remporte un poste de sénateur au Michigan",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/direct-midterms-2026-nette-avance-democrate-au-congres-des-premieres-victoires-historiques-suivez-les-resultats-des-elections-de-mi-mandat_8265776.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 08:45:28 +0100"
+      "source": "Google Actualites",
+      "title": "« On demande l’aménagement des épreuves du bac » : comment les lycéens vont rattraper les heures perdues des blocages ? - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTzcwNzFfVUtNc19hRHJsR3N4MHZaYVNGeVNPcVpKMTVnN2tLZDd4U2RYY3lCQmcwZVJtR3NueTdXRk5rSTdjblJnTk5uQjVfaVlfZUxIWmw1eFVPRUd6eFYwZ2NodDVyTzVyRjZBa09KaEpESlU3V244ZXJGeGt4UTgyTHRTZFBUNW9ZLUtOSVVYMEU4d0NUM3I2UnpKQTZTNXJKY29HWHh2bHcwLTJaMkNxajJRREV0VXJQWXQ4OU10VDBfcHdaVjFTOUJkalV1ZnhwYkhDNW5LamhkUHkyTkJhcmFPN1NHaFpySEtNU1pPWmZNOEk4TUtrWTZFdE9GTlg4Z0dZRmVOUXVDTDctZXpvWQ?oc=5",
+      "date": "Wed, 04 Nov 2026 05:30:50 GMT"
     },
     {
-      "titre": "Victoire démocrate au Sénat, Donald Trump promet d'accepter les résultats... Les premiers enseignements des midterms 2026 aux Etats-Unis",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/victoire-democrate-au-senat-donald-trump-promet-d-accepter-les-resultats-les-premiers-enseignements-des-midterms-2026-aux-etats-unis_8266958.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 08:04:55 +0100"
+      "source": "Google Actualites",
+      "title": "INFO BFMTV. Attentat raciste de Trappes: le suspect, Kévin Tessier, a fait une tentative de suicide en détention - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUVJRVkVXOU9JTVNxUTZpbnVwS0VJZEw3dmIzMHc4cjBUZ1pwX3AxSVJwQ0ZvTjNxUHBESmpISWJlczZMaTN5TExqM0dGYjRJMlFqWF9LWWRtY3hCUDNVLUtjemtubTh6TUtiQWJ1ejBrVjdsUWtpdUpGSVZqbGt3eEQ0QWJVSFdKMFlHOHVjb0dVRVduUVQ3N2l5RlJCQU5HNEl5a3REZlA2SVFRc3YtYlczYUEta1F1b3ZZNDhocXkxMDUxcEo3QjY4SERVaHVaV01fa2J2Mi1HQllIaENfLXZxSTF3VnQweUFIT2NvNVptb0syWUlvVVN3?oc=5",
+      "date": "Tue, 03 Nov 2026 20:33:48 GMT"
     },
     {
-      "titre": "RESULTATS. Les démocrates s'emparent de la Chambre des représentants et du Sénat, infligeant une cuisante défaite aux républicains de Donald Trump aux midterms 2026... Suivez le décompte des sièges au Congrès",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/resultats-midterms-2026-donald-trump-va-t-il-perdre-le-controle-du-senat-ou-de-la-chambre-des-representants-suivez-le-decompte-des-sieges-en-direct_8237248.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 07:38:12 +0100"
+      "source": "Google Actualites",
+      "title": "Météo : un épisode méditerranéen va toucher le Languedoc, 150 à 200 mm de pluie annoncés ce mercredi et jeudi - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNWxrY1RxWG5qZ1dpMDVhem8yV3BjRENaMjhxczFxNGEzMHRlX1kwTVZLQlVtQVpoLTVZbTd6UmV2QkJXbFlxNmZqZFlGcHRNQ05LVkp4Z0RwWkJhc1c1YTYxS1YtZ1d1YVZPSTZyTGI4SlFuZ2N5cHd6Wk1UQnFNSHl2aTluMzZNU1FxSWp0cmVVTEVTLUxDTEdVajRURlVUTENCNnh4TFo2MlZQbURkQzlMdVhwUnJHNmJQQ1hCZjE1Rl9IbElFZ1YzeFJyMk9ZdEpPOUdEY18wQmNuRFoxbzNLeng2aGNDQ0pv?oc=5",
+      "date": "Wed, 04 Nov 2026 05:37:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "L'édito de Pascal Praud : «Toute la presse parle de CNEWS, mais où sont les journalistes pour parler des catholiques lynchés à Rouen ?» - CNews",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3JhQWxpSWRSZ0l4T1lfcVF1ajc0Tmt1aGRtWUs2OFQ4YW5PLVZXbkJOOXBKa2UxaVRVTnY0cjZuWkt2bFU3R0JfbjY1aVY4R3BTQmp3R2dJVWdvMlBPN2dhNF9xYjFIUTVITWp0ZTdlM3R4ZG9BTElYRGpqeHpFN3RPX3NleldpM0h2UHBZdXJYWWNVb3BVTWVmaVg1SFd0OXZMNlZJV2RKdW1qNXfSAbMBQVVfeXFMTXd3aXJ3Y3lnQkE3eXE4WG4tbUtEekpDdUQ0UWVQOHBjd1V2OWpGbFh3SnN3UnBKUGFSMU80V3Qtb0VaSlc4RmJYOEVNdWJjVnpRMGJZSDBoLU1hU1haREc5SHJWRlA0VlUyQ1dnSmZxcmdSZ21wN2s3NktYRDhwSkFoVGVjdi1YaUdrYlpJd3lwU2ZuNUxrQWJ2aWpHTUJSa3pDRnN2bVczRzRpcVN5M1Z3WEU?oc=5",
+      "date": "Wed, 04 Nov 2026 08:04:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Présidentielle 2027 - Sondage : Le Pen domine toujours, Mélenchon progresse encore, Glucksmann peine à décoller - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcndpTFVPWUFmZ2V2a1dYLWVjb2FJMjA4czRqTzFhazhGc1l4WmZyalNmMXc1WFZwZ3hEMzJQZC00YU5PbkVELTl1bTVuQkphNFFoMjBaemJhUnM3aEswelRvUzU3Z19rNW00ZDN1UDFSbU1veXZJb2dGakpFRTU4OTVkZFJISndjd2RGeFdjMmJndkU4Y0JwU01RSDNleGlHaTNXOVkxOWhLY3VwQnhGc1BuREtOdjhSWUNUaHRMVU5XSzI3M1ZpTjg2RW9vMXlNOGZXdEFIMDhJTFhZemZqZVNBanBrTXNCRmc?oc=5",
+      "date": "Tue, 03 Nov 2026 18:43:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Agression dans une maternelle de Nice : la mère en situation irrégulière et assignée à résidence, affirme Laurent Nuñez - TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZndCMVpqaWVxa016c21FdzQ3LXNWaWxYVUV1NWhCOVFOd09qZ3VOZzhYa1o2Q3QxYURXb2xIZjlCRGtoTFZneXF4cm0yZmlXelVGUTNvZlNDVTRDM1JhR1FUR25lRDNJWGJVZHVwZ3RSamllNEsxWEI3OXFoLUcyUks1dmtjQ2hDOUpDRkR4Y09keHAyRDZlWUhsU0JjVFNQY1JfcnJYRU1EOVozZThnc1FTTWtyN25qdGs1b05tUzZESzBqMHJITWRWQjNvR2U5eTFJOE9fUzZYM0tDcU1rWHNQTQ?oc=5",
+      "date": "Tue, 03 Nov 2026 14:51:25 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
