@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-04T21:54:16.977463+00:00",
-  "manche": [
+  "updated": "2026-11-04T22:53:25.968737+00:00",
+  "items": [
     {
-      "titre": "Un nouveau-né et un petit garçon blessés lors d’un accident de la route dans la Manche",
-      "lien": "https://actu.fr/normandie/remilly-les-marais_50431/un-nouveau-ne-et-un-petit-garcon-blesses-lors-dun-accident-de-la-route-dans-la-manche_65016479.html",
-      "date": "Wed, 04 Nov 2026 21:46:02 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, midterms 2026 : pour son premier discours après une défaite historique, Trump parle de sa salle de bal à la Maison Blanche - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQVm1yWWJsN3doUnFQempUR0gwR0N0aWtVdGNOcmotRFgtcHZ4RmJfdHNvLXkxUDJ5MXBxVzNtZVQ0SG5CU25oRnV3d29KMkgtUnZiUVMzeU9uR3VTSTJjUC01dzRUcDJ1Wm1wZVdTTkpMcWY5b0RDTEhaNGNsZ285YUVIUUozQUNFWE5CdnplT0dvOTNGQ1d6SGc0RlYtaUJoTDFhdEFSazczdU1KU2V6Y0RVRk9fa1FQRDgzcXcyWi1ENk9sWXp3VE8xam1ma1paN2NFaFBkMXdtQlhXbVVaQnpjRXpjcW5PQ2lEZEhsMnk4T2pnTmdrdy1HMlEwWWhsWG41N0cyZTd1dUMwazZrOFMyX3Q2dXV4Mk9reURndUlvTnlUNy1qZW1vT19fVWl3b0p5RW9R?oc=5",
+      "date": "Wed, 04 Nov 2026 21:29:18 GMT"
     },
     {
-      "titre": "\"C'est pas comme ça que ça se passe à Cherbourg-en-Cotentin\" : la municipalité alpaguée par Julien Courbet",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cest-pas-comme-ca-que-ca-se-passe-a-cherbourg-en-cotentin-la-municipalite-alpaguee-par-julien-courbet_65016474.html",
-      "date": "Wed, 04 Nov 2026 21:15:00 +0100"
+      "source": "Google Actualites",
+      "title": "RATP et SNCF. Grève du 5 novembre à Paris : RER, métros, trams… voici les perturbations attendues dans les transports - Actu.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV1I1SDdkNEw3bzRXUnMtQkxWdThPbXdadFFiZzBkWWY4a1JFT1ZsdVdzandqYUJrXzJBNlgyV3I5a01sMnBhQlNhU3hmRDd5YzRkQnppRmRzYzlYZWNUcER6WXBvQzhHMmZ6eWFucnpSNHZ2SmVnRVYyamQ4YjNtRmctTjR0VW1tMmxrMVQxZE4xSnlJdnotQXlqaWVnTFNVemhsNVZIMDdrM1hEZWRYTHNlUkVXcUdfU1FIcTR6eXFfc1ZMQURndV9mbjYybXV0dHJvN0tiM2FrTHBtYnBtV0E0Zw?oc=5",
+      "date": "Wed, 04 Nov 2026 18:51:52 GMT"
     },
     {
-      "titre": "Manifestations dans la Manche : ce que le préfet interdit avant la journée de grève du 5 novembre",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/manifestations-dans-la-manche-ce-que-le-prefet-interdit-avant-la-journee-de-greve-du-5-novembre_65016433.html",
-      "date": "Wed, 04 Nov 2026 20:20:01 +0100"
+      "source": "Google Actualites",
+      "title": "Au procès de la martyre de l'A10, l’accusée s’effondre devant les photos de l’autopsie - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNelY3NlZkdTBsaGFQUV82Rm14V3Zmd1huaVdmN2FSUi1tcW5uNzhkeGhCOGQwV2tYOU5LTGFYZzNtUGJPNWFINGkyaFYtNnZPRTBBbXdJRDNHRjBoR253RjVqMXRqeFI1bWNFckdiQUp0Y2hCSG4yMEstQ0ExUGZFMlJQaEdkZ0prSVpGZlhiYWZSSDB5S3BZWGxUeE1FSXNqUU8yQXZ6MnhaLWlLWGpjN05VQ1Y0X3BpLWxZWENwaHpQUGFmV1E?oc=5",
+      "date": "Wed, 04 Nov 2026 17:17:00 GMT"
     },
     {
-      "titre": "Grève du 5 novembre contre la vie chère : à quoi s’attendre à Cherbourg et dans la Manche ?",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/greve-du-5-novembre-contre-la-vie-chere-a-quoi-sattendre-a-cherbourg-et-dans-la-manche_65016403.html",
-      "date": "Wed, 04 Nov 2026 19:51:58 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "Mobilisation du 5 novembre : la justice valide l'interdiction de la manifestation parisienne entre Bastille et Concorde",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/le-ministere-de-l-education-nationale-estime-a-17-54-le-taux-de-grevistes-dans-le-premier-degre-public-pour-la-mobilisation-du-5-novembre_8267255.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 22:04:08 +0100"
+      "source": "Google Actualites",
+      "title": "« Une récession n’est pas à exclure » : la rapporteure générale du budget au Sénat tire à boulets rouges sur le scénario du gouvernement - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQmNJOFRpRHVoQlRDT2tnVWs5Ump2UkRSNFNNRjlXcEV5M0F6am9ScTcyX00yX3V1SXhWNThHS09oaEFHVWQtQUtJYWhtUVRHc0c2R3BQRG5KOU9aWjd3azN4YUtwTEkwZ0Y5d2xkTW1SM25ycmhNTEZWN01mY3I2WWo1SGVzaUlZZjhycGJfZzFGdzF0SDRxXzBid2RrbHBXdkw3cGRoSHoxOUFTcV9tNVJpMTNUbXJnX1F2SWVHLV9wUEtVdi1YYUZMZC1JUXZMUWFVczQzUE9TcVJaLWxpMkFDRjNkMmE3bnYwSkRSekRvTnFQaGVpVjBFcGg0dVktemxKZElZc0M?oc=5",
+      "date": "Wed, 04 Nov 2026 11:47:50 GMT"
     },
     {
-      "titre": "\"Il était le meilleur choix possible\" : dans la ville du nouveau sénateur du Texas James Talarico, les démocrates espèrent que les midterms \"apporteront du changement\"",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 20:02:10 +0100"
+      "source": "Google Actualites",
+      "title": "\"Tous des salopards\", \"on les aura\" : des messages privés d'Emmanuel Macron dévoilés dans un livre choc de Françoise Degois - RTL",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPejd1enlnV2hoZjUyRlA3RWlhNGtjV1I2WmVMN0JwNmhWOXFSSWpQUnV5SEtQbk5yOXBkUEtPZUFVQXZqNEt1RzJBeWxjWTJrWlROeXp5a0FzMGc2YVAtNlRSekR2c2p3VGh1N0dkb3hPZC1vcEZmSTZpZG1FNnlkeW5XcVhXQ01wbGZjVjd5VjNxTG9FeGNuOFFzOTBRWXJneW9nYUFrY0lLVHRZbmd6Ymx4dnVsOXlLTmFXcnpxcU0weTVqYlJ3UV9BeWZLamptdWc?oc=5",
+      "date": "Wed, 04 Nov 2026 15:57:03 GMT"
     },
     {
-      "titre": "Etat, épargnants, banques… A qui profite (vraiment) le relèvement du plafond du livret A ?",
-      "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/etat-epargnants-banques-a-qui-profite-vraiment-le-relevement-du-plafond-du-livret-a_8267444.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 15:53:35 +0100"
+      "source": "Google Actualites",
+      "title": "Le discours de la victoire de Jon Ossoff - Le Grand Continent",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMFRlNzk4N0VYQ3l6Rkd4eHN6aUxnNXpKMzM2V2Z0WG5pVWlGY0lESDh2TVlycS1EcXZKOWdoWFVfYmtZakFOYXU3bWZqUlpwWE5jWmFxc25xMjBRbzVLeUk3TWdrS3NIZ05Mb0lhd1lqLUwyUHhQMjFEUjNCamROX05aU3B0eWVrTUpJ?oc=5",
+      "date": "Wed, 04 Nov 2026 17:18:29 GMT"
     },
     {
-      "titre": "Clous, aiguilles et épingles dans des bonbons d'Halloween... Des enquêtes ouvertes dans plusieurs pays d'Europe centrale, une fillette blessée en Autriche",
-      "lien": "https://www.franceinfo.fr/decouverte/halloween/clous-aiguilles-et-epingles-dans-des-bonbons-d-halloween-des-enquetes-ouvertes-dans-plusieurs-pays-d-europe-centrale-une-fillette-blessee-en-autriche_8268428.html#xtor=RSS-3-[lestitres]",
-      "date": "Wed, 04 Nov 2026 21:46:29 +0100"
+      "source": "Google Actualites",
+      "title": "À la veille de la grève du 5 novembre, des Français de plus en plus gagnés par un sentiment de déclassement - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdHB3U2pSWnk2RVpzUERENTI5NnpXR1JobnAzVU9jc21IMndhSFo1R0d3ZFh5bHlIbVNiWk8ydmhBei1vWlFYS0VtdlV5UFo5NUFkYjBkdzZjU3lnNzIwUWc4dGdRM2p4VnlfRUN2UXBudy1scXF4Mjd6RFFMYzB5U21IRjB0U1lxTk9TWk5ISUlpclE0aGlFMHh4Q093OGdIYk1JSHczdjFqZktibjY0RHNVWEhscUVwaUtPaktocl9FMHlYb2xEVzBMM3BYdVhCZG1xR2hNZHZudzkwWDdDX3NNakRuMWQ5NkQwbTJ4Qzdta2wxZEtQZzJCdDRuTUpqUFNYR0JOMDRzMGwxVlJhMktzSFJtQQ?oc=5",
+      "date": "Wed, 04 Nov 2026 17:47:16 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Manifestation du 5 novembre à Toulouse : les syndicats bravent l'interdiction de la préfecture et maintiennent leur parcours dans le centre-ville - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPRUVuaGxDLUhwaVpTdTlrY1dyZ194NnZodEIxVURacGdvNEpQeDB3cUl6Z0VMeENhUG5RNkMzZzhuYW92Z2RiSlVHY1dxR29Za29xckcwakQyOExVcUtYNFVVbjlFdVdkZTRRejZTUklSc3FodGlNUXJwQ0FSTFpodDgtMWZkeHhYazdLLVJLc2l4MWU4RnU2RFhzbkMtVGtjaDExWjNmMHdYN1dPbkNRQXp3LUk1UTYwTElDeDh2dm0wZllaM0p2OVM5NEo4N3FpTzZ2RHN6ZS0xeTFvOVZjelhPdndnX192RlktZk1pbGQ0TXdTWnFkTER4Z05SdExFMEZsaTVodVhBeHhpM2F2VXQ3a3J5RUVrSG84?oc=5",
+      "date": "Wed, 04 Nov 2026 09:42:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Épisode méditerranéen : la neige est tombée dans la région et les précipitations vont s’intensifier… à quoi s’attendre dans le Gard et l’Hérault - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPMDFGWDRFZzh3cUJSYjBTbFo4bTZTRHdJOEI3S1JWUWVHdjRWbTZaaURpUmg1bUp0akVSRlplN1ZYZE5wRFpRaFJpS3poWHk4Z01WSUxGX3pLNmY1X0lzcDl0alRVUFBKMlkzUDdSZ3F0MExkS2d5Z3RjMzZIckxJNmh4TTgyaGRzWl9KcUxfZWlUTXlub2wwamJBd0pfTXo2STZiUHQtNFVSYWpTM0JvVWZWODRqdEptSjRUdXl6NFpvSkNZNXFBaUZkcHYzb0hjc1VvdUc3SUJVcTFIRFhxRWg1MXdDVjBFOEloVVAwM3BCWHE0RjJ2RXZfdHVhLUk5WXpSYkZ5QzN0ZXM1XzMtc0o3TlRhUQ?oc=5",
+      "date": "Wed, 04 Nov 2026 17:06:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Accusée de relayer des propos racistes, BFMTV reste dans une zone de turbulences - Boursorama",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYnJBZnFIam95UG5RM2VyLWZ4eDQtcTVqM09kd05NaVBNS3dMM0o1MkRkMlhHZDJWRGhMR25FWDJDM1ZOWUlEUGQtOGg5S2Nja1AwZFd2dWxMM2NFZ0pyZzZEaE1ORERWTXRmMDhqZUxYMEpwWDRLUzcxUEFSQUdIRzJkRFVXbmlRNGlGemZZaUJlc0F5dnVCMWhJS1RlY2VKZ2hncUpGY0ZnWnowZW5oSXhTQ19MNEdJSXRiUWtCTE9NeW9WZ3JZWlJPd3FhQlhLYkIzM196WFVOakFWQUg3czFkWTJ0cmVzZmhEcWdkMjY4UkZ1V2t2dHNzank4TUxq0gGGAkFVX3lxTE1nREhyQS12cVBFeW1UUnhuVDNBU2Rrd0FObk9qbHhVN0plN1pWWXhWYnlnX1RhY3VHUlNyeGRyX00xOG15Z19haVI0ZnU5RFp4WW9uU2trbFZXVm9VeW9Sa1BzaHlKWlN4YlNBNWJfa21VTDl2MmRXc3FTekVuUVpGdXR2TmRwMHZfekNYQnp4LWRvQkpwNmtKektoc2Fpd3pudlpmd0pUZ2pXLTFhVXMxV2xCc3dmTGNQT1YwTTFlWTlSWHlNRmhFUDZwdXNIRVZDb1lhTzNxeTJhdTUtcng1S1Jpcm9mRWRycm9yWU5tcExPTTdNNWhSbzJpdVZfejN4YTJjbWc?oc=5",
+      "date": "Wed, 04 Nov 2026 16:35:00 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
