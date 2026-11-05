@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-05T10:54:13.931990+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-05T17:40:10.650660+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, grève du 5 novembre : suivez la journée de mobilisation avec nos journalistes - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRjRWSlctUlZNUFpKUFNTMzluUnYtOUxfQ0lsWTkySzloWHVTSEdTcDVxZHJLVWZoOVMxQjdFNVNoTE9vcUFFTWxQZU15ZkpQMzlfRWFKYmRXZHc1eU81U0l3T1lVdGpGcHEzSXpnZ0dlU0lFdDlWRW1uR2FnUUJJZVhhZHJqWjFMOFZmVEw2U292aVdzWEJaRVhuQlpKeWVYamVHMmhZU3NscC1uaDdEcF9Ca3FFWXpMZmZ6cnI1T1BLazE3SzI0TzBROTRQVVFDVWlCOXZieTNjdm9RajhoZ28ya2VjaHZWSkVXRWlUMDhGOEItY3NuU2xRSDRFS1JtWWhWcnhtS1BMYTYzejg1ZkpUZ2NhRmZXQmU0MTk4QTdVTjZWNU1B?oc=5",
-      "date": "Thu, 05 Nov 2026 10:40:39 GMT"
+      "titre": "« Le rideau tombe » : un spectacle annulé au théâtre de Cherbourg à cause de la grève",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/le-rideau-tombe-un-spectacle-annule-au-theatre-de-cherbourg-a-cause-de-la-greve_65022203.html",
+      "date": "Thu, 05 Nov 2026 18:22:44 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Face à un Donald Trump affaibli par sa défaite aux midterms, les pays asiatiques ont désormais une fenêtre pour jouer la résistance aux droits de douane américains - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxONGgxSDZ0TkZVd3hlYWZRVFFOZVY5R3lwdXNEQUVvRWE5UWozOWxCQUdLSVdic1EzQ2U4R1JFZ2JpcTQ5dDZPc1ZQc2pRSTg4OThfMjkza2hKVWNRbWk2RzlPbnlwX2lxT3oxUFhJcEt5ai01OGh3bmgzckZ2Y1p3cmxmaTBiRFZZYnBjWUx2SE84YkpWMy01ZmViQW9RdUhYLWRXTUltczA5SUZPdzMxWHdzN0ZEclpLa2hyblViT1VtUHNPUm5RbnkzTjVFei02M2lFSTNWbmpCWERleksyZ2FzWXRFOWM1emw5TXlUR1JGQ0tqeEFUd2pXS1VCdlVIOGZMWnQ0cUlwRXJKLTFlZ1NsWVFNQzFyY3VMd3VGSHZ0NHd3TU9ObXoxWFNiZnViM0JnaU93dW9HbW94OWl0Uk5BSFRYZjFmQlBaMGhiSXVaRDN4TFpTRzM3STZITnVTeFE?oc=5",
-      "date": "Thu, 05 Nov 2026 05:05:04 GMT"
+      "titre": "Neuf mois après sa réouverture, ce cabinet vétérinaire du Cotentin comprenant deux cliniques ferme déjà",
+      "lien": "https://actu.fr/normandie/les-pieux_50402/9-mois-apres-sa-reouverture-ce-cabinet-veterinaire-du-cotentin-comprenant-deux-cliniques-ferme-deja_65022377.html",
+      "date": "Thu, 05 Nov 2026 17:47:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Un avion de ligne A320 reliant Dublin à Rome a été dérouté vers la base aérienne d'Evreux à la suite d'une alerte à la bombe, annonce Matignon - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeGEyeU1XMGl1QmwxUU14Q05CTEowdTljMWtOS1dIcGVEakdCeGxyemZNRHBDX3A0N0dzcnpCYlpxT2NqVnFpazJlLWpKWTRKcUxDajU0WVU3UmpvbHZISXNuZjJyNG9Zbk5jVkNTbVBSOEtzUVNnUkJXTFBTWERuOERTQk1abXpPQVppTV9vUl9CYzlGMFZUSXhIS29LaG5uRjRfUURNWEZta2FqQlNtTzFfLVlCblVlazNieG9pMFRtSXJyV3lONG1KaXhLT2xieUhzSDV3SUNTYjBvUFkyY2J4SE5CWjVOTE9NSVdpWVg5bF9kaG9lR1M4S2NtRl9Ma1RnTUhfX2x2YjA4QkdhVGgtMG5DZw?oc=5",
-      "date": "Thu, 05 Nov 2026 09:05:53 GMT"
+      "titre": "Pauline, 15 ans, a de nouveau disparu : un nouvel appel à témoins lancé, ses parents redoutent le pire",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/pauline-15-ans-a-de-nouveau-disparu-un-nouvel-appel-a-temoins-lance-ses-parents-redoutent-le-pire_65021494.html",
+      "date": "Thu, 05 Nov 2026 16:39:18 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Le budget 2027 a été unanimement rejeté par les députés en première lecture : un gouvernement sans voix - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPYXNEWm9iTTdranFCZzdLNVIwTDEwOEg0YzJRelJEbmNKdVR3aFoyRjFNTGo1cWwyV1ZwWGgyb0xjM2hwZGdEbm90SFNvRkVTZnQ2TTMydklrd0lYQ00wZ0ljTWNWXzRXNTVTUXVQeWpzYUJsNXUwMWlKWkFuM0JXLWFRcVBtZEtuQzNPaFBHLTBhVHloVDl1NjhPOEsyOV9mNUoycWNHNUh4MVRPUnJObUxIcDFvVTdqRTVSZEJ0NHctdFBpblpvWVc2SklxQVI4Y2xoQ05CRF94TFRNZnphQk5KMHk5QlZXMGoxME1fTXA4eVB2cUhIQ2htWlQzcEgwdEo1LTdmMllnbkV5QkRHNVBaWnN1clZLVDFodUdUOFhRazhaTDc0Qg?oc=5",
-      "date": "Thu, 05 Nov 2026 06:09:58 GMT"
+      "titre": "D'un camion aménagé à un showroom de 100 m² : Joris Le Blond raconte son parcours d'entrepreneur",
+      "lien": "https://actu.fr/normandie/sideville_50575/dun-camion-amenage-a-un-showroom-de-100-m%c2%b2-joris-le-blond-raconte-son-parcours-dentrepreneur_65020442.html",
+      "date": "Thu, 05 Nov 2026 16:30:02 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Mobilisation du 5 novembre : Sébastien Lecornu annonce la réunion lundi à Matignon d'une \"conférence sociale\" avec les syndicats et le patronat",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-greve-du-5-novembre-plus-de-250-actions-annoncees-dans-toute-la-france-selon-une-carte-de-la-ggt_8268827.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 05 Nov 2026 17:31:49 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "«On les aura»: des messages privés de Macron dévoilés dans un livre - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQlJzamxDenhwRDhhWUUzTHE2LXFUZmc2eUx4TU9oVGlVamVKRTdSQTBteG5YLVlzWG1qZUhVRWY3VmVabXd2Q3ZhSEdsSnk1SXZkUHRCYXcwY2xrRl9GWEJSYlZBdTQ4LWVNeHMyVjZWNncycG1VWjc1QWpKRktrQXBiU3h6NzJmemJWX2JDOEZ1dXZySHdoXzdySkZwRmMtRjhyYkhBUmZ2bkZGN05PSmN1TTk0dnU1?oc=5",
-      "date": "Wed, 04 Nov 2026 22:10:16 GMT"
+      "titre": "\"Je m'en contrefous\" : Raphaël Glucksmann répond aux militants hostiles à sa présence, avant d'être contraint de quitter le cortège",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/je-m-en-contrefous-raphael-glucksmann-repond-aux-militants-hostiles-a-sa-presence-sur-la-manifestation-parisienne_8269385.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 05 Nov 2026 16:03:27 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Mediapart refusé d'accès à la soirée de lancement du livre de Bardella - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1qczBjNnJjVVU5eVNlNGUxLUtTNnZDM1ZzdjcxWF9PaEhxY2ZfeVhLMmFLZXB5M0czMmhYODZpZjRXcnRINEtNbXJNd3ppcFMzWG1hWUR3X1BMTkZaSENnZkNkTUptWlYwRS04eU0zSi1hSkZNLU0wWW1tdUFjc2s5MGZvUUE3V2lqbW1MMDFkMl9KWTMtTW9WaDJocDk5MzROQmtBZEtBMnpJVGpUVDBieWlTdHRlS1JRTWlwX3prcWFzREZ1T094eVM?oc=5",
-      "date": "Thu, 05 Nov 2026 08:07:00 GMT"
+      "titre": "\"On dénonce ces outils de lutte contre le terrorisme\" : pourquoi les assignations à résidence prononcées contre des manifestants font polémique",
+      "lien": "https://www.franceinfo.fr/economie/greve/on-denonce-ces-outils-de-lutte-contre-le-terrorisme-pourquoi-les-assignations-a-residence-prononcees-contre-des-manifestants-font-polemique_8266007.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 05 Nov 2026 06:06:29 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Épisode méditerranéen : le Gard et l’Hérault placés en vigilance orange pluie inondation, des \"cumuls plus importants\" attendus sur le littoral - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWkJvcXo0cXdPdnZ6STNtNmh2SlpKa1ZfSm4xQVlTc2xIeFFRb2xaRkdiLW1RcTdQdFBWWmx4V1NicjlQVUVqbzg1N3MyQWV3VGdPREYwWl9wMmpzMzNzYXRJaFY2ZkY3OTJrQTA1TDJPNlhSQjR2ZTdUa1daZWVfSjV6eTMyWUF6WjR0MmhUb2syTnZRQWFpdUFMeGZlRmMyMFMzZHhJOWlRVmExZFZJSkM1Qm40ajd6OGFoT09LZ2lGUFByWFFBV0dBVmVJakJvVW5DTm1hNVNmNUp4dnNKdllxSkJpTllXSHI1bVdsZjRNOWNYRHR1VUN3NFFpd3VVMTRUeHlqQTZZaGY2QjJFWDBldw?oc=5",
-      "date": "Thu, 05 Nov 2026 07:06:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Raphaël Glucksmann tend la main à Karim Bouamrane - CNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUowZ1lZNHZMazlIbGhCVWtpZmxSV05YV1hNNDZ5R2pWTUpFZjdtSzZOOXZoT0pIY3MyWEx3M1pMbXd1UDVsWHMxcVV3eWxaU2xqRFNoTDhBVzc1SWZxT1F2QXZqZC1wczNsRDBoeXlOV3hSUXRZM0ZlLW40OXZXdjZRSC1FS3RyODItWHEyMkFrdDdXOXNuaWxwNnAwY0ZBbC1ZV2lPdFlodERJc1Y3dWNMUWXSAboBQVVfeXFMTWhXczlNMmtNTWRPeHEtLU5Mbm9CNzFoZDJhSWVlSEt3NENXdnFGVG9sRVFXeGs4ZnR5RUh3Y0o4cjgwVjBSZUJ3ZWV1V0tQV1FLNm5RMzVHdjIxQTFjdXppMlg0UXpTdXlrVC1jVXd6c2pTTi1uc2xNX1BaQzdCdXJxQjFCMXVzVEw1NjgwZGFtcDEwMFljZmhkOW1jeUw1aHJRTUoxejJoM2cxWEgwQnJVb2EwQW1sLXZn?oc=5",
-      "date": "Thu, 05 Nov 2026 08:24:42 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« À rénover en priorité » : huit lycées bretons figurent dans la liste du gouvernement établie suite au mouvement de colère lycéenne - Le Télégramme",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVktEaDFGa0JHX2Q1OGN2WlJTLVYweldmM0dSMnB5Y2hBOGF3SzNwQWtDZmFCYnBxSEVtNnRBbHhNYWZrZWh0OHRlSUd4aG9jVGZFOElqUWQtVkhDNS1MeXNIN191cWpjX1YycVdaRWI3MllkRDFFU0k0RmlCaFhPblJneE9OaFFSVUxuVEZOTGZBamhhMC10Z2w2X3RzWF9oOWgzM2xwNzBpd2p4UzRqWEp3NnNGLUxJZmw2LVN4N2dHa2VhMjNPQU9Gc0RhRDRmWC1rNjhpdFlRREFmUFJ5dlQ1eVNqX1F3bmhidlBySkhodzlrU253UGk4dWtEU2RsbXRMVEpGdmJnVWFtaUdySXFibUhPYnMyQWx5Uw?oc=5",
-      "date": "Wed, 04 Nov 2026 17:40:39 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "La mère de la petite martyre de l’A10 fait un malaise en pleine audience au palais de justice de Blois : l’audience est suspendue pour aujourd’hui - lanouvellerepublique.fr",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVzRvd1IzenhjbEQ5bkxQMXZLUnoyRmhGZ2JTSWhoYjVzZ01HQTVlNkNjMWxuMjZMeWtKTzF5blpXOGIzWWdQMHk0d2VqdVA2R2NkQngtSXU2ZHRzcXBrMEV0SVdLdEhKTmZtaHhiQzJXbGtQYl84UDk2Sm00SGtSZ3BlQlZ2WmxteTBFVnlNOTYzVHk0QV91RjMyMUxZQVcxbVpfQTlqTlRVNkFITVdzNDZnUVdMVkpiUHJSdWRIQWw2cU1leDE5bUQ5Rk5lemJfTmg3LXoxMHRDcGVMa2JXV3h6MXhiS1NtN3lTMmowQ1VYYlJ4aVo2OS01R1ZvWGdkRzVqR3FGdmdSOWJm?oc=5",
-      "date": "Wed, 04 Nov 2026 15:53:20 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "La liberté de manifester est-elle une \"liberté constitutionnelle\" ?",
+      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-la-liberte-de-manifester-est-elle-une-liberte-constitutionnelle_8248123.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 05 Nov 2026 12:31:49 +0100"
     }
   ]
 }
