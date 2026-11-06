@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-06T12:56:10.422011+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-06T18:16:40.776985+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Accident de car dans l'Ain: le ministre des Transports annonce qu'un jeune de 18 ans et une enfant de 7 ans ont été tués - BFM",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdFp2aXdDaXlsTUc5SFFpb3FQTmJSVTFsRXRvVnZPSlA0S1E1Z2VocS10U2stYW9ieGMxLUQ5aUxDbXU0eXh1TU93NERFenFlTEhuNWZrb3RJRDFLckI5alhlNzQzbEZ4YWJBZXF5LXgzS2UyYVRocTg3ZTNUeDlFSFJja1NBYzFvRi1ZeUlkamxJTmVNbjBCZWR5bDA2UWZuU01jRFdVV2FoSFU2VnFKT19QRFhrOXhycjhmN3ZJdEY2U2dOZVFYa1JzTXdpMnZsRXpQN2VTMElJWkpya3o1VEE3UVpxQ3d5ZzNPWHNLalFPb0lwaEQ3eFZ3cEJCRDFkT1ZVQw?oc=5",
-      "date": "Fri, 06 Nov 2026 12:41:51 GMT"
+      "titre": "Football R1 : encore une affiche pour retrouver la mélodie du succès pour Tourlaville",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/football-r1-encore-une-affiche-pour-retrouver-la-melodie-du-succes-pour-tourlaville_65028800.html",
+      "date": "Fri, 06 Nov 2026 18:57:08 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Midterms 2026 : retrouvez notre direct consacré aux élections de mi-mandat aux Etats-Unis - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUlh5enhYVnFOQ1FIaUV6aDJzQ01MUENjdW1QS3VHOHptSjZnaXFQU1dmSDhzUU9haGlOUXdsOC1aZTdIOHVRVWVSUThySUxhVUREeWQtM1BEZG5tTVZmUGVKcE8ydlVtWWRNWTNvcDQ4UUJqd1UxSEtHRWpkWWRZazZzZTY0ZHp6clBadzlxbXo4dFF2Q010ZjlyWmVUUGUyaXM0WEVzU1FKQk1qc19TT0xJREEyZVJ4MGFTRlpJNEQyV1M3X29TOG1oQmNVR1oxLXpwMkp0Z2diWlp6OVg4Q182UTlEeHdVc1U4Z1Z4cklnSUk4Y2otdFVHcy0wT2JzVVhQbGliRmZBRUYtVkUw?oc=5",
-      "date": "Fri, 06 Nov 2026 06:17:30 GMT"
+      "titre": "Les quatre pneus ont éclaté : un camion-nacelle d'Enedis reste coincé dans un tunnel à Cherbourg",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/accident-a-cherbourg-un-camion-nacelle-denedis-reste-coince-dans-un-tunnel_65028548.html",
+      "date": "Fri, 06 Nov 2026 18:16:08 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Deux morts dans des inondations en Corse : \"La ville est comme bombardée\", réagit le maire de Porto-Vecchio - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNNG82bnFuTzE3VTZUd3BDazUwam5DRFUzdjZKVHFPYVR5QW9TNUoxaGt2OEg2cC1rczhRN3pQSzY5eE5UT1p3U1FJMUp0QkhOVHVZY01rcE5LS0VLZU1BZzlEN1RNMEFyLUdhMnRvcEF4azhzbTRXS2tIUi1qZWJhU1ExWHBQcUVBUzNRZllHRWNoUm9jWVB1WnBYcmwwdjlzN0VIQU5SZjk4eVhfZ0FxdnpQQWhmVXI4SS1tdDgwSENtOUdhYUJrbGJRLVVtRWdIcDFzV1lKWDRSeWpxcEI0Y1Nna3VSZFlTQ2Z6d0ZMb1VReWVEUEZCWWRrNHRlU3RrNzVWQVNmU1lKWDhGb0x2N196ZFJOdDc3NmtJ?oc=5",
-      "date": "Fri, 06 Nov 2026 07:57:59 GMT"
+      "titre": "Cherbourg : voici combien de véhicules ont été mis en fourrière en 2025",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cherbourg-voici-combien-de-vehicules-ont-ete-mis-en-fourriere-en-2025_65028324.html",
+      "date": "Fri, 06 Nov 2026 17:49:06 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Alerte à la bombe : le pilote de l’avion dérouté à Évreux «aurait refusé» d’atterrir sur la base militaire - CNews",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2dPUEFfaHZaakFhNEQ2OUQycGRRSEVWZHFpcTJoZmtWNERJeGVRZ3E2cGZPQlFBWjl6YzlCaXcxbmd1Q2JHSUlaZ19UVUM5NU1aY0VhV0dHczVsSlBfMlVyX090LTFzeWNFN2lqakZucEVMdkUwZUZPaFNHeGdfYy1tUnlBWmdQSEtTZjdrY09ZY0hiUm9LM2pSdUNPT2pYOWpYalZ2ZmhJczBzVHB0SWU3Mzg0OVZVYk4zSQ?oc=5",
-      "date": "Thu, 05 Nov 2026 14:36:46 GMT"
+      "titre": "« Une cinquantaine de personnes dès 4 h » : pourquoi des fans ont passé la nuit sur des parkings à Cherbourg",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/une-cinquantaine-de-personnes-des-4-h-pourquoi-des-fans-ont-passe-la-nuit-sur-des-parkings-a-cherbourg_65027044.html",
+      "date": "Fri, 06 Nov 2026 16:28:20 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Accident de car dans l'Ain : le chauffeur \"indique qu'il se serait assoupi\", le pronostic vital de deux blessés \"encore engagé\", annonce le parquet",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/direct-accident-d-un-car-scolaire-dans-l-ain-deux-enfants-sont-morts-le-ministre-des-transports-attendu-sur-place_8270534.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 18:49:59 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Colère sociale : le gouvernement vise la « barre des 1 500 € net » pour le Smic, contre 1 478 € actuellement - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRTYwTGJ6TGdlY1A2T1ZRb2pXOENmbzhSNHNwSDBpWmh1OFlMM3VZMWp6bzc4Rlk0TU9wYTdXUWlIdUhEU240NERyZ2xvUTRvTXVSR0dXb2h4OU9lcTE3U0h0WTBwRnB2WWluQWR5WU9MVDRSSjVHWXFVMm0zTmFMMHlxN25yMkVoenpsbnBZNVlwYlhORlhpZlBJTXJlVDlza0NONUdMVWNGN1VMUVplazg4eHlBNHJHaFd4Zy05Uy11RmhaUzhhM3U3U1RNVjZlUWYzVndyVVZhWGF5bW5QTW55cjA2Sy12UEVyTFhXcExRbVE3ekVaZGh2UzFzRFhWRHkxVU9OOENBempkUnZPUC1zNDhkTWVwT3FN?oc=5",
-      "date": "Fri, 06 Nov 2026 05:12:41 GMT"
+      "titre": "Mobilisation du 7 novembre : le dispositif de 70 000 policiers et gendarmes \"reconduit\" samedi, annonce Laurent Nuñez",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-sociale-le-ministre-du-travail-juge-important-d-essayer-de-relever-le-smic-au-dela-de-la-barre-des-1-500-euros-net_8270366.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 18:09:25 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT - Présidentielle 2027 : La France insoumise dévoile ce vendredi 1000 propositions dans son programme L’Avenir en commun - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbU1OV2lYMEdZdHh5Y3BpSVRMekdBRG1TSWV1OVZpVjBJMWk5MzFtMzdzcmR6bXdQVzhaQjNQdk1EUFFQM3pEdDZqSFpzQVp1TWJQWGRVdkRtTFBmSXcyRnJGZmZSY3VoVHlUY2dvSHVGaHQzRDJ1R1Z1UVROZWJOejdDQWVudmlGb1pzMHdGaUh1b1dfOFZWT1lnR3ZrTldLMHNRV05BajhFbUVNT09XZWhrZmIyZTVWM3ItUGN6alZmY3p6QXVCMXRjdG5LWFYwYVdXT1JZQzhBbUQ0TmpQMkZTMmZZb1E4UEtOSzJtSGtOTlYwUU9tbjRnQWpWNkk3WUVBeE9yOGFVekF6?oc=5",
-      "date": "Fri, 06 Nov 2026 06:34:57 GMT"
+      "titre": "Pourquoi le péage de la nouvelle autoroute A69 Toulouse-Castres est-il considéré comme si cher ?",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/chantier-de-l-autoroute-a69/pourquoi-le-peage-de-la-nouvelle-autoroute-a69-toulouse-castres-est-il-considere-comme-si-cher_8271059.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 17:48:24 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "«J'ai une forme d'admiration pour Raphaël Glucksmann, il en prend \"plein la gueule\" sur le terrain», glisse Pascal Praud - CNews",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JWa1NscXRaTUlvRzl6NXZxTnlCSTJTb0doa1NwUWxLUEctejR4TWhYRGtuRW1mMFJvUjFOWS1MTGZFNGttN3hvbkFVUjE2R0ZMRnB4QUF6azRvNG15RjJLeHJCOUNKd0JBbWVnaVhLLTNuWk5ra3JZQ1Uyb1RqT1FWWFhhd1QzSFZaNnd3U21IRG9GSzc0SFlDNmswS29wRlVPM1dmTl9IakZqN2xEcUd3UDRFa0NXVXZYc9IBwgFBVV95cUxQemQ5SGM0NHNNcU9sU09jUkctOEM0WTkwNjNtazU2R2Y1cmhxZWlOaFRRY0FLZWJRUFVqYmpsOFk0Ry1PTndHaWd2XzF2cHc1OW1nOS1HVXcxNXlWQjQydXRkT2ZVN3IyejN0NHZITXRPb3lSc1JsdGhSc0s2dllnSksyMG9zMGtsTmVHc3RPVHAzRlg2ek5mUXlnSTN0ZDc1VmEzbUh4TXVIMXh0NnFUdjQ5TXVPTkhSaEZKeUtSZTVLQQ?oc=5",
-      "date": "Fri, 06 Nov 2026 08:56:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "DIRECT. Colère sociale : des avocats annoncent saisir la Cour de Justice contre Laurent Nuñez, après les blessures de manifestants - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZkJZUGxoT0E1dkJNbVRzX1YtME9yalctLWdIdFBPRkJJRU9zbUh6VHpJcHR0dGxGOVBJVVJ1bkJoczI0Rll5VjBlUFFrWjRfby1hWkRaSW5RVi1Bek5HSDZubFRCR1JUSGVVVHZqLXJJaDhkYS1JeDRxOHdBeWQ1c3ZKZ2ZJdUttRkNIQXNPTTRkNkViUEM1bWZlUEwxRGlTQmV4dFA3WUxrOUpTTmNjcTdfS3hfUklLcVNubDEwTV9GMnoySTM4czNMbHN0SnR4b1R3YUpIV1lWMmFKY0FGMjBUNDhfY0hGc3RHTWlRT3kyMXNnTWN4cXp1MTVxa3ZwNzJLY01QbE9Qd3lkeFFPZ2RLTVZ1ajVueHcwZFhnc2VRaHJfR3c?oc=5",
-      "date": "Fri, 06 Nov 2026 07:06:56 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Pétition contre CNews : face au racisme, l’indulgence des autorités - Reporterre, le média de l'écologie",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREI5ZEdQM2ZfbzlCdEgzSmhpSGJxREFfcS1LZTdBTFF0bXpyQVFRcGFlQjZwSGxTLUxnblJ4bkZLbmFCZTNpOVBhVmRmTW04aDgyS2pILVBvc2dyZnRzQXpfdFRBYmZ4NWg5N0FESUI0WUk1ck9ndkVMSG51eXpaYVJMM1c?oc=5",
-      "date": "Fri, 06 Nov 2026 06:30:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Charente-Maritime : Une marche blanche organisée après le suicide de Jade, 12 ans, qui avait dénoncé des viols - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcTM1cmduR212dUFmRXM4UXd4LXFJQVRsMWxMbElNYXRZNzRGRHVmaXNMbk9rUG8xN0tpTzNpV2EtZ05HSi10cDlCLUI4ZnBBbC0yclpMdVZYSjNBMmFiYkx0ODAxQ3p5MU9fMV9iR1AxSi0tQjRMMm1HcVlPbC1IUEc3ZE1yRndlczZ4bzR4WGMxdnNuTnViRVhIUlpxNUdhTFhVcENzU1ZTYU1LM3NENjl1VlRxcmJ6Z0tsMWZEeS1aNVFBR1YzemVXc08?oc=5",
-      "date": "Fri, 06 Nov 2026 10:56:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"On a surmonté les difficultés et on a un très bon train\" : le nouveau TGV de la SNCF a réalisé son premier trajet commercial entre Paris et Marseille",
+      "lien": "https://www.franceinfo.fr/economie/transports/sncf/on-a-surmonte-les-difficultes-et-on-a-un-tres-bon-train-le-nouveau-tgv-de-la-sncf-a-realise-son-premier-trajet-commercial-entre-paris-et-marseille_8270894.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 16:31:04 +0100"
     }
   ]
 }
