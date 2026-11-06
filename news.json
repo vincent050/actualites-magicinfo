@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-06T19:52:34.332564+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-06T23:24:52.963115+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Accident dans l'Ain: le chauffeur du car, placé en garde à vue, a indiqué qu'il \"se serait assoupi\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdFp2aXdDaXlsTUc5SFFpb3FQTmJSVTFsRXRvVnZPSlA0S1E1Z2VocS10U2stYW9ieGMxLUQ5aUxDbXU0eXh1TU93NERFenFlTEhuNWZrb3RJRDFLckI5alhlNzQzbEZ4YWJBZXF5LXgzS2UyYVRocTg3ZTNUeDlFSFJja1NBYzFvRi1ZeUlkamxJTmVNbjBCZWR5bDA2UWZuU01jRFdVV2FoSFU2VnFKT19QRFhrOXhycjhmN3ZJdEY2U2dOZVFYa1JzTXdpMnZsRXpQN2VTMElJWkpya3o1VEE3UVpxQ3d5ZzNPWHNLalFPb0lwaEQ3eFZ3cEJCRDFkT1ZVQw?oc=5",
-      "date": "Fri, 06 Nov 2026 18:34:32 GMT"
+      "titre": "EXCLUSIF. Des sites nucléaires français survolés par plusieurs drones",
+      "lien": "https://actu.fr/politique/exclusif-des-sites-nucleaires-francais-survoles-par-plusieurs-drones-quel-etait-le-but-de-ces-intrusions_65029116.html",
+      "date": "Fri, 06 Nov 2026 21:36:32 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Midterms aux États-Unis : Donald Trump fait volte-face et change de discours, les élections \"truquées\" d’après le président américain - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX1pvYmZ0SlB3ZEh6MnNIVnhHME5lVFUtWTdza2JQZl81THFCa0RjdnNJbTJHUGxpaDlIUWtPUjZ1VEJ0VkYySmt4VkdrQXM1eU5paTV2NGlURTZtV1VILW0xZHZBbHZlMHhFRUsyWVBMNDh5VnhXeDViOTJLRnEzVERJUHJfdkh6YjhEdmNEMjJjTUR2X3YxUC1DQU1IeWxvMjNCNV9hX1lKZEVpU1dIdHI5QUZFb0gyTndnQ2RCZUFXTjZyZE9PMW1qUWJNdlFsdXBpOGktbVBFTEpUeE1xZTZDMUxxVG9Jb0ViUlJYNnBka0NJS29iMXhjaVpjRENXNjl6TS0tMA?oc=5",
-      "date": "Fri, 06 Nov 2026 08:32:00 GMT"
+      "titre": "Il termine sa course sous un car : un jeune grièvement blessé dans la Manche",
+      "lien": "https://actu.fr/normandie/saint-sauveur-le-vicomte_50551/il-finit-sa-course-sous-un-car-un-jeune-grievement-blesse-dans-un-accident-dans-la-manche_65029078.html",
+      "date": "Fri, 06 Nov 2026 20:57:21 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Les 4 grands thèmes qui éloignent le programme de Mélenchon du reste de la gauche - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXB1WDdkam9LS2ZkX05JME1rR1BzSk1WSE82OXB4VW9sVEtnS2w4TnhVSlY5aHY1Z0ZjQXJ5U2ZpTnpTZ21YVzh0SkpYWlpiVktSMEEyWV9IMUVZNDBRU29jUU9XVjhDak5xMlhJQ1M2MHVQNnEyWF90RFUwbDFvak1jTEs3cENacnFqNm5yTlQxc3hxUlBZSkgxTFJKVG41aDcwek83V01MMHo2X3hMeUtEZnJwaC1rY213VFhKUGZVR3o0OFR4VDAwM1RKZ2FrakF4ekcya2pyNG9vZi1uanB0UEZoTWFLcUlz?oc=5",
-      "date": "Fri, 06 Nov 2026 17:02:04 GMT"
+      "titre": "Manche : cinq blessés, dont un enfant de 2 ans, dans un accident impliquant trois véhicules",
+      "lien": "https://actu.fr/normandie/torigny-les-villes_50601/manche-cinq-blesses-dont-un-enfant-de-2-ans-dans-un-accident-impliquant-trois-vehicules_65029061.html",
+      "date": "Fri, 06 Nov 2026 20:35:22 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Manifestations du 7 novembre : 70 000 policiers et gendarmes mobilisés, le dispositif de sécurité « reconduit » - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUmdncDJhSkk5TTcyam9za1dpOHYwZnlkTElxdVBfMTRlZ0czUGtPM2JhMEwwTjdFWXpTS2hockVmNUVDa0J5c3J3ajJNUFFQQjI1T2tIcWg2WTlYZk1RcmU1RVhBTXduc2ZJYlJxVDJHR21zUkVrY1NhMGVucW40X09iMWxPTlhnZzNucTVzYXhJVHRrRVVCM0lsSlZDanNtVUtFaWwwOVFlaF9TWjZ1a3dNRnJfbDVjeGJkbnQyYjFMVGd2QjZYem1VdGVYa0Z3MlA5ejJFWDJXR3M4VnloTm00bGk4Wk1nX2VxcGRDUkUydFMtTTJ1TWVxZkc2elZFNmFnOHhENGFXcUZraUNPUGIxTExOZ3BWNVBz?oc=5",
-      "date": "Fri, 06 Nov 2026 05:12:41 GMT"
+      "titre": "Cyclisme : une commune du Nord-Cotentin accueillera le grand départ du Tour de la Manche",
+      "lien": "https://actu.fr/normandie/brix_50087/cyclisme-une-commune-du-nord-cotentin-accueillera-le-grand-depart-du-tour-de-la-manche_65028935.html",
+      "date": "Fri, 06 Nov 2026 20:16:02 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Ce sont des blessures de guerre\" : trois femmes gravement blessées par des grenades tirées par la police le 17 octobre racontent comment leur vie a basculé",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/temoignages-ce-sont-des-blessures-de-guerre-trois-femmes-gravement-blessees-par-des-grenades-lancees-par-la-police-le-17-octobre-racontent-comment-leur-vie-a-bascule_8271329.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 19:47:57 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Quatre nouvelles alertes à la bombe dans des avions survolant la France, un des appareils a atterri à Bordeaux « sans encombre » - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUHlGU21EOVhNQjlaQ1JIa3ZmamJDVk1FZ293b01VR1NsdzRkWEk1cTZqTGhmZW85dzkxc05wbUsyQ19KX2pobnYzOGxlei04ZzhsV0JLSE9BTXRPbDZVLS1IelZtaXRLb0ZaYW5HamQxTEk2NWdJb3pxM0RUa3JWdWZmVkstdWpQYVJDczFaYnJwYjZPcm53UWJXWEVwOE5QZXd2SXRRYW9oM2hDQ0t3VVZXeHpXQnB4QmNWd1gtUzJiSW5yVGI5S28wUnhFaWp2SUxQZllVbDNMYXNnYjdCb0JBMjFoT1ZxZnh1ZTVsZlhMaTRfVFV4LThGQ0pIOTVFaFdzRmJySQ?oc=5",
-      "date": "Fri, 06 Nov 2026 11:52:57 GMT"
+      "titre": "Deux morts de 7 et 18 ans, le chauffeur placé en garde à vue… Ce que l'on sait de l'accident de car près de Bourg-en-Bresse, dans l'Ain",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/deux-morts-une-enquete-ouverte-ce-que-l-on-sait-de-l-accident-de-car-pres-de-bourg-en-bresse-dans-l-ain_8270546.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 18:59:15 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Smic au 1er janvier 2027 : environ 12,46 € de l'heure, la hausse automatique se limitera à l'inflation - JeChange",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdGJZVkxTOXREN2RCcno2aG5VRzh1YmE1emVHcXRuYTRiOHdlZWdIMk96UlhPZlhKOEZNelZDVGJJS0IzVUpjTVRndGptNlh6ekh5NTFsTTRuWnNsSWhvalpDNzNnc2F5Z01nNkMyN0RTUlRPcWUxekoxa3lXWHVSak8taTRkMm42MGxfbDJyX001VEpHVHhOQkZRVS1saWlrRDZj?oc=5",
-      "date": "Fri, 06 Nov 2026 15:45:00 GMT"
+      "titre": "Donald Trump promeut son conseiller Stephen Miller, représentant de la droite identitaire,comme directeur de cabinet",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-promeut-comme-directeur-de-cabinet-son-conseiller-stephen-miller-representant-de-la-droite-identitaire_8271515.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 22:02:11 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestation et grève des Gilets jaunes à la Concorde ce samedi 7 novembre, interdit mais maintenu - Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDNlVzA0MWpCcV94ZElnWkZ4S0owdnpvM29IekRyTFNfQ1hTYmw4YWxRNU1Kc0pYZkliR1FsX212VTBQS1dLRks0WHdGU2w0YnZMaXhDSGFSZFdGeEZ0NUg5WllLcnVmN2N6azJSTnJ4ZDFHbDZuemd5OXBtZDVYNnlNV2xWYW90Y0VjaTNzODVBbnZTNFR4OFpYeDRuLTRjaXZWOG5ZQzlIY1VNOEFCdG9HMTNmbU1ydzFiamt4MzN6ZnprM1RPUjJ2Mnl5VDlDdnZFZUc2aHBxUEFYLW9uZ19pNmhYU3dYcFZDaDVJUWV3bnBV?oc=5",
-      "date": "Fri, 06 Nov 2026 17:53:06 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "EN DIRECT - Présidentielle 2027 : une primaire de la droite et du centre pourrait aboutir «rapidement», selon Gabriel Attal - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbU1OV2lYMEdZdHh5Y3BpSVRMekdBRG1TSWV1OVZpVjBJMWk5MzFtMzdzcmR6bXdQVzhaQjNQdk1EUFFQM3pEdDZqSFpzQVp1TWJQWGRVdkRtTFBmSXcyRnJGZmZSY3VoVHlUY2dvSHVGaHQzRDJ1R1Z1UVROZWJOejdDQWVudmlGb1pzMHdGaUh1b1dfOFZWT1lnR3ZrTldLMHNRV05BajhFbUVNT09XZWhrZmIyZTVWM3ItUGN6alZmY3p6QXVCMXRjdG5LWFYwYVdXT1JZQzhBbUQ0TmpQMkZTMmZZb1E4UEtOSzJtSGtOTlYwUU9tbjRnQWpWNkk3WUVBeE9yOGFVekF6?oc=5",
-      "date": "Fri, 06 Nov 2026 06:34:57 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Mouvement lycéen : Edouard Geffray promet des sanctions quand l’accès aux salles est compromis - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRFdPLWRGRlFYZ0xmRF9QNVhtNkd6TEkwalhTcmo0M2VZcEl1VVR6X1NzT190RnRyTnJjbGhGMjNlS2ZaSEIzOWRkRXNRMHJzbWJiZlVvS1YtUHg2OHFvZi1vallDV1NpdmtKVUpNLWZxVV9MMDZGVmdLOXQzemkwUUt3YnEyRVhnZFVWRkN5UlBXemNSOWlEbFdRSUVqNndnVGZobGVkVmdpRUpERGt1ZGJ6d1JQZnlXMVM1dWNhbERxMXhQNDNrTkx1Tm1aNG93dmlkQjE3RnVzQmhpdFFBT25kRlh5MHpPeVl3RlJ0a0VMdXBJTnllcUhEMA?oc=5",
-      "date": "Fri, 06 Nov 2026 18:56:53 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Autoroute A69 : \"Il y a beaucoup d'émotion\"… les premiers automobilistes ont roulé sur l'autoroute entre Castres et Toulouse - ladepeche.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmpBQ0JuZ01fYm4zOVZSOHBBc0FnNmZQV2d0enVCdWg3T19yWVJ0Q1dCU2Y5RlIzNXpjdDM4OWwwSDhoQkRDNDBHdmJPdGk4c2VxcjFOVk9GZ3V5OUlSSGlhVjN6aHFZWTNpUjhadkRyUFQxOTA2SXA1LUlQSHdkcnRHMlFIRm5nVHFtbU1ndzBZNWg5WFE4TFJXb3h4eE9fVklLTmg3RzNaektidjZWWVlUSVh5bVJKR25OUlRTTXpvTTZvTVQwd1U0MnZ4UXFJb1RKVlUwUHRWMmpjc3FkcUxRQjVwcERob21DVElFc2ZvTHZFMUlsUXV3?oc=5",
-      "date": "Fri, 06 Nov 2026 14:55:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Alertes à la bombe en Europe : le fondateur de l'\"Etat masculin\" en Russie dément tout lien avec les perturbations",
+      "lien": "https://www.franceinfo.fr/economie/aeronautique/alertes-a-la-bombe-en-europe-le-fondateur-de-l-etat-masculin-en-russie-dement-tout-lien-avec-les-perturbations_8271548.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 06 Nov 2026 22:27:34 +0100"
     }
   ]
 }
