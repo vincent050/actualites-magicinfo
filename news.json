@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-06T03:18:08.962387+00:00",
-  "manche": [
+  "updated": "2026-11-06T05:02:26.014748+00:00",
+  "items": [
     {
-      "titre": "Manche : un incendie se déclare dans une maison, deux personnes relogées",
-      "lien": "https://actu.fr/normandie/montbray_50338/manche-un-incendie-se-declare-dans-une-maison-deux-personnes-relogees_65023377.html",
-      "date": "Thu, 05 Nov 2026 20:10:10 +0100"
+      "source": "Google Actualites",
+      "title": "Sébastien Lecornu réunira lundi à Matignon une «conférence sociale» avec les syndicats et le patronat - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZUxsZG9vUklVSXM5R2hTYjBnRkROcjNnclptMnplUmVGWGxyOVNwcS1qX25CTk9ma0ZROWd2S0k4TXhJbzRGTjlnbDUzem1wYlRKSjhXb09XeGVGSGxnaWhJcW1TLWVsWXFIeFpjNVBHVWRRczlxR2piN25HME96cm5BbjBJLVZOSTFNNXV6N2QtQmZxcWo1Q0lrSVZ6dkJFOHZxSUQwQkVyVXA5dVFhVG5YeVVpZkJaeVktNG9OWV92MFlOY05tR0FXaTVaUFVEZXNENGR3?oc=5",
+      "date": "Thu, 05 Nov 2026 16:24:24 GMT"
     },
     {
-      "titre": "L'hélicoptère se pose en centre-ville : un homme grièvement blessé après une chute de trottinette à Coutances",
-      "lien": "https://actu.fr/normandie/coutances_50147/coutances-un-homme-de-54-ans-grievement-blesse-apres-une-chute-en-trottinette_65023349.html",
-      "date": "Thu, 05 Nov 2026 19:53:15 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, midterms 2026 : après avoir accepté les résultats, Donald Trump dénonce à présent des élections « truquées » - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxONW44d3dBR1JFZEpsQkhFYjZESTdhZjNIUVhrMlBDNWNaMV9QcFdRVE5qa2huckRoWkdKcDQtUFRRV2V1MTBfcGN1U295clg3YUpsZTYyNjBhbmtoSmFmQWd0ejZWVkM0bG15SnBtZlV4dTZLTkR0YjZkSF96d3JUOFJ1SWROb1RCcTJsdUdnMmV6WUtEYlJTTXZleEw5eFRmYTVDVVlyaVBLdDE5dzZjZHJRMFQ5cFY3d1ZWektFcl9ZZ2pYZUZ4eFFJS3ptS3RZQlo0QXBPMXhoeXdrdlMzWkxXUFQxYXZFSGhOeE8wTVpnbzZvOTUwdVEzcUZmVHZSdF9aczhVY1VIZw?oc=5",
+      "date": "Thu, 05 Nov 2026 22:38:52 GMT"
     },
     {
-      "titre": "On vous emmène à bord du Galeón Andalucía, un voyage dans l’histoire maritime espagnole",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/on-vous-emmene-a-bord-du-galeon-andalucia-un-voyage-dans-lhistoire-maritime-espagnole_65016113.html",
-      "date": "Thu, 05 Nov 2026 19:36:01 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, grève du 5 novembre : entre 575 000 et 1,6 million de manifestants en France jeudi, une « conférence sociale » avec les syndicats et le patronat prévue à Matignon lundi - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOVWNDb0ZvQU1yc0JwdFdpenZTajZqUzhSSURuRmJFMndXdkhZTW9zN0dYaUlrNWdGVFVGWURYVmFoYUFCY1RhbTkzWG5FeXFPbnYydHlMX3VXLXZUcnlMVGtGSTVhT2k2N3MwZ05qWnB1VklFOXFiR0dzR1F5SDNWTHczc3lkYWo0cXA5elIyUk9tbFJYNWxNQnE5MDhjRjh0cXlfek40MHVHRlRLTnN0b0p4dVpxTDltOG55TmdRNi12d0lHWFFEOUY1bk5vang0UVFtWC01a2JDekF6dXpJUTJ2eU5SQ1hCS1hFeEJwemVfQjAwWTRRNm9PZTlKei1ZUHJnTlpxTnVZeU9PZTFpSllXdWpNVXA4eXJENkxSSUpzdW9JSzMxcFZXUmxNTUJ4dU43ZXVBcU9LeVlmbTZJR242OUNtSU9fajMtSU1Dczk4SkZxUm1vWmNEblU?oc=5",
+      "date": "Fri, 06 Nov 2026 04:46:21 GMT"
     },
     {
-      "titre": "Course à pied : une nouvelle épreuve à but caritatif organisée près de Cherbourg ce week-end",
-      "lien": "https://actu.fr/normandie/tollevast_50599/course-a-pied-une-nouvelle-epreuve-a-but-caritatif-organisee-pres-de-cherbourg-ce-week-end_65023260.html",
-      "date": "Thu, 05 Nov 2026 19:10:14 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "\"Je continue de croire au changement\" : de Douai à Limoges en passant par Paris, les cortèges du 5 novembre font le plein et s'interrogent sur la suite",
-      "lien": "https://www.franceinfo.fr/economie/greve/greve/reportage-je-continue-de-croire-au-changement-de-douai-a-limoges-en-passant-par-paris-les-corteges-du-5-novembre-font-le-plein-et-s-interrogent-sur-la-suite_8269412.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 05 Nov 2026 19:59:29 +0100"
+      "source": "Google Actualites",
+      "title": "Sifflé lors de la manifestation à Paris, Raphaël Glucksmann se « contrefout » des militants « hostiles » - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ0RWR1V1LWZoRE9CZDJsRnhuZ2xDb2tucFlZVnRBcE9OdzBmc1MyX0hnV3doQV9USzNBeGFmY1Zlb2FVWGY3ZWpZb3drN3pYams5Y3dDRGhrMVJYUGZtUXhwSmlUYzM5SXo3YnQxLVkxUlJHbVY0eXQ0QXN3a29tSUFzMWF1NmpzLWJWTEh1UXRoWHc3MkJobG5YQzJ6Z05MSVNaTHY2bUhNbFRsNDFqQktkd0kyVXRURF8wUndoZGhJTmdfU0NQczJuN2lJcnlzYVc5T1VVRTIxdFQ1b1luM3M2Sm5kQ1hxaEY0?oc=5",
+      "date": "Thu, 05 Nov 2026 16:01:07 GMT"
     },
     {
-      "titre": "Donald Trump s'emporte contre des élections \"truquées\", après la défaite des républicains aux midterms 2026",
-      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/donald-trump-s-emporte-contre-des-elections-truquees-apres-la-defaite-des-republicains-aux-midterms-2026_8269964.html#xtor=RSS-3-[lestitres]",
-      "date": "Fri, 06 Nov 2026 00:09:25 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, guerre en Ukraine : la trêve d’Olechky prouve que « quand Poutine le veut, les combats s’arrêtent », estime Volodymyr Zelensky - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTV8zdUlfX1VXcnE3eGI5NmRDc3BmSzNRaE9ZSGhMSlF4bW10NjAxUzBSWHdDYmFEZGIxOTY3QkgzazdhcmpGeVBZbjRJZGpQMjBFRmNURHl4ZVFRU1pnMUVUUmtIcnlOYTc3TGpITXN3eGgyRV9DOHhBUl9PSDBhUHdxeXI3YzhiWjlDdGFhRWhZR0hLSmlHZmdPX3FWYmlxdWJoTmhUa1JnM0dXLU1wRnNxOUp5REN1VTRQcmNzVkxkSjZuNEdfeGVEVk1BbWpWRGY3ZjAxamxuUVg1RDAzQ3hMT2taSmtGRHVRYTliMXBfUUJxSGVlOThHMXJMTjF0QnhsVjVBbHU0a0p0ejhONTgzMWhVemw4eXpfZksxVWl2N2dpMHc?oc=5",
+      "date": "Thu, 05 Nov 2026 22:32:04 GMT"
     },
     {
-      "titre": "\"C'est une hérésie\" : enquête sur le nouveau logiciel de l'exécutif pour surveiller les réseaux, qui peine à repérer les vidéos virales sur TikTok",
-      "lien": "https://www.franceinfo.fr/internet/c-est-une-heresie-enquete-sur-le-nouveau-logiciel-de-l-executif-pour-surveiller-les-reseaux-qui-peine-a-reperer-les-videos-virales-sur-tiktok_8269832.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 05 Nov 2026 23:00:46 +0100"
+      "source": "Google Actualites",
+      "title": "Alerte à la bombe dans un A320 : avant d'atterrir à Evreux, l'avion a stationné au-dessus de Chartres - L’Écho Républicain",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeWRRNWVSblRDYXlUekVkNDFRNW9Zd1gxN2ZPRndnX0dDZHFvMGtIYU5yb2U0QzVQT3N5R2hKNTRpLXZab25IM2tYLUtfMmEzN0tkSTV1R1k1bzI3UnZIZ2tpZG5KQ1pNd09jNE5TbDlkMFhkMnFmZVY1SWs0TFlkcFQtTUVkakNEWC0xNm9leTB1WVdwbDIwQmRMcFh4RkRkQU9LTjRiRERsZi1nZHc5aUU4MlA5N01wUjVBWlBGUUlKaVM4LWdhWE5SYUdjeGViT2Y0alVEdDVlc1JVVmhVRjlpeVcweGZiQ1duRDhBLUJKQUFDd0Vjd29TdTc?oc=5",
+      "date": "Thu, 05 Nov 2026 11:20:00 GMT"
     },
     {
-      "titre": "Ce que l'on sait des alertes à la bombe qui ont visé une vingtaine de vols européens et forcé un avion à atterrir en urgence en France",
-      "lien": "https://www.franceinfo.fr/economie/transports/ce-que-l-on-sait-des-alertes-a-la-bombe-qui-ont-vise-douze-vols-europeens-jeudi_8269349.html#xtor=RSS-3-[lestitres]",
-      "date": "Thu, 05 Nov 2026 17:47:53 +0100"
+      "source": "Google Actualites",
+      "title": "Contre la vie chère et l’éducation au rabais, des mobilisations à l’unisson - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObG8zeGc2OFFVV1VaZllfWWFYRmpGTExyWFZJM2pTNjd2d21zdlIzdGJpRVQ3Wk5qQmlPTmMyUXFTN3l3WUlLRkIyQ1ZtQ0pUdGRzbThvQUhhY2xyMnVFYm1pX1hSaFliU3FNMG1KdGJpbjMteXdoaXFET0pYRVJKMjdPRXJmb2FQU2RfT2xWSE9HMmxsU0dISFFJdWpLM0VFMUhzMEc3alVVMlA3OTk4VDhIWThTT2RfdWxGZnNnZ2dCMk9WemdFbEZCZXBrbGIwMkZidldMbmRLMVdjMlVLeHh4eDhpdw?oc=5",
+      "date": "Thu, 05 Nov 2026 20:10:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Face au risque de violences et de débordements, la préfecture interdit les manifestations en centre-ville de Tours samedi 7 novembre - lanouvellerepublique.fr",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPUUoyTWxsZlhfN0x2ZUt0WUVXN2NpNlFLZ1JWdThJemp1YTBQT01BODF6dmkyN1BUQ194dUlndzZCeVdIMEVaUVZDZGVPcFMxaTR2SV9WUE5qVTBXMUR6OVJOR09NTXdJNlJvcFhCeDJIQVJCNzVPdGhuV01pMXVacWxnOVJQdWdJRzc0aTVKcldtSEpWVk40R0pkM3JJbGFqaW15U0hvUGlxNlNtak5FQU5qUzliRWVZM0xDTkJYSFZ3LXVLLUpJNm1JRU84ak1UQ1Jtd0tsUGctdFl5eWlkaTgxQUhfVlg4Sk5aaTUzTzNoU2pldU9pcF9yd2RkNDdL?oc=5",
+      "date": "Thu, 05 Nov 2026 20:13:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "REPLAY Épisode méditerranéen : inondations dans le Gard et l'Hérault, bientôt la fin des vigilances... Retour sur les intempéries - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0kycWJZRkRJMUR1alg2LXpnLVVqb1p3ZFZBb1JuWlR4cVBqcUN4QzVBRnJKNllHX0hjM2c0dUNOc0M4N3Raa0JoYV9obGVvZ19PcC1JZUJ2VWw2TlJMRkpmRHJRajZKR2J0RG1pcWlneFp3dG9uVEFLNjltMVVLWEJCbjBZdG5WX3g5Wkk3UmRuamlMNkNxZVloeXhtLXk2M3ZsZ2d4cDJyc0xtdXpCdjBKUHUwb0Jwb0o3RDhMSHBOcE5GOFNiQQ?oc=5",
+      "date": "Thu, 05 Nov 2026 19:55:43 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Blocage des lycées : trois mineurs, mis en cause dans l’agression d’une policière le 1 - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbWRqcU41Y1pDMWx3eFNkdGdHcW9aYjNMTHdFYUdmdE5lSm9xOHlGUm5STlRfbFM4a3MyUVlqOUxXWF9adHlhVGxIQUpRdG9mMVZ6TlJKVnk4MzZaZ2ExSk1kTVFMdlJMemZ3T0NFaEV1ZEVRYWRFcER4c2dpZ1hLOGoxRUo2U3VBMWpnNy1DN2FKQU1PZnc4Qkk2a0Y1aVNITmlqbTZaOUhuQWtzU09NZjI1YUZMUGpUbVlKSkNXeDV0eEVnY0RPYVROMFl5TnZscWJuNGVkc1pFWHJpdFFEMFJ3QUhkeGt5X0V6SkU1UXhvWERnRGJ5TG9TVmxpWVFYLVQwLXB2RQ?oc=5",
+      "date": "Thu, 05 Nov 2026 21:48:30 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
