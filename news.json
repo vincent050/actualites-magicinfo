@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-07T04:58:20.192109+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-07T10:14:22.029743+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Accident de car dans l Ain : en garde à vue, le chauffeur a indiqué s être \"assoupi\" au volant - RTL",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOUNsYWdabUF2WmJjQ1V1MVNzQ1A3aXJnYXJzRWp3VWJuZkdqWmpCaTd5S2ZpekE1LWh0YzI4TWlTelF0SEJDUFh6WFlYbW1SQXFBdFk3aHNzZWt2dmZoNjEtTktZQzROYVR4UDBNdDhueEpLbWIwMlhvaU1OeFEzU1B6ZDdkWDc4NVdJZzlOMXp4QWRWajcyemIyOWs1aEVpOFRtZGRKVEt5Y2VNQXFDU08xeUhBZ2RjLUZRSVlHVEFPX19qeXBmcVgyU3lGNWs3YnJ2bURoemdXalVVeUU4ak50eFppU183ZmxFUVFnRkhBT1JhSTV6RXRzRWNsY1RINHRXanNHSHAzWGI2M2x5ODJveC1vZnc?oc=5",
-      "date": "Fri, 06 Nov 2026 19:12:46 GMT"
+      "titre": "Accident entre un bus scolaire et un deux-roues dans le Cotentin : ce que l’on sait",
+      "lien": "https://actu.fr/normandie/saint-sauveur-le-vicomte_50551/accident-entre-un-bus-scolaire-et-un-deux-roues-dans-le-cotentin-ce-que-lon-sait_65029596.html",
+      "date": "Sat, 07 Nov 2026 11:09:53 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestation du 7 novembre : à Paris, la préfecture de police valide le parcours entre République et Nation - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdGtZME45UWdTd08tbmlLLW1LdFRiWFA3aS1qeGM2UFloRDlLaWc3V1Uya1VoWnpuTEFpZmlROFlrSXJIQ2pqNzdfNzJxU2hSam04VXJ5dTBTdFNYN3dWcC0wSzNDT1FYOGduMG8tbmpPSUlmcTVmSjNLWTBCZ0U5SG90ODdldmhiOUJBVXVPVHdEUzBpR2hyLW5BOHZuYlYtT2pTTWU0THRTNjh5ZEctNVBiM1pWTVExWi1LNThld3lTR0lNYmZwalFWLWg3eDlqU3NpT1VDempwZWs1Y1ZPd2lWaDBoWDRWdjB5a3A1SkdnTVpDT01aS1NTZ3VfRWQ1d21QTXRhLUdoMWQ1aHk0?oc=5",
-      "date": "Fri, 06 Nov 2026 10:38:56 GMT"
+      "titre": "Avec ses propres méthodes d’apprentissage, Valentin aide à se perfectionner en anglais",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/avec-ses-propres-methodes-dapprentissage-valentin-aide-a-se-perfectionner-en-anglais_65029395.html",
+      "date": "Sat, 07 Nov 2026 10:48:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Fini les franchises et dépassements d'honoraires, 20 semaines de congés maternité et paternité, arrêts de travail courts auto-déclarés... Voici la \"Grande Sécu\" selon Jean-Luc Mélenchon - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPTDh2eW94Rm1rLTU3dVZYSVZxVFVERGNoeG1QMzJhZnRqdXZoWmlSYnZkQjlGbDFQcks0Sl8tbUlmMjZHQlN4OGFPSEFnNjF6TVVPMkE0VGFPamwydWpUTG90OVdKR09CMC0wM2hYSHpoMExrRkczQVVJNHYwWUZ3NDBqUFYxWTVna2cxazVQaExPQ0ttYy1sWmRfalljaUNEampTQmMwSUZ2TlctRjVaZWkzTmVTQWJoRzB1V2FQSnItWHpYdjJhX3pLa1lXaUFuaTcwM1hXMEhua3BGT25xYUMxYVlFeEJWY3Fqdk9vS00yY0pIb1ZiV3JBak1Pa0g1dTYyaGhBeGo3a05MaDZPNWZHejR1RExHRGZwelRvbWZUNmZRWHFCOVA3NHJ0dnNzeVJheVRlMm51N1Q3d083NE9iV3BtN2F5VEVVYTZkVmJ1MWlrN0xZZFZ6c2VOMzdhTkVnNw?oc=5",
-      "date": "Fri, 06 Nov 2026 17:44:52 GMT"
+      "titre": "Les émeutes en France vues de Chine : « Des scènes violentes qui peuvent provoquer un véritable choc »",
+      "lien": "https://actu.fr/politique/les-emeutes-en-france-vues-de-chine-des-scenes-violentes-qui-peuvent-provoquer-un-veritable-choc_65021195.html",
+      "date": "Sat, 07 Nov 2026 09:41:36 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Après les midterms, le premier grand remaniement de Donald Trump dit beaucoup de son état d’esprit - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQWV0c0VGVk1NTVNhdGRyM3lBNlhXaU1xLTRKUDhNRXR5Q0R4am5JS21JR1Q3Mm5tUTREckhGNTlCaWhwR2dCaUJFcGJQMm1MR3pILXpqdG9GTm1WZk9VU3ZHMXFqZHJsSVpCc0NLN3NKZWxNRkdVNV84RXNnYTFINHlUZllWZ29zQlhWaHV1Nk4xVGVTa2lJQ1JOMEJsVU9md2FzZTg0ZXMzM3ZGUnBpblJiS0gtSnBTMWhCVkdITjRWbGQxUzFmZ2lXTEtmWncycFBhYVJia0dPNmhtYzBYb3RsVGFSMjRmRjNGQjYxSGJGUW8?oc=5",
-      "date": "Fri, 06 Nov 2026 21:17:39 GMT"
+      "titre": "Le chantier naval CMN présente le plus gros navire militaire de son histoire lors d’un salon mondial",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/le-chantier-naval-cmn-presente-le-plus-gros-navire-militaire-de-son-histoire-lors-dun-salon-mondial_65029199.html",
+      "date": "Sat, 07 Nov 2026 08:40:32 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Personne ne mérite ça\" : rencontre avec Maïssa, 18 ans, qui a perdu un œil à la suite d'un tir de grenade le 17 octobre",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/violences-policieres/temoignage-personne-ne-merite-ca-rencontre-avec-maissa-18-ans-qui-a-perdu-un-il-a-la-suite-d-un-tir-de-grenade-le-17-octobre_8271551.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 07:33:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"Petite martyre de l'A10\" : \"je ne sais pas pourquoi je la tapais\", Halima El Bakhti, la mère d'Inass, s'exprime à la barre - France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWmItODNPVnNyMWZoNENqZWVhb2lMdG5NanAxdkJuWmJUY2J1SmwyQ2FMamFMTHhHdXJnMlVJZWRYZ3lhVFQ5TUdIS0IwdEh4dEZsM2VhX0FQckgwUlRNUjMzZGl5Mm5sNkdBSllTNmpzRU01bHVKa0Vwc2dDbi0wWkNWbWFwVUpqQWtuN1dxXzVLQVFFRXVEaHU4b0g2emNFTmt5aGt5c2xNdVVTMlF4c0duSUhCOGJudW5IX1d6XzdPTTlfQnpLMTlIYkwwTnNEcENJN0pwLS1DMlEwYjdiOUp2cTJyTEpEYTJGY2pROXRjQ0VUSGFTUlpMb0NfV1NDYkxOSm5Ud3NBSG1Pdlo0c0hLWQ?oc=5",
-      "date": "Fri, 06 Nov 2026 19:42:46 GMT"
+      "titre": "L'armée iranienne assure être \"plus forte\" qu'au début de la guerre au Moyen-Orient",
+      "lien": "https://www.franceinfo.fr/monde/iran/l-armee-iranienne-assure-etre-plus-forte-qu-au-debut-de-la-guerre-de-la-guerre-au-moyen-orient_8272088.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 10:39:21 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Quatre nouvelles alertes à la bombe dans des avions survolant la France, un des appareils a atterri à Bordeaux « sans encombre » - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOUHlGU21EOVhNQjlaQ1JIa3ZmamJDVk1FZ293b01VR1NsdzRkWEk1cTZqTGhmZW85dzkxc05wbUsyQ19KX2pobnYzOGxlei04ZzhsV0JLSE9BTXRPbDZVLS1IelZtaXRLb0ZaYW5HamQxTEk2NWdJb3pxM0RUa3JWdWZmVkstdWpQYVJDczFaYnJwYjZPcm53UWJXWEVwOE5QZXd2SXRRYW9oM2hDQ0t3VVZXeHpXQnB4QmNWd1gtUzJiSW5yVGI5S28wUnhFaWp2SUxQZllVbDNMYXNnYjdCb0JBMjFoT1ZxZnh1ZTVsZlhMaTRfVFV4LThGQ0pIOTVFaFdzRmJySQ?oc=5",
-      "date": "Fri, 06 Nov 2026 11:52:57 GMT"
+      "titre": "Martyre de l'A10 : la mère d'Inass Touloub reconnaît des \"gifles\", mais reste ambiguë",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/martyre-de-l-a10-la-mere-d-inass-touloub-reconnait-des-gifles-mais-reste-ambigue_8272007.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 07:52:29 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestation et grève des Gilets jaunes à la Concorde ce samedi 7 novembre, interdit mais maintenu - Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSDNlVzA0MWpCcV94ZElnWkZ4S0owdnpvM29IekRyTFNfQ1hTYmw4YWxRNU1Kc0pYZkliR1FsX212VTBQS1dLRks0WHdGU2w0YnZMaXhDSGFSZFdGeEZ0NUg5WllLcnVmN2N6azJSTnJ4ZDFHbDZuemd5OXBtZDVYNnlNV2xWYW90Y0VjaTNzODVBbnZTNFR4OFpYeDRuLTRjaXZWOG5ZQzlIY1VNOEFCdG9HMTNmbU1ydzFiamt4MzN6ZnprM1RPUjJ2Mnl5VDlDdnZFZUc2aHBxUEFYLW9uZ19pNmhYU3dYcFZDaDVJUWV3bnBV?oc=5",
-      "date": "Sat, 07 Nov 2026 00:03:19 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Plusieurs lycées bloqués ce vendredi à Marseille, tensions et intervention des CRS à Marseilleveyre - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnRLNGZTbGFmZnVRSUJfcjV5N29seVhpcUlYbW03OGVIZERDVjF5MklsQndjTHpqREpwTGpXLUZ4VkJpNE9hbERscm1KbGFKSmdrbmJPTjQ3YzJvcFBQY2xVLUh4LWxoYkswT3EtX1kyNF9fbjdIazE4M0V4RjJJRlg3d2pOaTVnRGRlYnp0RmNOdEpBXzJqUllkdnZLYS0ta3lITkNwdkltNndSQ0RaM3VNcFBVMHlhazdUUWVhaWNPV1ZVNUhsNnBtd205eEROdlUzWDg5WFhrY0NKbFV6aE52WGt0OHBWVHE5ajNVdw?oc=5",
-      "date": "Fri, 06 Nov 2026 09:22:53 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Jordan Bardella et Marion Maréchal officiellement en froid ? La nièce de Marine Le Pen n'aurait pas été conviée à la soirée de lancement du nouveau livre du président du RN - ladepeche.fr",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZVVwQ3pNWVFXV0tUZDdTTUlHOV9CVm4xLTFOT1F2ZU1SbF8tVXRyVWtib2ZRbWVaYU5sdFdSUU96SGpVbVkwZEYyNllrRzYxUUVWLUJsN1VGWFJaMEtPMW9UYjBGZFdILU5Jb3FPLWR0TzJ0b3llUzI2TEFxTHJuNlV2RUlCZExzOEFxdGdxaF9nVW9nV2ZrNVNCNU0zVmp3XzRJcS03Tlh1TnowRFpidy1rY3BFd3p4d2YxZU5oZHRuUmpyNlBtc284cE9ranRVWG1GTm53OC1nRVR2dHQtcGN2VTIwUkxxZDBLTUREQ3VnWWpPakh1enVLX0phU2N4b19zUEtXNVJxU2JicV9KeS0zRkhhQk5tZm9XUE1jSmI5UXcxWUE?oc=5",
-      "date": "Fri, 06 Nov 2026 18:25:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Morts noyés de Porto-Vecchio : le couple récupérait sa fille pour fêter un anniversaire... Ce que l'on sait des victimes - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSnhiZDFGdG5zRmJrcE5JbW1na09abVktblZLNDJoeGNCRXFDY0lYdmhTV05pUUcwYkFwMGVBUDEyY3hmZjlXQnp2d0tjbWMzUFRrV0s2Rms1blJBOGZiaXBLYVI4cnJ6NHFlWFpOdG1PUGdKdGcwdmNyeVo0OWFGc1AxREZyQ0d2NzhfWWNtTjViTXBhZTB2ZFRxSVJKY0dsRUl1YTB4NEE2WG1nbXdtdjBQTm1MUnRSa0wyc0RGOU1kbTQxVGRIUXlFUFN3UFNFN0lvQUxkN3h4R1g2MVJKbmVqN2RORHJYUGFnM0lTM2RNcFdEeW9lTDhZTDRGaVlEMWpaT2h3?oc=5",
-      "date": "Fri, 06 Nov 2026 14:29:16 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Le ministère de l'Education nationale a-t-il envoyé un mail demandant de signaler les enseignants grévistes solidaires de la mobilisation des lycéens ?",
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-le-ministere-de-l-education-nationale-a-t-il-envoye-un-mail-demandant-de-signaler-les-enseignants-grevistes-solidaires-de-la-mobilisation-des-lyceens_8269187.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 07:24:21 +0100"
     }
   ]
 }
