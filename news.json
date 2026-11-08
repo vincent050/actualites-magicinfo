@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-08T06:00:21.823411+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-08T12:58:15.954982+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : en meeting au Bourget, Jean-Luc Mélenchon s’attelle à mobiliser sa base tout en élargissant son électorat - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMEhHb0Y5TVZNODhES2VLRzctV1d0b3dmQTk2ejhvTGdOcTYyS2poblBpLXI5aWV2QjBEWEdTVkdtQmVUbXpyODJacFNDT25GQkpSV2lrSUpyYWtaWUIyMmZieXRsb0JEV21xbFZqbnJjUmhJREs0WDAwRzktTm5XMVM1T1JNRDNMc0NSSmQ2SVkyc1NkbU1XQllvb2tIdGpiS2R0V3RwUDRMb2ZjdXRiTVcwOEd6SmsyX1NTeUhOa0NXc3FPU1E1VDhReVkwNWN2ZUdycTdBMnZrMFl0UHB5TUtKOGYyVXJWbkI2Um5ieURxLXowUHRyOGw0LV9RY0ttUElQRUFmbXlQbFhLVE5oOFJTZk94VnRPTFNZdU5zOHYtZw?oc=5",
-      "date": "Sun, 08 Nov 2026 04:00:04 GMT"
+      "titre": "« Je ne me sens pas légitime » : Benoît Cosnefroy ne se voit pas au départ du Tour de France 2027",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/je-ne-me-sens-pas-legitime-benoit-cosnefroy-ne-se-voit-pas-au-depart-du-tour-de-france-2027_65031165.html",
+      "date": "Sun, 08 Nov 2026 13:42:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestation du 7 novembre : une brasserie attaquée à Angers, les gérants ripostent avec une fourche - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaFhZY2gzTmNIZzc5eXV0V0p3ZmlQRVNsVGw0RjA2aXhWNVVfWWM1VEpfRUszVGRuLTY2SmFoazJxOV90UnVsdUJ3RzB3cjk0eW4xajN3U000ZHVQRmtVcThPMWVrcFZRU2VURDNYWk1sWDlOSW16dC15aDlPNEZzN01WRWcwbWFhbWpOMGpISzZQal8zYzNaSjFjaHNyRTlnYjZPdFdxdnVNc3dCcERyRlpqTDhGc1NjTUVUdTUwYWRrcUo5eEt2NXBuT2J4SG45LWFNUjdOQWpLUjh1RG9NdGJHRlAxc3lNMlMwRzR4Yk54ME5FVmRSY2NFTVJuaWthSFhrVV9ZSnNNbHllTFVFRXFIcw?oc=5",
-      "date": "Sat, 07 Nov 2026 20:17:31 GMT"
+      "titre": "« Les gens veulent des choses qui leur ressemblent » : ce qu’il se cache derrière les tatouages polynésiens",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/les-gens-veulent-des-choses-qui-leur-ressemblent-ce-quil-se-cache-derriere-les-tatouages-polynesiens_65030990.html",
+      "date": "Sun, 08 Nov 2026 12:55:25 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRE5ZUnhudWlhMEUwd0NmMkJmRHhKNHhBcEJXUm5RMXZvMGdhSjZnV0llYW5OSGluR0QtZ09MR19QdkRxeC0xWmRVYTVhMmNkSVRPRlk1VU1lcVdyVUs0Y0xZbE5XQ3JTT1lDY3U4RmxUUWx4dm9tWWJ6SEkyazI4X0hxUnpKVjB2QlZUYkFVdUV5RmJwbkRja0xOX0U5cHdnZHdqa3BDellOV3dkckZwQVpCYTRVWTVNREFmeGR1TWZoYzgtaG03UW44NmVmZXFvMkt0azNuc2lieTVVXzQwdTVBa2hRekpxLUtxQzA1dzFnZ0xZV1oyTWx0dw?oc=5",
-      "date": "Sun, 08 Nov 2026 05:18:12 GMT"
+      "titre": "Foulées de La Presse de la Manche : courez déguisés et tentez de gagner un tour de karting",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/foulees-de-la-presse-de-la-manche-courez-deguises-et-tentez-de-gagner-un-tour-de-karting_65030894.html",
+      "date": "Sun, 08 Nov 2026 11:30:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Israël : Eisenkot, rival de Netanyahu, chargé de former le prochain gouvernement - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORlZHSGg2UE9PZlBXdFpLRGw5SGk2V2dsVXBYWm1WenRqaDJveXluOTZZTjVleUFSU3A0RWNRQVNZX2Rta0JiZlhzVTl6d2c0UDI3UHFHWE9iZG4yYXVFNmhwVFpvZ0htek9sRmRNZnFuRjFMdE5LYUNDdkpuaURBRFcwd1hHemNiLWZ0Sm9YeWZuZ0RqRjJhOHVRZ19STnhwcjJEdWVxX3YyMmZNaENZVUQwV2dXVjUyUlFUMHVPckJ1Zzd0NFEtbUxycmFGSFB3a3JBQkpzeUhwSXpLamZteGRISnBSZF94NEFr?oc=5",
-      "date": "Sat, 07 Nov 2026 19:40:46 GMT"
+      "titre": "« Il est très accessible » : de retour dans le Cotentin, Benoît Cosnefroy fêté par son village natal",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/il-est-tres-accessible-de-retour-dans-le-cotentin-benoit-cosnefroy-fete-par-son-village-natal_65031006.html",
+      "date": "Sun, 08 Nov 2026 10:36:01 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Quatre choses à ne pas oublier pour faire bon usage des sondages et enquêtes d'opinion en période électorale",
+      "lien": "https://www.franceinfo.fr/elections/quatre-choses-a-ne-pas-oublier-pour-faire-bon-usage-des-sondages-et-enquetes-d-opinion-en-periode-electorale_8270903.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 08 Nov 2026 11:22:23 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Ce serait mettre en danger tout le monde » : face à la colère lycéenne, le ministre de l’Éducation nationale refuse de modifier le calendrier du bac - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRC1vbzFsak5YVVJxaWx1S2dyWVBUMkhiekZhTVdjQXVmaDFhVVhNUm42MkxfRV9oYVNfalJNRUZyUGoyamoxQks1ekhOVDNSdUVXakFGdzRqQU5xdXZYS1RWSW9HaUotSFNYWWkxNC1JVkppa2Vxel9pZW5zZ0xzYXJ6bk5Sd21PdzUtejQwY3BhcEhTQmdYS2ZJZU1fWDd0OERPZWgwMGpRdWg3blUxM3o2bDdrRHp4cUExUTNVdWJFVFN4ajFXNDdtcldUVWctdTNUa3N2b0JDV0h2NEJpSGJqSFFqOXFBbkhkelo2Q0FqQlpiTmVxZ2MtVjZMc0lOQm0zYnNzTEdYQS1iSnVIZk1nTWt4Q19uUmRmOW93?oc=5",
-      "date": "Sat, 07 Nov 2026 19:54:57 GMT"
+      "titre": "Accident mortel dans l'Ain : quelles sont les obligations des conducteurs et des passagers à bord des autocars ?",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/accident-mortel-dans-l-ain-quelles-sont-les-obligations-des-conducteurs-et-des-passagers-a-bord-des-autocars_8272445.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 08 Nov 2026 12:07:04 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Nouvelles frappes russes l’énergie ukrainienne et une campagne contre l’Italie - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT19EVUY0M2ZTemQtTnhmbVRtLWUyU1J3OXNmSzBVbGpjTjNCOFoydkZMY0dZaEhoblZyaEQybXlwWW9HXzhuRmVmbE9jTHZyWFI1ZmZXTmFBWWxxQVUtaTdISWpyUWhKaVNpcmNHREhjTUNkRk5nSVdEY2JoV1R4V0VmZUpKLWFld3hfcHFVX3prQVZkbGNqWXdPcUE1dTBQaDRRUWR2N3BpcWhhOGZaXzlWODE5RlNiTG5qWEl4S2FRQU9JZkp1UjFlVjBLOXR6NzVNZm5QQQ?oc=5",
-      "date": "Sat, 07 Nov 2026 18:19:00 GMT"
+      "titre": "\"Il faut appuyer encore, jusqu'à ce qu'on obtienne gain de cause\" : dans l'attente de réponses du gouvernement, les jeunes prêts à poursuivre les mobilisations",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-il-faut-appuyer-encore-jusqu-a-ce-qu-on-obtienne-gain-de-cause-dans-l-attente-de-reponses-du-gouvernement-les-jeunes-prets-a-poursuivre-les-mobilisations_8273057.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 08 Nov 2026 09:05:40 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"Chez nous, c'est 4.000 euros net par mois\": ces entreprises fabriquent les portes géantes et les réacteurs nucléaires du futur porte-avions France Libre - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNFRmOXNjdDllemt0Mms1amxkVzVJVjJCVi1LWUtCb282ZC1TOGI4a2VGTFB2Q2hZdDN2MktxcmJHaUZqN3VkNjZ1ZDdHT18ybllqUkp2SUFSYUV5eDdTbXM1cjN5aUlzc2d1aGFlZTVnWUd5N20tcEhaZXVQQk5hazh3RWN2V1ppbGNjWExIOEJEclZTZmhqX3cwcXJKeld4d1JVd000eFpBNlRBb0ZpeUhpS01OTnlGb1J6ci1NZXJJeUtPT05jTURNOTBmckNfYzRnWXVJdUV1MkxLZnRDT3hDMUN1LXB5bkNhSFFwR3I4c2drcjFscGNVYXNXVG5kNU5lQlVaRlBKcXdnLXNJZU5CQXp2bEc0SjREaXI2enR5cXUxdDc4ZVA5c3haeDBRQjBRZHIySGZmdmdYeUV5NlBlYw?oc=5",
-      "date": "Sat, 07 Nov 2026 06:59:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Manifestation du 7 novembre à Paris : le parcours République-Nation validé par la préfecture - Sortir à Paris",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0Q2QVQ3OHVlb29rU3FWZ1ZkV1ZCRlhJd19zWHNUTlJWVGZUQURzWl9wUmpvcF83NVllT3pPcG5uWXJPNkRVRTVBdzNRSFpVTGVCaGVwTmdpRi1MUVpkREgtcGV4ZlIwVGwwazBvREJiMzhuWVZkeXhkZFBuTExyei1GYVBNYXFCWm83Z2c1OEZiZHIwbkRkeGpHdXJkVjduRmZPZDdWRlhkckFldzNYa0VSVmRqMVlzckxEcjlSUlNudlNTZzB2cU5malBPTWhncnd5WF9OUDFyS1preUF2NDNwSkpSNGZxTVE?oc=5",
-      "date": "Fri, 06 Nov 2026 11:25:35 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Accident mortel dans l Ain : la ceinture de sécurité est-elle obligatoire dans un car ? - RTL",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQk93aXU5a21waDdqWW4ybWtMenJqS2RzckF2aFB0cVppeFhqQzhQSE5LYm5aYmFEZnlhQ2xocEZMa1JZclRvcXRSUDJ3NHh5allHUXhfZ2p6UFdxOWV2ODNUQ2tPOXRkRFNiU0ZjUzg2Q0Zob2Z3LVBQa2pZQWZaMDVWNGsxZDctNXBJLUt4OUVzVGY2bHVWR1NmUUVYeTU2MkFITHNGT1oyRnZ0RlBaODBiOGZ0aG9qMDAtWklWNGdyUkx3aklVMUtjWklJVEdNRFhiUW5R?oc=5",
-      "date": "Fri, 06 Nov 2026 20:44:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Morts noyés de Porto-Vecchio : le couple récupérait sa fille pour fêter un anniversaire... Ce que l'on sait des victimes - Corse Matin",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSnhiZDFGdG5zRmJrcE5JbW1na09abVktblZLNDJoeGNCRXFDY0lYdmhTV05pUUcwYkFwMGVBUDEyY3hmZjlXQnp2d0tjbWMzUFRrV0s2Rms1blJBOGZiaXBLYVI4cnJ6NHFlWFpOdG1PUGdKdGcwdmNyeVo0OWFGc1AxREZyQ0d2NzhfWWNtTjViTXBhZTB2ZFRxSVJKY0dsRUl1YTB4NEE2WG1nbXdtdjBQTm1MUnRSa0wyc0RGOU1kbTQxVGRIUXlFUFN3UFNFN0lvQUxkN3h4R1g2MVJKbmVqN2RORHJYUGFnM0lTM2RNcFdEeW9lTDhZTDRGaVlEMWpaT2h3?oc=5",
-      "date": "Fri, 06 Nov 2026 14:29:16 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Les Européens, dont la France, seront \"représentés\" lors des négociations sur l'Ukraine à Abu Dhabi, rapporte le ministre des Affaires étrangères",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-les-europeens-dont-la-france-seront-representes-lors-des-negociations-a-abu-dhabi-rapporte-le-ministre-des-affaires-etrangeres_8273333.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 08 Nov 2026 13:48:01 +0100"
     }
   ]
 }
