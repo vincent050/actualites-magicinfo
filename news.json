@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-08T00:11:07.686134+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-08T05:50:52.095393+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "« Il faut tout changer » : au Bourget, Jean-Luc Mélenchon assume sa radicalité et s’offre une démonstration de force - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNakpHeWY0cW9INGtfZUlHbVFYVVo1NlFfd29Jdk42Mjd0RDZnX2QtbVVfajczRTAta3pkSjRNNmgzRmhwR2pZcHo0U1JNSlZTekcxTHZKT0tlbVlDTWRmZkE1cU0wYmt4N256d0hwU2RPX2pjV1BWQzU2d2hBLXRSY3BRZ0Z6ZG9jaWN0VkpaWUJza0Vvc1RGaFl0UmhSVi1ielNUY2xtenI3QkxWU2ZnZ01kQUdxWHB5SjlEWnB3NkJuNFgyUWFrOUhqQ01hamNMbTMxZjBCWXhNSEdiTUxUVFpLdV9GVUZNYmJtaU5BWE15UlFENk0weG1WeWE?oc=5",
-      "date": "Sat, 07 Nov 2026 18:20:33 GMT"
+      "titre": "Personnalités enterrées, patrimoine… dans le Cotentin, ces cimetières racontent de passionnantes histoires",
+      "lien": "https://actu.fr/societe/personnalites-enterrees-patrimoine-dans-le-cotentin-ces-cimetieres-racontent-de-passionnantes-histoires_65030300.html",
+      "date": "Sat, 07 Nov 2026 19:22:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« On n’en peut plus » : leur commerce vandalisé lors de la manifestation à Angers, ils se défendent, la patronne blessée - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOYTU0VnVZUDVkdnlFN2RfRzQtb2lnRmYtcmtyNGtLdVlydHdPQUI0WHhXYUtiRmxnS2xaM3NiY1M1c2lsUDZET0tfV0FHVWxreU1yRElJbDRCd3RhNzFicXZWRlRmbWJ3V1kzUWRDV2JGWnhVMUdqOGF4c19CQ3hGZWhKSTlmZE5fWVRTWXQ5dUpMT0xCZmx1YTFLQWp1RFVydHY2MWNtdXRQQi1ERDhJN2VjUnJ5cjNrRmJWZENqVjNNckZmTHFNWm1aVlhXSmRFaEpHMUdFai1FeWo3ZUlJdDZNcGVNbTAxZnNuY1VzNFc4Z3pwaVMyTnpmWURKa0pXckxNaURpNC1sd2ZrV3NMVjZRaDBoNXFBRExOTmxOWHh5V1hL?oc=5",
-      "date": "Sat, 07 Nov 2026 18:05:12 GMT"
+      "titre": "« Des habitants ont vu arriver une vague d’eau » : des orages inondent des maisons dans le Cotentin",
+      "lien": "https://actu.fr/normandie/siouville-hague_50576/des-habitants-ont-vu-arriver-une-vague-deau-des-orages-inondent-des-maisons-dans-le-cotentin_65030620.html",
+      "date": "Sat, 07 Nov 2026 18:59:16 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "En Pologne, une attaque par arme à feu a fait au moins six morts à Cracovie, Donald Tusk dénonce un acte de « terrorisme » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRE5ZUnhudWlhMEUwd0NmMkJmRHhKNHhBcEJXUm5RMXZvMGdhSjZnV0llYW5OSGluR0QtZ09MR19QdkRxeC0xWmRVYTVhMmNkSVRPRlk1VU1lcVdyVUs0Y0xZbE5XQ3JTT1lDY3U4RmxUUWx4dm9tWWJ6SEkyazI4X0hxUnpKVjB2QlZUYkFVdUV5RmJwbkRja0xOX0U5cHdnZHdqa3BDellOV3dkckZwQVpCYTRVWTVNREFmeGR1TWZoYzgtaG03UW44NmVmZXFvMkt0azNuc2lieTVVXzQwdTVBa2hRekpxLUtxQzA1dzFnZ0xZV1oyTWx0dw?oc=5",
-      "date": "Sat, 07 Nov 2026 15:38:00 GMT"
+      "titre": "De bonnes affaires : ces parents d’élèves du Cotentin organisent une bourse aux jouets et de vêtements enfants",
+      "lien": "https://actu.fr/normandie/la-haye_50236/de-bonnes-affaires-ces-parents-deleves-du-cotentin-organisent-une-bourse-aux-jouets-et-de-vetements-enfants_65029535.html",
+      "date": "Sat, 07 Nov 2026 18:36:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Un Aveyronnais fait son entrée au gouvernement : qui est Arnaud Viala, nouveau ministre délégué chargé de la Ruralité qui remplace Michel Fournier - ladepeche.fr",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPenR5U0pTa1F4TXpFWFRWY01QYVEwVnNTdlJ0UW5raHZoTlkwZHgwWG5CeVlNYTl3SFZQQmZ2RS1KTHgtUU9zTUYzNWpFUklaMUdYQWxMYzkzR0RvQVhuU2JPSkROVTRkb2NvY2JFWDIxTTZoaFJnWEMxc290NFZVZlp3cmxDNF9QUWlIU0doZ29MdmwzbEd0dkZ0bkxEZHVraFY0ZHRXUGVvUU5EMHkwQldpQTNrc0Yxb0lqOTBGdlRNZWhrWHE2WEMxSmdsYkVKbDFBd040OTNRTy16X04xZ0o1WW9hNHZnQTRQWl83ODlQdW9EME9LYTVKR2tFUTJJR0NwNkZ4Y04wQXBMcmQ3RWZSTDE3aXBnRzgzUw?oc=5",
-      "date": "Sat, 07 Nov 2026 18:43:00 GMT"
+      "titre": "« C’est difficile pour tout le monde » : la Banque alimentaire face à l’inflation et la hausse du prix du carburant",
+      "lien": "https://actu.fr/societe/cest-difficile-pour-tout-le-monde-la-banque-alimentaire-face-a-linflation-et-la-hausse-du-prix-du-carburant_65030393.html",
+      "date": "Sat, 07 Nov 2026 18:02:01 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Depuis son meeting au Bourget, Jean-Luc Mélenchon refuse de mettre \"de l'eau dans\" son \"vin pour séduire et être moins clivant\"",
+      "lien": "https://www.franceinfo.fr/politique/melenchon/depuis-son-meeting-au-bourget-jean-luc-melenchon-refuse-de-mettre-de-l-eau-dans-son-vin-pour-seduire-et-etre-moins-clivant_8272640.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 19:58:40 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Israël : Gadi Eisenkot sera chargé dimanche de former le gouvernement - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEh3WkxZNnFjeXZTcTg0emRzdHF5TnVMWmgzSXFQN0hjeVc2ZWszblI3bll1TWJMSnVidEtRc1dUZFVIMGNsY0J5cnc3Q20zc2FOV2lFeDJwWE9pWWhkVS1GVmpNc29jUkt3RW5xN19PM1ZSYmJBeGtaOVAweHd3bC04T0VIUjUySi1oVjNsOWF5Z1dsaWJVYlFzR0NpWV9Ba3JxRGs0Y05wenQ3eGY1Mw?oc=5",
-      "date": "Sat, 07 Nov 2026 20:07:00 GMT"
+      "titre": "A Cracovie, en Pologne, un assaillant tire sur des passants et tue six personnes, trois corps retrouvés à son domicile",
+      "lien": "https://www.franceinfo.fr/faits-divers/en-pologne-une-fusillade-a-cracovie-fait-cinq-morts-et-plusieurs-blesses-selon-le-porte-parole-de-la-police_8272454.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 22:37:20 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Ce serait mettre en danger tout le monde » : face à la colère lycéenne, le ministre de l’Éducation nationale refuse de modifier le calendrier du bac - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRC1vbzFsak5YVVJxaWx1S2dyWVBUMkhiekZhTVdjQXVmaDFhVVhNUm42MkxfRV9oYVNfalJNRUZyUGoyamoxQks1ekhOVDNSdUVXakFGdzRqQU5xdXZYS1RWSW9HaUotSFNYWWkxNC1JVkppa2Vxel9pZW5zZ0xzYXJ6bk5Sd21PdzUtejQwY3BhcEhTQmdYS2ZJZU1fWDd0OERPZWgwMGpRdWg3blUxM3o2bDdrRHp4cUExUTNVdWJFVFN4ajFXNDdtcldUVWctdTNUa3N2b0JDV0h2NEJpSGJqSFFqOXFBbkhkelo2Q0FqQlpiTmVxZ2MtVjZMc0lOQm0zYnNzTEdYQS1iSnVIZk1nTWt4Q19uUmRmOW93?oc=5",
-      "date": "Sat, 07 Nov 2026 19:54:57 GMT"
+      "titre": "En Israël, le chef de l'opposition à Benyamin Nétanyahou, Gadi Eisenkot, sera chargé dimanche de former le prochain gouvernement, annonce la présidence",
+      "lien": "https://www.franceinfo.fr/monde/israel/en-israel-le-chef-de-l-opposition-a-benyamin-netanyahou-gadi-eisenkot-sera-charge-dimanche-de-former-le-prochain-gouvernement-annonce-la-presidence_8272685.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 20:52:36 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "L'édito d'Eliot Deval : «CNEWS première chaîne d'information de France en octobre, les larmes des censeurs coulent ces derniers jours» - CNews",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGlqcXBRYzBDS3ZBNmg5NFNNNl9kS2lWMnVZWEdOeGd6Y2k1OWFGSTlHQmFGd1M1SlJGdGhzOWFhSlctUDBpdzVQUFFfZ2hCajhnWEdqdkhUYjExSWdBOUw2R1RrUDc1R0ZEdGJjdDRONDVHMkRseDJwenkxNWRMSEJGalMyVVVaamVleFgxUjZUMU1MQktFSTFyYUVWUFpadFVkU2ZRQUFpZmxjaEhoQ2hGUWpSSDNmVXfSAb8BQVVfeXFMTjh0VDFFaFp4V3BxUlg0QjRSMVBRVHV5UFQ4dnZ2djZFM3NIWFVKMlpydnM4V3hyd0M3TUFRaVdFT1AxUnM0V3pxVVYwQkxwNUFKenlRbHgtMTFPM1JRUzVRN2RFbHZjYXdxYVhYZXNnY1E3dWVpLVI5VThXd29rNjJWWTBzWkwzbkh4cUhIVzcxUWNydTgwenZkdXhsMnRaMW05Sm1XLV9aWGsxXzFHSm5HYVNYaGNVaFRhZU5rQ0E?oc=5",
-      "date": "Sat, 07 Nov 2026 08:15:16 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Le Parti communiste français déclare que tout adhérent qui ne soutient pas son candidat pour 2027 se met \"en dehors du parti\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNTlkwS2ZxcmZPZHNuWlZPTDZtNlpRWUJRMy1FVFBxMDZ0X0NxdUdzSmg3ekpVRENVSmY3bUJhZjd2WUlDUFJKSmt6V2JCTWpwU1BCTEpiVmphelZJcDNjRjZGeEtWa0R3eTd2VGp3RUlaZUxzeEtWWDl4dXZRMG81QTd5RzVwSU1BcGJ6Rmx3cmZ0TF9IZWxJNFI5SDJmSmhCTWQtZ0IxN3NESjU2Qmh5bzNTMmhCNHZsdTNPQ1RNQ3U0Tl9JdmhSUm9ZXzhzWUpFMTFFNmhiVGVpckZWdHhMT3N1X3FLU1lXLVFpb19ldGZPb2V4QXBzRTh0SmpadUhGUkNmeVZ2UWE4U3Y5dVlnSy1WNGsxTjFpMmpsQy11LTdqc2FmZ1lsSw?oc=5",
-      "date": "Sat, 07 Nov 2026 14:03:43 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Les premières pistes des enquêteurs pour expliquer l’accident de car dans l’Ain - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUlFkRnV5ZHBKS2RRV0hSRUkwVzRVRVJ1aE5FMVVsVVY0MlYySFlEck1iXzVmRFA1TkExQXZaQWNhV0RzSkV4LTB0LXRTbUJEUDJiQ0tLZmZOdEFPX0UxbTBydGh0MzI4aVlVeTdqb0Q2TG1XdEFHTDBBRzJTeHIxTmgzcm9TaldPeThxQUk1cVRMRW9JUmpYOUFJT1g3T290OGlvczRSbEVtYUhiYUxNa0dHU05pWnRyMlhJb1hXRWo0cldzSFVqLS1kWDRkVzNQaHNwTkpuT0FVa2puei1Hd2dWNTdLQXg0Ynp2Y1J3UWk?oc=5",
-      "date": "Sat, 07 Nov 2026 08:27:45 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "ENTRETIEN. Hommage à Charlie Dalin : « Ce qu’il a suscité me donne de la force pour avancer », confie sa femme Perrine - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQelRjdHE0YWp6TGpGcm54MEVFeGZ1Qzd2MVFCUTBRdGlNbUJFZzF4Tkx1UEt3bWpQRkZYTzZxODlWSk1fZnhjMUJvRVJPbF9NRG85R3ZoSHlaa0M2eFZVdEVGbjVnazdGenpxYjZwaktDN3VtNUphUzN1OEF3aGJZcC1yOFlkenRFY0ZSSVFzd1lPWGpRcFBBVFljV2Jmai1sNi1ZRENCT0FFWm9UNnlwdHZ5ZC05VDJ2VmpHV0tVdk9OQ1ZIUXB6NW9teUk3SDV5eGRsS2UyWU5rN1Y0bWpFTzhsMVk2WVFLbXFweGF4VGJzaGpIV0VmUWFkQ0k2QjQ3NS1VRjloVEZUNTdVTUpKaUdBVk52am02X0d6T0tiUVc5OG1UMWpB?oc=5",
-      "date": "Fri, 06 Nov 2026 12:02:12 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Le parquet de Paris ouvre une enquête sur les récentes alertes à la bombe visant des avions survolant la France et recherche un \"lien éventuel avec des puissances étrangères\"",
+      "lien": "https://www.franceinfo.fr/faits-divers/le-parquet-de-paris-ouvre-une-enquete-sur-les-recentes-alertes-a-la-bombe-visant-des-avions-survolant-la-france-et-recherche-un-lien-eventuel-avec-des-puissances-etrangeres_8272469.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 07 Nov 2026 17:17:43 +0100"
     }
   ]
 }
