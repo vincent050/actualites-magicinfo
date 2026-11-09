@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-09T09:04:28.039742+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-09T09:24:14.467276+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT - Crise sociale : \"La colère ne va pas disparaître\" avec une hausse du SMIC, prévient Sophie Binet - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNUGFaTFpjWTFaRFFZSm1zdHhEWVlmV3VOU2tFa0xsZjZ1MDNLU1V4Z2hYOTdieXM1Y2kybmRlMEZWMllXZ3FoVXNmem9PZkhlRW5YdmVfTEtHY1hXN1c3Y0lxdy1nVnJRN0kzNWx6Q3hHMWlBVHhLSkNMbE95ZGZxVjZxYzFKOGpRMUFQSi1kUUQ5V1Z2Mk9LVXV2a0JDbHZnSnVmamlsZktEVU9FUmh4enFyQUJnQjdMYU1vZGI0T1hzblRsb1VSLVhsNGFSVnhqOF9WT1hoSk55dEFFMnMzaF9wYjZMckhxRHNKa2Q0OUd6RU80VHNuZzJhVzBEUjBOM1RMLVlSdXgya2NJQ2lpQlNBaHdLSVRWSnF2d3QwT1Ewc0k?oc=5",
-      "date": "Mon, 09 Nov 2026 07:35:46 GMT"
+      "titre": "Avant les Foulées de La Presse de la Manche : 8 600 participants plus ou moins entraînés",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/avant-les-foulees-de-la-presse-de-la-manche-8-600-participants-plus-ou-moins-entraines_65032184.html",
+      "date": "Mon, 09 Nov 2026 09:42:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"J'aimerais que la justice passe\" : Michel Zecler réclame un procès \"à la hauteur de la gravité des faits\" pour les policiers accusés de l'avoir roué de coups - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdmdOQWRKSlRKNEhwbTQ0LW1iZklQR3czVWduS25peVRQSmtYdHpHRVBXM1YtSVAxT1U3SlZFdzNraVZXVTE0ZXVUN2Z6SWFBVTdMeG1uOTVlR3QwcW1IZ0RNdEJIcVVCSG9zVHcza2NzTUxmejRLaUNQWnYwcENNMzBJWno4X1NoMFlOYUktOEVjcUJDMF9JdUEwM2h4TXRQQ094LTFMOFFISFJxWVZPdjdvTEwwbFlxaVN2Z0tyWTdrRmxwQzNHYV82Ql9KcEVIWnhQbTlaNVBESWRiQjAzNk8tenRyNGxpc0o2bF9TdzNLaVptQzItdFI1Z2xLa09KejBSSWJieXhqbll4T1FjNUNSTkxZNE1ORng4bkxJRWNxZExDZWEyQl9pT0FraFpFT1ZpaGREWXY1MUJ5VlA4ZW9CQm9fekNfT1BPc1hMOS00cHRhRnliWk9FbTRvc1hlcjJia2V3?oc=5",
-      "date": "Mon, 09 Nov 2026 04:53:27 GMT"
+      "titre": "Jusqu’à 300 appels ou messages par jour : à peine majeur, il harcèle sa petite amie",
+      "lien": "https://actu.fr/faits-divers/jusqua-300-appels-ou-messages-par-jour-a-peine-majeur-il-harcele-sa-petite-amie_65032027.html",
+      "date": "Mon, 09 Nov 2026 09:14:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "SONDAGE RTL - Présidentielle 2027 : Le Pen et Mélenchon creusent l’écart avec Philippe, la percée de Lisnard se confirme - RTL",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdUFfRmVPTzlSelk0dTdqend4a3owSkdfOGdjb3dFekxfam9rYUZ5ZUxiQTFRUFBwVFR6QU9Wc05XRzBpM2lGTDIycEV3NFV5X0VQR1JnRzBQcmxiTEhZMjZPdDZxWllmT0tGLXlwYnZpUEZCZGQxV3F3NnlMWXgwa1lBUkFrWUpJeUhZdHJvcDlFWnhjbVJVd1J0LUlDalVTa2NBVkJKakVlbV95QmlScDltaUdINDV3WEtnQWVLRUNHaC1hb2dPWEt3dzg2YmJYOHRWMTg4bnJLTGk1LTFRWlpCczliTW5PbnljaUY5Tk1Sdw?oc=5",
-      "date": "Mon, 09 Nov 2026 04:00:00 GMT"
+      "titre": "« On arrive très rapidement à faire soi-même » : comment la couture fait un retour en force",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/on-arrive-tres-rapidement-a-faire-soi-meme-comment-la-couture-fait-un-retour-en-force_65032000.html",
+      "date": "Mon, 09 Nov 2026 08:02:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Budget rejeté par 458 voix : ce qui va vraiment changer pour votre chèque énergie en 2027 - Selectra",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEdWVDZSLWlXOG1PVkRVOVRoanZwUGFkRXhnQkJzdkF0MVFXQjdfOWZTT3NIR3NLakRFRzNwekw0TGNXSkdIVDY2U2h6OS1UeDBjM0E1YWxRUkdHNVhaMFlURFRQU3ZyZXpybUxhVy1YWmZ2WkdvdXczYS1RNldkRGRWN25aeUcyUk9uU0xJNjRXNlB1aDVYR1JB?oc=5",
-      "date": "Mon, 09 Nov 2026 05:50:28 GMT"
+      "titre": "« C’est passionnant » : ce couple cultive des sapins de Noël depuis trente ans",
+      "lien": "https://actu.fr/normandie/valognes_50615/cest-passionnant-ce-couple-cultive-des-sapins-de-noel-depuis-trente-ans_65031124.html",
+      "date": "Mon, 09 Nov 2026 07:24:01 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"J'aimerais que la justice passe\" : Michel Zecler réclame un procès \"à la hauteur de la gravité des faits\" pour les policiers accusés de l'avoir roué de coups",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/j-aimerais-que-la-justice-passe-michel-zecler-reclame-un-proces-a-la-hauteur-de-la-gravite-des-faits-pour-les-policiers-accuses-de-l-avoir-roue-de-coups_8263784.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 09 Nov 2026 09:04:22 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "CNews : la pétition pour « supprimer » la chaîne a dépassé le million de signatures, deux jours avant un vote pour décider d’un éventuel débat à l’Assemblée - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOR2tUUXVUTENXajAtcXl2bkUydjcxVFlvMkdWNGo2SzRUUm9SdVY4VTlpQUhkY1Z6NExRSjBtUjllUWVMMzhOZm1VM290TVJMTnVtZ256aWF2QTROekdTSFVsVXFSX1Zsd1lHcXFXX3JYNmxsRV9zSWhBdm13UzhJYTNGUUNqMHRyMEFJemdsVDhZVFMxOHMxaFNFbUJsOGxuTkVtNVprRjFabVlSU2w2bjlSS3lScjdzN1J0T3V5OFV2b1RtOVNhMG80cjNQeUYtMXRSd2dYTTZMU3VwMkZoR2xtdVZiU0R5Nll3d1NodDk2NHFzOFczTk82b2pIdEh6TXJWYjVsbDNfQkNMSnB2YW4tRWowTTlDTzFWcEwtOEM3WTlvTlNkb1poM3VKWHY0Y0JVazJTV05Qa0tyOTRr?oc=5",
-      "date": "Sun, 08 Nov 2026 21:43:17 GMT"
+      "titre": "Conférence sociale : \"La colère ne va pas disparaître parce que le gouvernement aura annoncé quelques euros sur le smic\", prévient la CGT",
+      "lien": "https://www.franceinfo.fr/economie/greve/direct-conference-sociale-pour-repondre-a-la-colere-le-premier-ministre-reunit-lundi-matin-les-syndicats_8273954.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 09 Nov 2026 09:16:52 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, guerre en Ukraine : à l’approche de pourparlers à Abou Dhabi, Donald Trump promet une fin prochaine du conflit, avec un pays aux « contours un peu différents » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNS2k5TnhpMUdjMFRSb1RxV19tRlktSVkyLVZMLTc4ejNRM2JrdzJfd3o3bFRNMC0xTkxfT1dfMml1SjJSTDUwVldRRno2VDdoWGVmVXQ0bDRrVjhYQk41OFpjNExHUWlkOEExZW5sblM2dDBJZzhVMUstSEplSC00VnJPWGJoNHlXMmduT1pXNUFVWGZTV256TEc3R2xnX3ZhOXNGaC0wN0taZW81TUthVEZncENMZDNPX3FpYnU5cU5zclZXTHVMOEs2MERrTFA0LWFnRWZjLVJKNGJOejJRelNKSktXZmRUWGEzMGhFb0VXaXRiMG1TRjhGNzVJbFMtR3lv?oc=5",
-      "date": "Mon, 09 Nov 2026 08:59:07 GMT"
+      "titre": "Electrification, intelligence artificielle, financements... Quels sont les enjeux de la COP31, qui s'ouvre à Antalya ?",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/electrification-intelligence-artificielle-financements-quels-sont-les-enjeux-de-la-cop31-qui-s-ouvre-a-antalya_8223061.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 09 Nov 2026 08:02:57 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Var : elle avoue avoir tué sa mère de 89 ans au fusil de chasse - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkpGOWFjOVNMU0RCN0ZCaUhxd0tQaXg3NG1ETGlBTHVxS0dVRmtMSUN5bTh6dWQzY3FSWnl5MkVOSTlNNjZsSlhack1NYnVhMGlCa09WelJkWVdtM2xYcThFVW1jaVBKMWJMRTlLZEE2WnU4VjB0TDl1ZG1Ba3VKcmhLcHNZYVV3a3JHRGszWWhPbGRsYjFHWjM1Z0xjSUtQeHlhY0w3aHRVZkcwTThDYmY0dFA3eGVDd0E?oc=5",
-      "date": "Sun, 08 Nov 2026 18:16:54 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Lettre de Maxime Gleizes à son grand frère Christophe : «C’est toi qui me fais tenir» - Libération",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUlpWOU9XcXhGSU1VS0dXNng5M21OcENYWmdLeU8xVUdnUjltbG1lMG9CNFNyQWh1TzRrM3B3dG5QX05jV0Y0cFpiRm9ydmRuQkZpRGVpUVA4TEtVTnFHbTRDR3Bzc3F1SmVuVTZ4eTBjZzNqak5zbmpuVThjd2VMZHRkZXN1NGJRU21ITEEwVE5uWVlPN1JDN3g2eGpZazZ5aW9mSnJ3QUk0S2FIZzRoalA4TzN3TmVOaVZuTVE2c29ZOU9aRXExTU9JN0VpQ0FsYmdYQVBVQi1ib01jdGRIVWtVTFZiUQ?oc=5",
-      "date": "Sun, 08 Nov 2026 20:01:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Edouard Philippe tente le pari risqué du virage à droite pour sa campagne - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQU0F0aUc4Y2RMUlBiQ0w2dTFjNXctbW10T0ZPYlE0X1RQNkxtbUpyc0xvRjVJTk9TVDVWVnlEVm0tYjVPeko0Zmw0WVRFZjVmYm16cFQ4dXktd1hTNnBXcG9WV3lLbWlKT2ZfMC1IcUQxRm9QYjl2ek9HWG5NUnVlNjlpenhtSkFXQWdMQ0tCTHV4VDIxWlFTRUdzU3ZtcGlyOGpQZGU3clhpOTZBMkMwaFhadlV0amRyMkRpazN6NjdLZ1BCMEthZlV5Yjg0R3hlWmtPU0Nvb051VFZVUEdEN01ya1dLX2xNRkRzLVE4UFVLUy1NUE8ycw?oc=5",
-      "date": "Mon, 09 Nov 2026 08:00:12 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Eh bien, les Français crieront. Et après ? » : la méthode pour relever la France en 200 jours existe, la voici ! - Paris Match",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbTc0VmlrNmZLWjI5TTE4bWxlZFZDV1I4aTc4X19Uc3RDWEF4TTZUYVJ4Z2ptMTVYaXZfMllGUENGa3pwaFhkVExwX0tjcXB2V3NnV0kzRGNCUGNzNU5mZDhHNl9kUEJCWWFoU0ZpcVl5YzlhWlJKVV94SEJELURQbVg3bDZMdVpWUGpzcEk5eHRFSnh2WlNkal9oOHlvRE4tV0ZtZUlhZ20zS0ZHZUFIdlQ3eG02ejl5SjViUXdFbU40MUpsUnZ2dWhUS2R4QUFQ?oc=5",
-      "date": "Mon, 09 Nov 2026 05:02:43 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "L'auteur de l'attentat en Pologne, qui a tué au moins six personnes à Cracovie, est mort",
+      "lien": "https://www.franceinfo.fr/monde/europe/l-auteur-de-l-attentat-en-pologne-qui-a-tue-au-moins-six-personnes-a-cracovie-est-mort_8274095.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 09 Nov 2026 07:41:33 +0100"
     }
   ]
 }
