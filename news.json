@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-08T22:22:09.891147+00:00",
-  "manche": [
+  "updated": "2026-11-09T01:50:00.834523+00:00",
+  "items": [
     {
-      "titre": "Une nouvelle journée de mobilisation attendue dans l’Éducation nationale en Normandie",
-      "lien": "https://actu.fr/societe/une-nouvelle-journee-de-mobilisation-attendue-dans-leducation-nationale-en-normandie_65032010.html",
-      "date": "Sun, 08 Nov 2026 18:57:43 +0100"
+      "source": "Google Actualites",
+      "title": "INFO BFMTV. Le gouvernement va accepter une revalorisation anticipée du Smic au 1er décembre au-delà de 1.500 euros nets - BFM",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLWtWc1I4cU4yMWpYaUI4ZEJuQkVVYXZoeXlhUXVoWkRqejJMRy04OGg4bzVxOVdZNnh1TFdCVWZ4c3FmQjdqVlB1Mk5uQ012czB4bHFCNE9TQ3hWLXFEeVhYd0twSXpPQllMX183ZjZxVGQ3NmpxeGNrc2ZpaHk0MDZoallCT2JSTmpnT0ZIdHdXNkRkZjIzRlNHdnNmWTMzaXdla1Ita0JwOEF3U3piX2djSnUtd1NzQndqVjVrRXBmcldPRl9IaUduTVl2OUx6RF9xd3dBd2NKSWdjZTFpTENKZmNkelFSMzFwSVZ3NW4tOXZRN2dCaGwxZXVLUG5EZVVjLXJUMGdjU3NyR29OYVBsbw?oc=5",
+      "date": "Sun, 08 Nov 2026 17:49:54 GMT"
     },
     {
-      "titre": "Festival des Rendez-Vous Soniques à Saint-Lô : il reste des places pour certaines têtes d’affiche",
-      "lien": "https://actu.fr/normandie/saint-lo_50502/festival-des-rendez-vous-soniques-a-saint-lo-il-reste-des-places-pour-certaines-tetes-daffiche_65031912.html",
-      "date": "Sun, 08 Nov 2026 18:27:05 +0100"
+      "source": "Google Actualites",
+      "title": "Attentat à Cracovie : la Pologne découvre le terrorisme dans un contexte sécuritaire dégradé - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNDdieTRqRjJUNm1odDVRc1ZZeTBYalRhRjVnMFVhWmU0WFB3SGRvMlpzclNMXzBXdjVTRmdYcUptcEZVNDEwalFLeEVnZ1F0d1dDSVJKSXhnN1RzR3hQd3dWOTM5R1Y1OEpFV1phVEVhbi1fME10eXRfcFNGVkNtNEdkc1RTU1lDZlo2ZU1VWTR1a2pveWdqc1dsQkRsNUxzWjN2emdnVDZKS1VOeXc5NFlpeHFCX2x2cHdYUmpHUnZENGpMMGVYaVhvVXVVRHVz?oc=5",
+      "date": "Sun, 08 Nov 2026 15:39:49 GMT"
     },
     {
-      "titre": "« La France rentre dans un cercle restreint » : la construction du drone sous-marin de la Marine est lancée",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/la-france-rentre-dans-un-cercle-restreint-la-construction-du-drone-sous-marin-de-la-marine-est-lancee_65021260.html",
-      "date": "Sun, 08 Nov 2026 17:40:01 +0100"
+      "source": "Google Actualites",
+      "title": "L’affaire Michel Zecler, emblématique des violences policières, devant la justice - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZXRoSXBZSkE2RWoycUxxTkktU0NuQzJGcndTVHpkWGwydDFubHRNQ0g3UzVtS19vUk1FRFFfamJsaTlyX2tJR1pRQk5zMlgwNlZ6SERFSnMxWjBmSjB6ZzNQYzdpemg0Qm1nX0dDZFdIMUtQdUdETmhrRWhGamFyTFlLcjFOMEdPbFZvMzdVTkp4R2tuU2hVcXIxTmtfbEtsYnljdnVIcGp4bVNyVHdMRFhGdmktNUFGaHU0VE9fMFBENkhVVTZwaVU1dmZBSURkV0lpVmVtaXB6Vm02NWg1Qg?oc=5",
+      "date": "Sun, 08 Nov 2026 17:00:02 GMT"
     },
     {
-      "titre": "Football. Retrouvez les résultats du week-end pour les clubs de la Manche",
-      "lien": "https://actu.fr/sports/football-retrouvez-les-resultats-du-week-end-pour-les-clubs-de-la-manche-3_65031866.html",
-      "date": "Sun, 08 Nov 2026 17:36:02 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "Six personnes abattues dans la rue, un suspect aux idées \"ultranationalistes\", trois corps retrouvés chez lui... Ce que l'on sait de l'attentat en Pologne",
-      "lien": "https://www.franceinfo.fr/monde/europe/ce-que-l-on-sait-de-l-attentat-en-pologne-qui-a-fait-six-morts-et-quinze-blesses-dans-le-centre-de-cracovie_8273087.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 08 Nov 2026 15:09:54 +0100"
+      "source": "Google Actualites",
+      "title": "Accident de car dans l’Ain : le chauffeur mis en examen pour «homicide involontaire» - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUhSZ3NYaEVQbFVrWDlnWkx3MHVLUHNGdkEzbWFsZ1A2YW9pOVlldWgtQlA5dDV2bnhXdGZhcEJtWTBqeHN4UHNrOFczUGlqMlVoUGg0TTdTZk4xcXZtYlVuZ0lDVHRMakdjZEhyYTdBUG1URThibm50Z2hHeGQ3VTVldnp6VjA3d0lJbnN0RXRuZlcwRzhULV9xdkxSYjQ5QktYTkdzVDNUZzVXR2g1Q0JXWlV5VEo4V0FhSUlTd1BCQkNL?oc=5",
+      "date": "Sun, 08 Nov 2026 18:30:19 GMT"
     },
     {
-      "titre": "Accident mortel dans l'Ain :le chauffeur mis en examen pour \"homicide involontaire\", annonce le parquet",
-      "lien": "https://www.franceinfo.fr/faits-divers/apres-l-accident-de-car-ayant-cause-la-mort-de-deux-personnes-dans-l-ain-le-chauffeur-mis-en-examen-pour-homicide-involontaire-annonce-le-parquet_8273654.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 08 Nov 2026 19:27:07 +0100"
+      "source": "Google Actualites",
+      "title": "Ce que l’on sait du tir de mortier qui a blessé une députée LFI dans un salon de coiffure dans l’Essonne - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm91Z2VRZlZHYkFaVWxzcWFEcXRVcEZEX2N2NS1lTHZtSXFfMVgtM0dqOFBqT29HU0prbHpTdWNIUnlTQmFXX0t0YXQ4QlZWaC1vM0NxNDY4UXRhNHg3Z1Q3UU43T21IWWl4VWQ0N2w1dE9wSEtDZllqSGs0UTdQWnExX2dpdXZzQzl3SUpWYWk4aVJrUmxkX3lSQ1poR09uNWZkVjNsUlpILUdGV19aY1czdE43dFo5NXhoZEFqeE9RU0R6YjREcVhIMUlVbEhoVUlJS2tNSlYwNnRRRHg4WlBibWV5SzAzU0ZKOVRuRHc?oc=5",
+      "date": "Sun, 08 Nov 2026 18:56:38 GMT"
     },
     {
-      "titre": "\"La seule option est un gouvernement de gauche avec nous\" : en Israël, les citoyens arabes espèrent être représentés dans le prochain gouvernement",
-      "lien": "https://www.franceinfo.fr/monde/israel/reportage-la-seule-option-est-un-gouvernement-de-gauche-avec-nous-en-israel-les-citoyens-arabes-esperent-etre-representes-dans-le-prochain-gouvernement_8273099.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 08 Nov 2026 13:56:50 +0100"
+      "source": "Google Actualites",
+      "title": "\"Nous n’aurions pas dû donner la parole à un enfant\" : Franceinfo regrette des propos insultants Emmanuel Macron, tenus en direct par un garçon de 8 ans lors d’une manifestation - L'Indépendant",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQWXJYeVRwbklKcWZHWmxkdWpxSmlTSWNjdm5jZ3lUY2dCenpsbjlmcVI4OE5mazJvWFA1c084c1p0QndZU0FxY3kxMHNDeEs4VmpQdmV4LXhtbWlkNE5SMkFtZlh5UVF6bm5YSjhtUXJsVkhtUnZGVERWa3ZsUnFkVDVIS0phT0tub0I3T1UwOENPWHFBQzhlNktibUhlZ1BHUEgzeW84OU9abXRvZTlWV3VsZDBRSHNKdHFMWEFBdmoxa0V1MjBmT0lpS0pFVUxnWUJWMTBoTHdQQm5fWG1pVUp5SVo3TXhFUHRFRnRTS2JsT0taSnhPOGl2ZDZEYXVFejVjdnA2M0NFTWxBWERSVEhGXzFBSl9jcXo1TEVlRjhveElW?oc=5",
+      "date": "Sun, 08 Nov 2026 15:19:00 GMT"
     },
     {
-      "titre": "Le géant de la tech Nvidia lance une enquête interne sur son patron, qui a entretenu une relation avec une femme soupçonnée d'être une espionne chinoise",
-      "lien": "https://www.franceinfo.fr/internet/le-geant-de-la-tech-nvidia-lance-une-enquete-interne-sur-son-patron-qui-a-entretenu-une-relation-avec-une-femme-soupconnee-d-etre-une-espionne-chinoise_8273777.html#xtor=RSS-3-[lestitres]",
-      "date": "Sun, 08 Nov 2026 22:44:58 +0100"
+      "source": "Google Actualites",
+      "title": "La «Nouvelle France» rassemblée au meeting de Mélenchon au Bourget : une réalité à ne pas minimiser - Libération",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOUwyQU8ta3dPMy1aMTJTa3F1dG14THZkZ21Wa0RENkkzVTkzYlFRMTd3SXA3bzFxWGN3S3RFcEJ3SV8yMFVLeEtZVVBNY1ZoRE03Rnk2Wl9hcmsxUE1ZeXk5SDA5c2ZIV1ZEQXdweU9pRFNmd1h5aWVWMlU2UHBGSzFxWVFyNFl2SVhqZkJyS3E3Tko5X1ZzaDlvaVliZnVaZ3VPTDY1blR3Ukl3M2F5eHFnZFI1YjlqdGFTcGdXRi1mb0NRTkM4MXJyTmlMdWJEbGJsT1h1MkhmOUZCWGRQcHdFeDlENTVyeEkwdW9TdTd1ZGlvRzRXNXZ1ekVtTkxSM1BmU2w5YW0xdw?oc=5",
+      "date": "Sun, 08 Nov 2026 17:10:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Incendie au domicile d'un policier à Auch : \"extrême gravité\", \"limite inacceptable\"… Les événements suscitent l'indignation dans le Gers - ladepeche.fr",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPV1owUUZJNDZGWDJUNHN0QXBDWllFOVd2ZEFvakcyMFl6LTlwdDAwUlg1aEpMWmNaTTI5cW9nbm5yWFgwa0hxblA1ODhQSThjWlY5eG9hOWRvRmlGZTZwU1djajNwTVp0aWZnU29FbFUyZDNGamttRXlxb1ZpV3N4eVpWWkNwNnVSenkyRnl6REJUdWNkTUxpTGJrdjEzT1BRQnJpNjBtcnc0VUJEbWI0THRmTWZ2NmM1blB1SVoyVjF6MGx3Z2plZUFyUDM2Z1lpNFBZdG5FSTdhQks4NFJKY1A5VHVPN2w1Rkk1cjUyR29XZzdIYWQ3UU9fZmQwdjBlSnF4V0M4QQ?oc=5",
+      "date": "Sun, 08 Nov 2026 16:11:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "La pétition appelant à fermer CNews atteint un million de signatures sur le site de l’Assemblée nationale - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQnZhS3Job2IxeGpvZVl3QllNU0RBRDJXbV9lOXZQa0JRWTBuOVpTR2VpSkJkWkxGWmFhbG5NRHZrUXRndTVDejdGOHNMcm5ERE5wMTVnRTlwYW1yNEVrdk4zc19mZFIyN1BQTi00V2s2aU9jSU9KNHBKams0WTE0bl8wQXp6eDVOekNELVdwZko3ckZsSFRLSkRhTnlrSGQ5bklwam9GT1I1TUw0anFSN3JDQVhCTkl1M2J0S21HR1dwOVpkbVlHOTd0TlNuTWt2MVEwY0xXVXJBbTBBLWFHRDhTN1VnUjJMNDVhVmZYYkpRWnlHUkJIanZobW52MGdJd2FNNzU4WWtoWDFwTUxB?oc=5",
+      "date": "Sun, 08 Nov 2026 21:04:34 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Mobilisation du 7 novembre à Caen. Des CRS sur le campus : le président de l'université demande des explications au préfet - tendanceouest.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZ1RoSjl6RFdzLTBEOWtnTkt1cUhMZlU5ck5UT0FfYmZ5UE0wV1Q4NWdGQmpXQ0Q2Qm9NNy1FVTdqZ1dyMUdHMm4yOTZrZnhaWGJNaTlRZV8yWWVyd05CaE9yUDlPNk4yUERhODF0cDlPd1pycVplUHZQSGJya0ozbTExTG5oemVjRnVSaXhDRjNYdnJveXNaaGtTNWE5Ml9qSy1iQmwzSERkNFJqRnlYZWpzWlpPbW80MDUxNG91bEhCVHMyQjdmVmVnQVdEVS1FNFpETFh1eDFrblhUX29id1N6MzRVeURtZ1NNOTMzaHBfQTQyVGxRbWR3?oc=5",
+      "date": "Sun, 08 Nov 2026 08:06:00 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
