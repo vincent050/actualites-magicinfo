@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-10T10:27:58.179662+00:00",
-  "manche": [
+  "updated": "2026-11-10T18:05:00.312558+00:00",
+  "items": [
     {
-      "titre": "Deux professeurs l’ont initié au collège : Philippe transmet sa passion des échecs",
-      "lien": "https://actu.fr/normandie/bricquebec-en-cotentin_50082/deux-professeurs-lont-initie-au-college-philippe-transmet-sa-passion-des-echecs_65035352.html",
-      "date": "Tue, 10 Nov 2026 11:10:01 +0100"
+      "source": "Google Actualites",
+      "title": "La pétition pour « supprimer CNews de l’audiovisuel français » est enterrée par l’Assemblée nationale - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMkE0UGFRS2I5SUFsR1Q1aVhIVnhWRXpsaldCaW5SaThQMG5HeXN4LTNCRjRYVE5oN1BBZ1YxbWt4NjJzU2c5ZHpBcTlCVkZPVFFyNFpYNHJpLW5Dcnh0UlBva2Y5bE4tTURERjB6bGhOQkNLbHhoZXdtRlN3clJjd2lXc0ZYcDFWcmNlS3hCS0N5LW1oSnBidzFhSXAydEppMTNveXN3X2xqdWl1ZnZVTS1UT2x6UTFnRU1TMzJVdUNKVTdFMnRKMzduU1NxT0wxQlEwRW55cWVkR19Bc083S0NKZU1IVHdPT3dqZzBFRURnOUU2Ym5SaERB?oc=5",
+      "date": "Tue, 10 Nov 2026 14:16:10 GMT"
     },
     {
-      "titre": "Une jeune motarde blessée après un accident à Cherbourg-en-Cotentin",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/une-jeune-motarde-blessee-apres-un-accident-a-cherbourg-en-cotentin_65037933.html",
-      "date": "Tue, 10 Nov 2026 10:50:12 +0100"
+      "source": "Google Actualites",
+      "title": "DIRECT. Colère sociale: manifestation en cours à Paris, Édouard Geffray attendu à Chelles après l'agression d'une élue - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRTZJUUlzaTZfQnowbmh5bHJYYy1tejdOaEhmeGVRTEFXQTFDUmRrOXdzcWktY20yTjJ4YWE3QXpuZzJaT3VtaGFCQ1Z6U25GZ3RrbXF0NnNDNldPSHNmNFJzTEl4Q2dzMF91dHVqNDRBdm5qWWJuU3VCMDJ6T3Q5cEtDdXRlMmo2YUFrWVJrajF2NkJBcm9uT2pwd1N0c2xRME5ORmVnRzV4dHpEMFhnYVdGcmQ5VWhCMUN2TWVDZ2h5eFdPc1o5ZWRLd1FpdDQ3VVpFUnRJNUZwOFda?oc=5",
+      "date": "Tue, 10 Nov 2026 17:19:23 GMT"
     },
     {
-      "titre": "Bien-être et beauté : Roxane fonde son entreprise, avec des animations pour les enfants",
-      "lien": "https://actu.fr/normandie/vicq-sur-mer_50142/bien-etre-et-beaute-roxane-fonde-son-entreprise-avec-des-animations-pour-les-enfants_65035341.html",
-      "date": "Tue, 10 Nov 2026 10:36:02 +0100"
+      "source": "Google Actualites",
+      "title": "Rencontre Ukraine-Russie : une première journée de négociations «constructive», selon Volodymyr Zelensky - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdXJqODZCbmJ0akFfZFdnRGtqRVhBd0pnUjd0MkpUWkxxUVZIQnNjd19rakJEWTFWN2hGVGpSVVhQcUlxRWpFWDFmUU0xX2Ezb0hfSllabF9FOHRsXzlhWTl5TkszaFFMenJZS0QtcFVucVQzVEJkc3FhT0s3aTlYdzgwODJNNXM1eVJsbEJib2RZcVhXV3NRNmZyalZNRThwMXg4UEtuUDd6Z3huUloyQXFMUEpkWUJHWlhzN2Y3RlJuNFZBbERGcDdyMDhudW4wZ0E?oc=5",
+      "date": "Tue, 10 Nov 2026 16:20:35 GMT"
     },
     {
-      "titre": "« C’est notre bébé » : ce bateau emblématique du Cotentin sorti de l’eau pour se refaire une beauté",
-      "lien": "https://actu.fr/normandie/carentan-les-marais_50099/cest-notre-bebe-ce-bateau-emblematique-du-cotentin-sorti-de-leau-pour-se-refaire-une-beaute_65035381.html",
-      "date": "Tue, 10 Nov 2026 09:42:01 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "Négociations Ukraine-Russie : l'émissaire américain Jared Kushner appelle à un \"nouveau\" cadre de sécurité incluant l'Europe",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-reprise-des-negociations-directes-entre-kiev-et-moscou-apres-plus-de-huit-mois-d-interruption_8275967.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 10 Nov 2026 10:30:39 +0100"
+      "source": "Google Actualites",
+      "title": "Une élue aspergée d’essence par un élève devant un lycée à Chelles : enquête ouverte, réactions… Ce que l’on sait - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ0JrZF9NMmU5cndxYVc1N2J6aUlCQ1k0RFBmTlRvNXA2THBnRkxGOUxvcHBobE4tZXExZG91SVpZRkl0NHJnYl9HeVFMcjJsaWRXMmZnYjVLMF9RWlBLS05EYnh5TXhtZUFzcHlNLUg5YlM5SmpRZTlJY0U3bFE1TzQ2am9WbmFpeUFCTXAwckt4cDdoZEQ3ZnpqRFlWSkRaTGEzS0huSXA0aWcxX1ZYUWx5anM5NVozYmRTYlc4Z3hJd0xBZVQwSzlEWS11SkFTTUMxUkpfSGVIMlliSzBsU3pOUHRmNmF4T2doQ0kxei1lQWRC?oc=5",
+      "date": "Tue, 10 Nov 2026 12:36:57 GMT"
     },
     {
-      "titre": "Cours de soutien, allégement du programme, modification des épreuves… Le bac doit-il être adapté en raison de la mobilisation lycéenne ?",
-      "lien": "https://www.franceinfo.fr/societe/education/cours-de-soutien-allegement-du-programme-modification-des-epreuves-le-bac-doit-il-etre-adapte-en-raison-de-la-mobilisation-lyceenne_8274485.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 10 Nov 2026 07:46:58 +0100"
+      "source": "Google Actualites",
+      "title": "Tirs de mortiers devant un lycée au sud de Nantes : plusieurs élèves légèrement blessés lundi, une interpellation mardi - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOLWUxTERwSW1Ya3lsWnctQk93aE8zRmJmVGRoSXBFeGw2TDdHMk5YZGFaMENKa0tzZjVUOTF2TC12YkVjVmJGUi1QMmFudDRBcUtGaDBBQi1hMkM4alZyNHY3OUVYNU5XNHZ2YlIxV1NObGJqT1ZmREM2aTdMVWJFTzFVS29GYzJvQU9WMzJKbmhWV1ZjRWl4T0NTaE5xMnVtWVFhX2dYcTZaYzBHY09BSU1fOXN4aXoyMTZiTlVlVU42MDU2TDYtWldEQTZuOVNLX1FWaW41VWRuM2V5RUY3Z3dYLWJiYno5dWFBOXpOUUtBSHh0MFJPV1dfOVlPeDdic1BjTnBkb3N1NTNzXzJlb0NHRjczWWw2M1k4TWF4TXNXYmt6OHJKMXBpQQ?oc=5",
+      "date": "Tue, 10 Nov 2026 10:18:03 GMT"
     },
     {
-      "titre": "Cyberattaque contre des supermarchés : \"La question est de savoir si la France va répliquer\", explique le chercheur Guy-Philippe Goldstein, après les accusations visant l'Iran",
-      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/si-nous-sommes-capables-de-savoir-qui-se-trouve-derriere-une-attaque-cela-temoigne-de-nos-capacites-d-identification-et-de-la-capacite-de-represailles-de-la-france-analyse-guy-philippe-goldstein-enseignant-a-l-ecole-de-guerre-economique_8275985.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 10 Nov 2026 10:50:00 +0100"
+      "source": "Google Actualites",
+      "title": "Les très riches Français ont fait baisser leur impôt sur le revenu en 2025 - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHZIX2lmeEdMeFRjOUM0OENYa3RSTGstY3NFX0xncjh1M3VzNlFrNmhoRk82VEVHQ0RkcS1kdFNocGFKVXlUUzZkYXQ0d2FKRnFoWUZJcFg3emdFTFdrcGMxUXI5cUNVcTNVWU9zNC02Z3F6TmVnR0pSRS1xRTFfdkE5eFdsUmxFSWVldDFGbmtWOGtxdXZ5cDlSMDduTzZ0WEFGM1RNMDJ3NFpRWGsxeFlCUGZQSWdnUVl1TUEtRWxJb0xDSzliaFpNVmppMC1aYWpZX2xYR1RoVm9OSDJv?oc=5",
+      "date": "Tue, 10 Nov 2026 16:30:09 GMT"
     },
     {
-      "titre": "Le taux de chômage en France reste quasiment stable au troisième trimestre, à 8,2%",
-      "lien": "https://www.franceinfo.fr/economie/emploi/chomage/le-taux-de-chomage-en-france-reste-quasiment-stable-au-troisieme-trimestre-a-8-2-selon-l-insee_8275856.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 10 Nov 2026 08:14:10 +0100"
+      "source": "Google Actualites",
+      "title": "Face aux critiques, la présidente de la cour s’explique sur le choix de la salle au procès Zecler - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVU9PTkp1M21TZUs1Mm5iM2Rmem1YNXg0MmtVX0tKZkhqczYxZzM5Q0V6NW9POV83ODRpT3R4RTJhMzFWRmZFVGVWQUZ1LU51MTRYWV9vRngwczdESk5uV2NCY0NxMHM1eEZaYmxnOS0yeUVwMU83TDF1cVNpZElpNnVIUVgzMF9SaTQ2T1hHR0tVa01ObGxuQU50cWVpa1NiNU05R1FNRmtPQ25WbE80YWRHWml5QTZLd1V4YXBlamM0RDJOem9HSmpmY3lfNTJWVVZXZXNuYVltMWdvOUtxWHI1bm0?oc=5",
+      "date": "Tue, 10 Nov 2026 16:24:02 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Cyberattaque contre des frigos dans les supermarchés : \"Nous ne nous interdisons rien\"… La France va-t-elle riposter contre l’Iran - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOR1pXaW1XMGJmeVZUT0sxc1hNSm1Za2hpcGtmR241MXNpQ0RrdmVyX2pQRkxaQXNaMmZNM0VXcVlMZDVxRDRBUVVTYnVKbmsxOEpCV2xPVVdsamw1R0NGYXc0ZUpfMHBuZkhKc0UyZjJ6UFBEQ3RRTDN6OW5hMmhzLW1WcWo1dG84cWl5ck8tWU9KZjBINGt6eGxOSFNLMzZqRktjd1ZuQm5OU0JLNU5SZm9vSEFKVXNSR0dxY3dQTHlGbnhEczRnNTh4QVBhNUVYV2ZwTTBMSm5ZTEN2QVJoNFR1WmNFNzZTTHo4TGx6dzVSQjV1WVo0WEdJQnZIY05ucVRB?oc=5",
+      "date": "Tue, 10 Nov 2026 08:46:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "« Une campagne d’humiliation internationale » : le couple Macron dépose à nouveau plainte contre l'influenceuse Candace Owens - Paris Match",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYlMzcGJZT1JTNWpuVU5CcGxmT3Rkd1JlX2Zvb2hlOU8yQnN5bmxrZHV0Vzg4U1p2MTdtOEJQelY1WmhlWk1wenZyMGhkVEwzTl80MDBlZkFuRFkweEVrS2l2Rl9hZ0NaSEdDZjNFTHFTOHgxVTl2ZWNINGR2a05lRDVBbC1mdU1wNkRaeDdneF83RVhhcGV6Vk1aR2w3SVY5NGppMm9KaFVpSWdDU2FONmlKQkNsMDJPd1pSaVR4bm13QTktbGFhQnJGOWJmOFBIT3RiWnNDcWxKMnlSVUxGMTdBNkx2b3JVYmk3SVVKQQ?oc=5",
+      "date": "Tue, 10 Nov 2026 07:04:51 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Polémique sur les commémorations à l’école du 11-novembre - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVV6ZjJIN3N6LU1XZ3ZZdDN5MkVoVlVpWmtYZkJvNC1XQWlmaGhONlZRR3k5RWh4R3M4ZDZIVlY3UUdsOWN1SkRjX1AtRDMzQnZtUjBvWUdURUt0cDRVY0NTd3RXQS0xVk00STJxcWV6Y1ZRMUdlNWY5TG1EOW9FVldHVDBld3JzVi03djlySUJKdmF3T3owR09BMklqc1dZaXlxWHExakg4S2o4aE5pRU11b0VHSy1VbmJ5UXVDWVFoNEhfWHc5SG1rUkVMeFB3?oc=5",
+      "date": "Tue, 10 Nov 2026 09:47:00 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
