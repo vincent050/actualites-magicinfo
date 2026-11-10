@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-09T19:57:49.107683+00:00",
-  "manche": [
+  "updated": "2026-11-10T02:32:03.117881+00:00",
+  "items": [
     {
-      "titre": "La France fait face aux attaques hybrides : les récents survols de drones de sites nucléaires sont-ils liés ?",
-      "lien": "https://actu.fr/politique/la-france-fait-face-aux-attaques-hybrides-les-recents-survols-de-drones-de-sites-nucleaires-sont-ils-lies_65036972.html",
-      "date": "Mon, 09 Nov 2026 20:28:37 +0100"
+      "source": "Google Actualites",
+      "title": "La hausse du Smic va faire basculer 64 nouvelles branches professionnelles dans l'illégalité: voilà comment le gouvernement va frapper les entreprises au portefeuille pour qu'elles réhaussent leurs salaires - BFM",
+      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOU1dzVVhzNVFsTWNNc0w2aXMwVHFZTl9oaXVWanp1OGdFeXpqQlpVZmljTGJoQjgxSFkySEdySlJrck9vU0pINEQ5VG5zdzFiNXFWVDBNY1FlQmdTZGtTVVRGcGRkSUd6UHZwbF9vcDNMdEhvSVBLcjEweG1idFpkbjlubW5wWVB4N0VxTHN5eFJfV2pUeHRzaUhwYlk3cURRM3VwOHRWV196UkVUZ1ZUdGZaS1hGWENoU0E5TEpHdFNiczNDU0NpZV9vQ245aEI2dXpuWnZacDNicG5mQm51aVUxM1QxdFA5Wi1MQXAxcmZ2MDZEcXFQMGxUdzM4Ry0yOTlwWWFPR2gzN1M3Q181NnZnLWZWZHItcU9pdDFSRmx3MFV6eDVVSV9xcDVXV29NUktKaWhWSmpndms5X1NOaTJPUEdaNnlBZWtLdlotMHl2Uk5pLXhKQzZxN0FUY1NPUzBXTWNZaGJNcktZRnpqd1FQaUROS0tSU3JoT0pJTVExRG5qQzJ6Mg?oc=5",
+      "date": "Mon, 09 Nov 2026 17:05:09 GMT"
     },
     {
-      "titre": "Un Intermarché de la Manche touché par une cyberattaque : la France accuse l'Iran",
-      "lien": "https://actu.fr/normandie/la-haye_50236/un-intermarche-de-la-manche-touche-par-une-cyberattaque-la-france-accuse-liran_65036936.html",
-      "date": "Mon, 09 Nov 2026 20:02:34 +0100"
+      "source": "Google Actualites",
+      "title": "Au procès des policiers accusés d’avoir passé à tabac Michel Zecler, le public, indigné, ne peut pas entrer - Outre-mer La 1ère",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2oxYi1wMC1YNnVaRF81b1dHZTlIRjJXVl9wOXhMTnNkVUlRREZSQWdQbE9pTllsc0xjZzcxcnBMUXdTVl9JMWJQX3ZKV3lPcmJLYnY4SHpBQ2RIcTYtUVdSOURTaW1zdlNDNVFPUG1oZ3k1dVNMWWkyYi1oSzdLTjJ4UXlFc1hHX0FqME5UVFVzdURhN3ZYZ0d6VmhtWC1XeDNBTzU3bjFDYW40QmNGcGRqUmw1bXp1NlRBRWd4ZTJza3FTUjIzVGcweWc0N2N4a2RJRTlnU1d4YTBzc3cw?oc=5",
+      "date": "Mon, 09 Nov 2026 16:23:17 GMT"
     },
     {
-      "titre": "17 personnes évacuées après une fuite de gaz à cause de travaux dans le Cotentin",
-      "lien": "https://actu.fr/normandie/sainte-mere-eglise_50523/17-personnes-evacuees-apres-une-fuite-de-gaz-a-cause-de-travaux-dans-le-cotentin_65036885.html",
-      "date": "Mon, 09 Nov 2026 19:38:44 +0100"
+      "source": "Google Actualites",
+      "title": "Pourquoi les commémorations du 11 novembre à l’école font polémique ? - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3FHQmE3Z3VkQ2lUSnc3ejJRcEVORVNuazNLQkV5ZkNYYnNpT0NMSnp1QjMwRVhudUdZUEU0NUUwcGV1RUFfOGFKdmpWVFJDTjdmNTBHUHd0Vlg3SGI2MFpvYjZvbllFYXNoLUhmMHB0aVlYdmY1MThHUi1EWjY3X1JISHBDaTA2VTNOUklfanZOSVY2LTk4WEFlaVlZeTdnN0RWWlJJY0VjSjZ3MF9nWnhQUzIzMlRLcGthM0pGNjBZQQ?oc=5",
+      "date": "Mon, 09 Nov 2026 19:23:20 GMT"
     },
     {
-      "titre": "Teddy Riner candidat à la présidentielle 2027 : « Quand il se lance un défi, il s'y tient »",
-      "lien": "https://actu.fr/politique/teddy-riner-candidat-a-la-presidentielle-2027-quand-il-se-lance-un-defi-il-sy-tient_65036720.html",
-      "date": "Mon, 09 Nov 2026 19:36:29 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 18:59:10 +0100"
+      "source": "Google Actualites",
+      "title": "Mobilisation lycéenne : une grande partie des organisations lycéennes et étudiantes ont quitté Matignon pendant la réunion sur Parcoursup. Retrouvez notre direct - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNNFRsY3gzSTdxVERGb1dXcHBHOWZKOUROa3lsZGhCNTV1UGhwRXBvWW5NRFF0clZ2VHhBWHhGYjkycFlVSWhwODVUMXlyX3lSYVpaU0pYT3lPYVBSY09xUmUwN1R3Nk80bkFVeEdJTFFqYVdxZGNIM3JHbE9hbVYtZW9JcENxRnlMLUhqNTJ2SEVWczYwYkJldGtKdEZKSHFKdk1INFNsOWhMOHBTSnVVcE9Ka1BoYUY1VXlyd1M0LWZmR0lWMzZCZG5wMjltUjdaSXpsX0U0OV9KbU9TeTVLSmF5QXVKQjY2MEtuSllIeWc2RVplUlZEeENtZE5TZ2pOT2pqaTFQT1dNbzVvWXhnekZYNlVfUmhHZHZteXNKNHlyYjkybXZndFpJVmhFZw?oc=5",
+      "date": "Mon, 09 Nov 2026 22:04:37 GMT"
     },
     {
-      "titre": "\"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 20:15:21 +0100"
+      "source": "Google Actualites",
+      "title": "\"Il était impossible de gagner\": Donald Trump réitère ses accusations de fraude lors des élections de mi-mandat - BFM",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOV3EwR0RIN2xjWmtiSUxkWXRJVGtRYTBWZFVzV09pQmxZQ29BbUlqSXotbzNjRy1hZ20xamFfbERoMFRzb3g3bWp5V2JkemM5M2owRUh0Vk5ITUJ3WEhCV2hmcVM3SkRoSWREdUx2YzhFdnluV241bmcxcHZIbGtVRDBOdVg4MnlJYUVDZ3pla0k0VDJtLVhrNVdhQ0NydlZtR256aUVIMVJVcWJXUkZRMDl5QjlSWHVoV2tLRFFIUk9pWU1CWnJublhRTFhMNjJhSWZDQklYR1JENW5TR3o2ZUJmSkhaamFpWFppZ0gzOC1qWk5UQ0FNVVBTTkllTGpQRkJTWmpHU0l6bEVEVjZmVlgyZTdMblVfWGVFOUoyNDY3Y3BqWW5HeVA2UQ?oc=5",
+      "date": "Mon, 09 Nov 2026 17:18:17 GMT"
     },
     {
-      "titre": "Les coups de pouce au smic sont-ils \"exceptionnels\", comme l'affirme le ministre du Travail ?",
-      "lien": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-les-coups-de-pouce-au-smic-sont-ils-exceptionnels-et-pas-frequents-comme-l-affirme-le-ministre-du-travail_8253661.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 09:05:00 +0100"
+      "source": "Google Actualites",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d’une future « République écologique » - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSk9lLU8wSVZZbE9FQkRmY1hqa2tCVnF0RzlDSVlwbUItajdjZUY3VkhhTWUwNlVrOWdUSmw2NkF2Slpla243N3dHRFRic1pkWno3OVByU3RHUDlqNG5aZnlwWmktWUM1VGlKdUVTc1JtZlEtbHo4UTBLbFFna29WVlhXMVBlTC10c3lBN1Z1WXM5cFpOY3pJWFBDb2xrS3pXM2djM0plUXZ5SklxQ2tjZVZlREFzYS0xZHNMaXRacFJ2aXRpNWc5NnRQQy1RUzdkUFY3NkpEdmo5bENuSVlzSFJVWjE0X3ZTaVprSGpwZWF1TTg2Y3JOZlFwaHhRckFjbmZMVlNOOGFiMjU4X25tZE1UMTVsRHc?oc=5",
+      "date": "Mon, 09 Nov 2026 15:29:27 GMT"
     },
     {
-      "titre": "Le nombre d'overdoses mortelles a plus que doublé en 10 ans en France, alerte l'Office antistupéfiants",
-      "lien": "https://www.franceinfo.fr/sante/les-overdoses-ont-plus-que-double-en-10-ans-alerte-l-office-antistupefiants_8275040.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 20:19:32 +0100"
+      "source": "Google Actualites",
+      "title": "Sophie Binet et les lycéens refusent de parler devant les micros de CNews - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlJSTTdMVlAzczZDWnN4clNwOEx5LWtJNGhib1gxZFdaVHUxVjF6Tk5OdGdPR2xwRFpmaHFJa19KUGJIVXVnUWJBX2JLaE9DZ2VBYVBRTHVsdDk1VGlRdVBzTGZZNkFaLTEtUFdEVmxTUmh3b1ZILS1qY0JaX0ROeDFmX2NHZWR6S1RPZl9XSlROLXR1ejhpUFdOc2REQVVqSk42bDdKQUQ5VS05bkNXRG11SzZCdVhDZ0c1RnY0NA?oc=5",
+      "date": "Mon, 09 Nov 2026 20:41:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Le programme de LFI, « L'Avenir en commun », pris d'assaut en librairie - Blast",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTFRVa3JrTHhrUWhIQzlFZ0doSUJmWGJFLUNyVlRueGNISXU3UF9lU0RlSF9td2NYOEVEOTRrMkJpN3gzOTVxMnJyWGRMbEZWRGtIMUJ3bk55ZXVvTm96VzBpNHdMTkZaQWh0TUtSSjlrcl9fZXdKeDlUd3ZQWTM1QzJTMjVNQmdzamNtSmR6RzdZR0lYWWZHcFRuSlNONnYxRFktX1hYc1VDd0pySFdGM2YxRnNxcmU3TlBYY3VZelVoT3pLc1Fj?oc=5",
+      "date": "Mon, 09 Nov 2026 17:53:57 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "La pétition appelant à fermer CNews dépasse le million de signatures sur le site de l'Assemblée nationale - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa3FvTWlZM0cwRTY5V2s3SS1kSXpDSnA5TUh5cHJsQ1hoLXB4Y1NsT0tyeHhPRjdQT1VtcklSNjVSbU9POVFYU2pENVliQ3otQXlvWWh3LXQxQ0Z6RE1XeFNDNnJMQVVrQU5IdWlTSFd5cFVFLTU4SjNFc3ZRS2dqUUROYW1VSHlyTHlpUXdTeUFYTEVBelBNZXZwelZNYjkyV3hKTWdhend1eVA3UkNVem95NDhkRl9jTnZLQTVTamw2aXM5RmRaeUkycFJJdkh2VjgwOUZDdXRybnZlVVMxWjB4NnhhWVY1OWJJNmdlLTZyWGtsZk03cnF3?oc=5",
+      "date": "Mon, 09 Nov 2026 07:25:49 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Gel d’un an des promotions des fonctionnaires, non-revalorisation des prestations, baisse des dotations : la Cour des comptes avance ses idées d’économies - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOeUpiZDJtNFJlOHRYbTZmUmRjSzlkYm9GTTBzYzYwZDVqanVtaV9DOGZQbVljclUtWmdHZld5bkRTWEdjQ05KTFZXWEdoeUl0ZUVWVDNMNEF0ckR1REI5TVFGMkJYVEVqd1hKbURZQXRvM240ajFhcDlPR01ucFd2eDRsY2tpWE4yX3NIXzI1dXVMalBiMTNkdWRSRGRNUmhYRDhfUkdBbTVEdWN1b0ZNRmFrSDJBbkFRQkF3MEFJTEpMMzRNcmE1WEZoZUxKSTdobkhueXk1S255aW9jRVdXSUdYLXNxMlFzenlpdzhTaHJ3RzJwQTBGX1NsdVZ4VjFKcVNFQ0ZHSWVYcnFYYmdoc19sUkJIVElPWTZONlZoc2dVdw?oc=5",
+      "date": "Mon, 09 Nov 2026 19:17:21 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
