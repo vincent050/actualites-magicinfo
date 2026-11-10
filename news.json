@@ -1,47 +1,95 @@
 {
-  "mise_a_jour": "2026-11-10T02:38:54.962159+00:00",
-  "manche": [
+  "updated": "2026-11-10T10:26:14.915930+00:00",
+  "items": [
     {
-      "titre": "La France fait face aux attaques hybrides : les récents survols de drones de sites nucléaires sont-ils liés ?",
-      "lien": "https://actu.fr/politique/la-france-fait-face-aux-attaques-hybrides-les-recents-survols-de-drones-de-sites-nucleaires-sont-ils-lies_65036972.html",
-      "date": "Mon, 09 Nov 2026 20:28:37 +0100"
+      "source": "Google Actualites",
+      "title": "DIRECT. Manifestations : des enseignants en grève, les lycéens et les étudiants appellent à bloquer les établissements - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOS09IemxRS055T2dUN2taTkNyQ19UTkF1UUNpajhjN0tiUXg4R3RGNC1yak96OTd5UURnRWFvaExmSV9IR05FUkw2eE5ZaE1NQ2ZQQTkxdFVuVV9NbEdWLU4zb2ptR0lRSTZ1azdiVTU2T1prT3NodGlhOTlmaEJ2U3k3d0haa0NGQXBjNjd6WkEtLTl3bWFlcWE0ci1OUURCRDBEaHhkUzFIWDB5UFBBRk40aGtDT3VjcU1lTUd3emoyb0ZaX2E0aEtMQWNZZGNqNHd0N3E2LWlOMUNzQ2RTWklkbDRiSmxKd0l2TDZUNHo3UXd5NnQyc3RPSVE0NjhhZ0NLWHBKMC1kWnNHZEtiRzUxNFQ5bk5lMkVGY19RdlBhMEFnanRwWg?oc=5",
+      "date": "Tue, 10 Nov 2026 05:35:10 GMT"
     },
     {
-      "titre": "Un Intermarché de la Manche touché par une cyberattaque : la France accuse l'Iran",
-      "lien": "https://actu.fr/normandie/la-haye_50236/un-intermarche-de-la-manche-touche-par-une-cyberattaque-la-france-accuse-liran_65036936.html",
-      "date": "Mon, 09 Nov 2026 20:02:34 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, guerre en Ukraine : l’émissaire américain Jared Kushner appelle à un « nouveau cadre » de sécurité incluant l’Europe - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ09ULW1VZ3Y4TnBXMk5vWkNlUmIzTDhKdVN0VV9oR2ZWVjRmT1lJVDV6ZkJET21US21MSWpKb3d1enJGbllOOFM1aHludXljcHA5dmtoVk9TWnN5TmJ6OEZQb2Z2NXRCTzktd3hjb0RWZGh5MUtSd2ltQ3VnWkpEcWJCWmhpczkxTzl4TlUzYWg2U3BLbHhMeFctVDNzVVVYck9US1ByeXFzVXd3elJUaVRBODhlc2k4aF9pbmJSV19SaFpVU24xTEMtTlFUeFJSQkRKc2JEQUxEZ3hDTU5HRWV2ejN6MTNseWhzODAyeXpnWDk2dUFyX3AwSUxtREFaMDN1LThtaFRuR1ZQZVppUE1ONXBHN2ZYWTU5ZUJySkE2bkVXUG8zbE81ZldQSEk?oc=5",
+      "date": "Tue, 10 Nov 2026 10:10:18 GMT"
     },
     {
-      "titre": "17 personnes évacuées après une fuite de gaz à cause de travaux dans le Cotentin",
-      "lien": "https://actu.fr/normandie/sainte-mere-eglise_50523/17-personnes-evacuees-apres-une-fuite-de-gaz-a-cause-de-travaux-dans-le-cotentin_65036885.html",
-      "date": "Mon, 09 Nov 2026 19:38:44 +0100"
+      "source": "Google Actualites",
+      "title": "Quel avenir pour la pétition « Supprimer CNews » dont le sort se décide ce mardi ? - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZGx6MEZSeDdXaFVQVGFwSjNwbzA2eFdWdXlacDVITUpXRWx6OFBadjl2Nmk3MXB1aUl3SUs3ZHk2Yzc1dHkzbjd0V1ZMNEhrSlY3SWY0S2hjb3A1REgxdk4tSlFVSk9PVS1HQlhzWUdCOG85OTFMWU9FWlY1OUMtUWdiUXZkLVUtc2E4Q1ZUVXcxWW5pYXdnV1JtZ0VQOG1LUWRVZFJ1MXNuV0l1SnNpemNhczlEY2NMcW5ZZjZSclRsZENka1ZxS0VZUzJfTDNHejVSUm1KZjZTcnlZ?oc=5",
+      "date": "Tue, 10 Nov 2026 04:50:08 GMT"
     },
     {
-      "titre": "Teddy Riner candidat à la présidentielle 2027 : « Quand il se lance un défi, il s'y tient »",
-      "lien": "https://actu.fr/politique/teddy-riner-candidat-a-la-presidentielle-2027-quand-il-se-lance-un-defi-il-sy-tient_65036720.html",
-      "date": "Mon, 09 Nov 2026 19:36:29 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "La France accuse l'Iran de la cyberattaque contre des frigos de supermarchés, une unité des Gardiens de la Révolution visée par une enquête",
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaque-contre-des-frigos-de-supermarches-le-parquet-de-paris-ouvre-une-enquete-visant-une-unite-des-gardiens-de-la-revolution-iraniens_8274806.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 18:59:10 +0100"
+      "source": "Google Actualites",
+      "title": "La hausse du Smic c'est \"cinq balles et même pas un Mars\"? Le gouvernement réplique sèchement à la patronne de la CGT et rappelle que le Smic a augmenté de 75 euros par mois en 2026 - BFM",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOSDRteHMtQndqUWhaOUxKNFBRODVNZzNDaEVvV3FScXN1d0JsZjZrSXc2SnlIUUZvMlNWNlN2d0FaZ0tfd0psMlRUZUhnQ3hTTTZMU0xkal95NTNYMXo1d2VvTFNiSFk2MlBLcjBRVFZvdkN3SmJaNFJwdDFiZjhPbC1oMnpVak9fenhNMGhTYU04S193S0VDa2hqWkpLRWQ1TTk0UEVwZTBPSXNrTDB6Ym5MNGx1VEVYelVURHhvdExWdkFnTXpwaTRQb01GVVZVd2VrY2NOWEw4dk9lUkdsbUJKZWlfYnZ2NzVPZWtudGtYMzcwdHRzRnJNNWFRVGdtcDE0dVk3Y3NpcHp5U0lyOU5kbEVVa2lsU3hCSjdlQjYzMWJZUm85YTF4c25yUmlwem9qT1MxLXllRmQwSS1WTnAzbFFUaVo1Zi1XNFhZalYtclhtdHJPRA?oc=5",
+      "date": "Tue, 10 Nov 2026 08:31:34 GMT"
     },
     {
-      "titre": "\"Ça ne peut qu'apporter au pays\" : Emmanuel Macron félicite Teddy Riner pour sa candidature à l'élection présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/ca-ne-peut-qu-apporter-au-pays-emmanuel-macron-felicite-teddy-riner-pour-sa-candidature-a-l-election-presidentielle_8275085.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 20:15:21 +0100"
+      "source": "Google Actualites",
+      "title": "Emmanuel et Brigitte Macron portent de nouveau plainte contre Candace Owens - Le Temps",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2k1YnF3MTJlN2p2dXdBQmNEUzQtWFJuc25GMDdhR2ctaEhOQkNqVk8xdGc5OG5ZS2hYZmYtZ09HM0hBWWJCVGh6NFM5MTM3MkNzWE9wZXZ1OHlHMWFoajlMU3cybVl1Vk82WnNyOU13WUJ4YmpFNmp0SFpkM2dLUVlsLW5OZ0NXVDZmYW53TURSbjQ0MWE3ZTVtYzlycU5EQ21HR3lXQnFubTVmZlVPQg?oc=5",
+      "date": "Tue, 10 Nov 2026 06:28:20 GMT"
     },
     {
-      "titre": "Manifestations du 9 novembre à Paris : un parcours et un rassemblement statique imposés par la préfecture",
-      "lien": "https://www.franceinfo.fr/economie/greve/manifestations-du-9-novembre-a-paris-un-parcours-et-un-rassemblement-statique-imposes-mardi-par-la-prefecture_8275178.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 22:00:47 +0100"
+      "source": "Google Actualites",
+      "title": "Taxe Zucman : les électeurs de Californie rejettent une taxation de 5 % des milliardaires après un long dépouillement - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOampjcmxRdy1oREExeFRudGg5cWo4TkZSVU5oT3RwcHpjUWRFU2tuSkFGWFM5Q3lzR0JFam1TdHpOSUZIT0NDcHo3Z1BFUWotTjNNNUdqbFo2b1JXNzlUdW00SlJ6SGRMdlhfdlBJdFJpTnJ5SThwek8xTUt1cXJSTzR1TElVZ0o2dEVGTGRxMmx4Qi1TSkVVTS04c1hnSkFTc3lTM1NVVFp5Mkg4V3NSWkhyWk1rRkdoZ1Zab3lKaTRYb3FXcnFOdE40MzcwRHVPVkJnNUZlQURBeE1uaXJ0dmlVZHJPZnh6ZEF1MFpjR3VMaXJQbl9OVG9BeUtRemlpb2c?oc=5",
+      "date": "Tue, 10 Nov 2026 02:57:41 GMT"
     },
     {
-      "titre": "\"Si le smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME",
-      "lien": "https://www.franceinfo.fr/economie/entreprises/si-le-smic-augmente-je-suis-oblige-d-augmenter-les-autres-la-hausse-du-salaire-minimum-vue-par-des-salaries-et-dirigeants-de-pme_8275166.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 09 Nov 2026 21:51:58 +0100"
+      "source": "Google Actualites",
+      "title": "Teddy Riner candidat à l’élection présidentielle : la folie des grandeurs - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFVRcHIwV0xNRHg5ZlVHT2ExZW1JTzRmTURGNkFhTUR5TWVVWU5QUFZxbFk1Vm9XMUpfRkQzSnRlZEZ0SHlqbUlqZmIxdW8wcHFFakx1UGZkQS13M25HOFdXTEdUSjY4SXF1RHdpblFfQXZOMEZSNV8wSXE0TFRqZVIzXzh3Y2dNS1VsOGhBczR6VDJnMEx4SjBIaWFhdjFONGhfTG9PSjBPQTE3dFc2ekt4UUU5ZmViQnBTODJNNzBWNUE?oc=5",
+      "date": "Tue, 10 Nov 2026 07:11:37 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Procès de l’interpellation violente de Michel Zecler par des policiers : la question du racisme au centre du premier jour d’audience - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY1JJSnlpVjNNcUFQRFZDcFNKYjdXNzdVS3RkZlhaU3FhQk1PRzJvNDhCMmp4WVVBYUNLLUhRQVNtQVYtbWNPaGtfLTJ2LUhZZUJxa3NpWHU0T0hCREg1X1Rnbi1tMWV2N1MwUjk3X0s4OTVmc1VZbzZHdWJtZkl2TWhsa3VLc3g3bFphODFPOGxXbWJPa1hiakU1dTMzSUUtMjBRMGdRU2QtUEsyMU5JT3VIUURHWHVWUHVUWmNUa1d5RVZ1WWNpRW1pYl9EQlJLaVp5NzFISUxTdUJsUy1WSzVxNkVKU1lWVGs0bWVYazVJWkN6VFljcS1mTGxXYlo5OEFPRkw4aUtVTTlfQ3hVak8zXzcwUmZBamc?oc=5",
+      "date": "Tue, 10 Nov 2026 08:58:15 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Présidentielle 2027 : Raphaël Glucksmann met 200 milliards sur la table et invite le Sénat à voter en faveur d’une future « République écologique » - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSk9lLU8wSVZZbE9FQkRmY1hqa2tCVnF0RzlDSVlwbUItajdjZUY3VkhhTWUwNlVrOWdUSmw2NkF2Slpla243N3dHRFRic1pkWno3OVByU3RHUDlqNG5aZnlwWmktWUM1VGlKdUVTc1JtZlEtbHo4UTBLbFFna29WVlhXMVBlTC10c3lBN1Z1WXM5cFpOY3pJWFBDb2xrS3pXM2djM0plUXZ5SklxQ2tjZVZlREFzYS0xZHNMaXRacFJ2aXRpNWc5NnRQQy1RUzdkUFY3NkpEdmo5bENuSVlzSFJVWjE0X3ZTaVprSGpwZWF1TTg2Y3JOZlFwaHhRckFjbmZMVlNOOGFiMjU4X25tZE1UMTVsRHc?oc=5",
+      "date": "Mon, 09 Nov 2026 15:29:27 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Stature présidentielle : Marine Le Pen creuse l’écart avec ses concurrents, Jean-Luc Mélenchon en dernière position - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOXl1UG1uNWNCVjAyU0FaeEZ6bkJERENyYktfcDdvNUhFQktrV3V3R1hpLXhGZUE2LUtraEVDcmhmS1F6MTZmSUNTaHE2RUJHNnRfckk0QmlRUnJoLWdHNVo4VURqa2FMLWZ3X0tqelRoWmZPcnRDRElMMHg2U1ItdDJXN2RENnVicXU4aElPbU5IdDVpNEVnSEh1U2ZLaDBtejc3UUx1M0VPQmxHWFpSS0l6V2x3bjFVQjhVRnhLWFdhWDh2UXB6OVZ4bWlLYkdoTHE2eEFONEJJcFo5Z21xZE9jZ1hPUmZqRDY4XzFXd2lzQ2RHQk5QUk1Sbjd6UEZtUl9KTE1NcEFGUmxD?oc=5",
+      "date": "Tue, 10 Nov 2026 07:00:06 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
