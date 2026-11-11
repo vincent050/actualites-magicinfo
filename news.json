@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-11T10:18:36.220462+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-11T10:38:19.518938+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYUNrLV9FZDFidVZRSFkyVmE5a21qa1pYYWxxcUN6TVdWNDNDSmhvSEppc05wcm9uNmFpRGtDaDB1ODBxOW5UbzBqT0hiSVN4OXRXRExHQTR0UEJZVXhoQ1ZoQlVBWEN2cUFrZ3lpVDRBam5GTDlwRWNwTFZ4eEItaGRuTlZLU1pJdkFFeEN6VXVKMG5OMlY1NkJZRkpXeFhKVEpjMEwzd1pqVFhVb3ZTN1k0RzNxZGFDaWpWWkpXVTh3RXEzMDNBWkpaemdBUGJIdUFIUlF2RmlhYWh0aVFlbTJOM280Yl9CWnFvUHQ5TVBUalhhZWNnOFo4aw?oc=5",
-      "date": "Wed, 11 Nov 2026 09:39:25 GMT"
+      "titre": "« C’est la cerise sur le gâteau » : la folle semaine de ce Manchois aux côtés de Luca Van Assche",
+      "lien": "https://actu.fr/normandie/bricquebec-en-cotentin_50082/cest-la-cerise-sur-le-gateau-la-folle-semaine-de-ce-manchois-au-cote-de-luca-van-assche_65042605.html",
+      "date": "Wed, 11 Nov 2026 11:08:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Cinq cents jours de détention, c’est long » : Christophe Gleizes, toujours incarcéré en Algérie, raconté par ses proches - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOMnBnRS1nMktsR25XbGVVcXBaRG01aUdvZTNlRm5lZ3FwVVZKMmwtMVJQdGNCaC1RV1B3dWVoUEg2ZjNTcVdFR1FsdFBTd3RwUXc0aDhsQklUQVBtc1BNblpVWERXdHdKdWREUFcwZDg3NGFJT3pISTNvUndSeHN2SUU5a0dZNXFMMWdmZUtpV0RhVTFXQ1ZFamp1UVdXTWhJa2ZuVmZjYXFBajJ2N2JZR0M5eDdrU3RvSEItYXpPeURPRE13elJaSjlkZ2lZcHdsZVBKdDlTQTN0SXF2X2RCc21Ed0FESUo4YUZxU05xUXN4YUVKcTdHdXdsWUZUNEZNcXV2enhCREFUcEZmRERBdWtXM0lqVFU?oc=5",
-      "date": "Wed, 11 Nov 2026 05:00:00 GMT"
+      "titre": "Football. Départemental 1 : Hakim Plos, le monsieur plus de Pont-Hébert",
+      "lien": "https://actu.fr/sports/football/football-departemental-1-hakim-plos-le-monsieur-plus-de-pont-hebert_65042592.html",
+      "date": "Wed, 11 Nov 2026 10:36:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : à Abou Dhabi, les pourparlers russo-ukrainiens condamnés à l’impasse - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZ193dDU4N1E2ZXdkTGlSZlFodmdrdHRsOURlSjg3d0pPRHNsYnowNWlFUTc0VHVTUU1wbnVOWDJiSG1BbXg0N3VQX2xIWWt1TTFBN1k4WFZjdV9OdWxORE5ET1pvUUZhZmNWVWhBNmpVUnAzekJzeG5OQWxzNWYyUkgwMUVDNXJxak1aRURkYkRxTDFsWDI0TG9ZUFhXbnJvalpjQkhRZXVqREVpRktDeUFoczBOYU5jejFDQ3BpWjZKUkdnVDBLak1JSENQdE82NE5TWWo4dkVqdUYySWptUno0Xy1OOEVPbWxYNG9aZw?oc=5",
-      "date": "Wed, 11 Nov 2026 08:50:31 GMT"
+      "titre": "« On leur a demandé de dégager sur le champ » : une disqualification qui fait polémique pour deux jeunes tourlavillais",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cyclo-cross-une-disqualification-qui-fait-polemique-pour-deux-jeunes-tourlavillais_65042595.html",
+      "date": "Wed, 11 Nov 2026 09:44:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "11 novembre 1918 : tout savoir sur le jour où a été signé l'Armistice - CNews",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEEzTVIxVFFsOXNUdEVZdlJmZmV4NHcwZTlCdjA2ek1RankzaEFsNnlJbFlhQXNRLXJhVmgyMnM4QlFNbTUtRjQ1T2ZTMGU1ZXpPdTRpdkQteC1ab09XNmJhLUoybXZpMFVkVWUxNC10cGN0UWROdjQzbVE1QzJjUWpiWEVSUGhDZWNIRW1mYXJuUFBsNFpyeFNaWHVhZm1mSXc4Z1EzUlcwWENoQ293?oc=5",
-      "date": "Wed, 11 Nov 2026 05:02:08 GMT"
+      "titre": "Foulées de La Presse de la Manche à Cherbourg : qui sont les favoris de la Régionale ?",
+      "lien": "https://actu.fr/sports/athletisme/foulees-de-la-presse-de-la-manche-a-cherbourg-qui-sont-les-favoris-de-la-regionale_65042600.html",
+      "date": "Wed, 11 Nov 2026 09:22:01 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Cérémonie du 11-Novembre : Emmanuel Macron a rendu hommage à Georges Clemenceau et au soldat inconnu",
+      "lien": "https://www.franceinfo.fr/societe/guerre-de-14-18/11-novembre/direct-ceremonie-du-11-novembre-suivez-les-commemorations-et-l-emission-speciale-de-france-2_8276093.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 11:35:32 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"Supprimer CNews\" : les députés classent sans suite la pétition à plus d'un million de signatures - RTL",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSHRhMkZBWDFpZDlsVW1XeEQ5MXU5THYzTUJObDNOLTQwZ1B3SElfSWVRYXdMbzM2UEdEWTZoTU41NG4zVTktSTRvU2dWQ25YNFR2bnRCZkx5VWJTZUtQeERDUUpEUEVsdjJjRWo4WlFDTjVNeHVhTWRyNzdVVGduV1pGU0tzYmhHTXQzZ0llNXV4TDQ3QVpsZ3lwcjJ6bWxxZGF1RHdvODN3STBrNG1yMGdPajZRZ09wMldsMEQzQmlMdDE1ZGJKYjVPMVZGd3VuZjE2Ng?oc=5",
-      "date": "Tue, 10 Nov 2026 13:16:31 GMT"
+      "titre": "\"J'en appelle à la responsabilité d'Emmanuel Macron avant que notre gouvernement change\", demande le meilleur ami du journaliste Christophe Gleizes, détenu en Algérie",
+      "lien": "https://www.franceinfo.fr/culture/livres/emprisonnement-du-journaliste-christophe-gleizes-en-algerie/j-en-appelle-a-la-responsabilite-d-emmanuel-macron-demande-le-meilleur-ami-de-christophe-gleizes-detenu-en-algerie_8277422.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 09:09:29 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Comment l’aveuglement de Jean-Luc Mélenchon sur l’Ukraine fragilise sa candidature - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFE2MVNwbmtpRDl5a0Z0LXExcWw2WDF2V1ZtZG1PYjVGbmpqM1ZFTDBOQVVJZEh2UmJiSGJnU1Q3WmdhRFVPa1MzZm5TNnludkRKcjN4Y0tVdnhMa2l0eTBWNjJaOVU3ak1UN2N2MGNKeGFQeVRpcHFicjZsRGZmeWJBUlNXaTd0ODU0aGNWV05YZkNhRXhTQkNhcWd2ODVvdG5MbU5aeGFPeVFBOFdldHlMQ2x5bFNHRzgwUXcxMUNGaWhwbDk1UWhHcC1nNVp0cHFKdVJYc3pKUQ?oc=5",
-      "date": "Wed, 11 Nov 2026 06:00:00 GMT"
+      "titre": "Le ministre de l'Education nationale appelle à \"la responsabilité collective\" et à une \"condamnation unanime\" des violences survenues lors des mobilisations lycéennes",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/edouard-geffray-appelle-a-la-responsabilite-collective-et-a-une-condamnation-unanime-des-violences-survenues-lors-des-mobilisations-lyceennes_8277461.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 09:38:40 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Commémoration du 11-Novembre à l'école : Alice Rufo déplore une \"polémique regrettable\" autour d'une \"célébration de la paix\" - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORVMyU0RYX0l2ZTZSd003UndoX0QxeUwxMEtQME1RNWJibWdkeUFIVVV4Z3ExWFJheF92NmxFa2c3OG5hYzNfc2lLSzlEMHBpSXRUS2h0ODNXSThkOTRub2sycFhUMnRGVVR4ekJpR055ekpfdjAybjlCZUZXQXNKQy13S1hUN2lRcU1sR2w2RkNLS0R0UWFnend5QjlsOGhkRVAxdnQxeWt3T3hNczlVWHZMLU5mcWNHMjNwNGN4Q0I1NDM0MDNsZnpsMFRxQUxqUFdDb3VKVDBGd1FYdDRRWmNsYi1xa0Z0UV9kWTF0Y3FwTVpZUmZVLQ?oc=5",
-      "date": "Wed, 11 Nov 2026 07:39:48 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "11-Novembre: que commémore-t-on en France durant ce jour férié? - BFM",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEhVcVluQ21jeUZ6eDhDQTE2RTNtdTJHVnhtMkNtWVV3OHNfR0QzbVFQLW1IZUZ6bHBIUHlIbHpiSWxqbWRlUmYzNnFEejJQY3pXd2tSNjQ5eTVuVnN1MjFGcEM1bXg2TEV1ZG9JcWFqQlY0VGtxOUI5S3c4THlYdDBCWkY3aTNzY1dpcU5Ob0hIR1B6eXNvMTA3anYyMW5yVW1TRzRiNEZRYS1wUXdIbjZ3?oc=5",
-      "date": "Wed, 11 Nov 2026 05:08:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Ce que l’on sait de l’élue régionale victime d’un jet de bouteille remplie d’essence devant un lycée à Chelles - L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeDFJTlRMRFRmdmFOR1ZkWXZWTEllbWlEbVBjdXN3aXZVbzcwNzdsU0dQMl9fSEhkMXBaMzIyRnRDV1JXT3ZJRWc2Q19LeFJLNkNHVnp4QU9ycjRMTFE5SloyTXVMQk1MMktaRHd0aS1EbHJMb0NYdUdycl9NUGhXcnc0QlRheWRXYklDT3dYUVlUbjhnb2ZoNG40blVVQUpwelBvZTVtSFdPQlkyRVVVYlRzUDNEVXZpMF84ZGNhaUpLa29CUjFjWmwwTEtNT0Qwc0FFaXFwYUNobV9tdGdwNFVVQ1pWNUE?oc=5",
-      "date": "Tue, 10 Nov 2026 16:06:58 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« À mon âge je ne pensais plus que ce genre de choses pouvait m’arriver » : ce que Michel Zecler a dit devant la cour - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMEhoUFkzZWswRk5rbGdnem1QNklTRnFCTVE3aUc1ZS02bDQ0VHktRDdrenIwRkhQbmRPd0NTaTJSNVlMUWlLdDFrTmxMMi1jSjJ3UERqZFdqbU16bFVIQlpqaWdCUjA4d2NEcFBWS0t5R3BRZUJfR0RULWgwOThibFRxaGlXUmU4QU50UENrb2pEZ2ljdmlLZnQ5WDZaVmNHeVVoQkowTkNvTnlnUUFVVHN0Q1Y0aFJOMWFwX1RyQWgydXdjMTZSdVVMdHhtbkpHUzNIcFVodzVHZHJPanU5MnRLU0ZvbzZ0aldsUFVnMTh1M3AycjdhdnJubVEtVGdLMWNwaTBOZWd3UW1kMHg0TjFvUEVubWp0VTdv?oc=5",
-      "date": "Tue, 10 Nov 2026 21:28:53 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Négociations Ukraine-Russie : le deuxième et dernier jour des pourparlers a démarré à Abou Dhabi",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-negociations-ukraine-russie-suite-et-fin-des-pourparlers-mercredi-apres-des-changements-salues-par-volodymyr-zelensky_8277323.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 10:02:20 +0100"
     }
   ]
 }
