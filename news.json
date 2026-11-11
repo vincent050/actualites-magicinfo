@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-11T02:54:18.568894+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-11T02:56:21.875424+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Ce que l’on sait de l’élue régionale victime d’un jet de bouteille remplie d’essence devant un lycée à Chelles - L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeDFJTlRMRFRmdmFOR1ZkWXZWTEllbWlEbVBjdXN3aXZVbzcwNzdsU0dQMl9fSEhkMXBaMzIyRnRDV1JXT3ZJRWc2Q19LeFJLNkNHVnp4QU9ycjRMTFE5SloyTXVMQk1MMktaRHd0aS1EbHJMb0NYdUdycl9NUGhXcnc0QlRheWRXYklDT3dYUVlUbjhnb2ZoNG40blVVQUpwelBvZTVtSFdPQlkyRVVVYlRzUDNEVXZpMF84ZGNhaUpLa29CUjFjWmwwTEtNT0Qwc0FFaXFwYUNobV9tdGdwNFVVQ1pWNUE?oc=5",
-      "date": "Tue, 10 Nov 2026 16:06:58 GMT"
+      "titre": "Accident entre une voiture et un poids lourd sur une route départementale, une jeune femme blessée",
+      "lien": "https://actu.fr/normandie/torigny-les-villes_50601/accident-entre-une-voiture-et-un-poids-lourd-sur-une-route-departementale-une-jeune-femme-blessee_65042257.html",
+      "date": "Tue, 10 Nov 2026 19:38:06 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Etats-Unis : Pete Hegseth, défiant et offensif, échappe à une tentative de destitution au Congrès - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYUNrLV9FZDFidVZRSFkyVmE5a21qa1pYYWxxcUN6TVdWNDNDSmhvSEppc05wcm9uNmFpRGtDaDB1ODBxOW5UbzBqT0hiSVN4OXRXRExHQTR0UEJZVXhoQ1ZoQlVBWEN2cUFrZ3lpVDRBam5GTDlwRWNwTFZ4eEItaGRuTlZLU1pJdkFFeEN6VXVKMG5OMlY1NkJZRkpXeFhKVEpjMEwzd1pqVFhVb3ZTN1k0RzNxZGFDaWpWWkpXVTh3RXEzMDNBWkpaemdBUGJIdUFIUlF2RmlhYWh0aVFlbTJOM280Yl9CWnFvUHQ5TVBUalhhZWNnOFo4aw?oc=5",
-      "date": "Wed, 11 Nov 2026 00:28:21 GMT"
+      "titre": "Pourquoi des pièces essentielles du sous-marin nucléaire du Brésil sont en construction en France ?",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/pourquoi-des-pieces-essentielles-du-sous-marin-nucleaire-du-bresil-sont-en-construction-en-france_65041951.html",
+      "date": "Tue, 10 Nov 2026 19:22:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"Si je n'avais pas les vidéos, je ne serais pas là en tant que victime\", témoigne Michel Zecler au procès des policiers accusés de l'avoir roué de coups - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRDc1OUl5U2lwV0JubnVxOVVLdEVRM3Z0QVY4VVFHQ1FVY3c1Z1RqdFcwMnlpc244TWVtVXlacmNUN1NQWHhvMlJCOGJMVzlCMXRDaUhaSEw5LS1iTi1OWXpKaS1vVlZZVHlUeEdZdFVFWDJQM2huZFZNU283bWE0NFNURFZtMnpfZXZtSlh6UWxCbVRnZGFmMW5mbHhqOEhUbXhTcG5QaFVQTF9IaGJEaG1Td1drUWxVQlg2RHptR2xhTUZYdHdRT2JHd0JWc2ZITUlvUG1veFQwU2d0M09VTEhLNFRXS2ZTbmZiakh6N3c1Y2wzazEtTXB6anJncm5KY21MX2RIaXpEV291T2V0d2NZWWNFdDZuRFlHMVFRYm1TazAyMDNZakF6bVd2TkdDOFN2MVNnVTAtYkhhS0N3VG82MHJsZ2tlY3g1NlViUzF3X3RkYXBMQWQ3QUQxOEdx?oc=5",
-      "date": "Tue, 10 Nov 2026 17:27:01 GMT"
+      "titre": "Près de 40 tombes découvertes sur le site d’un futur musée dans le Cotentin",
+      "lien": "https://actu.fr/normandie/sainte-mere-eglise_50523/pres-de-40-tombes-decouvertes-sur-le-site-dun-futur-musee-dans-le-cotentin_65037969.html",
+      "date": "Tue, 10 Nov 2026 19:00:25 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Pourparlers Ukraine-Russie: Volodymyr Zelensky salue une première journée \"constructive et assez substantielle\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNV1dZSU9uZDFsdXNaek5nMFlxalpyVXFCRDJ4YzNpRGMzMjFPUFFoeGRMS0JBWkwwZXBGVTBaN05pREJzSDRoRTRMc2h3MFA0QV91bGkyU0haQ0hRcXRqM0E1ZDV2WktVaXVra2UzbldYNUt2Wi1SM0NULVZSRVliR1ZzUng2cXRJdkk2bWgxMExqLXItY2FwbG9mdlpvaFJobmFLdGFtamZHNllZMGpvbzRHQnJrUGVrSTFCdkQzT1BFdUJlVjAyNm04aTh5N2RvT216UG9CVzY4ZWZmUGpXa29SUDI1aEZ0UlVSblhVbXdCd0o2eG1sVHhUTmpGd09CVkpxVmZMYXU3aHZ0?oc=5",
-      "date": "Tue, 10 Nov 2026 15:53:21 GMT"
+      "titre": "Conseiller municipal à Saint-Lô, Laurent Houssin rallie finalement le Rassemblement national",
+      "lien": "https://actu.fr/politique/conseiller-municipal-a-saint-lo-laurent-houssin-rallie-finalement-le-rassemblement-national_65040900.html",
+      "date": "Tue, 10 Nov 2026 18:38:52 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Si je n'avais pas les vidéos, je ne serais pas là en tant que victime\", témoigne Michel Zecler au procès des policiers accusés de l'avoir roué de coups",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/si-je-n-avais-pas-les-videos-je-ne-serais-pas-la-en-tant-que-victime-temoigne-michel-zecler-au-proces-des-policiers-accuses-de-l-avoir-roue-de-coups_8276522.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 10 Nov 2026 21:56:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Avec ce coup de pouce, beaucoup de salariés seront rattrapés par le SMIC sans résoudre leur problème de pouvoir d'achat » - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkRORUt4WHNWVkk2ZGZMQ1ZyYVBJbkxmOHp0akI4SE1XUVdxZmN4TnF1OGhPejFhQ1FFNk5WMHNKbjFZVGY0cTRXVFdnWDVlTGdDSVJhNXRzVEc3aFE5S0xxNXNjcDEteTd3eDRPRDc2WWhHNkJqNjg1b0ktRGxXRzE2bm5uOFNtN0FELVdDbjBGUllWcDNIc0FTSTR2dTZySHhrOE5vWHVNeUkwQVZPNU9nM2pSQ1B0U041N2tTajZxUXE0Y0pZdnBUdFBDczBsd0lrcGVnaHpZc2k1clBSTDNSZFpNZFdGc3poalFvMzdZWTEtaGNzdjIzN0xaYlk5NWc?oc=5",
-      "date": "Tue, 10 Nov 2026 05:15:09 GMT"
+      "titre": "\"Ils font preuve d'une grande maturité politique\" : à Paris, des professeurs manifestent pour soutenir leurs élèves lycéens",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-ils-font-preuve-d-une-grande-maturite-politique-a-paris-des-professeurs-manifestent-pour-soutenir-leurs-eleves-lyceens_8276117.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 10 Nov 2026 19:15:54 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "«La macronie a laissé tranquillement l'Arcom fermer la chaîne C8», rappelle le député RN Julien Odoul au député EPR Sylvain Maillard - CNews",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUEoyV3VDdWstTGJoc05mcTlYNEFVNmFscGp2MEQwYW9YTG1OSzZVODdzbDVlOTJ4Nk1BSERtTGlJTlkzOWNmUTZHc0ZtYXlfb0txNzROVHNTTGlsMVJhN1NzV25UdndwV28zRFRRVlVjS3FUY3I4aXY2REFNTDZyd0R4RTBuS1lGR1p0UXo0SjIxeFlZSC1xaERjYnA3Y0phRTVDS1EwbF9JOHlsQTNFQ3BHWGFacWhYMmfSAb8BQVVfeXFMUFhCTUNaaDFqSkNab004bXM3UnF1ZVpSaXRWeGtnUEpXeTR1NW50NWV2NXFtSDhDckZ5UDZQcW5VeW5KRVl2LVhva0lCaU0xZ2ZZVzYwX1lmTTlHeFg2Ym1aeDFQWjI0OVJ0dGh2U1Q4NnBpNEVOeVVtTGVUeWh1NXM5eXhNUV9leGt2d0FQS2ROY0pnbVpNcUJVU3Jqa085ajJqbjNNOFF0SW9KcDZtNy02VW9aN3A1YnI3RWZuSU0?oc=5",
-      "date": "Tue, 10 Nov 2026 17:44:00 GMT"
+      "titre": "Qui sont les candidats (déjà) déclarés à l'élection présidentielle de 2027 ?",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/portraits-qui-sont-les-candidats-declares-a-l-election-presidentielle-de-2027_8208032.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 10 Nov 2026 20:48:18 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Tirs de mortiers devant un lycée au sud de Nantes : plusieurs élèves légèrement blessés lundi, une interpellation mardi - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOLWUxTERwSW1Ya3lsWnctQk93aE8zRmJmVGRoSXBFeGw2TDdHMk5YZGFaMENKa0tzZjVUOTF2TC12YkVjVmJGUi1QMmFudDRBcUtGaDBBQi1hMkM4alZyNHY3OUVYNU5XNHZ2YlIxV1NObGJqT1ZmREM2aTdMVWJFTzFVS29GYzJvQU9WMzJKbmhWV1ZjRWl4T0NTaE5xMnVtWVFhX2dYcTZaYzBHY09BSU1fOXN4aXoyMTZiTlVlVU42MDU2TDYtWldEQTZuOVNLX1FWaW41VWRuM2V5RUY3Z3dYLWJiYno5dWFBOXpOUUtBSHh0MFJPV1dfOVlPeDdic1BjTnBkb3N1NTNzXzJlb0NHRjczWWw2M1k4TWF4TXNXYmt6OHJKMXBpQQ?oc=5",
-      "date": "Tue, 10 Nov 2026 10:18:03 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Infox sur Brigitte Macron : le couple présidentiel a déposé de nouveau plainte contre l’influenceuse Candace Owens - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSE9YVkNVa2xWMFQ5d01aVm8yRGJ1Z0hINkR3alpQdGtpcTB1RWlCdXk3VHE5WkQxV29fc0h6QzFudDBzVXlJRFVaWnFTVXJNcl9jRkdVNWhNSnBWQWhVcUV1emJnYzhVNmVYd0NLcnpieW0yR1hHaXlpelRFdlVRbGFTMjg3bTRmQ2txX0sxV2RkZHJ5cUc4ejVVdXozV05XamVmZGJCVHlzem5TQ2t0VjN4azF0VGtDbV9iaGxqbFhBbGZYOGtxaVp2S2hhdDh2VUwySVlQSW9qR1lKREkwZjk1bi1OQkpFbEhZNUl4M2g3dw?oc=5",
-      "date": "Tue, 10 Nov 2026 07:20:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Dijon. Les cérémonies du 11-Novembre dans les établissements scolaires créent la polémique - Le Bien Public",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY0Vfdm1EeVhYeDAtY2JaZ0dGbWRJa3BTaTk3cXIzN2pyOG1TOGRwMXZwRlNrZXhzWW9iZVJ6SnVfT3dmSkFFQkh5c0JvOTBBZGFBcGdsMEpMbUxFQVd4eXB6SUREcU8tdWpUV1FuTnQ0aVVyZTlSU2V5MVYzeXFOdWc3dHdKaFpXTzMzcWI2Z0tUb3NSZFdPc0NoM2hSaWlFWDN4ZWFSYWNXcTlydHpDdF9Ca0hscXU5ZkYyNEdkTkRXU0hKcElwM29IUQ?oc=5",
-      "date": "Tue, 10 Nov 2026 18:14:30 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Éric Zemmour officialise sa candidature au 20H de TF1 - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUwzWHVoVDgyczRrUFgxSTkyaC1DV2R1bkc5cC1qTGVFS3phNDBqR2VQT1lFelF5XzZwOEV1NGx1am40cHhVQ1EtbU1iNWczT3dBam90eF9GaGIyRVU5d2ItNlMxMjVudTdSdG1wM1VIek9Sd3ZzLTQ3M01WUVlLMlY4WFU1ZWNKUDlrWWpVdVhRNC0tZzlXdzRRV1JYaWE2Ymg4YkFjRWtIWFd4azRmQUZxOE1RVWF4cnl0RzBueWxEZXNIQkFOSjlMTC1rdjRpM0djUUhCWml1QQ?oc=5",
-      "date": "Tue, 10 Nov 2026 20:18:25 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Faux site écolo, photos générées par IA... Les dessous d'une opération d'ingérence iranienne en France",
+      "lien": "https://www.franceinfo.fr/enquetes-franceinfo/enquete-francetv-faux-site-ecolo-photos-generees-par-ia-les-dessous-d-une-operation-d-ingerence-iranienne-en-france_8276882.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 10 Nov 2026 21:08:32 +0100"
     }
   ]
 }
