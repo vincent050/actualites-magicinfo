@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-12T00:25:14.834016+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-12T00:45:55.303300+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "INFO RMC-BFMTV : Aymeric Caron, Sandrine Rousseau, David Guiraud, Assa Traoré ... Les personnalités listées par le suspect de l'attentat de Trappes réagissent - RMC",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQT1U4RFBlOGFHX1VYTl9UVnZHemoyeFNVcHktaHV5ODdHdUlyemhOZDdnUV94TGUwS3pLQktDNk1hWnRUbFhrLTRpVDFZaV9kcl96eHd5RGRwODlkazFoZnlRUGhPSXkxMlhRV29oLURhVjVjNWFaWkh2VTZHQWN5RHN6RlNrQ2NROXdsWW5TQVJlSDJWa04tNW4tdkFXaEJld3lZbUlXSHM5YnM3YktxVlBKenVwSVJpSzd6TVdRM0xvUXdYM3Ztdmdtb1JGaDNPaUhfbE85eTQtZ3RsWjdmT1JqY256dmxNQmZkMWlOX1V6ZE5pc19yekJIa0pUVU1iVml6ME5VR2ppSEJiWHJaVFBXUlpHSkgzQUJhd29BLU1yUEVnVFFQVFdIeFdsMXl5cXVTZ1JB?oc=5",
-      "date": "Wed, 11 Nov 2026 16:50:38 GMT"
+      "titre": "À Cherbourg-en-Cotentin, un motard de 19 ans grièvement blessé dans une collision avec une voiture",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/a-cherbourg-en-cotentin-un-motard-de-19-ans-grievement-blesse-dans-une-collision-avec-une-voiture_65044505.html",
+      "date": "Wed, 11 Nov 2026 20:01:43 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Sébastien Lecornu promet 5 000 places supplémentaires en licence en réponse à la mobilisation étudiante - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVlM5Wm5oc0piWkZYTGM0TUlGYW5abXhQbmdFZWZBcjJWWDlFRmhCYzZWUGNvTWtpNXNtVXRHdXd1d2kybDZMSDRjZzIxWnhNYmg5OVZCMW9SVGFpOXVDeGljSUpGNHJOOElySC1hWE02T01jd2JPWndXUGcyazZMRXdEay1xNTlHcll5WEVWQVlyUnQzdVFhTnBFdU9sWG9SeURnak5tZTU5UENKZ1pFVzgtcEt2Y1VCMy1tVEt5THBvRHNqZHU4R0xhLXAwUFV3VzJWSmt3dV93OFZoZG9falFjZHNKd2JLRjRPY0laY3BleUs4RTF1Z3B1cFRGZXVmMVlNTUgyM0s3MDg?oc=5",
-      "date": "Wed, 11 Nov 2026 20:07:54 GMT"
+      "titre": "Foulées de La Presse de la Manche : revivez la 44e édition à Cherbourg ce mercredi 11 novembre",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/foulees-de-la-presse-de-la-manche-suivez-la-44e-edition-a-cherbourg-ce-mercredi-11-novembre_65043380.html",
+      "date": "Wed, 11 Nov 2026 15:20:48 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : les négociations d’Abu Dhabi mises en échec par l’intransigeance russe - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaEJTLU90b09jZUhTTmJXaGpWUFdtZG8zLWlmc3oza2VSU1IwR0Z3UXByb09YQzNjVFRoX2NxWE5oV2JmNEY1aS1scEd2S1gzd2xHOEd5SXVyWTVEZjQzNmRUTTJTSnBTbzZpQ3c5MXZ5ME42T1diU0Fjb1V1UDZ6Nm16N1kwdElyLUFpLTlPZVdmWi1ZTVpJV3FLOWRWSVBFdlgtZzVobTFlYXhXa0hrNFJwOTI2NjdaVHBDVllWZjNaNDBaVGJwdHdmS1d1R3Fp?oc=5",
-      "date": "Wed, 11 Nov 2026 17:20:32 GMT"
+      "titre": "Football : encore du changement sur les bancs de l’ES Pointe Hague",
+      "lien": "https://actu.fr/sports/football/football-encore-du-changement-sur-les-bancs-de-les-pointe-hague_65042909.html",
+      "date": "Wed, 11 Nov 2026 19:20:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "VÉRIF' - Les États-Unis et la Suisse expulsent-ils les étrangers au chômage depuis plus de six mois, comme l'affirme Éric Zemmour - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdGFqT3hXbGE0aFNlUk8tM1l3NHI2bGx1VVBLYlFHUW8wZXM0dFNMYUNfVUVLS0lIR3VwOXd0ZDVNWXpiN0R6RkRqOGpoNml5Mk80LUFxOHlFZEd6bjY1UGlTY1g0T1QzMDBzNWJYRnQwNVpkbnBIMmloUTN0MEdSMFpDdlVUM25oWFNYR2VQNmc5V1oyTlRDWVlhUkNVVHdyTFNvWmRHcUVleWU1dmdUQi1jZ0JBNURlOFNyY0dCYllKY0t3dkI5R2JXa3k3bnJJM2RoM0c3cGQxZmM4RVFQc0pSaE0wUWl4OG90R0lnRkc0TEVoa085LURnTnNRczJDVW15akln?oc=5",
-      "date": "Wed, 11 Nov 2026 19:01:25 GMT"
+      "titre": "Foulées de la Presse de la Manche : voici les 500 premiers de la course la Populaire",
+      "lien": "https://actu.fr/societe/foulees-de-la-presse-de-la-manche-voici-les-500-premiers-de-lordre-darrivee-de-la-populaire_65044454.html",
+      "date": "Wed, 11 Nov 2026 19:13:18 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Le suspect de l'attentat raciste de Trappes et La Verrière avait dressé une liste de personnalités de gauche et d'extrême gauche",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/attentat-raciste-dans-les-yvelines-ce-que-je-regrette-c-est-de-pas-avoir-fait-plus-et-s-il-y-a-des-survivants-c-est-parce-que-j-ai-ete-clement-a-declare-kevin-tessier-en-garde-a-vue_8278007.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 16:49:11 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« À qui comptez-vous faire la guerre ? » : l’Allemagne veut avoir l’armée la plus puissante d’Europe, Mélenchon « n’accepte pas l’idée » - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOa0FuOE1OWERsa0F1NXhZWmZ4aC1zbzZmN2RvVURyWGk1dWxWRWR2VzVWcV9NdWdaLWRfV2lydkFvWU5lV3JLczAxZUJqbTB3UjV2YndQSGNETkF3aThteDBsa21EUEpMTnVNNHBKMHZBWW9Pc0IzU0pqOGhIaDAxWEh4S05mdE1zTWFYanBIMnB4OGVHb0k0REhjWFlJRk1XcWlYUVhMNDFjeHN4ODhzUmVNUzZ6UVM0VVBHRXlSSUhCb0JLUEM2b2Z4VEZtX1oxQm5HdnJueVVUYVdGbGlaZXlDTm43T25PVjhGSU1Kemt4eVcybHVoY3NsOTdRTERGME1iWms5MXFId2dNQmpLaEhMN2hiRzJJOFZIY01Mc1JuZHdCdVkxb09vN25IZzZxQWQ0Tg?oc=5",
-      "date": "Wed, 11 Nov 2026 14:33:44 GMT"
+      "titre": "\"On n'a rien trouvé, dans aucune école\", assure Giorgia Meloni après les milliers d'alertes à la bombe ayant visé des écoles italiennes",
+      "lien": "https://www.franceinfo.fr/monde/italie/on-n-a-rien-trouve-dans-aucune-ecole-assure-giorgia-meloni-apres-les-milliers-d-alertes-a-la-bombe-ayant-vise-des-ecoles-italiennes_8278382.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 23:09:22 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Ça a au moins un mérite » : l’auteur de la pétition pour fermer CNews réagit à son classement par l’Assemblée - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFN5NDZBWW5yQVVzQUpBU3A5V3ZIQnBWdTFjS3JJVEcyd0k2Tk1TSUVxNm1tNGRXSDdqUmJnU2dmbkdMeXZJejlSUEZrazNYOVFib3FoUUFGc0dTblBvOE93MlotSktyVTY0WE93X1FKdUdweGNkNXp3ajZTb2dlWlFid0xFaVRyeEVuQkx6SV9ndFZlM0dZWDZTc0xDZ0RHNlJlQk9LcjRaclI1cHFjZG5vRVpRdmpnZlc2WWxKUnJ4cW50SkNoUUt3U3hOYXFtQlpUdEpsRUh0RmJadmwtdFh1ZVhlc1NVNnRKVWxPMGhOUmdIUkMxNw?oc=5",
-      "date": "Wed, 11 Nov 2026 09:19:27 GMT"
+      "titre": "La Russie interdit de territoire deux députés et deux journalistes français, en réponse à l'expulsion de Xenia Fedorova",
+      "lien": "https://www.franceinfo.fr/monde/russie/la-russie-interdit-l-entree-sur-son-territoire-a-deux-deputes-et-deux-journalistes-francais-en-reponse-a-l-expulsion-de-xenia-fedorova_8277836.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 21:15:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Teddy Riner candidat à la présidentielle : De Mélenchon à Le Pen, qui doit craindre son aventure - Yahoo Actualités",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1V0cUUzWmU2cjc4Tm1ISzc5QmVIOFFJT0xJQ3VMVXdDckI5SmJZcHAzNkZkMlVFQUlzWUdic29qbUFhUXJpQWt6cjZ5WnRuY3cwWlgxdFJhNUctZExaVXBMVU1CdXNxOXVBVTRpMDlHN3lkb21DanlabjQ4Uk9oZDdnVFVLby0yYURyUV9hZWdta1BOb3NBY21B?oc=5",
-      "date": "Wed, 11 Nov 2026 20:15:34 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Polémique sur les commémorations en milieu scolaire: Emmanuel Macron estime que \"la mémoire du 11-Novembre a sa place dans toutes les écoles de la République\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQcmlOamxQUFFJOEFfZjhsaTJ4R2dpX2d5d211YkpEUExIUmRwVHNQV0RLQTdRZ1V5Ml9SOGd1aHRpdXo1dUdsc1JXR2FlOW9ZYXFVNzNqRTU3NWFzSDlPV3I2alJFZ1ZEVkJmVVVZUWM3N3pyM1N5dHdOR2plRm5nR2FMNlJxamZiTzJSN3hvb0ZqYmxJNG9XZVJ3azFwRlJtcG54ck4xTjZvbjZOYUFuR0xSNUp6NGtqdUlFQ2F6Q240dm1xOVlianA5UkdEWVIyR1lQLXc4RnRyVGt1NGI1azFlRDJuSEs4eHoxaUdyZW5WQzBuclFYdVpaRnZXdHJMMFlibzNod2tubWRRSTlscWJ4VHZEa044QzlEcmdTU2pFUnJuOEJnNHpiTXA2NHZvMWxpRWdIRDRpeTg?oc=5",
-      "date": "Wed, 11 Nov 2026 17:26:13 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«Il ne reste plus que les murs»: en Meurthe-et-Moselle, un château ravagé par les flammes - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmpTZkNJRnRzalBrM3ZVaVM0Z3A3dFYtVTdoTldDLUFRd3hEUFlzcWNScHZBU1NaUEw0TDNhenphQzFCNHFmZndnbkc0U3ZUampHZk5weV9Wa1V5dGhOdk50M0k0WDdhSDRpSEhmeWhYaG9ibmpxLUJqZDdmZFlKQk5XbkdDdm14S05ZZkt0cjhNWFlvOW1rd0Z1VGVFaW9MQkdkd2gwd2ZSbWxHbHdjWlFpTVFYRFBqNElhajg0VEVDTzI4Q2xyemZBa1lMQXVE?oc=5",
-      "date": "Wed, 11 Nov 2026 22:07:45 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Affaire Zecler : « Le Michel que tout le monde a connu est mort ce jour-là » - Mediapart",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMFk3dUtfMVdXaGQyVkxjN2ZObEYyUVdjV0lGckxReHpRQ0h1TGR0OHJtSXZ6cnQzU2JUQnc3bHRhbEg1dkNvSS1IZXNnT3JLY1pUZGZQX0Q0Y01STnhZdTVMT2EzbW1oTjBYbGZKQURYb1Z4d0xVZFA1RFdsQXhVdWttTUx5bVhVQUp1T25LdFNnYmZidEV0MVJNcWpUQndENTRNa2doSWxTbTVfR1FyUC1DSi1zdw?oc=5",
-      "date": "Wed, 11 Nov 2026 09:04:05 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Face à l'avalanche de forfaits, Zinédine Zidane et les Bleus obligés d'innover en attaque pour défier l’Italie en Ligue des nations",
+      "lien": "https://www.franceinfo.fr/sports/foot/equipe-de-france/face-a-l-avalanche-de-forfaits-zinedine-zidane-et-les-bleus-obliges-d-innover-en-attaque-pour-defier-l-italie-en-ligue-des-nations_8278229.html#xtor=RSS-3-[lestitres]",
+      "date": "Wed, 11 Nov 2026 22:07:17 +0100"
     }
   ]
 }
