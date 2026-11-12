@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-12T16:15:54.927261+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-12T16:50:20.556230+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Ecrits antisémites : Jordan Bardella porte plainte pour faux et usage de faux - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1FGUWpmdnVJX3pmOFVlMTRIQWVYTEVtVTRtXzRUMGRjYnE2aWFDTk50NWtKV1QxRHBZRGRYUEM1dndQODdzTXNIUnFFeVVOcllJYmliQTlKRGVmd3V2MlNuX0RmSFRnNmhqejBqeXlCVVFJNmdjVHE4OGpBNktBN3hodVJCQVNrY2RpRE1IMTdKekVmNUtHZHgtcE11QW9aMGc3SDJuSmVmZzY1VlF1QVpNQUttR2RVcG01MDVNTlcyTE1CNXlIMm9EbndId3pfODFWem0xaEdRSEd5SEhWNA?oc=5",
-      "date": "Thu, 12 Nov 2026 12:23:02 GMT"
+      "titre": "L'hélicoptère Dragon 50 engagé à Saint-Vaast-la-Hougue après l'accident d'un scooter",
+      "lien": "https://actu.fr/normandie/saint-vaast-la-hougue_50562/lhelicoptere-dragon-50-engage-a-saint-vaast-la-hougue-apres-laccident-dun-scooter_65048657.html",
+      "date": "Thu, 12 Nov 2026 17:19:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"Je veux savoir pourquoi ils lui ont fait subir ça\" : au procès des parents de \"la petite martyre de l'A10\", la salle d'audience ne désemplit pas - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNaXhOcjdTUTVXN1FkVUMzci02cTBSVjdYclpEZlZkTUJfXzN4WGRKaFJ4SDRyUkdfWG5GaHEwOU1KSHFmSVdadGtRUlIxb0xqN1BidFVJcmdLdHEwbFNOSk40eVVBRWZXa2xkLU13YklMUUM4MjNBS1B3Yl9KSXBZTUIyaWZlaERENC1YUVllVEpDM2RqanAtVFRBNXA3SUJzSVJjQzZBWHZDZ0MxcHZ1MlFmSXgyVkFra3B5VDVHRmJiMFdxa0JtdjZ1VUJfcEpjS3BqZjV6RktnR0FUX01SMWFCYm9DWXZaNjQ0aXYwT1hJM0FZblVUVDdwY1dtZ1Z0eGUxdkRkLUtocTYybHF5TDdCSHlzODlsX1Y4d1EyZ0V2WWVFVEJqYXRYbUdhUXd0bGhieUdpLWdnV0UtTXc?oc=5",
-      "date": "Thu, 12 Nov 2026 07:12:28 GMT"
+      "titre": "Cherbourg : Au Café Pompon, les patrons s'en vont, les cakes au citron resteront",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cherbourg-au-cafe-pompon-les-patrons-sen-vont-les-cakes-au-citron-resteront_65048331.html",
+      "date": "Thu, 12 Nov 2026 17:11:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, présidentielle 2027 | Suivez le grand oral de huit candidats sur Franceinfo : Marine Tondelier veut renforcer la justice, qui n’est pas « laxiste » mais peut être un système « deux poids, deux mesures » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPcmRGY3A5WVkwRWpsMi1lZmZKbEM1aExqVllhS1JFbWo3Tm80UWFTNFU0TTBFaU4wVlVlM1loUVh0cFdlLVhMUUxwdERzbE95MzhfTENsQjRtY1dUbDcxVlpIWENFS2cwVF94ZW1pWnk4ZlRTdmZfeVd1MWQyaHlsbWxuMmJobzVBeFdzcUpYcXpIakNBbWRIeEdpWWN2c2psZ3d1SkQtUXI0RVUwc1czZmdULTN3ZDIxbnh5XzVfVDVyTnIxQnROVUdrNVBBd3RBcEhSVEdVcEdHYlBad2tRT3FvTmMyVHVTc2FqNWk2XzJTeEhIVkdEbWRPVzVxU1VKMWtWcERwZGU1cFgtcWk0cXpHX053SjZCWnRiVTRpTzBMUHFnQlh0clJUZEl6Q0FIbHduOGhMT01qTDN2MEhmQ1BzNzRtOW5iNzdzUmdsaE5BcGhBYVJqdkVzWkpKMERBM25oU3NoeHJNa3BnanZ6Q2JB?oc=5",
-      "date": "Thu, 12 Nov 2026 15:03:06 GMT"
+      "titre": "Handball : Sébastien Leriche quitte Cesson-Rennes, « ce n’est pas la fin que j’avais imaginée »",
+      "lien": "https://actu.fr/sports/handball/handball-sebastien-leriche-quitte-cesson-rennes-ce-nest-pas-la-fin-que-javais-imaginee_65048257.html",
+      "date": "Thu, 12 Nov 2026 16:52:50 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Paris : la bijouterie «De Beers» braquée par des individus armés de kalashnikovs - CNews",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQenpPNkpjcmZZSURJMlFtY2xrMWJsdUh0a3o5N3FSbmE4OERWdWFLU2VwY29SZF9yeGtQazlNNzBJVnZzaXpnT2J5ekh3ZXlDVHpicjh3dUllTEVLZHpMWlpSMzV1OFg4WGpWV1RXRGp4N3c1V2pfVTVJMU9VUzhlNTBzUHYyanFmc2xTLXpJbllObUl5MWZoVGdUekZLNVIzeHFUNHNfeUNjUUtfQWfSAbMBQVVfeXFMT0FjdnJiNUZOSktxeTcyU0sxMHVHYXhwTTNzVm9VLXVWQUJmaGlwN3lZZ0U0ckVHVmloM25qZGNGYTJ5OGNfV1h0QTlXb2FIWHJZMHlCeTM5aFJrLWMyZ2hHVWlwV1ZoWVhPd1NDWVZlclVwRGU5T3NZUFp1ckl5Q1R5MXJoYzhxbVhqdTFnY3I2TktpdHVISzZBUERIVVN5b1JORWxuRWFsSXNVc2lFa1pQTFU?oc=5",
-      "date": "Thu, 12 Nov 2026 11:24:18 GMT"
+      "titre": "« Je l’ai appris dans la presse » : la Russie déclare le journaliste manchois Paul Gogo indésirable",
+      "lien": "https://actu.fr/politique/je-lai-appris-dans-la-presse-la-russie-declare-le-journaliste-manchois-paul-gogo-indesirable_65048008.html",
+      "date": "Thu, 12 Nov 2026 16:44:58 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Présidentielle 2027 : suivez l'interview d'Edouard Philippe dans le cadre de l'opération \"Nos services publics\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-education-sante-transports-suivez-les-interviews-de-huit-candidats-dans-le-cadre-de-l-operation-nos-services-publics_8276135.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 17:38:46 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : les émissaires américains au Kremlin ; Poutine propose une trêve à Kostiantynivka - La Croix",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRS1HdXhiQk4xMXJ5SXM4LVNFSGdCNjRHWDFZZVVZTGpQdHlJaFFnTmJsWmpXQ0pJX0FneGEtTnEtUzJzWG0xb3lxam1MWGx2TjVKZlJwOS15S1NnZFlORk13aGdQNWtJeldlYVpHZFJwRDhnVm4xdV8xSGZEc2owOGdfNVVfM3N6amp4b2FlY1FCVE8yajZpV0Nndk1GMkQ0YTVUdUpmMGNmaDJiM3V5UjlHNUZ0UQ?oc=5",
-      "date": "Thu, 12 Nov 2026 05:42:28 GMT"
+      "titre": "\"J'ai tout perdu\" : la mère de la \"petite martyre de l'A10\" se positionne en victime de son procès",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/j-ai-tout-perdu-la-mere-de-la-petite-martyre-de-l-a10-se-positionne-en-victime-de-son-proces_8279276.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 16:51:08 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Juste avant la trêve hivernale, les Balkany ont été expulsés de leur luxueuse résidence principale - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM19ySnVkbU9mdW16UHNWdWZHOE1HRHJzUFdZWnZTZHlDOEViWF9MYkFYanctbWtWV1duRGlpZzRqRXlWb3lfSElGZTBEVXVHUWdfVGNPSm5oTC16UHpkZkdwNmc4QjNraVFsdFQ3TlA3RGg1ZHpuWnJyRHQyWnFnSjQybl9iQnZ3cUc3YXBvUHVJUjVBS1RDLUNVRUJPOXJEaWlBdjgxak5PMHhGZ1Jodnpnc3l5WEFfTThEWEdyaTRJZ1hXTE1mUnlWYXc4aUgxMTB0XzJZdzVibXZ1NE82NnJrcVpfWXY1cUtaWjlB?oc=5",
-      "date": "Thu, 12 Nov 2026 13:25:06 GMT"
+      "titre": "Intempéries dans le sud de la France : la Haute-Corse placée en vigilance orange aux crues, un homme sauvé des eaux à Nice",
+      "lien": "https://www.franceinfo.fr/environnement/meteo/direct-intemperies-dans-le-sud-de-la-france-la-haute-corse-placee-en-vigilance-orange-aux-crues-un-homme-sauve-des-eaux-a-nice_8279720.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 17:31:23 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "INFO RTL - Teddy Riner candidat à la présidentielle 2027 : Saxo Banque suspend sa participation à sa dernière campagne publicitaire - RTL",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMkZVaWViYVlqd3Z2cVRvSFlYWlVIZGFIYU81OEpLUXBYMWI2am1qYXduQS01azBqX3VpbzA1Snoxa21JNnhJWE02eVJyd3JxbUR2NkZFUGt3Mm9BRDZ4VTEtbHAzTDZ1WG1pWVd5VDBQeWVmY3gyTFhoOXdCemVyTFVETEUtY3hTSlBlbDYycjFWU1FpR2tFdnpaQmNqRzAtMTJQaXpLSC1mTmlrT3pGZVc4S3YxTlcxU3EzMXdEalZ3bXFTdUF6aVhydlFMZDBmdXNJWHZ6SENjeS1wbElKZ0gzaEgtVWQ2TGZMckR1VUo5Q21CT211ZEVPX3pxOS1fV1E?oc=5",
-      "date": "Thu, 12 Nov 2026 10:01:23 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Pluie-inondations : les Bouches-du-Rhône passent en vigilance jaune, de grosses vagues attendues sur le littoral - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObGI3cUVMdGFWS2tPTTdGdHF6WVpmZWtrb3UzalZ3S3NuemxERzNLSG5KNFJ4UFc3SHlqRmd0cXhLX2JkbzJIZWJpaTZFcDZBcEQxLWJNeW5jRlp2YUExcW8zV2NzbXhyUEFReE1TRnVpVnFfODJZNXRJSkFjWVFnQ0R5WEVodlpGYmN1eUdkaU1RYTZDYTZMSWFTdnV4OTRnLW9GOVd3eWthUU5jSXRWdzBHRzdOLS1TLW1wNElXMGx5M1U2WUZEVlFQV1J1U2p6bWRFOVY1c2syanUwanBrQXhkUXo3dWgtSDI4WnhkZ0ZGd3ZsQjdCa0I5WVlVbWQ2eEE?oc=5",
-      "date": "Thu, 12 Nov 2026 06:18:35 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "6,6 milliards d’euros, 1 000 opérations, retards… La région Île-de-France fait le bilan de son plan Lycées XXL, département par département - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWTh0aUpFNzZNcmdXdlJpN0o1bnNBejd2V25LN3pVUWp3bXdJUXpFNmltUmlKLUM4NlpqRDFlTGdyNmFOa3BDWEJEOVF2MFpnVnpJSDJydnFvNWV5UmVtVVVnalAzUzYtVUVXakR5bTVuT21HNWNrLW1QRVlXTGVxUW5rRE5sdThjb0ZlYzN0LVh3dDU1a2tBY19UcFU0WU51MVF1V2JKV1pRMUx3dnpMMHdEa2MyZTFGemkwbEFWT2xYTEFlZ25paWoyUHFjdk8za2E4WEhNRXJfdzdsWmhmNUNRQ09ZMDNHRndGMURKSnRUU2lqWVZKcE9Zc3RYcHRHTW41SDd4NzI5SHM0V1hkUi1LRVZWWXJZNUdOQUcwbUZNOG5YZ1VESzhONjAzay1HRVdCNA?oc=5",
-      "date": "Thu, 12 Nov 2026 10:57:08 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Vents violents : voici les sept départements placés en vigilance jaune ce jeudi - CNews",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDhuQy1BUTJLVHVTVF9aNUNvalF4VW9ZZ2xTUnhTVVdxSHlPYUlZV2FGUjlDWEUyTkxJWC1CcktMS3FYRDNrbml6Z3hIcWtaSzVWai1CVzNsTldqc2JmY1NzN19yU2xGY09YbUhjY3BPM0w2V3FOSlBhcklNbWhBY3pnVmpUMFJPbnFnUk94alpQajIwOENZbzNLcjNHNzJ6TXk4enZlaDYyY21pcHJyMG9URjNoRTTSAbwBQVVfeXFMT0FiM0FZclRIbVZ3c3FjSWxkUmVUS3hpY1ZHbWs4QjVsMk1FaDNTOTBtODhmM19LbTRpN19tU19WYmJhWTlhZWJRcjE3UjRTTHBXeXFSY21namJ5SE1JVjlHOUVMUHpWdFR5SV83dzU2eGFkMGU1bjI0TFlmd2EwUVd3UzhKdUFWUTlsTURVUjIyamdRYjlEemozX0FHWUYzWDZkd25GUzY4MG5wV3FDQmItcG5aaDgzTEVfUUE?oc=5",
-      "date": "Thu, 12 Nov 2026 07:54:31 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"Il a perdu de sa lumière\" : l'animateur Fred Musa et le rappeur Stomy Bugsy racontent, face à la justice, la vie bouleversée de leur ami Michel Zecler",
+      "lien": "https://www.franceinfo.fr/faits-divers/producteur-passe-a-tabac-par-des-policiers/il-a-perdu-de-sa-lumiere-l-animateur-fred-musa-et-le-rappeur-stomy-bugsy-racontent-face-a-la-justice-la-vie-bouleversee-de-leur-ami-michel-zecler_8279567.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 17:34:25 +0100"
     }
   ]
 }
