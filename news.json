@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-12T07:30:59.786899+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-12T08:02:36.943531+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Bruno Retailleau propose un calendrier pour la primaire et accentue la pression sur Edouard Philippe - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMWJGWXBRR2FISzZTX2FPdVNzaHIwS2dWY2lEdG9wM0tac0dGaFV1TDAtRENITTQzbVZfOFpKN1c0cjBqMnhiMTZKbEE3SWxZMG1CZzdacDhPWG9rMHUyRk5SZ0RjdVRRSzExSnBUNldUMDQycUhXdm5zanlBcXlLRVNKU25mYzhSRFF0QmQ2WFB0RHZnRkc1RFJIUWxMNzVzeXFwSnRTYS04TmRNTjdLc0wyMjdaOGNmMnVyMWVnTWNKY2N0YlUtNG5TcW5UR3NlcHA5OXZXelRRSDFHTVZXM094QTJQTGZrcDIxd19tN21XUEpGa3hWbW1iVUdnSDNHU0NfbWI1N0FLZnNYb0VHZHo3eEtjcTRWc096Ug?oc=5",
-      "date": "Thu, 12 Nov 2026 06:30:50 GMT"
+      "titre": "Un salarié victime d’un accident du travail dans le Cotentin : pourquoi la procédure s’éternise depuis six ans",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/un-salarie-victime-dun-accident-du-travail-dans-le-cotentin-pourquoi-la-procedure-seternise-depuis-six-ans_65044666.html",
+      "date": "Thu, 12 Nov 2026 08:06:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Attentat dans les Yvelines : liste de personnalités de gauche, autocollants du RN... Ce que révèle la perquisition au domicile de Kevin Tessier - RTL",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeVEwa19WWlIwWFNpdnlzSmxkRmtkQXFDX3A1TVZqb29icVlTNnBvWUlrRGMtMmRTdHBfYnVDTjl1MDdtM0pXOVduaG5WMGFRMXNPWXRyQU1pd0Y3cEloNVkyLW1TMWlyV1JXdVhQOEFBa2l4U3F4cFVLVTFkM0JPM0lEdFpCOW82ZTZfNmV6c2k4Zkt3YTFGb1B2RFVqamJwLUpYVFNHOUFGQklxaDJLM1NxT3dITjNFaWlfUDRlNnBhb0JsNFVJbUQ0XzNhTUpzTUdRSmlmaXp6UjRoLWh5X2pOX0E3RTdIXzE0aTVCd1RjQ0g2a3dQZ3NmRXdZMnpFMFM3U0dFQ2lRYnp5Y1NQMndDMktyamd0bEZrWGdn?oc=5",
-      "date": "Wed, 11 Nov 2026 14:46:48 GMT"
+      "titre": "« Je commandais un sous-marin nucléaire lanceur d’engins lors du 11 septembre, je n’ai rien dit à l’équipage »",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/je-commandais-un-sous-marin-nucleaire-lanceur-dengins-lors-du-11-septembre-je-nai-rien-dit-a-lequipage_65044255.html",
+      "date": "Thu, 12 Nov 2026 07:36:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, guerre en Ukraine : les émissaires américains, Steve Witkoff et Jared Kushner, sont à Moscou pour rencontrer Vladimir Poutine - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQ0VndDYxOEd6aEZBM1o2VUJYazk1ZjltTktLN3BXMGtjVUNyd2stXy1URnRCY0JIdl9OQ3c3T3ZuS2xTNmtxRF9jT0pBeFVjNlNhZjl4SE02c2F4OEU1VlVjc3lZUHN1Yi1DbkpfbV9VQm1pSjhhN013TkdyNTJaMnl3UVNyUjN2VVFuOGx1VHYybjk3THctb0J3MDJfZUxpdC0yMFl4Nk5GcVM5M21xQUdfT1V4My1fZFVqYlo1bkhFV1FFcmhDVG53TUFfeTZXNndhSTVQRW94cG8wMmVOWUtEUlVoY21zc0tXTlVKT3ZjNVJPamdwSlZuc081bHdPZUJzSmV0Zmp0Z09yYWhPRXZ3bnZmM3pISUduUEV3Y1RVdC1GZml1VHJ3?oc=5",
-      "date": "Thu, 12 Nov 2026 07:20:47 GMT"
+      "titre": "« On faisait l’objet de moqueries » : comment l’accordéon retrouve ses lettres de noblesse",
+      "lien": "https://actu.fr/loisirs-culture/on-faisait-lobjet-de-moqueries-comment-laccordeon-retrouve-ses-lettres-de-noblesse_65042630.html",
+      "date": "Thu, 12 Nov 2026 07:04:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat - France 24",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ1gwczRjR3BfTlJZYVBhbDFIaFJad1pnUlBSXzFuaTM2ZFVhRkNZUmx4dnZDV1Q2ODNha1hhSEJ4Sk5PTUp0VG1CZGF0WjE0U2VhMmMxOTA1cEQxMUp2SUstOHMzZlJWaUw4b0RLY3ctdHZudW5Gc2NRLTctTUFmSnRrakFuVF93ZHJUNTg2X2l5bnJhOTBFZXp6ZTlLMjdxR3ZpR0pXMzBhdmNHQVh4N3FfVHNqVFdjMWFPNzNtWUVNcXZJNEZHeVZYdXc?oc=5",
-      "date": "Wed, 11 Nov 2026 23:38:00 GMT"
+      "titre": "Il devait ouvrir vendredi dans le Cotentin : pourquoi l'ouverture de ce nouveau bar à cocktails est retardée",
+      "lien": "https://actu.fr/normandie/saint-sauveur-le-vicomte_50551/il-devait-ouvrir-vendredi-dans-le-cotentin-ce-qui-retarde-louverture-de-ce-nouveau-bar-a-cocktails_65044663.html",
+      "date": "Thu, 12 Nov 2026 07:02:05 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Des Kévin Tessier, il y en a des centaines\" : le maire de Trappes, Ali Rabeh, réagit à la liste de personnalités de gauche et d'extrême gauche retrouvée chez le suspect",
+      "lien": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/des-kevin-tessier-il-y-en-a-des-centaines-reagit-le-maire-de-trappes-ali-rabeh_8278847.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 08:44:04 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Louise, 57 ans, aidée par le Secours catholique : « Etre pauvre, au RSA, ce n’est pas profiter du système, c’est vivre dans le stress » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPdHdqNGRLME5GbXhuVEd0RU9yOFZMY21Fa3k3b2pIWDk3eXJWbDdyekx3dTdiXzBIdy1jOFZRYWsxSW5ScUN3VXhEVFJEUXh1bmdhN0tZcVZMMnMwbV9SbldEWjAzRUJONl9Bdm1nd0NBYkZnMkhqR295M0lVVVlFakp1MkZOYTBrZk1xdUZ6aXNzejByRzExLXlyOFA0SWdNUmQ3S3ZZRXU4R1RVMk5KRE52aTdEOG53aUtwQnJfVGNfd0tiVzc4MzVIOUM2d3NoWjVYRmVhZmxlTVE4VlRJOFhJVzMwLU9kOGQ4T3FtOVlwYnpOdzZNNm1ISXBDY19hUHBXcEZiblJ1QTNmbExNWU0zUEJyMHNZOUNpRA?oc=5",
-      "date": "Wed, 11 Nov 2026 23:01:09 GMT"
+      "titre": "\"Il a une image de gagnant\" : quel candidat à la présidentielle a le plus à craindre de la candidature de Teddy Riner ?",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/il-a-une-image-de-gagnant-quel-candidat-a-la-presidentielle-a-le-plus-a-craindre-de-la-candidature-de-teddy-riner_8277656.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 06:04:59 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Cette nouvelle annonce de Lecornu ne devrait pas calmer la colère des étudiants - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUXBkWkhKMlFnVGstZXQ0MEpuVEN3S3FxeS1zd1Z0bHZxMUxuY2tWWGp0Zi04Zk56bU83TWJvOEluV2V0NTdHUnN3QjVsNGJBYzlzLTQtWjItNVdsM0NWamFRbHB5blpORXZkUW5Xd3V1MFd5UlVaZU9jV3pBYVdXSFZTV0R3aEwyY0dDSXYxU09zRFhWblVfaW42LUFtc29POUVMY25TaVpNZWlvTnFMZms2d1BVaDFObTJkb0RXbzlBMHhqd3dZU2hYX1NZUHZYM0Q2M1k3djI0WDJVcWQyMFVrZw?oc=5",
-      "date": "Wed, 11 Nov 2026 21:02:55 GMT"
+      "titre": "Midterms aux Etats-Unis : les démocrates entérinent un peu plus leur large victoire en décrochant un siège au Sénat dans l'Etat conservateur du Mississippi",
+      "lien": "https://www.franceinfo.fr/monde/usa/midterms-2018/a-l-issue-des-elections-de-mi-mandat-aux-etats-unis-exploit-des-democrates-dans-le-mississippi-qui-decrochent-un-siege-au-senat-apres-les-elections-de-mi-mandat_8278790.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 08:01:24 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Mortiers tirés à l’intérieur des lycées, incendies, violences sur les proviseurs… Le mouvement lycéen se radicalise alors que les discussions sont dans l’impasse - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOYXhGdlhqaVdnZE9UaEZ0a2JqSm1hQjVVSU5OSDdnTWx4Z3hpQ3BPc1ZHZnZ6czlLT0k5MVIzVUE0bUxEWEI1YjY5cDN6WFNqaFBPako1NFprRkM2OGE3T2M3cU5jTm42d1JGM2ozVVhrTkd3YS1kbW5sWGtRcmM1MTI3cUFJcWhRS1VhclpCTnlGOTVhQm51R3RQWTVpVkZiZ2tZOEk3WlEwNkRId1JrdzVIMjRZOVJJdU8wUlNJTzNGbVNHbmwtcUpTa0JMa0JxWVJCcFNDbmQ3cjBxcXhnd2E2Z1MwWml2aGhUdkdGd3RFSmFfMHRNZHJCaFRuVzNYajJBZHZwbTNjUmpjYWhsZTRQa29XR19BbTlJNFdwV1FucE1ON0RNTHNMNzRORGU0ZlE?oc=5",
-      "date": "Thu, 12 Nov 2026 05:00:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Un homme est jugé dans le Gard pour avoir drogué, violé et filmé six femmes entre 2018 et 2023 - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTGhhNlJjamlOWXVURnJ3MTFYSVhhYmxDUkZRekNUOGg1M19Xb2VrZy1MdFpTWDJndXJleDYxWmd1eVNzVE8zXzN1WmYwd2txOVRaNWJkTlBoMV92VGpVM29fZFBEUU9BZDF3dHN3MW5GSnBKZk91dWxNdFE3UnprWm5PY0s4cGFUTkMzVFBIUGRtM0JuWFRTblNyRkFUdjV2TnZsWUFqc0pMb3pZZjR0dzEwZDdjNkxUQVZSTzRKNC1TOGd6N0FyTERTNjd4eVY1SjZBRTdzY1dmZDByeExqXzJEUHlJWVFpOF9YbW5RTldJQQ?oc=5",
-      "date": "Thu, 12 Nov 2026 05:42:41 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«Edouard Philippe va être obligé de céder» : à droite, la question de la primaire devient centrale - Libération",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVnl3SjFCTmw2ejJzSjk4NVZ2NHEwZGVzNGJ1U1Fqa0JBdFlqRDMyUExURzNETlBYaGxzMWZ3SUVjci1aUXA1UDltSjFxYUYtbE1tZlBDNFdCOWlDNlltYzNDdG1YTDVFeVhpdzBmajJ1a3BiNWFVd3dhcVp0RWw0c2VRTDVkQXhvRWd6NmxuZ2FhVTFmbVlzbmwtOWkta29oRmw3VlR4Ri1hMmhhRXNoTkl4QW5OUTg3RjZvQkZWYlJIRTIxN3ZucXJhSXFTa0NhVnhVSU9lOEI1TVpjU1RDcmVBdldLZTJiU3JGZGdLb2F5WjRRLVZ3bS1n?oc=5",
-      "date": "Thu, 12 Nov 2026 05:05:51 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Au Canada, la vie au sous-sol se développe avec la crise immobilière - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeERmZTVDQ2NpbS1NN091VEFYNUpGWnVjR09PYkpDTlk2MmZpcUhRbWZrU0hVZTNxYWV1V0NJa29lWGkxY2xCOWxLdGktQ0VSZHhvcVl3U2x6OEhmOGpDR0UteUxKZmo1NU5sMk10QThWNUUyT0s4TEhTUHVicTJ5cmlsaHNUTlV3Y3VvdlVUSGpKclVFZXZBZXRiZ09OcGVhYjFjUFdDUEhIVzBVOGFhQ3hRQ194X2NxQmFfQ3I1UDhOX2IyZVlENE1oVmRWNC00dkdoNXdjTTA?oc=5",
-      "date": "Thu, 12 Nov 2026 02:30:01 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"Ça a explosé comme un volcan\" : dans la région turque de Konya, la terre s'effondre à cause de la sécheresse et d'une agriculture trop gourmande en eau",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/reportage-ca-a-explose-comme-un-volcan-dans-la-region-turque-de-konya-la-terre-s-effondre-a-cause-de-la-secheresse-et-d-une-agriculture-trop-gourmande-en-eau_8274641.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 06:01:56 +0100"
     }
   ]
 }
