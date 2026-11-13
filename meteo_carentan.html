@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -81,12 +81,14 @@ footer {
 </style>
 </head>
 <body>
+
 <header>
   <h1>INFORMATIONS DU JOUR</h1>
   <div id="date">Chargement de la date...</div>
 </header>
 
 <main>
+
   <section class="panel">
     <h2>🌤️ MÉTÉO - CARENTAN : 5 JOURS</h2>
     <div id="previsions" class="previsions">Chargement des prévisions...</div>
@@ -111,6 +113,7 @@ footer {
     <div class="big" id="saint">--</div>
     <div class="info" id="fete"></div>
   </section>
+
 </main>
 
 <footer>
@@ -127,10 +130,12 @@ function afficherDate() {
     nomsJours[d.getDay()] + " " + d.getDate() + " " +
     nomsMois[d.getMonth()] + " " + d.getFullYear();
 }
+
 afficherDate();
 setInterval(afficherDate, 60000);
 
 
+// SAINT DU JOUR : CALENDRIER HORS LIGNE
 
 function afficherSaintDuJour() {
 
@@ -139,7 +144,7 @@ function afficherSaintDuJour() {
     2: "Ella, Chandeleur, Blaise, Véronique, Agathe, Gaston, Eugénie, Jacqueline, Apolline, Arnaud, Notre-Dame de Lourdes, Félix, Béatrice, Valentin, Claude, Julienne, Alexis, Bernadette, Gabin, Aimée, Pierre Damien, Isabelle, Lazare, Modeste, Roméo, Nestor, Honorine, Romain",
     3: "Grand-mères, Charles le Bon, Guénolé, Casimir, Olive, Colette, Félicité, Jean de Dieu, Françoise, Vivien, Rosine, Justine, Rodrigue, Mathilde, Louise, Bénédicte, Patrick, Cyrille, Joseph, Herbert, Clémence, Léa, Victorien, Catherine de Suède, Annonciation, Larissa, Habib, Gontran, Gwladys, Amédée, Benjamin",
     4: "Hugues, Sandrine, Richard, Isidore, Pâques, Prudence, Jean-Baptiste de la Salle, Julie, Gautier, Fulbert, Stanislas, Jules, Ida, Maxime, Paterne, Benoît-Joseph, Anicet, Parfait, Emma, Odette, Anselme, Alexandre, Georges, Fidèle, Marc, Alida, Zita, Valérie, Catherine de Sienne, Robert",
-    5: "Joseph, Boris, Philippe et Jacques, Sylvain, Judith, Prudence, Gisèle, Victoire, Pacôme, Solange, Estelle, Achille, Rolande, Ascension, Denise, Honoré, Pascal, Éric, Yves, Bernardin, Constantin, Émilie, Didier, Pentecôte, Sophie, Bérenger, Augustin, Germain, Aymar, Ferdinand, Pétronille",
+    5: "Joseph, Boris, Philippe et Jacques, Sylvain, Judith, Prudence, Gisèle, Victoire, Pacôme, Solange, Estelle, Achille, Rolande, Ascension, Denise, Honoré, Pascal, Éric, Yves, Bernardin, Constantin, Émilie, Didier, Sophie, Bérenger, Augustin, Germain, Aymar, Ferdinand, Pétronille",
     6: "Justin, Blandine, Kévin, Clotilde, Igor, Norbert, Gilbert, Médard, Diane, Landry, Barnabé, Guy, Antoine de Padoue, Élisée, Germaine, Jean-François Régis, Hervé, Léonce, Romuald, Silvère, Rodolphe, Alban, Audrey, Jean-Baptiste, Prosper, Anthelme, Fernand, Irénée, Pierre et Paul, Martial",
     7: "Thierry, Martinien, Thomas, Florent, Antoine, Mariette, Raoul, Thibault, Amandine, Ulrich, Benoît, Olivier, Henri, Camille, Donald, Notre-Dame du Mont-Carmel, Charlotte, Frédéric, Arsène, Marina, Victor, Marie-Madeleine, Brigitte, Christine, Jacques, Anne et Joachim, Nathalie, Samson, Marthe, Juliette, Ignace",
     8: "Alphonse, Julien Eymard, Lydie, Jean-Marie Vianney, Abel, Transfiguration, Gaétan, Dominique, Amour, Laurent, Claire, Clarisse, Hippolyte, Évrard, Assomption, Armel, Hyacinthe, Hélène, Jean-Eudes, Bernard, Christophe, Fabrice, Rose de Lima, Barthélémy, Louis, Natacha, Monique, Augustin, Sabine, Fiacre, Aristide",
@@ -154,7 +159,7 @@ function afficherSaintDuJour() {
   const jour = maintenant.getDate();
 
   const liste = calendrier[mois].split(", ");
-  const nom = liste[jour - 1] || "Fête du jour";
+  const nom = liste[jour - 1] || "Calendrier à compléter";
 
   document.getElementById("saint").textContent = nom;
   document.getElementById("fete").textContent =
@@ -162,9 +167,10 @@ function afficherSaintDuJour() {
 }
 
 afficherSaintDuJour();
-
 setInterval(afficherSaintDuJour, 60 * 60 * 1000);
 
+
+// MÉTÉO
 
 function iconeMeteo(code) {
   if (code === 0) return "☀️";
@@ -187,19 +193,25 @@ async function chargerMeteo() {
     "&forecast_days=5&timezone=Europe%2FParis";
 
   const zone = document.getElementById("previsions");
+
   try {
     const reponse = await fetch(url);
     if (!reponse.ok) throw new Error("Erreur météo HTTP " + reponse.status);
+
     const data = await reponse.json();
     const daily = data.daily;
     const current = data.current;
 
     zone.innerHTML = daily.time.map((date, i) => {
       const d = new Date(date + "T12:00:00");
+
       const nomJour = i === 0 ? "Aujourd'hui" :
-        nomsJours[d.getDay()].charAt(0).toUpperCase() + nomsJours[d.getDay()].slice(1);
+        nomsJours[d.getDay()].charAt(0).toUpperCase() +
+        nomsJours[d.getDay()].slice(1);
+
       const pluie = daily.precipitation_probability_max[i];
       const vent = daily.wind_speed_10m_max[i];
+
       return `
         <div class="jour-meteo">
           <div class="jour-nom">${nomJour}</div>
@@ -213,10 +225,13 @@ async function chargerMeteo() {
 
     document.getElementById("vent").textContent =
       Math.round(current.wind_speed_10m) + " km/h";
+
     document.getElementById("rafales").textContent =
       "Rafales : " + Math.round(current.wind_gusts_10m) + " km/h";
+
     document.getElementById("direction").textContent =
       "Direction : " + directionVent(current.wind_direction_10m);
+
   } catch (erreur) {
     zone.textContent = "Météo momentanément indisponible.";
     console.error("Erreur météo :", erreur);
@@ -230,6 +245,7 @@ function directionVent(degres) {
 
 chargerMeteo();
 setInterval(chargerMeteo, 15 * 60 * 1000);
+
 </script>
 </body>
 </html>
