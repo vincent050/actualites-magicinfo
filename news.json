@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-13T02:46:18.307130+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-13T02:56:39.387029+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Israël interdit l’entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0p0ekU1eGxkeEpvWnQ5WE1lZE5kSy1qNnJhLVo4WjVJS3ZWZ0RpbWdkV3NPSUR5cDhkdUgyZUxCM0V3SzNLdno1T0dCVmZuTHB4aEUxLWd5SjdKekFHTzA0UG9vdVB0aFpQdWFzVG9MZnJhRkg4bHdFMDBHTG5TeXBNd0hHYnJadEFOVFBxNUY4N0RSbk9pUHlKQ2xxcnBsNU9NNnpndw?oc=5",
-      "date": "Thu, 12 Nov 2026 17:02:00 GMT"
+      "titre": "Plus de 150 références : Justine ouvre une boutique de bonbons au centre commercial des Eleis, à Cherbourg",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/plus-de-150-references-justine-ouvre-une-boutique-de-bonbons-au-centre-commercial-des-eleis-a-cherbourg_65049509.html",
+      "date": "Thu, 12 Nov 2026 20:22:56 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, guerre en Ukraine : la présence des Européens dans les prochaines négociations de paix annoncée par Volodymyr Zelensky et les émissaires américains - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQV182TFZrMU93a0JaWnR1UkFiUXd2SjI5NjF3ejkyNUZpSTRwOXZyQVdkZzJMSE1uTXFlV1ZGT1I2TFpsMUZXT0tzWXN3UDN4eHp4Y1gzQ0NMbzNDNzZDRVBJcHNXUmxoOTRkclNDS1liTzJnLXJUM0Q0UWF6X3NHZXUxVUtuX2d2MnJOdWZfb0RsdEtuX2J2VG5HOFJiYjlmQTRIVGhua2Q2TjJYNGc4ZlhZbjYyeVhvWTNZM2t5SWktbHhvaU5KcEI4YW1KMkc3N3NQemdVRVNzMTFJT0E2NHl3Z3FaMXpKbEV1U2NkeEpVNm1pWFBpVlVQcl8yZTM5Y0lKZWR2bThVY041eU95SGlfakxWWnQ3MmZ5R3Y2WDBCTWtHQTE3RzRMMWg4aml6R1VFaHE1cjREYkhIbFlnSzJyUTlRU2tMZmc?oc=5",
-      "date": "Fri, 13 Nov 2026 02:09:35 GMT"
+      "titre": "Il commet un viol dans une boîte de nuit de Cherbourg : un homme condamné à sept ans de prison",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/il-commet-un-viol-dans-une-boite-de-nuit-de-cherbourg-un-homme-condamne-a-sept-ans-de-prison_65049496.html",
+      "date": "Thu, 12 Nov 2026 20:14:24 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Donald Trump débranche JD Vance du dossier iranien - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOazJEOXhEb0trUVVYd2oyck82NDNMZ3BaOGJ4Q0Q5QVBIM2g3VGFkYWdfMnJsdTBCbTZMRXdTbW9IeEhUUzZNdFlROHhmdkR5cnB0cU42VXJNSWF5dFp5eVh0bWZ1aFliMjUtU3E1ckxqYTZ1bEJWblI3SzdtRXJuOUxNVUFfdXdPeTZCOC15QlIwM21pNWladWUyR05IRTdYcVh0SklERncwNmZLOGJQOXFTQlpfVlNUTTRBQXRoQ2FGYjlLQlI4SXZjaVNFbVM5eWQxVHFGcllSaGNYRWktN0sxcm95c0ZYZTZuQW9sYXRlazVnVXdaaXhuTQ?oc=5",
-      "date": "Thu, 12 Nov 2026 20:25:00 GMT"
+      "titre": "Manche : une personne blessée dans une rixe, l’auteur de l’agression interpellé",
+      "lien": "https://actu.fr/normandie/granville_50218/manche-une-personne-blessee-dans-une-rixe-lauteur-de-lagression-interpelle_65049489.html",
+      "date": "Thu, 12 Nov 2026 20:07:48 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"J'ai tout perdu\" : la mère de la \"petite martyre de l'A10\" se positionne en victime de son procès - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZERoRElHeDVhd244a0s1UlhfMEhNWUVnbngydUY2RnB6OU10TktpSFpqU185ZXl2YlRMRlZERUpJNTVYQkVZNjJWZmFoOU9RME9wMmU0elNxV19DeVZnSmhoSmFTUnVxR1h6RDB3eTg0Tl9NRks2aWJBdEV3Sm9tQ1hZNkVRSHZNZFVVSUZwaHF6QVZBSlBscDhTMDNfQVF3Y3lDcnJJdkpuYXJucEVfV04ySE54dWNHYVVHTWhhbElkbnhEMlNxYzBCNy1vT2pEOGFkY2JmV1NLYkdBcmYyWGdqMUcxcU53RGJUV0RyMU5iNGM?oc=5",
-      "date": "Thu, 12 Nov 2026 14:57:17 GMT"
+      "titre": "Accidentée avec une voiture sur un quai de Cherbourg, une cycliste blessée et hospitalisée",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/accidentee-avec-une-voiture-sur-un-quai-de-cherbourg-une-cycliste-blessee-et-hospitalisee_65049476.html",
+      "date": "Thu, 12 Nov 2026 19:59:58 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Il y a un désavantage qui va se faire ensuite pour Parcoursup\" : des lycéens et leurs parents inquiets face aux milliers d'heures de cours perdues",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-lyceens-et-leurs-parents-inquiets-face-aux-milliers-d-heures-de-cours-perdues_8279993.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 21:20:35 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Accusations d’antisémitisme contre Jordan Bardella : « Une bonne nouvelle pour Mediapart », le président du RN a déposé plainte pour faux et usage de faux - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQNUZtR1NKek5iNHJkc1BlcTF0Xzc4c3ZiRUg3UmlST3FJX3dqZ2N5MGwxdFVjS0ZXVmdqakhUUkVabVFOTkFER2x3RjEybGJpYWE5X0JMVUJHZ21nTjJ6SjJkcXBZUzdOQ0pNWkhZUk8yZTh0RHRtR1A3R1JaLV9zTUotU0czTERlUXZYaHpxUmNZTTF3SEI2MUR4UEVSOTM3cFpELTFMeHRhYkF3VDRuZVcyb0lJdlp4VnNlSTlFNERFMG80UDhqeENweW1NZ1BaZFJORzh5TEo5cVBzeURPRDljRkU4blpmVExvVEFWVnRjQU9lVjA2Z0NEa0dBUnFJcTJuQmY0ZnBaWjNkekRLbS1BWkFKdmpUTG00WGtqZzlvbEc2aHZOc0ZyZF8?oc=5",
-      "date": "Thu, 12 Nov 2026 14:32:56 GMT"
+      "titre": "L'équipe de France battue par l'Italie en Ligue des nations, la première défaite de l'ère Zinédine Zidane",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/l-equipe-de-france-battue-par-l-italie-en-ligue-des-nations-la-premiere-defaite-de-l-ere-zinedine-zidane_8280092.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 22:53:04 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "De l’éducation à la police, ce qu’il faut retenir du grand oral des candidats sur les services publics - L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOHVhRjBBYkJwNzZUX1l0UGlKZWlNRll4WUFJS0d6TmtDbmFsaWxjcEFOajZkZGJhamJOczFOSGIxX2VYZ29WakFQdTVpTDRmUDlENHRyQ0djNWtOeHp5WFJXWXUyUFdMb0t4Mlp5anpmRUE0Ym1FTHdmSTBXOVR4dVNQUDVtZ3BHbHNDM3FzWDhnQUk3YV9jWTg3NUZGTFVWN0p3UDF3ZGFwcTlQejBDaXJUazZJRW1xUEJLb015VjdpbDlVRU9FQUo4MTUtdEJad0pSb3I5Z1hYOFE?oc=5",
-      "date": "Thu, 12 Nov 2026 13:01:34 GMT"
+      "titre": "Israël interdit à Jean-Luc Mélenchon et Mathilde Panot l'entrée sur son territoire, dénonçant \"la position anti-israélienne virulente\" de La France insoumise",
+      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 12 Nov 2026 20:56:47 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Violences dans les lycées : Lecornu pointe du doigt \"la complicité\" de personnels de l'Éducation nationale - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZnptSVoybVNiSEhxVXdiX3hkYWRmcHJIa2l4MG1wM3ZjLW4xT00xZjR2LWtjcmQ5YVdBU1Q2aWhMb1J6OFhpUGpnRDIwaURuSUtUYlJBS0NJZExIRWd1aTJOaXZhQVlNbzFHLTZwT2dQNXA4RmRqZmE2QlhkdlVmQks4Sk1zYVFYanRmTWFMTkVpSzRmOFUyR2NzSlF5VzFBT0RxZVJ2OHRDZEJ1VjJTdDN2QlZmLWhVNmpRNkRyUEpKNGZaVzZUbGxreFh2NDQzQ3ZYT0lLMlRtang0djMw?oc=5",
-      "date": "Thu, 12 Nov 2026 14:02:34 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "La tempête Charles engendre d’impressionnantes inondations dans les Alpes-Maritimes - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQklLemtjQmpRVFRWUksyZXdEaG1CZEhfOW9hSXFZT1N0U0ZTZ3lRVHdTWkZzYy1tczR5aWk5UG04ZWhTOHBSNGw2ZUR6YXZwWnNhMVEzeW5sbFFZYVZyNUVEOFRzb0RuWDVzdmVYSzFFX1NXblAxNkFxOFVvczRXN2I3Q1kyemdZSUFqZW1SVDNwbVhUSG1tck1xX3NsUUdIYU5yNEtNRjhzUGVzdU9IZ3E4RHFwQlltZURnRktMZGpYSDljbnJwZDkzbGZDYXhoZGY5Sw?oc=5",
-      "date": "Thu, 12 Nov 2026 16:56:51 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Hauts-de-Seine : enquête de l'IGPN après la «collision» entre un jeune à moto et un véhicule policier - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQenVYV29YdFk3MkxCVXMzZF84aDVzNm1mcHFpN2pKWU1kX0tZdkRrbjZoYm8tV1VvMFllTk5KMUdNLUVXS2VxcU41U2dSUzhOT3hWRE91OWpxeW96RVZxSkNkUVVTU0xFY2VFM1RlVnVQSGw2VnhxT1RMYVBLX3dPV1Z5bTQzaEl1NTFXNnRJLUxhc1doaTB0N05OdDFDNC15WmlJUVZKUHJJRG10aDdPbkRuMkFpeHQ5VmdrTFpSdFJrNHNacG9USndZYTgyRmVnc0RudUROZUVROVE?oc=5",
-      "date": "Thu, 12 Nov 2026 18:40:01 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Au procès Zecler, le policier qui menotte mais ne voit ni n’entend rien - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGF2R1Rzb2ZIUHA3b243S1dLZFBJamx5bkFhTWhNQ2M4WWh0aXYtR2l3bUpkamxzUUpVRmxSU2tjVTgtNGJ6azJSZm9yQm1sWGNmUk8yZzF5XzY0NUhUck1HR1luNjhiMVZhaEtyd1B0VmMyRkEwMDBSa1l1OUpqSWJiR2owQjFRMnhvYWppMWFMN0tNMXhYc1lSd2Jvc2FnUEQyMTQweDNGUzV4bXRFQW14NThDdHktR3l0Yg?oc=5",
-      "date": "Thu, 12 Nov 2026 17:51:15 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Guerre en Ukraine : depuis Dublin, Volodymyr Zelensky affirme que l'Europe sera à la table des \"prochaines\" négociations",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-les-emissaires-americains-sont-arrives-en-russie-pour-une-rencontre-avec-vladimir-poutine_8278706.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 13 Nov 2026 00:01:21 +0100"
     }
   ]
 }
