@@ -130,29 +130,52 @@ function afficherDate() {
 afficherDate();
 setInterval(afficherDate, 60000);
 
-function afficherSaintDuJour() {
-  const saints = {
-    "1-1":"Marie","1-6":"Mélanie","1-17":"Roseline",
-    "2-2":"Présentation du Seigneur","2-14":"Valentin",
-    "3-19":"Joseph","4-1":"Hugues","5-1":"Joseph",
-    "6-24":"Jean-Baptiste","7-14":"Camille",
-    "8-15":"Marie","9-29":"Michel","10-20":"Adeline",
-    "10-21":"Céline","10-22":"Élodie","10-23":"Jean de Capistran",
-    "10-24":"Florentin","10-25":"Crépin","10-26":"Dimitri",
-    "10-27":"Émeline","10-28":"Simon","10-29":"Narcisse",
-    "10-30":"Bienvenue","10-31":"Quentin",
-    "11-1":"Tous les saints","11-11":"Martin",
-    "12-6":"Nicolas","12-25":"Noël"
-  };
-  const d = new Date();
-  const cle = (d.getMonth() + 1) + "-" + d.getDate();
-  const nom = saints[cle] || "Saint du jour";
-  document.getElementById("saint").textContent = nom;
-  document.getElementById("fete").textContent =
-    nom === "Saint du jour" ? "Calendrier du jour" :
-    "Bonne fête à toutes les personnes prénommées " + nom + " !";
+
+async function afficherSaintDuJour() {
+  const saintElement = document.getElementById("saint");
+  const feteElement = document.getElementById("fete");
+
+  try {
+    const url = "https://nominis.cef.fr/json/saintdujour.php";
+
+    const reponse = await fetch(url, { cache: "no-store" });
+
+    if (!reponse.ok) {
+      throw new Error("Erreur HTTP " + reponse.status);
+    }
+
+    const data = await reponse.json();
+    const saint = data.response.saintdujour;
+
+    if (!saint || !saint.nom) {
+      throw new Error("Aucun saint disponible");
+    }
+
+    saintElement.textContent = saint.nom;
+    feteElement.textContent = saint.description || "Bonne fête !";
+
+    // Lien vers Nominis
+    const lien = document.createElement("a");
+    lien.href = "https://nominis.cef.fr/";
+    lien.target = "_blank";
+    lien.textContent = "Source : Nominis";
+    lien.style.color = "#83d7ff";
+    lien.style.display = "block";
+    lien.style.marginTop = "10px";
+    lien.style.fontSize = "14px";
+
+    feteElement.appendChild(lien);
+
+  } catch (erreur) {
+    console.error("Erreur saint du jour :", erreur);
+    saintElement.textContent = "Indisponible";
+    feteElement.textContent = "Chargement du calendrier impossible.";
+  }
 }
+
 afficherSaintDuJour();
+setInterval(afficherSaintDuJour, 60 * 60 * 1000);
+
 
 function iconeMeteo(code) {
   if (code === 0) return "☀️";
