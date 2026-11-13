@@ -131,49 +131,38 @@ afficherDate();
 setInterval(afficherDate, 60000);
 
 
-async function afficherSaintDuJour() {
-  const saintElement = document.getElementById("saint");
-  const feteElement = document.getElementById("fete");
 
-  try {
-    const url = "https://nominis.cef.fr/json/saintdujour.php";
+function afficherSaintDuJour() {
 
-    const reponse = await fetch(url, { cache: "no-store" });
+  const calendrier = {
+    1: "Marie, Basile, Geneviève, Odilon, Édouard, Mélaine, Raymond, Lucien, Alix, Guillaume, Pauline, Tatiana, Yvette, Nina, Rémi, Marcel, Roseline, Prisca, Marius, Sébastien, Agnès, Vincent, Barnard, François de Sales, Paul, Timothée, Angèle, Thomas d'Aquin, Gildas, Martine, Marcelle",
+    2: "Ella, Chandeleur, Blaise, Véronique, Agathe, Gaston, Eugénie, Jacqueline, Apolline, Arnaud, Notre-Dame de Lourdes, Félix, Béatrice, Valentin, Claude, Julienne, Alexis, Bernadette, Gabin, Aimée, Pierre Damien, Isabelle, Lazare, Modeste, Roméo, Nestor, Honorine, Romain",
+    3: "Grand-mères, Charles le Bon, Guénolé, Casimir, Olive, Colette, Félicité, Jean de Dieu, Françoise, Vivien, Rosine, Justine, Rodrigue, Mathilde, Louise, Bénédicte, Patrick, Cyrille, Joseph, Herbert, Clémence, Léa, Victorien, Catherine de Suède, Annonciation, Larissa, Habib, Gontran, Gwladys, Amédée, Benjamin",
+    4: "Hugues, Sandrine, Richard, Isidore, Pâques, Prudence, Jean-Baptiste de la Salle, Julie, Gautier, Fulbert, Stanislas, Jules, Ida, Maxime, Paterne, Benoît-Joseph, Anicet, Parfait, Emma, Odette, Anselme, Alexandre, Georges, Fidèle, Marc, Alida, Zita, Valérie, Catherine de Sienne, Robert",
+    5: "Joseph, Boris, Philippe et Jacques, Sylvain, Judith, Prudence, Gisèle, Victoire, Pacôme, Solange, Estelle, Achille, Rolande, Ascension, Denise, Honoré, Pascal, Éric, Yves, Bernardin, Constantin, Émilie, Didier, Pentecôte, Sophie, Bérenger, Augustin, Germain, Aymar, Ferdinand, Pétronille",
+    6: "Justin, Blandine, Kévin, Clotilde, Igor, Norbert, Gilbert, Médard, Diane, Landry, Barnabé, Guy, Antoine de Padoue, Élisée, Germaine, Jean-François Régis, Hervé, Léonce, Romuald, Silvère, Rodolphe, Alban, Audrey, Jean-Baptiste, Prosper, Anthelme, Fernand, Irénée, Pierre et Paul, Martial",
+    7: "Thierry, Martinien, Thomas, Florent, Antoine, Mariette, Raoul, Thibault, Amandine, Ulrich, Benoît, Olivier, Henri, Camille, Donald, Notre-Dame du Mont-Carmel, Charlotte, Frédéric, Arsène, Marina, Victor, Marie-Madeleine, Brigitte, Christine, Jacques, Anne et Joachim, Nathalie, Samson, Marthe, Juliette, Ignace",
+    8: "Alphonse, Julien Eymard, Lydie, Jean-Marie Vianney, Abel, Transfiguration, Gaétan, Dominique, Amour, Laurent, Claire, Clarisse, Hippolyte, Évrard, Assomption, Armel, Hyacinthe, Hélène, Jean-Eudes, Bernard, Christophe, Fabrice, Rose de Lima, Barthélémy, Louis, Natacha, Monique, Augustin, Sabine, Fiacre, Aristide",
+    9: "Gilles, Ingrid, Grégoire, Rosalie, Raïssa, Bertrand, Reine, Nativité de Marie, Alain, Inès, Adelphe, Apollinaire, Aimé, Croix, Roland, Édith, Renaud, Nadège, Émilie, Davy, Matthieu, Maurice, Constant, Thècle, Hermann, Côme et Damien, Vincent de Paul, Venceslas, Michel, Jérôme",
+    10: "Thérèse, Léger, Gérard, François d'Assise, Fleur, Bruno, Serge, Pélagie, Denis, Ghislain, Firmin, Wilfried, Géraud, Juste, Thérèse d'Avila, Edwige, Baudouin, Luc, René, Adeline, Céline, Élodie, Jean de Capistran, Florentin, Crépin, Dimitri, Émeline, Simon et Jude, Narcisse, Bienvenue, Quentin",
+    11: "Tous les saints, Défunts, Hubert, Charles, Sylvie, Léonard, Carine, Geoffroy, Théodore, Léon, Martin, Christian, Brice, Sidonie, Albert, Marguerite, Élisabeth, Aude, Tanguy, Edmond, Présentation de Marie, Cécile, Clément, Flora, Catherine, Delphine, Séverin, Jacques, Saturnin, André",
+    12: "Florence, Viviane, François-Xavier, Barbara, Gérald, Nicolas, Ambroise, Immaculée Conception, Pierre Fourier, Romaric, Daniel, Jeanne-Françoise, Lucie, Odile, Ninon, Alice, Judicaël, Gatien, Urbain, Théophile, Pierre, Françoise-Xavière, Armand, Adèle, Noël, Étienne, Jean, Innocents, David, Roger, Sylvestre"
+  };
 
-    if (!reponse.ok) {
-      throw new Error("Erreur HTTP " + reponse.status);
-    }
+  const maintenant = new Date();
+  const mois = maintenant.getMonth() + 1;
+  const jour = maintenant.getDate();
 
-    const data = await reponse.json();
-    const saint = data.response.saintdujour;
+  const liste = calendrier[mois].split(", ");
+  const nom = liste[jour - 1] || "Fête du jour";
 
-    if (!saint || !saint.nom) {
-      throw new Error("Aucun saint disponible");
-    }
-
-    saintElement.textContent = saint.nom;
-    feteElement.textContent = saint.description || "Bonne fête !";
-
-    // Lien vers Nominis
-    const lien = document.createElement("a");
-    lien.href = "https://nominis.cef.fr/";
-    lien.target = "_blank";
-    lien.textContent = "Source : Nominis";
-    lien.style.color = "#83d7ff";
-    lien.style.display = "block";
-    lien.style.marginTop = "10px";
-    lien.style.fontSize = "14px";
-
-    feteElement.appendChild(lien);
-
-  } catch (erreur) {
-    console.error("Erreur saint du jour :", erreur);
-    saintElement.textContent = "Indisponible";
-    feteElement.textContent = "Chargement du calendrier impossible.";
-  }
+  document.getElementById("saint").textContent = nom;
+  document.getElementById("fete").textContent =
+    "Bonne fête à toutes les personnes prénommées " + nom + " !";
 }
 
 afficherSaintDuJour();
+
 setInterval(afficherSaintDuJour, 60 * 60 * 1000);
 
 
