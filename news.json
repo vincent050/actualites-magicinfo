@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-13T10:30:02.814569+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-13T10:48:41.862231+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Procès des parents de la « petite inconnue de l’A10 » : « Je suis un vaurien. Je n’ai pas pu protéger mes enfants » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVmdOZ2NvVHp2LTk5a0ZBMU5LRmFYZlZWbGtlNEJzaVhFSnNLQk4ySWhDWlBzZVp0amc2SV91Ri0zREZqNGZRdlN4Uy1LNmdPRTRFeGxTMnhCaWp2V1dLMTRyejNyMWQ0S3NQZXNPLVc1VE5KcGJiYVFTRTJqbi1QY0cxVWFZalRuX2F0TjFZeGZxRHFuWHpVeWNESHlPcHdhT3FNQ28wWFdOR1NZU3hUb2x1djRPLVRNU1VJdHh2TjBHZVlPZnN2OWVVbkJIekI4Q193MEdxTjBHb04xQllUQnAwdFBSY19EVnFxNUhNTXlsQ3ZWVThv?oc=5",
-      "date": "Fri, 13 Nov 2026 01:53:28 GMT"
+      "titre": "Patron d'une entreprise du bâtiment, Laurent Vasselin est décédé subitement à 53 ans",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/patron-dune-entreprise-du-batiment-laurent-vasselin-est-decede-subitement-a-53-ans_65050898.html",
+      "date": "Fri, 13 Nov 2026 11:36:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "De la primaire aux surprises, le chamboule-tout désespéré du centre pour éviter le crash - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU2NwbzJXTkl3STJEb1NLNTZnX3VZZ0N6ajYySDdudmY3clpFTGxkRUhZNUVkUWVqalFOaFlaN0ZJX0dtTVR5d1VQSThKc2J5NXdxSkk3ODlNOUlXdmZBMlA0UjV6VXoteURZekNZczhKUTJYYmtQbTEwOTJuZ0ZpWDFFbnNiaEwtRW1HYjc3SnZkbTRBdTdvRlZSazNTWlBwLW1FeUlQcGhodmp2OTR3VkVUa0lPZTRtSjRCMHVycWluS1JmZWdvZzVrR0t1dmdIV0xfNDNQNVVYTndtX1FaV1pKeHZPNkp2WXBqSDZhOVd1NG5NVkZn?oc=5",
-      "date": "Fri, 13 Nov 2026 09:01:19 GMT"
+      "titre": "« Un défi collectif » : comment le Cotentin s’est mobilisé pour accueillir quinze docteurs juniors",
+      "lien": "https://actu.fr/economie/un-defi-collectif-comment-le-cotentin-sest-mobilise-pour-accueillir-quinze-docteurs-juniors_65048757.html",
+      "date": "Fri, 13 Nov 2026 11:06:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Violences dans les lycées : Lecornu pointe du doigt \"la complicité\" de personnels de l'Éducation nationale - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZnptSVoybVNiSEhxVXdiX3hkYWRmcHJIa2l4MG1wM3ZjLW4xT00xZjR2LWtjcmQ5YVdBU1Q2aWhMb1J6OFhpUGpnRDIwaURuSUtUYlJBS0NJZExIRWd1aTJOaXZhQVlNbzFHLTZwT2dQNXA4RmRqZmE2QlhkdlVmQks4Sk1zYVFYanRmTWFMTkVpSzRmOFUyR2NzSlF5VzFBT0RxZVJ2OHRDZEJ1VjJTdDN2QlZmLWhVNmpRNkRyUEpKNGZaVzZUbGxreFh2NDQzQ3ZYT0lLMlRtang0djMw?oc=5",
-      "date": "Thu, 12 Nov 2026 14:02:34 GMT"
+      "titre": "44 millions d'euros par an vont être « redonnés » aux communes par le Cotentin",
+      "lien": "https://actu.fr/economie/44-millions-deuros-par-an-vont-etre-redonnes-aux-communes-par-le-cotentin_65050561.html",
+      "date": "Fri, 13 Nov 2026 10:31:11 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Il savait que s’il en parlait à quelqu’un, ça ferait foirer le projet » : le seul ami de Kevin, le terroriste de l’attentat de Trappes, n’a rien vu venir - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPalJVcHA0ZF9pRlhEa3dUaURqaXVIdkZkQnFrNGV2RHFUdmU5QlJEWUh3cWVUZGNZM3RLSDlUeGFycnk2cy1nZm1ncmpsVFV3c2lWWko1el91cmdOay02cGY4bFlJaFdXWjFvX1VwdDBSQ0E5amhWS3U1THppcDg0RzZFY1lzVWJmOWxBQVZmdGpwUkJaTHh4X1R0Y0xvMkF4VDVOZDNYVkY5LWlDYVBXdW91a01nSWRuRWdMVndPeHVpR0NmTTBQSHRIMy0wWGNZeUs5bTRyWThOcDUzQnZUQ0I0MFZFVUxUWk9ZZGdQLUQ0UjFsLUdQMThlNFJsTWstUEFHUGZQdlRZendXWHdSQVBpbUQxRHFxUUFkZUNLS0hSS3RobnhOSA?oc=5",
-      "date": "Fri, 13 Nov 2026 06:35:11 GMT"
+      "titre": "Trail : pourquoi Yannick Noël est-il présent sur une course à Hong-Kong ?",
+      "lien": "https://actu.fr/normandie/neuville-au-plain_50373/trail-pourquoi-yannick-noel-est-il-present-sur-une-course-a-hong-kong_65050065.html",
+      "date": "Fri, 13 Nov 2026 09:29:07 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Outlook et Teams perturbés, pas de cyberattaque d'après Microsoft... Ce que l'on sait de la panne mondiale qui touche le géant américain depuis jeudi",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/outlook-et-teams-perturbes-pas-de-cyberattaque-d-apres-microsoft-ce-que-l-on-sait-de-la-panne-mondiale-qui-touche-le-geant-americain-depuis-jeudi_8280671.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 13 Nov 2026 11:06:19 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Une génération sacrifiée » : le désarroi des parents d’élèves dont les lycées sont bloqués depuis des semaines - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPR0t0cDl5Y2htOGVWdkZ5dWtfUEpjdjhBT3NUMEZRby1RaUNXRWNiV1pqRnFGT0o1TjJ0X09Db1p4OFh6cVJmX250NkVKR09TcWFtSktCb0pYb2xTRG4wal9YSHd5RTNYc0JoNHJtV2RTLTRQenRPSFZCX1JkdHh5c19CaXk1MGxEa2plV3hicFV1eGRzLUhYeWlIOHp6c2VWempOZnVpTzh4Uk5DQnR4aG13YU1VdkJXMnU5bXNRMVJsU2RuNV9YM1oyLWF6ZHpHcFl4bk9jZElPT0dVOGh0cE5yYjlIeWc3MmNha1JBRHFDRWxiOVVlNmFBTVYyTmRjYlEyNm4xeXdFQlNYcXc?oc=5",
-      "date": "Fri, 13 Nov 2026 05:00:00 GMT"
+      "titre": "Que demandent les syndicats de fonctionnaires, reçus à Matignon vendredi ?",
+      "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/que-demandent-les-syndicats-de-fonctionnaires-recus-a-matignon-vendredi_8280539.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 13 Nov 2026 10:18:09 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Audiences de la radio : les stations d’information accusent le coup - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcmtUSXNVRGYxRlNWUkNPb1RSRWpTTHdhVlFlY1R2OS1oMTlWcFQxNmdTQjQ3UEprWkxoSXF5UHlsY3Y1bXJadzYwTUtZQ28xR2ZvUjhzSktGVW5va2VBOU1jTmdlWFdwV2wxS0Yta3Q3WFRwUHNOX1AwdDNrUUs4U3hBQVhZbXMxazluS0p3YVBSRDhrWUJNTEZDNXRVY1BLay1oSU5sdUlsdFBMWl9tYmEwSEdwQ1I1aVpFaWJ3ZTczYW5vbUdYLXhfU2RDQkE?oc=5",
-      "date": "Fri, 13 Nov 2026 09:45:30 GMT"
+      "titre": "Les fausses alertes à la bombe sont \"concertées\" et relèvent possiblement d'une \"ingérence étrangère\", affirme Laurent Nuñez",
+      "lien": "https://www.franceinfo.fr/politique/ingerence/les-fausses-alertes-a-la-bombe-sont-concertees-et-relevent-possiblement-d-une-ingerence-etrangere-affirme-laurent-nunez_8280764.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 13 Nov 2026 11:09:17 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "SONDAGE EXCLUSIF - Présidentielle 2027 : les Français rêvent-ils d'une candidature Lagarde, Bertrand ou Hollande - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSXJDaUMxZmQxM25Nc2pXZlg3NjB2ZGx5cDlJdVdpMXdKdHBPZUw3MWZORUV0a1R4UzRSbXZ1Q3ZtajRDcGFPeGE3QTMtVzY4T0pwOVd2WHNYTW9ZV01PaU50OURTSXZtMGFCdkNOMXNubjNQcnVqT3FoUnV0dHNrSWg2d0tvck5yNVZyeml4US1VZXZ3Z0JzdnlSNU1RendFMTFtMHBfbUM0eU5EYzV4dklnTXZNRld4MVd0RUpHWlg4dS04UGY2QWVNQVRLMWt1N01mOFdvMVY1ejd0NlR5SXBrSFlNemVORFdLbjhR?oc=5",
-      "date": "Fri, 13 Nov 2026 08:42:43 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Épisode méditerranéen : axes coupés ou inondés, éboulement, chute d’arbre… le point sur l’état des routes dans les Alpes-Maritimes à 16 heures - Nice-Matin",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVpPVkZZaUR6djBiR1R4Z3d2ZklfQ0JUTEtabXpDU1RJYWdHLVdtVTkxcFZYYUJ6aDgtRUF5X1k0WnZhaUhMWXV4cEh0WlRiWURHbm05ak5fTTFuQXhvT3lEbDdhWElYem5fNEthVlo4amFtU29DekF2OUlaVzFTa0dMSDV4em56ZGFxUmRaOTZCY1J1Szg4Nl83cUlNbWxCeWxDbFVPTW90MFFxMUQtaW9yRmk0WXJ2Z1pvRm0zaFlPdThUZnZ6OGZ0eUlOUkF5N3gtU3ZRakdCaHdqU0RveXpuenZOQTBnUS0yRlkyRktyQWg5Rko1UW1kSVhTTFlETFlyQjlCNlN1WXJXUEkybG5R?oc=5",
-      "date": "Thu, 12 Nov 2026 15:14:20 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "DIRECT. Colère sociale: entre 30.000 et 60.000 manifestants attendus à Paris ce samedi - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQy10Vzl4cUdfOGJINnlzRXVkOGhEd2twN1Y3Ym5lZ1dhZTBGakR4d2F6QmpkakRNY3otOUV5ak9jWjdVWWRXb1VDU3llaHU4WVZmN01jTm8yYU5JZXo5MG45RXpoX1hjMllOQnVLZUlHQjlLRGRWZG1mU2o5eDNvRW1lam16VlpuQWhKNEgzRWJaMzdKbXhoMGtabzN0NXhlX04ybWEzYzdxT3RUTGNpYWM0TF85ejhFc25UdVJvT2htbVFLUzNGRW9KR1h2eGVVdlU3Z0pKU05uMVdxaTJnRUdqdEZaZV95VXRsZEE5bC1MNXV0Z0lSYjc0LXVvakJxNWdsN1BrYWpwTVk2YnlTdHhoT1E1X0xhc2tjU3VNV1FqQQ?oc=5",
-      "date": "Fri, 13 Nov 2026 10:14:11 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Miss France 2027 : l'aventure va débuter pour la Toulousaine Carla Rachail qui va préparer le grand rendez-vous du 12 décembre sur l'île antillaise de Saint-Martin - ladepeche.fr",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUGd5WDk2LWFIdDFNd05ad1c0OHZkUC1ZRnU1dGd0V3prcjQ4dlZvWTZyWThMU05YMGZzdldaVE51Tmt5LXBNb0dCWXRfOUhyWEp4Yl9LLWdOLXh4SUsyRkFPYzV3eURuT1ZybG1pTzhhRVFVV2NtOWs5eWxVczBmVDJkQnZScU4wM1JtSWNBa1pVcjhCaVU2bThSb1dpcE5odVBzMkZJOVVkOWZZdm02YWlyZDg3dmE4bG85SVBWTnRBTDRXNURhMUtzVjZZYmJQLU9yY0dod0tyVzNfanpPOFVUUWNmLXhmdXMta1dFQmlDelFXaGwzY29qeWk4R0tmbm1LRmFIRTB3NjFnOTZGTS1UWnlZRkJpMnBqckVoek40M1U?oc=5",
-      "date": "Thu, 12 Nov 2026 18:31:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Présidentielle : Bruno Retailleau, candidat des Républicains, n'a \"pas de prêt bancaire\" et accuse le gouvernement",
+      "lien": "https://www.franceinfo.fr/elections/le-candidat-des-republicains-a-la-presidentielle-bruno-retailleau-n-a-pas-de-pret-bancaire-et-accuse-le-gouvernement_8280719.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 13 Nov 2026 11:22:37 +0100"
     }
   ]
 }
