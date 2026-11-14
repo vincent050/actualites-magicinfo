@@ -1,47 +1,35 @@
 {
-  "mise_a_jour": "2026-11-14T12:32:08.288408+00:00",
-  "manche": [
+  "updated": "2026-11-14T16:50:57.406715+00:00",
+  "items": [
     {
-      "titre": "Ils travaillent pour le nucléaire et l'industrie navale : voici le quotidien d'un chaudronnier-tuyauteur",
-      "lien": "https://actu.fr/economie/ils-travaillent-pour-le-nucleaire-et-lindustrie-navale-voici-le-quotidien-dun-chaudronnier-tuyauteur_65055501.html",
-      "date": "Sat, 14 Nov 2026 12:30:02 +0100"
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
     },
     {
-      "titre": "« Courir 5 km en moins de 16 minutes » : le junior Pierre Lebresne gagne les Foulées",
-      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/courir-5-km-en-moins-de-16-minutes-le-junior-pierre-lebresne-gagne-les-foulees_65051345.html",
-      "date": "Sat, 14 Nov 2026 12:00:02 +0100"
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
     },
     {
-      "titre": "« Ce festival est unique en Europe ! » : cet événement consacré aux mondes sous-marins a débuté à Cherbourg",
-      "lien": "https://actu.fr/loisirs-culture/ce-festival-est-unique-en-europe-cet-evenement-consacre-aux-mondes-sous-marins-a-debute-a-cherbourg_65055396.html",
-      "date": "Sat, 14 Nov 2026 11:30:02 +0100"
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
     },
     {
-      "titre": "Football : en Coupe de Normandie, un choc avant le grand saut pour Tourlaville",
-      "lien": "https://actu.fr/sports/football-en-coupe-de-normandie-un-choc-avant-le-grand-saut-pour-tourlaville_65055384.html",
-      "date": "Sat, 14 Nov 2026 11:00:03 +0100"
-    }
-  ],
-  "france": [
-    {
-      "titre": "Microsoft annonce le rétablissement total de ses services après la panne mondiale survenue jeudi",
-      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-annonce-le-retablissement-total-de-ses-services-apres-la-panne-mondiale-survenue-jeudi_8282405.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 12:40:27 +0100"
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
     },
     {
-      "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
-      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 12:58:12 +0100"
-    },
-    {
-      "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
-      "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 13:03:26 +0100"
-    },
-    {
-      "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
-      "date": "Sat, 14 Nov 2026 11:37:35 +0100"
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
