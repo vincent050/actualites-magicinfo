@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-14T10:50:10.137960+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-14T12:32:08.288408+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "Suspension des vols aux Etats-Unis : une panne géante que l’administration Trump cherche déjà à politiser - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSF9DZnNQSmUwZnpkVVNHa1UzOVJFcC1zVGRBY3VzaEJ4Vnd5UG9xRTNaemJYRlRmMjhsbWRidkhTOWgxRVZUOEk3YURSOEI2eXBLLUVzZGg5MEM4Mlhla1lGNEJWam4zUC1pRDE4cXBWUjBjMkEtZ2otcUFYZWg2YWFZUHlfeE9qcU1KVXVHWWpWZXRuUEpYMlNYanFzdXhrQnJTNE1NcFpoUzZlcVpYRXBCYjhtX2dQQmlyb1BnWkQ5dTZwVU13b0JvcnJmZzVUbDB1SXpWY1NZS1JGXzUwRVhHa1hybFpxb0oxMVF6YzhJNVhYRWExQlBtODlRR1dyMU9yaE1la096SEdsN1AzT1dzaWVrYXpnMGswNFI3N3ppb0tz?oc=5",
-      "date": "Sat, 14 Nov 2026 09:03:32 GMT"
+      "titre": "Ils travaillent pour le nucléaire et l'industrie navale : voici le quotidien d'un chaudronnier-tuyauteur",
+      "lien": "https://actu.fr/economie/ils-travaillent-pour-le-nucleaire-et-lindustrie-navale-voici-le-quotidien-dun-chaudronnier-tuyauteur_65055501.html",
+      "date": "Sat, 14 Nov 2026 12:30:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestation du 14 novembre : Montpellier, Nîmes, Carcassonne… À quoi s’attendre en Occitanie ce samedi - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQemdwVHRZdmVPdWtNZ0t1V2hHUG5STVZveG9makhfTW5Qc2Z1QlFReXdraXZnMnVYazhYTmNMUUdKUWRldEFjMnBtZlVicG5SV3hjOTM4ZkZvTnR3SzE4WFBIM2hKZkhCcFY0NU9namVialZxdEo3Vk1ZbHJwX1Bmd0IzdkhNSTEzT1ZWODRYSlI5elRPckNLMVl5djdraFBCUmRFVHNzall4M1dUaEV2SkNLNlMyRDdPM1JnanV2Ykc1RzgybkNFNjE5cEVrekpSSEhQdG1xYWZSOVAxa05GVA?oc=5",
-      "date": "Sat, 14 Nov 2026 06:02:00 GMT"
+      "titre": "« Courir 5 km en moins de 16 minutes » : le junior Pierre Lebresne gagne les Foulées",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/courir-5-km-en-moins-de-16-minutes-le-junior-pierre-lebresne-gagne-les-foulees_65051345.html",
+      "date": "Sat, 14 Nov 2026 12:00:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Volodymyr Zelensky affirme que les États-Unis ont proposé à l'Ukraine des concessions territoriales en échange d'une adhésion à l'Otan - BFM",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNc2hoRTZyWFY0c3FTMDllQ3FqcTA0TEZBWHZLdzhseEk1ekVNRThoTl9oMEJFaG5BUzJFVlVaRlgtdUxKX3c2RE84czRnUnFSLXdhdlJiWTI0Vm5qdkZwWnZIYVlzOTk0OFRtaXpLZnpuNUpjZ3RPeUJXbXdfUWp4cU5kbFNmYkJWYS05T1hSLTd2RWwwUUhHYkdZTkpaWTh4aHlWNkwzTVBtem9adzJ0S3FIWC11dWRfLXNVYzRsdHdtdnNYekRqRlhHcDR3ZjNDM1lNTTNhYTFmV1A3R3NSRlpESzZfYkhXWVpvSEZleHlNLVphWXlJLXhaeUhtS3dzOUxVWGNpbWxJYnUyTU44bkxxWUNyYzFMdzVrY2JIa2pKZXVlWjRRSFR0aWVvQk0?oc=5",
-      "date": "Sat, 14 Nov 2026 10:00:40 GMT"
+      "titre": "« Ce festival est unique en Europe ! » : cet événement consacré aux mondes sous-marins a débuté à Cherbourg",
+      "lien": "https://actu.fr/loisirs-culture/ce-festival-est-unique-en-europe-cet-evenement-consacre-aux-mondes-sous-marins-a-debute-a-cherbourg_65055396.html",
+      "date": "Sat, 14 Nov 2026 11:30:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Un vice-président d’université « violemment agressé à l’arme blanche dans son propre bureau » en Île-de-France - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOGVkcUljNFlQak4zQ3Y1VWhabThOanN4aHFfaGpKeHNYUnlwaHdvSk9naTJIekljbVo0dVFIbTJVcEdfZnEyRTlyMVdvQ01QdjB3aW1oZXJURjNhSklrVVdfWC1hWDdpQS1XczRDeC0zZHdkbUk5VThSRGNhOTVUamczX1ZPYVFMdjMwM3NTSy03clJ2OWVnUjhQRUluZENfWElJc3h5NjdKVjludnFzNVl5cTBmVGJhbC1jTml3NGUxZENZTjBqeE84VDROU041Y001YkNFSFhkeldGR3FjS2J2WHZ4aExJY2JZWmlXTzYxVzBSc1RSYkFVUVl2WmVuWmhmelZVX2xtNkVmTmhjVDQ5Yw?oc=5",
-      "date": "Fri, 13 Nov 2026 23:04:25 GMT"
+      "titre": "Football : en Coupe de Normandie, un choc avant le grand saut pour Tourlaville",
+      "lien": "https://actu.fr/sports/football-en-coupe-de-normandie-un-choc-avant-le-grand-saut-pour-tourlaville_65055384.html",
+      "date": "Sat, 14 Nov 2026 11:00:03 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Microsoft annonce le rétablissement total de ses services après la panne mondiale survenue jeudi",
+      "lien": "https://www.franceinfo.fr/internet/panne-informatique-mondiale/microsoft-annonce-le-retablissement-total-de-ses-services-apres-la-panne-mondiale-survenue-jeudi_8282405.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 12:40:27 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : donné en tête à gauche et à plus de 20 % au premier tour, Jean-Luc Mélenchon est-il encore « sous-estimé » dans les sondages - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVW5pOUZHZS15anRFVUNNa21WZmNaS0ZPT1Z6LWpWQ0NXSTA1Zi1mMkhrQmRoOVFicG9adlpOWnVMLUMwaHBZcmNsbkdmTlUzcHFCbkszazJNM2lQTkhnVDZDOEFHLWxQVG9YalN0SktMTkdMdEVrZF9BRG4wS21wcmNMNTUwREhENDNsR0pDT2NJY0RKVmR2emdRLU8wSEhNem5QZDNibkNOa1RvSmdhZlU0LTV6SlpaN3VLRVQwem1OaFd2Qzh4ckZmS1ltejYzalRoc3NvTzhCUl8yN2hyMFdremhla3I1cWRELThMN1l4N01COVNVQjh6TUpBQjlCV3NLN2VzMDI0OU56RXE3ZTlkaUZWMWZnYzVtcy16UXdFM3lzU2Vla2VPZm0yTGNKYkVmRGNHSFhqUDF3blc5QW9maFpyd3MxdUxfU1I1MA?oc=5",
-      "date": "Sat, 14 Nov 2026 06:15:00 GMT"
+      "titre": "Panne du système de communication, centaines de milliers de passagers touchés… Ce que l'on sait de la suspension massive et rarissime des vols aux Etats-Unis",
+      "lien": "https://www.franceinfo.fr/monde/usa/panne-du-systeme-de-communication-centaines-de-milliers-de-passagers-touches-ce-que-l-on-sait-de-la-suspension-massive-et-rarissime-des-vols-aux-etats-unis_8282207.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 12:58:12 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "\"J'ai l'impression de travailler à perte\" : salariés au smic, ils racontent un quotidien de privations, de galères et de déclassement - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNOWdwQktTN3BPYkRYaFdVR2hqYkt6V3dOVWhlTmtsNzVoeWZhSmw3WnR4eGVlenNwdzgyaE8xVDRJRTlEaklsRWZoeGhJVEY3blQtT2VsdEg0c09KamlKOXBjbmU2TWprX3ZkY0hhZDBtc01KMEhnUDRpYUYyTjlwaEdqbU4yT0E5VVlXLWV6ME1DUWY5MDZMRFU1N0NrQUVIMEpxalYtamZzUDEteGQ5QWNqaE1ZcFh5WUVhUXZRSFdoN2gtR1NmTmVJaFNwa3pYUEQtZ2EwRVBkU0lyWjM1bDNHRlJYcW1FUk1tdzdYNnR5YXBRRWYxYi1jakpJbmVneEpZNWoxNEVlbXdVRTJnX1NGeHh2VnhXX01aby1hd3RjNkVVXzFGOQ?oc=5",
-      "date": "Sat, 14 Nov 2026 06:08:33 GMT"
+      "titre": "Interdictions de manifestations, couvre-feux, parcours hors des centres-villes… Comment les préfets multiplient les mesures administratives en amont des mobilisations",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/interdictions-de-manifestations-couvre-feux-parcours-hors-des-centres-villes-comment-les-prefets-multiplient-les-mesures-administratives-en-amont-des-mobilisations_8274263.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 13:03:26 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : «Je ne pense pas grand-chose» de la candidature de Teddy Riner, lance Victor Wembanyama - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaUlwRlAtWjZXcVI3U0cwemRRdVY2eGk0MWFUMks0UElfM3UyQjlZSzN4dTdGU3c0dENNdVM3anNvRERQczJtY0ZEUHQ0V3B3OGo2NEZWSFpIVFJBSVVOdUZWelhVQVJpNnFnaENvSjF4dERvWEl6c2ItbmlLM1RhMWp0ZUZnNFJZcVFOZ0NkZjlJMVhWWU5sRE5HR2hlai1UdDhGZzY3TWRfb3k3WUd1NENiZW96U2xsWUVObDNYUDBFeE5YUnJhSXlkeS1UZVVJUFRvVWlDNGRUd3B0VmdkRGg1WGdfT21kZlFF?oc=5",
-      "date": "Sat, 14 Nov 2026 09:31:36 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Pluie-inondation: deux départements placés en vigilance orange par Météo France - BFM",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVBxLUk3UUZXUUVCUmk0MWxxQ1JIaTlWNEpOdlgxaXZVMUJTV2w5M1h0NW8yVkY1NEdGTXpRU2lTamRzdzQ5MUJHQTJaeG85eHFRa25sQ1paMkFET212dkF6U00tTFNTZmFtQ2Z5VlU4TlE3aWdZSGtzZWlvOXoxSHh0aHpBQXY2ZnVXMFEzX0dxbVVJek9VbDNWVklpUnN0djNXTTJpYjdSSG8xSEx0VUcwaTBNMVJBVUMyQ05tQzBWbXVIN3c?oc=5",
-      "date": "Sat, 14 Nov 2026 09:16:09 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Puy-de-Dôme : un adolescent de 15 ans décède après avoir été percuté par une voiture lors d’un « run - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVE1ZRkxxTjhDXzFnSkxVYVJTQmRuMDhaOWR5RWV5RjZ6b09paXlCT1dxcmU4VXBIOURsWVlCZTllbmZ4cnB1c3JwWGE2Mm44dFRtcHBnNHRqWldoY3JKLTF1czYwalNRdDk0NHFhZkstR1RsNEZHR1FnNGxFNWdDNG5LbTBZdkVQYWgyXzJWYjV5aG9qRVN3NjVhdmNjcUJ1Q3p6TFFsR29HTzdKYUl1XzdUSFZOWVN6N2lQdEhYN1NDWWs5WTNkRkdvUlpIZEdodUVETzFLb3puYm5TdXlnNnVMU1U3eHBIRkpYVG5qNmFXOWFreG9PN2ZvNDJWZlF0R3BGTGtFaWJfZw?oc=5",
-      "date": "Sat, 14 Nov 2026 09:22:45 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Numerus clausus en prison : la proposition choc de Jean-Luc Mélenchon - Orange Actualités",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTEowMW5XSEp4Q0cxb0M3TDZLVy1EbFBza0I3dXk1VFRiTl8tTXNnNTAxTzk1VUd0ckJ3Wld3VjhuMDBUNC1ud2cySDBDaUVjRnlkQ1hhVWxYZjJhWHlROUNVRzRTRm5vazZHTWpfcnV5TmdHM242ZHlJTlpTdGp5YWNoblBCR3ZlTXJOZW5ISFUweHFxdHhpVEJzdWVja3MwTDU2MTEyZ1k3YUVpSElrRk5MQTZFTHBhb1VMaWlkVE9kNkJOX19mZU53?oc=5",
-      "date": "Sat, 14 Nov 2026 08:53:01 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann dit vouloir \"augmenter les salaires\" et \"rendre du pouvoir d'achat aux Français\"",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 11:37:35 +0100"
     }
   ]
 }
