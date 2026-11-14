@@ -1,35 +1,47 @@
 {
-  "updated": "2026-11-14T16:50:57.406715+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-14T18:30:52.882799+00:00",
+  "manche": [
     {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
+      "titre": "Cherbourg : la patinoire des Éléis contrainte de fermer dès son premier jour d’ouverture après une fuite",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cherbourg-la-patinoire-des-eleis-contrainte-de-fermer-des-son-premier-jour-douverture-apres-une-fuite_65056389.html",
+      "date": "Sat, 14 Nov 2026 19:09:50 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
+      "titre": "Avec son maillot de l’OM, Chloé Scelles va plus vite que sa maman et gagne les Foulées",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/avec-son-maillot-de-lom-chloe-scelles-va-plus-vite-que-sa-maman-et-gagne-les-foulees_65056225.html",
+      "date": "Sat, 14 Nov 2026 18:06:01 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
+      "titre": "1,8 million d'euros investis : dix nouveaux logements voient le jour dans cette commune du Cotentin",
+      "lien": "https://actu.fr/normandie/bricquebec-en-cotentin_50082/18-million-deuros-investis-dix-nouveaux-logements-voient-le-jour-dans-cette-commune-du-cotentin_65053306.html",
+      "date": "Sat, 14 Nov 2026 17:36:02 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
+      "titre": "Dans la Manche, la Maison du Biscuit lance ses festivités de Noël dès le 20 novembre",
+      "lien": "https://actu.fr/normandie/sortosville-en-beaumont_50577/dans-la-manche-la-maison-du-biscuit-lance-ses-festivites-de-noel-des-le-20-novembre_65056115.html",
+      "date": "Sat, 14 Nov 2026 17:00:02 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé en France, selon les estimations du ministère de l'Intérieur et de l'intersyndicale de la jeunesse",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 17:58:31 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Présidentielle 2027 : Gérard Larcher veut réunir les candidats de droite et du centre pour arrêter \"une méthode de départage\" vers une candidature unique",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle-2027-raphael-glucksmann-et-teddy-riner-attendus-au-salon-du-made-in-france_8282213.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 18:59:14 +0100"
+    },
+    {
+      "titre": "L'Union européenne exhorte Israël à permettre l'accès \"immédiat\" et \"sans entrave\" de l'aide humanitaire à Gaza, touchée par de fortes intempéries",
+      "lien": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/l-union-europeenne-exhorte-israel-a-permettre-l-acces-immediat-et-sans-entrave-de-l-aide-humanitaire-a-gaza_8282525.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 16:08:00 +0100"
+    },
+    {
+      "titre": "Que faut-il attendre du sommet inédit entre Xi Jinping, Vladimir Poutine et Donald Trump, prévu jeudi en Chine ?",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/que-faut-il-attendre-du-sommet-inedit-entre-xi-jinping-vladimir-poutine-et-donald-trump-attendu-jeudi-en-chine_8282519.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 14 Nov 2026 18:38:22 +0100"
     }
   ]
 }
