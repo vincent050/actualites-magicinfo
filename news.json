@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-15T20:28:27.425752+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-15T21:31:55.254340+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "À cinq mois de la présidentielle, Macron intensifie ses percées dans la campagne (non sans risque) - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXRHNU9mUDJBcU4yTnEtWE5HVkFGUHQ3SkE2VmtTWTlWQ01vcTJFb1otMVZ5SDN2bzdzN2lJcmZBQWc2cFNET0RsNjBhbm1QS3Q5MEtHYmdFWUJDd05aV2NhNlJ5MVJVb2psbzR5VGVMbndJMGVDUDVaNC1PLUF3eWhISi1tM1pwNmhHWGNYOW9VNTNnd2lXdlZYOVdTN2htLUJJbkxLQkVDOWpBWG5CbkF3QzExYng5MTYxVnR1eTByMFlDRHBiTDZEMndkWWgydk5vVDVDb09LQk1oZlZ3UVByUTM0RFF6enFv?oc=5",
-      "date": "Sun, 15 Nov 2026 15:44:14 GMT"
+      "titre": "Rugby. Première victoire de la saison pour Flamanville",
+      "lien": "https://actu.fr/sports/rugby/rugby-premiere-victoire-de-la-saison-pour-flamanville_65058022.html",
+      "date": "Sun, 15 Nov 2026 19:12:40 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Vents violents : voici les 30 départements placés en vigilance jaune ce lundi - CNews",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzlyS21WVkJIMGZpanBoUnVLWVg3QnJPN2FndEF4ckZxX1RRWVpsUDI1bzlTQl9idzNsQ0FVS2tjZzRNV1VHR2tRbG41S0RkM0tUb1VFZ0R3RERhQmFFOHdUTVNNNXQ0ZEZlSFVZd2UwWUR2UmtQMGxMZ2R5VkdoYWptRE1Mb3hjUnFwMExMLWR6dWVHV0IwdWtCNlJTd3Y0R2FoWTI4NU5IUDFUTlBBYzNqakfSAboBQVVfeXFMUHZJQ2JQb2x4ZGVTb2REYnZUeWtZeHM2NjlzaDNiU3N6SzJxa0pJZ2RDVUZzNXdqeWx1c1hpY2RpT01NaGZBdnByLVNKbGdqQ1BzY2ZmVlJORzRnVW1FLVZBRi1IUHdBdVl5dGRVM21JR2xOWnMtTXF5ZFFGbGxtR0Zyd1Jlek1oWWV3eUdia21zYnNOUThpNkIwVTBhYkNlc2VrVXJYbXA4eEtyREl5M3N6d1hCeUZBLXZB?oc=5",
-      "date": "Sun, 15 Nov 2026 16:47:07 GMT"
+      "titre": "« La douleur a disparu, et mon testicule aussi » : le calvaire médical de Philippe après une opération courante",
+      "lien": "https://actu.fr/normandie/doville_50166/la-douleur-a-disparu-et-mon-testicule-aussi-le-calvaire-medical-de-philippe-apres-une-operation-courante_65057978.html",
+      "date": "Sun, 15 Nov 2026 18:58:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVGVnRWxfQUM5SXNrejZmQmlWMW5fSi1SVTFha3NMejlDeVlrODhwQmNEOTViWEh1eXpxMEtCM0psY1dpQVcwOGJoZkNxVDFnbzRNQ05veV96a1lqV3RWNTBKM1FXVnRuZTJrV3phLWJGZDd4ZG1pWG5VXzZXdTZiejdEZ2pNUVZVS0U5UHdpWnREQkxuV2F1ZjJUMmE4dzdYVHcwR0l4UmVIQlZzWUlkelpESkJ6cHUtWUowUDI4OXNzeXJJR2ZZNjRXekIwU1o5di1GMDBMbEp3V2lkUlZYeWR5SUEzN1ZFU1FycWNJTUxad3FLY2p5anFPbGtzMlZHR1N0SlVuNGoxMU9jQVhaUUt1Z0FXMW9saEdZ?oc=5",
-      "date": "Sun, 15 Nov 2026 17:20:21 GMT"
+      "titre": "On sait combien de remorqueurs pousseurs serviront à Cherbourg pour les sous-marins nucléaires",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/on-sait-combien-de-remorqueurs-pousseurs-serviront-a-cherbourg-pour-les-sous-marins-nucleaires_65039776.html",
+      "date": "Sun, 15 Nov 2026 18:11:46 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Le patron de Dassault assure que Jean-Luc Mélenchon \"est admiratif de la réussite de l'industrie française\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUWplMHJ1bHZiVHBmQzE3ekRVVl9pTVFrcC1ZRHZUaDJIR2tkZ1JiR2M0ZEhkR0l4SldaMTFlNVNQbHk0Ti12LUh3M1Z5aWVqYW1MaG5WVVQ5dV8zZEJmdjY3Q3BoUjhWaVZDX1V2WmlfNnJ4NEhkVW5zNUlfZGpqMWNaR2VvekJyWUtMUlowd3NRQjlQYkZjWjdoVWt0QmwzYmFYekxjaFBQeUlyT0txbmpRQkQ3OWduWlE0R3RFQmdUSGVLak5yNnVkQlNLd19lLThjc1RxaC1JLTZKQWNFVUZ4UG42Q2QzTmM5QkhkUC1IZFluVHgyUVhvQXdZdkdLVHM5aS1EZ3VKWTJL?oc=5",
-      "date": "Sun, 15 Nov 2026 13:40:39 GMT"
+      "titre": "Football. Les résultats des 14 et 15 novembre 2026 dans la Manche",
+      "lien": "https://actu.fr/sports/football/football-les-resultats-des-14-et-15-novembre-2026-dans-la-manche_65057749.html",
+      "date": "Sun, 15 Nov 2026 17:48:00 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "France-Turquie : les Bleus font enfin le break grâce à Kroupi... Suivez le match de Ligue des nations avec nous",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-des-nations/direct-france-turquie-les-bleus-visent-la-qualification-pour-les-quarts-de-finale-suivez-le-dernier-match-de-phase-de-poules-de-ligue-des-nations_8282633.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 22:25:22 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaktvRU5uV2JTYzRoajUwSXJHWHRuTk5ZOFM3R24xXzI4RnQzSGtPSmZNcUs3OUs5SS1rTC1fYjE1eDF5cENxckcySG81WFRFcjM4SXFjQVdCaDJKRHhUN3NLRWxuUHZTaHdHdXFudmhwcDJTTUxBeXBzYy1Rd1dkWllCQk9sQ2NUOXFmSEswYnFOcFZKUnR6VVBNS0MxSVNKUU5IU3NFbm1Wa0xGNXNYY3hpeWt1M1F2VEt5MWx3MUtVbVp0cU5qdzFwb1R3WldLWTNMLXllTWVUNUFYNmo3STQxaGFTQlk?oc=5",
-      "date": "Sun, 15 Nov 2026 09:35:16 GMT"
+      "titre": "Présidentielle 2027 : la pauvreté requiert des \"solutions structurelles\", selon les Restos du Coeur",
+      "lien": "https://www.franceinfo.fr/societe/pauvrete/presidentielle-2027-la-pauvrete-requiert-des-solutions-structurelles-selon-les-restos-du-coeur_8283881.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 20:40:21 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Inondations dans l’Hérault : la liste des routes et ponts fermés à la circulation ce dimanche 15 novembre - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQjhGMElhbXJFcDFLNmo0UFdrM2o1V1RScWFOWFJ1N01CLWM4SXhPeHJPUndYb2hfcG5TVFRGdnY5TmU3WE04QWlfM1VRS081SGhpN2RXRGxrTFNpSzFodUZENE91c1ZZSTE2Uzd6M0JKLTI2Yk5LT094OW1FZWtNVHRCREltSFh1Zkt4SXRkMENtanVYM19hUHV4cmVEQmxNdlFTZllBSGRva2RVU2VuUnQ2SU9ZdHJ4RlZpNGw0OEpCTTdiZ3FSM20yV21hTDZyd3QyQ1k4OHMycUhRTGRla0JUbGhSZw?oc=5",
-      "date": "Sun, 15 Nov 2026 14:09:00 GMT"
+      "titre": "La CFDT rejoint la mobilisation du 17 novembre parce que \"nos revendications n'ont pas abouti\", explique le syndicat",
+      "lien": "https://www.franceinfo.fr/economie/transports/mobilisation-du-17-novembre/la-cfdt-rejoint-la-mobilisation-du-17-novembre-parce-que-nos-revendications-n-ont-pas-abouti-explique-le-syndicat_8283890.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 20:44:28 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Cyberattaque chez Maileva, filiale de La Poste : ce que l’on sait du vol des données personnelles de 22 millions de personnes - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcFJOUFl4Y3l3X1ZjQjl3SnBHT2RZVHpCSnV1Zk5CTDVRRXZTOVNGWldsclVEN1NtclZabjBqLXc2MnZSVm9zMy0xcC1ad1NqdXRhQml3UHJYckQ0X2hoSHF0TExBcE9kU0M4N0hvam1WQ1ZHMFplcFQybDFBMkdwdWdGY3Z3YzRUcjlhYXBDMkJvYXIzaEtwbGRKRHZFVjdMTS1FNlB6NFBENkY4WWpCVVl2VGc5YlZJaFBuRGJuS1YxeEJYcXhkTmhxaTJiRDFaWndPYVd0S0Fha1BVUVVqQ1VxYUdYd0RGbFVfbXZmYWtSYnFsRnMxTWk1Nk1BdE45ZTdDeTA0T1N0OEFmYUxpVw?oc=5",
-      "date": "Sun, 15 Nov 2026 11:02:42 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Trois blessés dans un bar du 12e, le maire RN de secteur accuse l'extrême gauche - La Provence",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdnl5UUU5NXZ2Zmw0MDh1SWp0VXh2eG4yMkRzVXQ3RDNOd0NZZFRZYVp1dHhaZTVnTnk3WGZIaHNfQU9PQ2pnNnd5NlE5MjhqQ3JrRGdVbVMyRHRsajlDcklpUlFzN0R1VGJsTHhkMFhJcGE2MUZjR2hsT3ZvTXpRUU1RdUtqUEFnbHNoV3hJaDNZN1JMYjZsczVVRGtzM3FfRjZQeHZfZkRkaUZDSURhZWxULTZEek4tdktZbkQ4N0lBSU9GU3JRMGUzQUpjZ0d6aEFPUHlLRjVPbVMzMkstQmxrMA?oc=5",
-      "date": "Sun, 15 Nov 2026 15:01:28 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Une centaine de gardes à vue à la manif de samedi à Paris, 38 mineurs - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUVVQUYtbHp4NWM5UTl5dzNhbmFkel93d2xqQTBFd0pFMWtCd20zVXQxY0NTRkpUc1daaGhBN0gtdmRpYkxLRWs5Xy1OdUtBTWFzd3NwNGJTWWVSX3pWWHVNLVJBWHZrTFZvSm9aclZIckhrT3pTMVlGT3JHZlBkUnhYMlN1OEItZHBobk5HeDhsV2FiNUxWcXFwMFczakhkX25JOFpYVmtGcjNwRkdDR1FNOGUxZjRf?oc=5",
-      "date": "Sun, 15 Nov 2026 12:32:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Après l’agression de journalistes de BFM-TV lors de la manifestation du 14 novembre à Lyon, une enquête ouverte pour violences en réunion - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM3RRSXdFSzM4U3NMOF9XRzJJT3dOeU95TjhNVEJIYmxuSzFRbElhdDFmNWM0Sy1rYm1seDlpaEpQQUR4a1E2S0ZuV2dVbUpESEczS3VRSzFLQ0tuR2FxNU5obmhsb3BRZDI5VUtqVl9pamxOdDBqak4xNHFPM2dWWndxdlRtQ1NEZm5oNEJ2aVBvdXpJd0VrZG5XT2NFU240aFdjR3FVNkhXNEZNRW5rVHNMUzVtbHZ6N3BXTnluY1NaaTlkM0p4NDZXTUk5TlBnVnlTTkdpaXpRU2htaG56S3R2ZWxmX0d0WWF4SDU0dVN3OXVEc0J2Mk50RnhCenM?oc=5",
-      "date": "Sun, 15 Nov 2026 15:30:19 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 15:33:41 +0100"
     }
   ]
 }
