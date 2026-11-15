@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-15T15:19:07.296581+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-15T16:52:33.529604+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "\"Elle joue contre la France\": l'entourage d'Emmanuel Macron estime que \"si Marine Le Pen décide de tout couper à l’Ukraine, elle nous isolera en Europe\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbTloSGUzUFNtRDVWSXFHc1pobFAxMmJqNHFMRzJnN0V5NXpzaHV3U2hxcGxJNUJYRUVpcUVvSGVOVkRiemo1aGlTRUU4ZmhTb2JwNG5OTU5JS2I5b0t1Q3lXWjBGYXBSb2dIdUVTamxNVl96b0RHZnY0RXp0c2dVV2lIZEU4Y3ptOGlwYWlKQnFPcnZHbzdqWGtvaTlSaTZWaUlMVExYajhyZ0FXQTM4c2xPY1gtMWN0NjZ1aDUxZHQ2NkVZRWRjMHVUaHVURnhMZVItaUZ4UnVwcWZnVUI3OHB1SnNscTRxY3dGekFJVmJYem03RWRPUU1mYlZSQ2Y4TGU1LUNwejkteWZxZmtROEdfeFl5SVhoRlhKcA?oc=5",
-      "date": "Sun, 15 Nov 2026 06:14:44 GMT"
+      "titre": "« Ça nous manque » : avant le retour d'une vraie patinoire en 2030, Cherbourg profite de celle des Eléis",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/ca-nous-manque-avant-le-retour-dune-vraie-patinoire-en-2030-cherbourg-profite-de-celle-des-eleis_65056959.html",
+      "date": "Sun, 15 Nov 2026 17:00:05 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "La hausse de 1,6 % du smic et des « bas salaires » des fonctionnaires coûtera « un peu plus de 1 milliard d’euros », selon le gouvernement - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPeS1RdGhJZ1pKSmZEdDJLYlJRc3dnYS1aOElTY0hDUmpkeER3MDBTb0hxa2lic1NRT1JCRWxDREtsQ2c3QWFYTlQzazh4bnIzbjhMVFdONFY4RHFKNk9heXFzQUZXYkpub3VaYWlzd19RbFMzMVBuSXMtYmFhNXFTVDdCakZMMWd0YnhsZ2JPaDlLaXU4UTBmMzBCY1NxSXU1ODVyVWtaQVVyYThfSDM1STBYekw5V3hCZ1p2R1VWV2hfT1JKWFBkRUZBNXpRempoQUpYbnZaX3hCbDBaWEVFdERYd1ZhRXlTOW1WbjJPOXBCeF95WkwtanV4ZExDd1JuUjlhZXZDMU16Wk50dmpsVFg5ZVhHTDlOVWY1dmRzOWFuVGhRTEZ4SngxQTRDanMwS01oNk1qQXRGQVM3YzktRzZNRVRHQjNybXk4?oc=5",
-      "date": "Sun, 15 Nov 2026 14:37:52 GMT"
+      "titre": "Il connaît déjà certains patients : ce médecin junior arrive en renfort dans le Cotentin",
+      "lien": "https://actu.fr/normandie/port-bail-sur-mer_50412/il-connait-deja-certains-patients-ce-medecin-junior-arrive-en-renfort-dans-le-cotentin_65057398.html",
+      "date": "Sun, 15 Nov 2026 16:36:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestations du 14 novembre : entre 106 000 et 200 000 personnes ont défilé, des heurts dans plusieurs villes - Linternaute.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGRfWmhoZ1hnbjBEQUVtU0J0UENFZ252Z05jckdDaUpUSTBtaWlQRldZWmJIZ19qYzRQcXdEVVFnNi0zZXJ3TEI2dnU5VWxWYV9jQUZzQTY3UnBqOW8wdzYxTVZMWExwdi1SbWtTVFdDVjBvdmFPZGU3MXl0T0N0ZzlXWld1azFUWTVRbTFMcVdkMEZzaE4teS1DbXNzelVoVjI1LU1Ha2FhQ0N3QnowZ3VlaHpTUGhyckExeTBPMjhnZ1ltalVYOFJhQktaclBHd3ozaHVRZm9IV25aZVQ5V0dCb25yeW1MMjdQcVpwU085Z1hmTk1zZGdn?oc=5",
-      "date": "Sun, 15 Nov 2026 13:39:36 GMT"
+      "titre": "Deux ans après avoir fermé, ce site équestre emblématique de la Manche va rouvrir au public",
+      "lien": "https://actu.fr/normandie/auvers_50023/deux-ans-apres-avoir-ferme-ce-site-equestre-emblematique-de-la-manche-va-rouvrir-au-public_65057295.html",
+      "date": "Sun, 15 Nov 2026 16:06:02 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Volonté de lynchage »… Une équipe de BFMTV agressée par des manifestants - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzVmODZPb3NPRHZSa2xsQXBBZjFhUXdwRjFwbzNTZHBTZW8zREQwQWgwaHFvYzBCTEtiU2F4d3lMbi0taXhFbUFHNkFFRDVPYWRzTWt6MEFhenhpb0ZMdzJ5VzJIYU9oTFZOVHVqV05pZjlLdDdxOE5QdlQyV3IxQU9nOGVkNVRsT05tckJ1b3hFd19lRHc3SzVIeGJXWG9OMnE5VkUyaURYQzM5bTRJMExPMldnYWs?oc=5",
-      "date": "Sun, 15 Nov 2026 06:30:00 GMT"
+      "titre": "Incendie d'un restaurant dans la Manche : la solidarité s'organise pour soutenir l'équipe",
+      "lien": "https://actu.fr/normandie/carentan-les-marais_50099/incendie-dun-restaurant-dans-la-manche-la-solidarite-sorganise-pour-soutenir-lequipe_65057326.html",
+      "date": "Sun, 15 Nov 2026 15:36:18 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Des courriers ont pu être lus\" : ce que l'on sait de la cyberattaque contre Maileva, filiale de La Poste, qui a conduit au vol de données de 22 millions de personnes",
+      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-courriers-ont-pu-etre-lus-ce-que-l-on-sait-de-la-cyberattaque-contre-maileva-filiale-de-la-poste-qui-a-conduit-au-vol-de-donnees-de-22-millions-de-personnes_8283266.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 15:33:41 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. \"Je n’y participerai pas. Point”: Édouard Philippe réaffirme son opposition à une primaire de la droite et du centre - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRVIwU2tORjNheXdVTExUbEJxbi1tS21QbDdWRVQtQ0pyOGVxM01Yakx1aWFpYjU3dEdZWU9RMzRzVGZKSWh3MnhUdmNfQ1V5M2RmZ2E3NEVaRDk4bW9rX0s4TTJ0ZVlrRG8yM3RrbGYza2JONVcyTVRIcGstZ1J5Ylc4Q3g1dHBtVTl6bUhSRlY0OF9kbS01cTVabWVjcC1OaXVQUnFSMlVaZmlvc2hBcFpwVG9ncTI0U0tMZWVhS2J3R0pLYnpTR1pucUlpbGl5MXlLMTJjNWQxTkhEb3FkeER5OWVQZl9wWmxBVG1MRGtXUWt2MkM3bmNRbk9NSG4yVjBPVXpiVEcwNl9CSlJacjFhdlZCaXpvZFBtWm5aLUNyazFvVGFzdVAxYUFBbHNESVlFRlpoQjlHaHkwQ1pXY0dsUGFTNzJTSnkxYUlRUmhJWVJVRG1qbVMzX1pMYXFQMC1QY1hCa0o?oc=5",
-      "date": "Sun, 15 Nov 2026 14:37:12 GMT"
+      "titre": "Présidentielle 2027 : \"Cette primaire, je n'y participerai pas\", répète Edouard Philippe après l'appel de Gérard Larcher",
+      "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-l-entourage-d-emmanuel-macron-etrille-les-candidats-qui-veulent-baisser-l-aide-financiere-a-l-ukraine-dont-marine-le-pen_8283293.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 16:16:05 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Les États-Unis nuancent les espoirs de Zelensky sur ce point essentiel des négociations pour l’Ukraine - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNczZhZUlQczc5UEw5TG5NdVFSelJuZVdiUElyLTJISDd2OXppNWtib2o3bVJGTVc3WEtkcVNuYjlCVHVwWVhSLW9EVmpLS1FYYWU4ZlJDbTI3MTVVVlg3T0tUN0pBVjdsTUV1NVRmb0lxd2pSaXVNcmpiNHRoeTVaQmxqb0N4U0hKY2FIalZKQW9Xa3BncnVtNU16TF9KWDg2VEROYXphRlpyTDdacHZXMWd1cng3Z0hwRExNZTFMdnZyRHY1OU9vMVNlY1VscGVvWDNQeEN1amRSczlDWEhnM2ZZLTgtNTNoZ0hNSm1yWU5JQ0x5YzhkRmJQRXVtV29OUFowLWRTLVA?oc=5",
-      "date": "Sun, 15 Nov 2026 08:32:25 GMT"
+      "titre": "L'Estonie va fermer sa frontière avec la Russie à partir du 1er décembre, après une nouvelle tentative de sabotage",
+      "lien": "https://www.franceinfo.fr/monde/russie/l-estonie-va-fermer-sa-frontiere-avec-la-russie-a-partir-du-1er-decembre-apres-une-nouvelle-tentative-de-sabotage_8283728.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 17:22:50 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Manifestations: le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX1NMUTZMcU5fRWFNb3R2cERHSmJzaWQ5bWNYRnFEY0RIYzFpVDZpTmdGX1hyRlNaVXhTNlNYaVpGdzItallFZy02elVTMTRwX3R6a3ZIcmpOR3pxUTRLeEVqbkhSX2ZpdFpybTZ6WEFicGEyN2lIeTZlYUlJUDdFelFoMW1jRHUyc2g3SnVzMWxQdVJhTGlJeXhyX2JlaDZ2M2xMckt4YlljdmExZ3ppZVVPV0FWZERVaE1WTTVZN1ptVXJ1QkdPQXR6MExza085aGlXUFd6aWk3SnpaRktvQjQyZzA?oc=5",
-      "date": "Sun, 15 Nov 2026 07:35:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Assa Traoré : « Le monde politico-médiatique a armé le terroriste de Trappes » - Mediapart",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVRLSERjWDNOQVVGOXdBTnRSMEZHUnB6RGFwRFpKLS14U1BKMTVaZElndk5pNmlHcDZ3dzJLOXBsZ3piTEpWTTcxSTMtaFJ0XzlMSVZTbG85M1JzbUxVTEstbk94STIzMmJXZkVsSW5uSkNjaFBiT25peXVzN0ZXX1Fia3RucXktZTBfY2hUQXRVWkRlYUwtUWdUQXR0RnBlTW5pVlZaSnR4MlhmNTU1dnFhN08wNW8t?oc=5",
-      "date": "Sun, 15 Nov 2026 11:40:58 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Inondations dans l'Hérault : la femme de 73 ans portée disparue retrouvée en vie sur le toit de sa voiture, elle est secourue par hélicoptère - ladepeche.fr",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOEQyQ2Z3MXZocUNITkpMaUNzTWpQcHNFYl9mUHNRZ0JvWXM0cmlXb1puVjFTN0ZIV1F3M0JHWXN4RWJnRE9oN2d4WUY4SDZIVzV4WTEyQWlpazYtaFh0cTNlbU5ReGUxaTR3VWdtNV9WZmh6RW5TeF9lNndZWi1YZ0VVdDlnUHo1ekFjZWRWbFZlTUVaY0tfN2pGam5wbTJZYUtTdl9zckJsdUZiMFJvcjRGUzB2eklkbEM0dUxBeFp1Zmw3eXEzdTNXTG5UdW9yejVTM0VEZ2lweXktRU93aGxLWE9SMGVsY2VsWHRXLVhWcWtxVlNJSFRQYzd1dWhNdGlmMG53Nk82MW4xenhLb19EaFg?oc=5",
-      "date": "Sun, 15 Nov 2026 09:49:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Teddy Riner affronte son premier sondage, David Lisnard gagne des points - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaktvRU5uV2JTYzRoajUwSXJHWHRuTk5ZOFM3R24xXzI4RnQzSGtPSmZNcUs3OUs5SS1rTC1fYjE1eDF5cENxckcySG81WFRFcjM4SXFjQVdCaDJKRHhUN3NLRWxuUHZTaHdHdXFudmhwcDJTTUxBeXBzYy1Rd1dkWllCQk9sQ2NUOXFmSEswYnFOcFZKUnR6VVBNS0MxSVNKUU5IU3NFbm1Wa0xGNXNYY3hpeWt1M1F2VEt5MWx3MUtVbVp0cU5qdzFwb1R3WldLWTNMLXllTWVUNUFYNmo3STQxaGFTQlk?oc=5",
-      "date": "Sun, 15 Nov 2026 09:35:16 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"On voyait que l'eau était en train de monter\" : des automobilistes racontent leur nuit piégés par les intempéries dans l'Hérault",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/herault-apres-les-violents-orages-des-automobilistes-temoignent-de-leur-nuit-pieges-par-les-eaux_8283527.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 15 Nov 2026 13:36:55 +0100"
     }
   ]
 }
