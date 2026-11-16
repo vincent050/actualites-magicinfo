@@ -1,95 +1,47 @@
 {
-  "updated": "2026-11-16T06:41:00.894080+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-16T08:26:02.770422+00:00",
+  "manche": [
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, guerre en Ukraine : près de 200 drones neutralisés à l’approche de Moscou, selon le maire de la capitale russe - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbFBTWFdjTUlGMzhmUHpJZXU0czB4OFVYWnBlZjUtMVNQYUNWS1hPYmVyclZKZ2FCY0dCcExtTFZxWjhEMnZNek9FRG9GRkZ2cjlyUG1lYXhJcFdRd1JZZzVWaE94RVFMZC0tVWZic25vdEppX1M5OVU3OGZ3VEVkd2lWQVpaX1djSmlmaTExRHZubVZZbjdvcFJaQkNfb2phNTVKejV0OUIxUktFc1Bael9udXhINDhPSVFoYTd5eFEwdWgzUWZ5Wk4yNG1FVXAxc2ZVWFgyaEFiQXhZYlZqdzBRWi1PRUw4ZWo0VUJ4MUlmSEpwSW5NNHA5WDdsTzRIZHFZQWtSU0R2eFVhYjlMMldCVUx1ZzA?oc=5",
-      "date": "Mon, 16 Nov 2026 05:45:35 GMT"
+      "titre": "Pétition contre CNews : ce député de la Manche explique son vote après avoir reçu des menaces",
+      "lien": "https://actu.fr/politique/petition-contre-cnews-apres-avoir-recu-des-menaces-ce-depute-de-la-manche-explique-son-vote_65057484.html",
+      "date": "Mon, 16 Nov 2026 09:12:31 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "À cinq mois de la présidentielle, Macron intensifie ses percées dans la campagne (non sans risque) - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYXRHNU9mUDJBcU4yTnEtWE5HVkFGUHQ3SkE2VmtTWTlWQ01vcTJFb1otMVZ5SDN2bzdzN2lJcmZBQWc2cFNET0RsNjBhbm1QS3Q5MEtHYmdFWUJDd05aV2NhNlJ5MVJVb2psbzR5VGVMbndJMGVDUDVaNC1PLUF3eWhISi1tM1pwNmhHWGNYOW9VNTNnd2lXdlZYOVdTN2htLUJJbkxLQkVDOWpBWG5CbkF3QzExYng5MTYxVnR1eTByMFlDRHBiTDZEMndkWWgydk5vVDVDb09LQk1oZlZ3UVByUTM0RFF6enFv?oc=5",
-      "date": "Sun, 15 Nov 2026 15:44:14 GMT"
+      "titre": "BD Marvel, figurines Albator et Capitaine Flam : une vente aux enchères organisée à Cherbourg ce lundi",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/bd-marvel-figurines-albator-et-capitaine-flam-une-vente-aux-encheres-organisee-a-cherbourg-ce-lundi_65058397.html",
+      "date": "Mon, 16 Nov 2026 09:01:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Fractures françaises » : un paysage politique clivé, dans lequel l’élection présidentielle n’est plus vue comme une solution - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQVGVnRWxfQUM5SXNrejZmQmlWMW5fSi1SVTFha3NMejlDeVlrODhwQmNEOTViWEh1eXpxMEtCM0psY1dpQVcwOGJoZkNxVDFnbzRNQ05veV96a1lqV3RWNTBKM1FXVnRuZTJrV3phLWJGZDd4ZG1pWG5VXzZXdTZiejdEZ2pNUVZVS0U5UHdpWnREQkxuV2F1ZjJUMmE4dzdYVHcwR0l4UmVIQlZzWUlkelpESkJ6cHUtWUowUDI4OXNzeXJJR2ZZNjRXekIwU1o5di1GMDBMbEp3V2lkUlZYeWR5SUEzN1ZFU1FycWNJTUxad3FLY2p5anFPbGtzMlZHR1N0SlVuNGoxMU9jQVhaUUt1Z0FXMW9saEdZ?oc=5",
-      "date": "Sun, 15 Nov 2026 05:38:53 GMT"
+      "titre": "Le trafic a diminué de 30 % : comment cette route du Cotentin a été aménagée pour plus de sécurité",
+      "lien": "https://actu.fr/normandie/carentan-les-marais_50099/le-trafic-a-diminue-de-30-comment-cette-route-du-cotentin-a-ete-amenagee-pour-plus-de-securite_65058237.html",
+      "date": "Mon, 16 Nov 2026 08:36:01 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre de territoire, \"barbarie\", aveux surprises... Ce que l'on a appris au procès de l'assassinat du frère d'Amine Kessaci - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOY04yU0xDWll5T0V4QWxNN2d5ekRrRXZhaks4aHBlZXlYNnRRcUdhS2p1bzhiR180b2VtdkdHdXE5NGpIQnRyUUdRSFVvN3RIQ3BwNG9OQVZaazF2WkFqM1VOUWFtX0M5Z3JQcTlRd2xUdnJoUm9fU0d4WmlzNlVManM0VTZmUGx5SmdYSXZWb3lQYUdkWFVIRGplR3BiZzc1ZW1qd2JMTnFxSzBSMjFtbFIxUW5VNS11aVVXX1E4dTZsN2ZoSkNRWGtfSVhMY3NtMHJhY1pyLVVqQkdoazVwUUJ0YldYNmEzaS0wWjBvb2ZGaS1sQWRROUV2UzViVV9zcmxjVjRjQzU4TGtLb21jVTRn?oc=5",
-      "date": "Mon, 16 Nov 2026 04:46:05 GMT"
+      "titre": "Parents d’élèves, clubs de hockey et de rugby : ces associations font tourner la patinoire des Éléis à Cherbourg",
+      "lien": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/parents-deleves-clubs-de-hockey-et-de-rugby-ces-associations-font-tourner-la-patinoire-des-eleis-a-cherbourg_65057637.html",
+      "date": "Mon, 16 Nov 2026 07:32:01 +0100"
+    }
+  ],
+  "france": [
+    {
+      "titre": "\"Je me suis longtemps caché derrière la provocation et la grivoiserie\" : Gérard Depardieu \"adresse ses excuses\" après avoir renoncé à son procès en appel pour agressions sexuelles",
+      "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/je-me-suis-longtemps-cache-derriere-la-provocation-et-la-grivoiserie-gerard-depardieu-adresse-ses-excuses-apres-avoir-renonce-a-son-proces-en-appel-pour-agressions-sexuelles_8284445.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 09:20:25 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "« Volonté de lynchage »… Une équipe de BFMTV agressée par des manifestants - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzVmODZPb3NPRHZSa2xsQXBBZjFhUXdwRjFwbzNTZHBTZW8zREQwQWgwaHFvYzBCTEtiU2F4d3lMbi0taXhFbUFHNkFFRDVPYWRzTWt6MEFhenhpb0ZMdzJ5VzJIYU9oTFZOVHVqV05pZjlLdDdxOE5QdlQyV3IxQU9nOGVkNVRsT05tckJ1b3hFd19lRHc3SzVIeGJXWG9OMnE5VkUyaURYQzM5bTRJMExPMldnYWs?oc=5",
-      "date": "Sun, 15 Nov 2026 06:30:00 GMT"
+      "titre": "Crise sociale : le lycée Nelson-Mandela rouvre ses portes à Nantes, six semaines après l'incendie qui a touché l'établissement",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-le-lycee-nelson-mandela-rouvre-ses-portes-a-nantes-six-semaines-apres-l-incendie-dont-il-a-ete-victime_8284130.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 06:51:04 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Édouard Philippe accepte une réunion de la droite et du centre autour de Gérard Larcher, mais pas pour parler d’une primaire - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeFJRNGUzWnhiWFJPNTZkNGZoMmpYVy1lUmh1UWd5NDBpSURLZUpldlIwNjU3WUc0eDZnMy1JdGc1cGNDb2NyNWozb2VNRHNsdkQ0ck9qVXpLWnlBdWdsUTZTS3VZdWsxMFFLVVlXbFBVV3R1ejZnS0RjN2tsN1NUb082eHdSRmJ6RVEyMEVVUUQtd1ZPOGlBR2Fsd21vOFVLLWVOZEFjSnVwc0hBajctMkkwdWd0a1RXSlNUY05NZUd3WGxPVVlFdDNIMS13LWh0YWJCUkhtN0gySVZnelFTcnR5WVNDMGdJS19VY0dONU54Q045eVpXRWdWaw?oc=5",
-      "date": "Sun, 15 Nov 2026 15:25:08 GMT"
+      "titre": "L'Ukraine a frappé contre le pont reliant la Russie à la Crimée, et lancé plus 600 drones dans la région de Moscou",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-ukraine-a-frappe-contre-le-pont-reliant-la-russie-a-la-crimee-et-lance-plus-600-drones-dans-la-region-de-moscou_8284412.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 09:13:38 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Colère lycéenne : les rassemblements «non déclarés» interdits autour de quinze lycées et universités à Paris, l'Unef dénonce une «atteinte à la liberté» - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNT0M0NlBoUHg3dkM5N2k4dHczVEFPYW94QWMxUjMyVFd1YVpHNThUN0JUVEVFN2tscUp4MjhZTnY2Ukx1QVkzMmxFRlhVbXZpYjloaXZMenZ1RzBHb0FJQ2Q5bVdMOWxyNjkxWXBjVHVXSmFGVVk3ZVR6VHZQa21xZnF3ZjdjV2NWbHRMNjRqZ1AtUzBDVklPUTlkNWhUTWNxaHEtTFhlOTBxQ1hXSjR5NXEtblEyaUlXelVkbjQxTU4ycFcyeUNzY21KbGlLY1FELVgtZmFiZVVPUjFzZ010ZDFaYkhDYmZNUjFpdG1URk40T3FiQy1aRHJPOWVlMmtRVDdlSDJIcGJkaUsxUkxMSTJHekFPQXNqcUVnb3JIZ1l6WXM5VW93QkRSS1FoSnl6QjJiVjBvYnpNV0dScnY2MmpfYjZ5RVJrZnBz?oc=5",
-      "date": "Mon, 16 Nov 2026 05:08:13 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "INFO OUEST-FRANCE. Entrepôt francilien, fils de Coluche… Les détails du débat organisé par les Restos du cœur et TF1/LCI - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdTJSZmx2Y0ZXQXIzamNTM1dtNV9jc3FOQmhNRVFhZjBsOWMwREhpR2p5M3J6Qlc5RmZrTDZnLWFPeGJiU0NpR2RIWElLa1lHQUtGeVBaS094WTI1Ymg3MFBOcnZZWUxxRGJOeC1LdHo4SEhoV1F3YXE2d3ZtZjVKSXFxWE5maU5xLWdpR0V2ZEtRSkx1ajh5OXgwZV9tOHpheW1iVHo2WVdad2tPczFEY3A0em9CcUhDWWZJbDdJcDBPa1k4VG9VWVM3NElOMzNUTmRhX3lKZUJjaXRBS1ZVbkxUUi04azhDeFFSTm1hRGRqaHlnNE16eW9POGJ0bHc3Z2FkbnV1UUVycGZ4ZUJDZlZ6S25yQk1rTFhnX09OeW40QWIwQldCQW13ZHRYYUU?oc=5",
-      "date": "Mon, 16 Nov 2026 05:00:15 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Les fissures sur les immeubles de cette rue du nord de Paris inquiètent - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU9KQlRhRlBTVGtNYkRKNWN4VDcxLWVjNkZORVhVRFZJSlNzSU5OTU52RDdOeHIwUmJOWVlMSHMzY2ZzUVp6Y1hoRHhsNXU0aE10MUk2NDgwNnFrM3BsaDBQWkVOMmhOZjZNS0JXMEUtdFJxYVdkRUxDZmNqSFg5MENJa0Njb2NvUnU4WkpZdF9SdnFtWUEwSzlKQ1p3d1k5d1gzNEM3dHFMZ1RWQXluajJ5R2tndmQxWUk5SjVVQ2phU3p0RVNWREVB?oc=5",
-      "date": "Mon, 16 Nov 2026 04:02:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Une impressionnante trombe marine s’est produite près de Ploemeur ce dimanche - Le Télégramme",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaUR0ay0yWUJ3QzEyQVhydS1vdzRETHU2dUVxXzluZnFNcXlMdmxoNjNaV2JxQnpfQXJkMll1R0RxN0xLT0dteC1lZmthYzlmZFQ3SG1Ncm9saFQzVHEwLWhOZnhLRTRxNHhIc195c2hZNi1Gb1lBdy1LRmYtV0I3SGtyM1JpZFFmUFhhWDRjb2VWZHhJcTdNVHkyc0RLckVjX3NoOF90czVQY29NUEZlN2Zhci1ObjRrQzdvM2ZSWHFWQzhia3hlZFVCcGYtcXRfSktoams0RQ?oc=5",
-      "date": "Sun, 15 Nov 2026 19:04:14 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Guerre de territoire, \"barbarie\", aveux surprises... Ce que l'on a appris au procès de l'assassinat du frère d'Amine Kessaci",
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/guerre-de-territoire-barbarie-aveux-surprises-ce-que-l-on-a-appris-au-proces-de-l-assassinat-du-frere-d-amine-kessaci_8278823.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 06:00:38 +0100"
     }
   ]
 }
