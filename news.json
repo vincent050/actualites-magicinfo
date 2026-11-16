@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-16T16:27:30.722038+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-16T18:49:36.359243+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Édouard Geffray hué, CNews visée, tensions avec les CRS… Les images de la réouverture chaotique du lycée Mandela à Nantes - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNOGl5aFRNZ0ZtazlFaHU5Ynp2NFlQWFJDTXlzZEJDNGtOZjYzU0hwc051bDBQaHU2SmRlWUlFYXAyeEtqd1AyZjdIRWtnY0dmd3puY1Y5dE1BdzV4cGg1dVVmVThWVFJ6X1lpSGJLWDZhQWllVHdod1J2THpJamFnQ29FS0pKN2lNalp6NjhrcTFKZWVUakxGX0hQak1HenkwY1lXN3ljNi1IVmNWYm5CUnk2UjZQc2VNbnlIcFM0M0pBX3ItNnJEMHp4OGZLNW9vaVlQbm9FckFEYWtkWmkxX0xyMzdFd2lLOFVYYWZ3NA?oc=5",
-      "date": "Mon, 16 Nov 2026 10:00:47 GMT"
+      "titre": "À peine rouvert, le lycée Mandela à Nantes referme car \"la sécurité est compromise\", selon la direction",
+      "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-peine-rouvert-le-lycee-mandela-a-nantes-referme-car-la-securite-est-compromise-selon-la-direction_8285255.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:38:22 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Grève du mardi 17 novembre : fonction publique, transports, lycées… À quoi faut-il s’attendre - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV01UUDY1Y0JXOUtYU01BQVhsYkxwYXQ1LTAwOE5tZnctWXBqaG1wMGJyV3gtbDl5RkkxcG4tQzdxcjFqUE1hOUFEM1RCWDUydnhXSWdqRU9JQzFJWGkwN2E1QkFRMF9HaU8xaGFHbFNxektGOTJneHdqX29BZGw3bEJoQ0lBd3FJXzNRQ2RLZmVwZGg0WFR2OFlVWmF4aG5Nc1dSazB3cFpSSkMwMWRtaVZhZi13MjR1YkxGQ2dwNkt3UE13SFU4Rm9rN2dyRmR6Z242SDZHT0dsWnNQaWNiTXlEMGVlelFySXVB?oc=5",
-      "date": "Mon, 16 Nov 2026 04:00:00 GMT"
+      "titre": "Après sa condamnation dans l'affaire des \"Volets verts\", on fait le point sur les plaintes et accusations de violences sexistes et sexuelles qui visent Gérard Depardieu",
+      "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:55:37 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre de territoire, \"barbarie\", aveux surprises... Ce que l'on a appris au procès de l'assassinat du frère d'Amine Kessaci - Franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOY04yU0xDWll5T0V4QWxNN2d5ekRrRXZhaks4aHBlZXlYNnRRcUdhS2p1bzhiR180b2VtdkdHdXE5NGpIQnRyUUdRSFVvN3RIQ3BwNG9OQVZaazF2WkFqM1VOUWFtX0M5Z3JQcTlRd2xUdnJoUm9fU0d4WmlzNlVManM0VTZmUGx5SmdYSXZWb3lQYUdkWFVIRGplR3BiZzc1ZW1qd2JMTnFxSzBSMjFtbFIxUW5VNS11aVVXX1E4dTZsN2ZoSkNRWGtfSVhMY3NtMHJhY1pyLVVqQkdoazVwUUJ0YldYNmEzaS0wWjBvb2ZGaS1sQWRROUV2UzViVV9zcmxjVjRjQzU4TGtLb21jVTRn?oc=5",
-      "date": "Mon, 16 Nov 2026 04:46:05 GMT"
+      "titre": "\"On a massacré son innocence\" : au procès de \"la petite martyre de l'A10\", vingt ans et quatorze ans de prison requis contre la mère et le père d'Inass Touloub",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 19:02:31 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Présidentielle 2027: un millier d’élus locaux du centre et de la droite signent une tribune en soutien à une primaire - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYmhGN0VYQWt3LWdvaVQtV29IQjB2NGpYSm5IYVphUm51ci16ZHhNT0R3dW83LTBJTENJRjktMFp5QmVlM1hLQkhhODBFaHh5M3RMRUlkLWFidnp4b0h5ajRPeHBpR3hUaHI5NFVxbFo1WXB2bEo4RHllbjhEbnVQRnpTemwwUjJVaEJ6a1ZaUzFpOS1OcWJmMnQ0TW1mdUhlYlRwRDliSDBlT2p5aTdULUF0VDdmdUNyN1kzektTcVM3V1VidDNmV2dFSGNkQzZPZlFRZ2VpZGptMFhYcE9UQ3d4eUtRN3lyRWdiRzJWYzhpandNdTVIWS1rV1pfMjYyRHExdTlQTUY0RWp2ZFlFM1JGNXBNV1RFYXZZazc1UEpXU3lQak15bmVBSHBjNnVFOTBMX09KVjE?oc=5",
-      "date": "Mon, 16 Nov 2026 16:02:11 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Fractures françaises » : la violence comme marqueur politique déterminant - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzB3bmN1c05vemN2MFA5dEJ3YkdGYW9oT2J4NXB6c21aNmZ3OTF0c0g4OWlEQW16YjRoLWR4UkNMU3B6Z1FaMUdBSmN2VVBiOWFoRlNpQk1tTEljSHRaMEc3MVdPSGczZmNoaDVfSXhieVJudFZCRnNRQ2g3Q25yZk1SVlM5THpwR1hDaDhXdFowUDBWbUczRTgzcnlJbkpQQlRzSnI2VWRFSVAwVDh1akJHdFZoN2ZXRlNFVlVyVmhmekZCcVRMRWgydEpEUzQ3Q2IyU3hpY1U?oc=5",
-      "date": "Mon, 16 Nov 2026 06:45:09 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : pourquoi des soldats français sont déployés aux côtés de Kiev depuis des mois ? - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSndxMGNLM0hIZVJ0dmdzY1ZxVGt4Tno2aU5EQXJvZ0NkT3JXbWMzNkUxbGt3eC1paXFGN2VHMllHSnJiN005eW9iaG9ScWNSM2tNdGFaYUxqNXliM0dQS0U1cTgxZVNSdmdlUmlKT0JuVDBjWDQ1VUtiemVORlJCcV9YOTllTFpqRnR6YVhERW1QVTU0a1V0NEQ1NjFaTXg4SG5MbDZkdy1GYnR2VGw5ZTJFWk5sdDBtZF82LWd4cWEtUzlzZm14Rm5NU1ZDY3FTbGdZeS11bWpRNjh3SkJVMjZYS29QM3pqZzBJalZRel9rR0pwejlLeVFjc1laRGhXbUN4QUFQMA?oc=5",
-      "date": "Mon, 16 Nov 2026 09:53:09 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Un proviseur de Saint-Denis quitte son poste après l’intervention de la BAC - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdjdxa0J3b1hGc2M5cnJsU015SDlITWpHcVF0QjlmZ3ktTzd0aDZ1enhPdHFFN1dFcFdfMzVPS1FfYVdMYWVkbko3dVUwUldYWkhEOUtkWTdQNnNvcEJWVmhuOTlONkVGYi1MNUEwZXVkbkNXdlR1S1o3ZTExUHh1bzYxeFJKQXZQaE02ODV4QUZpS2NBeTk2TXNHY2d5dGNBM2ZnbkszUUUwQ2xrd1d4SXlEQWFGenc3ZFp4OFFMMHVjd0Q0LWstNnpSLXFmb0JPQlpqVGVJRGR6UQ?oc=5",
-      "date": "Mon, 16 Nov 2026 10:13:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Les logements classés F ou G bientôt remis à la location ? Voici les conditions que devront respecter les propriétaires - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRDV4bXFHNkRKWnQyeU9manBGWEt0d2xvR2xBNV9fU182dktHd0Jmd21VV3NuT0gxdzFwWGdUalkzSlJ2WlZBX3NFeWlpSkNYVmxBZkVWNzhhZHZYUUtIcDg1eTVoVEZLV3ZFY3BqRzk0aEZjT2VhaUtSaEhORVpHWkZPQlQydFI2Tkx0ekE5ZWFfaW90RjhUak5UeUVwaHhOZ0xhQXotMkFmU0YxSlkwdXo1dUZpOTY2TjQ2VzFjd29nblJucVdoSzlWY0ZYdW9ScklyUlNjSTJLMjNUdnctNVhVdnhLakV1YU9sZVJBelcycDZGRGczTy1n?oc=5",
-      "date": "Mon, 16 Nov 2026 12:14:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«Brûlez-le !» : enquête ouverte pour «violences en réunion» après l’agression de journalistes de BFMTV à Lyon - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSG1sNkZMSmJ6MmgwSzZZbXFiQldQTWRSODVYcl9sTVJ0aldWQ20wV1REdTVOcThTY1dZbURHd1l2aGZoVjlSQ3ZWR2NLS1BRVWtlWUozUk9ZbjdCM3YyeGN2N0ZCTlZIX2JiWmpKM281V1JZSmJzWFdYNkFvT0Y4ZmVNeDZ6RTc1STBGcFZDNWNOZkRhZHdpQ3daU0liUnRlaGhTcjZuZmhBLTJ6M0xaLUNjOHZFS01lbnZuNTFMMHltLWV0a0hVQW5xRGFKNUphamFhNjRR?oc=5",
-      "date": "Mon, 16 Nov 2026 09:47:52 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, présidentielle 2027 : « En France, seul le smic est indexé sur l’inflation. C’est donc le seul salaire qui garantit le pouvoir d’achat » : l’économiste Mathieu Plane a répondu à vos questions sur la vie chère - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ1ZtbWFMNkhUOHl4RTY0eXdoNXFoWXFKXzl2RlpFWkU3X0lLYzZ5NVB5ZEZIYVlPaEhqeHBzbl9Yd05VUG1QU1FrcllBNXhoZFVlbTRLeWs3cEZPLVNyM25oXy1nYy10YU0xTGVmMURsVWwyMTRvcWc2V1JsWGNFMmhRcTJKRDdxSmZSenlYU1NJdVVrWlhvTElkczV1RG5QWTE0SFFidU9SVHZnNGhjZGxYRkxHVDgtV0pkNjliMlNJSE4wWndiTnFnR0drREJhRm1QSEg0T3piNmF0OS1QSnVQdjZkYnp3c3FZX2JvNDNtNS1pWkt6MFVUcGMyRkdKckxPOVFtRng5dmhPd3lqQg?oc=5",
-      "date": "Mon, 16 Nov 2026 16:20:03 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Procès de l'assassinat du frère d'Amine Kessaci : deux figures du narcobanditisme marseillais condamnées à la perpétuité",
+      "lien": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-l-assassinat-du-frere-d-amine-kessaci-deux-figures-du-narcobanditisme-marseillais-condamnees-a-la-perpetuite_8285081.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:13:20 +0100"
     }
   ]
 }
