@@ -1,35 +1,26 @@
 {
-  "updated": "2026-11-17T00:23:59.998134+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-17T02:22:43.321169+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
+      "titre": "Grève dans la fonction publique, perturbations dans les transports, manifestations… A quoi s'attendre pour la mobilisation du 17 novembre ?",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/greves-dans-la-fonction-publique-mouvement-lyceen-manifestations-a-quoi-s-attendre-pour-la-mobilisation-du-17-novembre_8284415.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 20:54:31 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
+      "titre": "Marine Le Pen critiquée en plein débat de la présidentielle pour sa volonté de couper les subventions des associations \"politisées\"",
+      "lien": "https://www.franceinfo.fr/elections/marine-le-pen-critiquee-en-plein-debat-de-la-presidentielle-pour-sa-volonte-de-couper-les-subventions-des-associations-politisees_8285558.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 00:08:36 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
+      "titre": "Après sa condamnation dans l'affaire des \"Volets verts\", on fait le point sur les plaintes et accusations de violences sexistes et sexuelles qui visent Gérard Depardieu",
+      "lien": "https://www.franceinfo.fr/culture/cinema/depardieu/apres-sa-condamnation-dans-l-affaire-des-volets-verts-on-fait-le-point-sur-les-plaintes-et-accusations-de-violences-sexistes-et-sexuelles-qui-visent-gerard-depardieu_8284541.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 18:55:37 +0100"
     },
     {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Deux ans de prison, dont un ferme, requis contre Pierre Ménès, jugé pour agressions sexuelles et harcèlement moral",
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/deux-ans-de-prison-dont-un-ferme-requis-contre-pierre-menes-juge-pour-agressions-sexuelles-et-harcelement-moral_8285549.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 16 Nov 2026 23:42:00 +0100"
     }
   ]
 }
