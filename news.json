@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-17T17:44:50.661855+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-17T19:46:19.927485+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT, manifestations du 17 novembre : entre 146 000, selon le gouvernement, et 500 000 personnes, selon la CGT, ont défilé en France contre la vie chère - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZGF4bVoyZk9KOGUzbElndFJHTEliMjllajFTUi0zdG9aZ1NLWk9BYmtoNG5UbEtNeXVuWFVNVmg4OHpNb2p5bWFPaVp2QkZ4WmN2OVc2eVo0bjloMmcxdUl4MC1rdk50ZjNmanlOWUQxX2ZUQXljajFlRjBlREsxdEh3MFpOZ3NsNGx4bDN6N2dYejhWSThET3pTS2RZWHlXLU8yakpPR3N2b3ZjMHJpSmJNUm9qa1ZfX3dDblk1cGVPXzMxME5fLVNZYXpKelI3eDg2OHItbHNYMDFPOTVPb3NDNGZ4d0NpNDlCYWdCaTJnTVVqSl9PeXRJREVkRHRZc1FoZnUzQXl0Y05fQ0xGUnUxa1AyazlXaGc2M3FkOHpzWmd2NDBUZHRIelBDQkNzYXBMLTFmZXJ3VDQ?oc=5",
-      "date": "Tue, 17 Nov 2026 16:56:26 GMT"
+      "titre": "\"C'est grâce à ce jour que ça continue aujourd'hui\" : un mois après le 17 octobre, le cortège parisien se souvient d'une journée de mobilisation imparfaite mais \"déterminante\"",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-c-est-grace-a-ce-jour-que-ca-continue-aujourd-hui-un-mois-apres-le-17-octobre-le-cortege-parisien-se-souvient-d-une-journee-de-mobilisation-imparfaite-mais-determinante_8286404.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 20:07:58 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Il espère accumuler une cagnotte de 900 milliards en une seule génération: comment le RN entend financer une dose de capitalisation dans sa réforme des retraites - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaGVZMnYxOWNObkItNWwtOTBKTVpTdFYyQ3UxTjIwRnpnVS1QanJRdzRvODJRUDVVVElEUWN1N01fOHlsNUxZNUtWX0ZLWnNNRFdlV0NMX2tyWjZ1OGRoblJER0VGOE0wQzE0UGpEM0xOcE9rV09Xc0J0SXREeERtSmZPRzIteWlFRzh0Qk1GNzVYX0FReWFBQnBSZDFpMm1JekEwUy1ub3hlTWNKUWxMM0NhNkZ6ZlZhMUtBNjBmMHFrZEJmQm8teTJ3RzNZVnhwOVVUSF9vV1oyNk03YVUzdmRmUlcyclZmZGF3ZVdsUnFHdDJBeU1lTnpreUdKNkRMTkhGYmQ2NHoxNm9sbVlqS2dybllITTRYR0hjZGlzU0lhdHZzdEdBam1qNExyaXJndVVYVXo2UzZBMmxndjhPZDJyTW9DbFliOXBSdDd1aE9YZw?oc=5",
-      "date": "Tue, 17 Nov 2026 14:33:36 GMT"
+      "titre": "Pourquoi la Russie accuse la France de \"participer directement\" à la guerre en Ukraine",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/pourquoi-la-russie-accuse-la-france-de-participer-directement-a-la-guerre-en-ukraine_8286422.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 19:47:07 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : des soldats français déployés secrètement pour des missions non combattantes - TF1 Info",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPajh0OVRubnlaR2Y3RlQyVTdBNndwc3Z6RGVtaktYVk1BUFJqNXYyX2ZxMVNaTmF6MWZqcmtnb2w3d1NVemtEejJWVnprRFFzWFdJRmQybnBabkwyaW9nWFVuOFhPc2lKZTJOSTgzckljQ1psSmdZYTR0T3BicjJNd0s2c3Y5cklPN0puTnkyYmFUbzYxN20zTUlra1dkdFNFeFc0eVpqbXR0bnduS195THFYX3QzaTdiX3lXS3JvZEZSam5reVRhRVd4OHNUaDJITU9PMUM4bEZpYTUt?oc=5",
-      "date": "Tue, 17 Nov 2026 05:31:00 GMT"
+      "titre": "\"Cette enfant aura été plus aimée morte que vivante\" : après onze jours de procès, la courte vie de la petite martyre de l'A10 se dessine en pointillés",
+      "lien": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/cette-enfant-aura-ete-plus-aimee-morte-que-vivante-apres-onze-jours-de-proces-la-courte-vie-de-la-petite-martyre-de-l-a10-se-dessine-en-pointilles_8284622.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 05:45:10 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Mobilisation de la jeunesse : 20 % des établissements du supérieur et 25 lycées franciliens perturbés lundi - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOFZyQmJGNkZybUZUeEh1bThZS0piTUhqemV4dFJmWlJlVk80WTJKSldWWUlHZC1pTUpFUWJqdEFrMHB4Um51eTZ1ZXF1SVdtZmFxcWxqNEhUeUM4VDFFS29uODlSVjR4QTFBaW03S3ljTU1tQ29OanY2YUM0ME9FQXg2TVdEdWRMLW53UDY0RlRjMDBObDc4SGVfdWpiQTNJa05GVHRUSHdGTWJDX1lPQ1VHa0NlbG5mcmc5c1JvLThWRkhyN2Ywbm00Mm5TQnoySHBNbFBWalNwaGtWTF9CaTRRQ1BwZ1VQaTE1VVhfU194YjUtUWtLZzRNWW1EOEtR?oc=5",
-      "date": "Mon, 16 Nov 2026 19:06:05 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Une force d’élite de la police se fait porter pâle avant la grande journée de mobilisation - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaDQ2cmJ5Yzk2MzFCN0c5aVBhNmd5X0ZabFFrZXNkdnFwRG1aWld3SlZjUHpkX2xFLW9UNVdZUHpFMkJMdldkQUt2WlkyNmFoQlp2ZC1mbkk5LTFKVXc5MTRVcjRpY0xhUHZlWmlYMWVyRXE0MnpiLW5BWVgyY19TMU96Q09HbE9mR1hGbmxzV25zUEhNQmpIaTdsemI3TkppbTJZSjhpT18tV2VMUGxnRHRlcVpPWkRnSXRtY1ViZXBZLUxkQzFuWjdzZWI1NE1kQS1JRXdCQ0J4aFZDQ3NCY0lzWGFYY1V6Mnc?oc=5",
-      "date": "Tue, 17 Nov 2026 14:16:24 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Kiev détruit partiellement le pont de Crimée lors d’une attaque « sans précédent » - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQXhvY3RXNkswaWFuSFpDRTdjOW5yaDNUcUt3SlhFVl9ycDZ5c1Zzd1pJNjk0ejQ3MDR0STFBaGpSUWlpUHhJcno0OVRkZVlFVmhQbkFSY1R5eHBrOHRpVFZnNWMzRUZCUjIwT2ZwWlRZVm1JSGhYY1BmNzlRYkFZd2lnQV92bmhhNU5wZHVuakREMFE0ZU81UERMM0ktemxtZXZmUmNfdGZ5eFpid1hYckU2ODd0aHVXUFZQN3RCOW44THk2Qm5FWXdaSkc2MXN0MkxiRg?oc=5",
-      "date": "Tue, 17 Nov 2026 10:37:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« C'est une icône, il n'a pas l'habitude d'être tancé » : comment Emmanuel Macron a fait exploser l'équipe de Teddy Riner - Paris Match",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaEFCbGpNRmpNNW5HX1lWZkxaSlptY0hNc0hHRHh0QUEyTTdJMUJwdUQwem52azlhazZOMmFOQmgwRzZXbGN6bGsxa05zOGZidDhqY2g3U19fSGV0cmo4YmpuOEhfNGVfVEcxNE10bnhKYnJ4Smk2U1ViamtqVFc4M0czUnFNZE85QWZyYlhTTHVuVHRWSHhEcWxDY2czM013czlJM1VwX1g4VGNKT2ZJWXZnYWc2UGgxVEd4UDlsak5CYzVVeGlUYjhJc1Nua01tZWdqX2NROFJTa1IxbDVDS0RRNE0?oc=5",
-      "date": "Tue, 17 Nov 2026 09:08:32 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Deux départements des Hauts-de-France placés en vigilance orange pluie-inondation ce mardi soir - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMWxVSm1DbXBNTzhRVVZpNUZvODk1b1o0R0ZDT3ZCLTFkd2dmM1hnaTB0QmlrWkRER2RPRDJ5eVJHaGV1ZW1CWnRNUU0zQktjbjQ4SzdfZ2FfZGlqTTRlam1DN0lSc1l3VXl1VEIwVV96NTRzV0p2Uk5oRFVMQ3U3ZG1yYnpUN0JYaHhzOVVRYnM3QlNyYTBrUVhQcGlHWXFPcUhXYjBibHo5SzBTNUtmNkZFampCRUxSSzNRTng2dGRrcVhRMjVjVHBRTGZILTl6cjU5MWpUU0N1RmFMbDJlSjJOZVM0dkNSUDhIUw?oc=5",
-      "date": "Tue, 17 Nov 2026 15:03:02 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Une consigne de France TV rappelée à l’antenne a mis en colère cette militante féministe - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ2RSUWNWYWNJQmZ6ZThBYlozalRJbTFFNTJyRlFPWWJCU2xpdjBzank0aV9ybldWZU8xQ21LNmk2MDBsTnhaLTR6TU1VLVJqbVM1RWtYYzlidE82Z2ZZUEY3MktZOFRycGwwNngwd0pOSkxGbC1CNWxlTnRVY3hvQVBuaFAtY2RZVFcyM2dtWk53UXNNSW1nYnQ1Q0tuLWE1aEIxTkR5Q1M1MVpuamEyYXRaWDFTOVVMdWlVMzBVU0VBemFKLTZIaGRDZ1V4RVJZMlluWlRKbDBpTy0xUXdSVzROVWVfOWk1SG1kSjZqRmoxT0xCNUNJZk5mcUQ?oc=5",
-      "date": "Tue, 17 Nov 2026 13:05:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Expulsés juste avant la trêve hivernale, les Balkany vont reposer leurs valises au moulin de Giverny - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT0VudTFqbWhYanhibjNPaHE2Q1cwWmZySVpkcS1fb2kxVnM4cDR2bnF3ZFZuUEFsZ3pMSDlIMWx2ckkwalN2cEZGN0NHRFZGOGQxU3RyX0NocUVyaFVyaFVuTl9aLVFsaDJIbkVyUTBFYW04ajdkY2dpeUpDcERNS1I1YVpRSEU5aUJoRWwyX3ppTEgxMExQaHdnaUltNHNhMGhWTkM3WHhXa1RIMFNralpuS2hKeFdRZjV6Zm9jYThuQUFqQ1N2MC1vbDJsOVBOME8tSmZHSUhxYTZJWEVoa0dYS1pPVXF2X3Z4MWFZVjZjaTFiUjBOUkJ5MExNRXNjZEJRQ2NwMlFTMGZiclFtTg?oc=5",
-      "date": "Tue, 17 Nov 2026 14:19:27 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Refus d'\"alliance avec les extrêmes\", participation à deux euros... les premières modalités de la primaire de la droite et du centre dévoilées",
+      "lien": "https://www.franceinfo.fr/elections/refus-d-alliance-avec-les-extremes-participation-a-deux-euros-les-premieres-modalites-de-la-primaire-de-la-droite-et-du-centre-devoilees_8286980.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 17 Nov 2026 19:25:46 +0100"
     }
   ]
 }
