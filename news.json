@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-19T04:11:40.160830+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-19T08:50:15.293833+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Shenzhen : le “miracle” de la tech chinoise censé éblouir Donald Trump - France 24",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU1FSlVoYko1QkFIaTZJQ3E3NnhlbkZGLXdMUWdmWUlHMHBQYWdqMWZJX2ExanVtdUpxenVWM0pHZnVTNlFXaWstWWI0UGhpT0RXcDVFeHJfSEN6SHpWcjY5VHBFRWhhUUdPSGdKV3BPb0V6ek40WXZHQkQ3QUpBY2h3TkFlR1pCaEtaMDUwcVRab0o5OHNuUmlBYlk2Um9IdFRzU052dUQ5Rk1HSm9ib01fbUJJSWFfb2Z5eHI2SkJmakljM3c?oc=5",
-      "date": "Wed, 18 Nov 2026 15:58:42 GMT"
+      "titre": "Rencontre entre Trump, Poutine, et Xi : la réunion inédite entre les trois dirigeants débute  en Chine",
+      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/direct-rencontre-donald-trump-vladimir-poutine-xi-jinping-suivez-l-entretien-inedit-entre-les-trois-presidents-en-chine_8288564.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 09:37:05 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Capitalisation, suppression de 250.000 postes de fonctionnaires, autonomie des écoles, fin des 35 heures, aides pour les familles : Edouard Philippe présente son projet « massif et sérieux » - Public Sénat",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRU1pQmxwdFdHTVBST2d5UlBtZjMwaHJYcUhLVjc1LS1qSFBUR1V3S0ZPcDAwaTczUXgwMl9oNXRVVVI5RUtBdVFzaEp2d0lNSk1mWE9QUWc2Zk51Q3V5YlBSN0dsRWNBNDBYTDdVVEZnYk5QanFTSFVEMlRLcVZZLTVYWTU0Nnl4Q2VrRW5UenUyeVVibzh4VXJPNk5KLThmOHROSnRRSERvQ1RTMzJsR0VjRmJybVNUdkpzRFgxYjItRHFaSF9Ld0hOYUw4RUVFZU1NbGxVVEhsVW9vN1R5M3M2X3VUd3BvTWtadWNyeDVoeVpLQ2tqUUFjeDdXSk1CY0V0VWo0V2RuM2ZtdGFBeVpadkJaeWJwRkVVSVI4aUJDWUhHVDFoNVUtSWZpdmUxanNqWFVyRjdlYTdYRU9WUTZ3?oc=5",
-      "date": "Wed, 18 Nov 2026 17:17:06 GMT"
+      "titre": "Présidentielle 2027 : \"Elle a choisi de tourner le dos à la tradition écologiste\", réagit Raphaël Glucksmann après le rapprochement initié par Marine Tondelier avec LFI",
+      "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-je-le-regrette-reagit-le-socialiste-olivier-faure-au-rapprochement-initie-par-l-ecologiste-marine-tondelier-vers-jean-luc-melenchon_8289440.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 09:02:08 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027: Marine Tondelier se dit \"prête à une coalition autour de la candidature de Jean-Luc Mélenchon\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNWHFFYjNiQ25YcVIzRUFUZ1F4SXdJZkdLQzl1cEQ5RzJpMi1fVE91N3JkbS1iWVduMGhOUEh0WC1IdG5LUUxhWmthc0dfVjhNSE9HbUFxVkE3LWo2Mm1aYk10akRnWWZSUmlFclJPbUNZMFdWSG03bnh2QXNuLW5oTFViR3FEcU9BZkJlWjhGdmdSVEtGWHdCWEJHSmJfSDU5OTFTUkRsVi11aWxvNDQ2Q2RwRGk2QmxXTmljMWZqeUphYWZsN1pjRTRYbjU4Y0FaNU9zTTBEeUo0d3RhTC1nNk5kZVZDMlBwOGlnbFU3ZmlVYjN4VDk4OWYyd2F3RWI5Z3NyQ3ZIeU9ZY1RzV1JwS2NXb1MwaGNDMFFHN2tEYjRQT0pXOWJUSGJKVW5nM2dxOU00d0tPNlh1enp1QXc3WQ?oc=5",
-      "date": "Wed, 18 Nov 2026 22:13:11 GMT"
+      "titre": "\"GTA, c'est un catalyseur de tout ce qui se fait de mieux dans la pop culture\", salue le seul journaliste français à s'être rendu dans les studios du jeu",
+      "lien": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/gta-c-est-un-catalyseur-de-tout-ce-qui-se-fait-de-mieux-dans-la-pop-culture-salue-le-seul-journaliste-francais-a-s-etre-rendu-dans-les-studios-du-jeu_8289566.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 08:46:26 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Lisnard et Attal se démarquent dans une hypothétique primaire… Découvrez le sondage du Figaro - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVTZxTGlmTWF2MUtOdzJlbzBPbGRSYUFhTlZ0aktpVGxIQno0dVdDS3AyQlowWDJPaWh6TzF1RlltVjlsQUs2WGdKSGIzeklYSkh2WGd3QTdCRmVxNlQ0aGVQSDVKS0JUWmIwNVQ0T0k1b1Q2WWlET1R5Y3RCdWZ4aFNULUxPMnlTM3NLZlpQVmdmYklyNU5QYVJvS3dpOXhvcFZuVjVKai1hMEhCTDIyVU1LczYzemtkc0cwOXhuRlFBYkxNTnRZNmFYNXVhcXVhc1FKbzQ4SFgybUF5ZjQ2dXZCYnlpMWNQNHBBLTJVQWFSd2dCa2swNEtzeWhKOENWR1BxYkVJU2NFSlpV?oc=5",
-      "date": "Wed, 18 Nov 2026 17:46:53 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Du collectivisme dément, sans rationalité » : les coulisses du dîner aigre-doux entre Jean-Luc Mélenchon et les grands patrons - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZFdjeHIzMkswUHd3bzJrelVzVVJFN0lFM2U2LV81MU9Xa05udlJDenZ5UU1OOXFJTTR6b3BYRW0yaUdyVVJMckhIa3FodF84TW1TaER2N21XYktVOHplWmFpSVVJQU5QU18yUEpmaVdtMmc2T0hsMG5xcEpOdW1HOFI5TTlLNURwU0ZseHlKa2NLOXJTV1ljUnltcm5KWUhrUUZmZjY3dEg0TnNURmtla2xfNUp2RmhIa0hZLXgwVWh6TzJueEc4endRZ1JPYTNlTUhmeFQ2a3dGNUlWZTQ3YVhkNVJrU0tVdUdXeUt3V0FqeEF1cXhtSUU1NF9KVEQ3Xzk4UnhkcjQ3dw?oc=5",
-      "date": "Wed, 18 Nov 2026 16:31:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Après 10 minutes de manifestation pour une augmentation des salaires, la police gagne de Nuñez ce que les manifestants n’ont jamais obtenu - L'Humanité",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWXRNUjdYazhKeWNTSUJ2M3psdnUtQk5xckV4Z1R5R09nRHBtZ0toMDhOUEhZMFNSMTV4VC15aV9aMVY5dkJnRzI3dkRZSkUyNDFxbjFIeHVzTVR0bEpDYWJXX2N6bEI5RGNzNXlJQ3BJV0JTZS1CbkcyOWpxWnBubzk2RmxjUUxhQUlDZDVPeDI2c2tOSnhXZGZ2R25VVkFSbnFPQkdhVlVuaDFHdzAtWU9WaDVzTFdiOHA5V19aN2E5aTJCd05jZjNPMFVaQVlENTU3VWhDOGJlblpwMFEtVVZ5aXlpMXJNMmFVd3hxNU9wTm5BNzBzbzVfWkVkcWFaNVdkeTJKdkE?oc=5",
-      "date": "Wed, 18 Nov 2026 16:27:33 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Au procès Zecler, les policiers accusés reconnaissent avoir rédigé un PV « faux de A à Z » - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY3Nwc0NkdGpPWGo2ODFKSnBQRWtDREtReU5HMmtBNlBIMWtzQWlwTTBqSGtPTC1LeHk1aEQ4a2sxWUx6aEx5ZEJMOE04ZzFfdXAtMkpvMEZTVXZnTkd4R0lrb2t1Z0dBNW9uU0FsOHRDdzNRN2VyNFB6cjJrQXJjdW9oMjZ4eGFSV3R4MlZtY1BLNHFsaF96NU94MkJqcDI1RDUxemJDaXpaVXRNNHNjTHpkVkZ0aEExUk9jZTh3Wnhvb2xjelhGOW8ycU9HRW4xc284VDlveTZEZw?oc=5",
-      "date": "Wed, 18 Nov 2026 17:02:49 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Appel à la prudence : la Seine-Maritime placée en vigilance orange pluie-inondation et jaune orage - Actu.fr",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWGd6QXhWOWpsMFFweEpqYkhYNXhiand2OHhhUmhTdTdNbm04amE5U0FjRkRsX1dFN0xDY1ZsOXljdUN4Y2UwWFJLVDBoNjFBRENMaHlPMXdVUlNRaER1clFWb2xXZ3NqeG94QmZPbXktNWxtbDBJQ01wdno3MGc5bkxYTlR4TzlpWXBDOF9DSUZpYVlVYk9yZXh6dTV6NEdoM3B3U29PNGEzLU9iYkVqUHR2Z1hRVW1vbzhxckwwSHBLSG1Id1JlR0pPdzc?oc=5",
-      "date": "Wed, 18 Nov 2026 15:36:08 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Jean-Luc Mélenchon et l’Ukraine : ce que disent les votes de LFI au Parlement européen - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdHdBQmdBU09OSGhHcW5SWHJlOElhZ3J5aVB1NHIxLXlQSi1mSXlMX3FfRDZvQ2JvdU8xaVJpblpzRWQ4N1ZzTl9xRXBhU2dKcGVTOGVoTHdkOWdlaWFrZXdUVmhEcU9fWENvUlY4dk5UaWJGWUhTMkh3by1lNVV2cHhYSGNJZkNsQXd3OVBlNXRqeEtpYXVMRERHMkhzRnBGSGVIdmV5V25rUjI4d0NTNVJMR3BhUFhXZW5WR0QwZk5SMWRpcFJhT040bm5xamhCLW5oSkFWeG9lYm5GQkc1VWc5UE5jdWdrYXZmQUNKTm0tOUNCaUhFb1JHN2tweWg5U0pwTF90ckg?oc=5",
-      "date": "Wed, 18 Nov 2026 08:45:01 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Trombinoscopes saisis dans des lycées à Brest : vif accrochage entre Pierre-Yves Cadalen et Laurent Nuñez à l’Assemblée nationale - Le Télégramme",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORV95NlQ3TWNNS01YeG5MWlI1aWMzaFFLSDBCSV8wbVBwczQya2stQVJTWXFhM09XblJ4YWJNUVF1R2RMdmxnUFBYalRQSGxza3lYR09GS1E5YkVQYzJvbmtqMGJvWG9LRFptRVpZUXpaTGF1QV9sc2FLNmhDcVp2aUhYa2lETnJrYkZrSFVhUDgwaGZIaVkwWVlfZHlFdXM5YkNIc25WUmNsRG4tTU1kRjRrMWdFU1JoN01mamlpU29iM0k1QW9EWmRvNEhIME8zUEdpRndkal9fRGtvbERlazYzdlJqczUzNmhOYjJQNWQ5LUNWRVcxR1g5QVpLQXRpVmxDUEpDQzdaZXEzSEhzbDNxNlBZNjA?oc=5",
-      "date": "Wed, 18 Nov 2026 16:25:18 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Des membres du personnel de l'Education nationale sont-ils complices des violences commises en marge des mobilisations lycéennes, comme l'affirme le gouvernement ?",
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-des-membres-du-personnel-de-l-education-nationale-sont-ils-complices-des-violences-commises-en-marge-des-mobilisations-lyceennes-comme-l-affirme-le-gouvernement_8286719.html#xtor=RSS-3-[lestitres]",
+      "date": "Thu, 19 Nov 2026 07:56:06 +0100"
     }
   ]
 }
