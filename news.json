@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-21T07:43:14.846092+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-21T12:18:10.560182+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Au procès de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPNmd3SXV6ZDdSTnl3bTV1UkNsb3VRX2lpblpjZjV2NkxoYTZrejNxZTFYUFhZTVhGSWFzaGFiRU5hOG5vY2NWS2F0WDR5cWoxZE5hbzliUmNoMnVFRzBjSWQ3OGFGUDNtLUxQckpBRUtSX2JsTzBjQkd1UDZ3UHZNZTB2Y0VNMUtFdzA2aXU5MW5BM285bXczQ1g0cV8wS0VFTUNTMWY2aFJzN1BzVmtOMlVXWWd2dmNQaGhVc1lZZnFpODlHT195NTBUbmdWeGY4RGlCcVFqcHRzM3d4UzhmNEl6NGdmT1o3OEU1ZGFGX2NmVHdmRlRrX3I4d2FONEZJVnVBUTZfaFJvSFlJblFZdGNySGNMN0lzeUhXU3hWZWdEZC0tWk1zNjE1ZTJQay1wbWFKbTJpT3ZyRG4xcktkMEpabFJGTFV1UldxWmsxbkNMUjJtOVpPVGdtSzB3cjNR?oc=5",
-      "date": "Sat, 21 Nov 2026 07:10:18 GMT"
+      "titre": "\"Je vais aller brûler un cierge\" : à Lyon, les commerçants de la place Bellecour s'inquiètent du retour des cortèges en centre-ville",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/reportage-je-vais-aller-bruler-un-cierge-a-lyon-les-commercants-de-la-place-bellecour-s-inquietent-du-retour-des-corteges-en-centre-ville_8292824.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 10:51:43 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Acte VI: 15.000 à 30.000 manifestants attendus ce samedi à Paris, huit ans après le début des gilets jaunes - BFM",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeDdRaXNBWjBGNUprYUdLRE8yZV9CX3kzQUo0aktOajVtVU5Ca21SN0l0MUVTakJtMjdVYWx5VnBjb0dIR1dyS0h0NXg1b3A1elQxWG5IQi1ySlE0LWhMR0pxQUZzTS1KbFpjQXllUHdmOTRXaWNWM2xkeE1IZEh6NUZ1RUEyT1pULXZsY3BJb2taRXFNWmNGX1V2bGFFb252QkczX3ZXVW5zUXFPM3VIb1dXSVJ0Ykw5Vm9Xd0Via1ktM3FqeFNrQTYzaW5KWUNCQjV4WXFlV2J3QjBRS0tLY05QLWpRS3dCV09XR2R6dVpGR1luVzlFUHFXUjE5N3dZaFJqeFp0bGc4TnR1Y296WkRPbTQ5NENmdGlCSVl6N0k3U0stQkE?oc=5",
-      "date": "Sat, 21 Nov 2026 05:21:59 GMT"
+      "titre": "Quatre mois après le mégafeu au Porge, \"il y a énormément de douleur\" parmi les habitants, souligne le maire Martial Zaninetti",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-gironde/quatre-mois-apres-le-megafeu-au-porge-il-y-a-enormement-de-douleur-parmi-les-habitants-souligne-le-maire-martial-zaninetti_8293673.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 12:25:29 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Dominique de Villepin officialise sa candidature à la présidentielle 2027 - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTFkQjhrUXBqSFktelBtYWZ0T2ZMSE44ZENBUXAza2Z3R1M2YzVuclVKenFMQy1DWG1ZTHpwZ2R3b3NiVmMtNE9MRzBBOElqLU10RHI0NTRLdFFfTXNmUEdXb3NiOXVUQXBqMk5za01rSTBzWmhMWDVrdVpDampadXJyQkh2SExHdUJET3NrcXQ4MEFRclZfN0ZFRXlGNHVacEpUUkFsTFRjV0R1STZVUlQ1YXhBRzNSSVVjaXh0anE0MXJlT1NwYlNwOU54QQ?oc=5",
-      "date": "Fri, 20 Nov 2026 10:36:50 GMT"
+      "titre": "Le président du Conseil européen propose un budget de l'UE en baisse de 204 milliards d'euros, aussitôt rejeté par la France",
+      "lien": "https://www.franceinfo.fr/monde/europe/sommet-de-l-ue/le-president-du-conseil-europeen-propose-un-budget-de-l-ue-en-baisse-de-204-milliards-d-euros-aussitot-rejete-par-la-france_8293637.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 12:27:41 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Hugues Moutouh, un préfet atypique soupçonné d’avoir renseigné le RN - Acteurs Publics",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUxYNl9Nb0NxVzJZUU9sZzZ4WHdyOE1lTzFkR05wckpCTFVEZDk0SkxJdHJXNDlMUm4weUh6d1FCTGVvbFFoZk1tNnh2OElzMHZ6N1d2ZzRIUTRBalM5RUZjdVlMZGdSQ21HVzRlb1BHYjJGbEZ3a2pfS3A2Ql9uQzFJLXlNMEhlSUtxRnN6VWxaVkc5LUxTc1FPYjI3eWVBUzdlUg?oc=5",
-      "date": "Fri, 20 Nov 2026 12:19:16 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Etats-Unis : de retour d’Asie, Donald Trump défend sa proximité avec Vladimir Poutine et Xi Jinping - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORkRpaVlvYkRnV0c5Y3J0MF9ycGtnSmNmUG9CdlBIRUdxdGsyb1hscjVhNFdfWElla2xUZ3ZETmtlcWNKeTl2UDNtb3J1MksxT3RkSEx1OVZJZHRxT0hmaHctLUxKblNQMS13WXVQM3JyVEptWnNxcldnYXFWdmhIT0FPYldCOUFvQzMwX2RCckpsX1JwYW1OSzdjRmFZTTNlbmR4a1liMG15SHE1ZGdNdGVGZ1RvaHBhSG9mOWVLNVNzcjA5QXJ0Wi1ITE1GMl9qQWlQZE5jbURMeER4UG05a0VQbGpkakwxV19KTml0Vko0Q1pIamZESUJ1Q3RVbHM?oc=5",
-      "date": "Sat, 21 Nov 2026 07:09:18 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Régulariser les « impayés » des ultra-riches ruinerait l’économie, juge le gouvernement - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY2MyZWFPTkNRMmIzVV9SWjJiRVRWd2doT2RaQnpKSW1KaTBJd1dRWlRXZ2lzYXZlbExoRWt2WmZtdnllbTA0blZkZzc1YzdiYXBxYlNYRkhVa1R0QU1HOWFSTmp2dmNzUTFpMmVZbGhsb3l5YnZZaVdOYlJpdlJ4bW9DV0lhZHVudDBxaXBEMm4xQmZvc2szMWwxUVR0OU9YeHRUTi15TEVPdHNXUjZvajctZlNkaEpuYUtTUzllZFNQblNMTFY3SHl5LVRMQ2QwSnJsd0h4OXFfYzhN?oc=5",
-      "date": "Fri, 20 Nov 2026 15:51:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Concert interrompu de la DJ Barbara Butch à Grenoble : un élu LFI sera jugé en février - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYlduR3JoLTRjblRLWG1ZbGJ6dE9JeG00ZFFuWWFuWWZudk9yRE9BUXdXY2YzZWVfazlWZTBuOGlMWUFrWnR3OVhjNXBpREl4LXZYc3J6ekJYeExobHplS0NQV1RNY3loNGx4dEI0QWhQc3JNaHp6X2N5R1k0WVl5YThuRFhNNm5RalljUUNrTlpuMWJ3SFc2dFJvU2tESUV0M1ZhQXlsWFQ4OHNlUmF5TE9wNGdGSVYwUjZWQjBEWFdNNC1yYTJfLWhzX1cxSU0?oc=5",
-      "date": "Fri, 20 Nov 2026 13:23:39 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Un homme décède dans un accident dans le bourg de Saint-Jean-de-Thouars, dans les Deux-Sèvres - lanouvellerepublique.fr",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRS1nVXEyRHlFS0FsbWFaLVdUdHJERy1tb3ZGZFU3MGx6S3gxeFBGd0FHMDRvemZCSVZzNnFtYlZnUEwySVdvTUZVWkNEc2I0M1VXb3RDR1duZEpHbE5pak54SVhhOU9OcF9YMWN5dVlMNlpDTTJGc2NXRDZod09vTmwzOUlDY2NaQnNFQXFMR19kWnFJcXUzcUI5dDh5Qi11OXJHZEdCcExFZ01ZdFRxS1JNSklQcmZIMEJFRTFaTDZFZjRHdnNXalU4QlprYU4xQ2dDSUtDS3dQdmNCaE1EVkhZa1VSYjlORXV5SFMzdF9LU3haVzI0VEZpMzIydDk0b1J6X2oxYzFjX2tESmc?oc=5",
-      "date": "Fri, 20 Nov 2026 20:03:14 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Main tendue de Marine Tondelier à Jean-Luc Melenchon : Solène Mesnager annonce son départ des Écologistes - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcmlXeE9oeEZDNmN0NEJjQm1pOGNRUlRDTGZHeDFydE41R2ltQVBOYmdnUkxzQ3FnRmk5U1N0LTM3Z0UzYjRqS3Q4V2pLVFV2NzBPcVF0VXNMdVlZMk52MUJ4ckt4OHB3Z1B6SGdsM1R6ci1CSTg2c1hpSE9NSDlBVU5MZUVRaXV2VXJCU1g1NEhGb1NQX0tiT0NKaFhkb0xBVUp2djVVcFVUcWRLRTFFLS0wUFhNUU5ReW5lcEt1MDVIcHVueGtkbmNuNFhiUVllY0lqZWppaThOaUJILWtMWElWNTB1YWFQTVpPdGFSWlNLaGVWckdQbjZCaGFQNmVCYXF4TG80eEN0UQ?oc=5",
-      "date": "Fri, 20 Nov 2026 10:40:32 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Blocus des lycées à Paris : Une prof de maths va en gare donner un cours aux élèves non bloqueurs - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHlrbXJxU1JsRE1TRmY5cnBWQzktYzNyMzN3V2pkZnJvSHFUckotZlR6eUNPS1puU20tUUdkMDVMSC04TkpPQVFvZnhNMXdwVHg0ZDZEb0VFVUgxbXNOZzJOTElzaGZycjdzdUloemtMWUZUYWI3YjJyQkJybzhrSnJ5ZFdPZUNhOFRPOTFHUG16dktsVFZZaWVRa2V4c2hUb2RCX2FsTHc3cjZHdUNETHNZS1Q1R2dhTmFvQ2dxdw?oc=5",
-      "date": "Fri, 20 Nov 2026 20:43:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Une conférence de l'ONU ouvre à la voie à un possible encadrement international des \"robots tueurs\"",
+      "lien": "https://www.franceinfo.fr/societe/armee-securite-defense/une-conference-de-l-onu-ouvre-a-la-voie-a-un-possible-encadrement-international-des-robots-tueurs_8293439.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 12:49:06 +0100"
     }
   ]
 }
