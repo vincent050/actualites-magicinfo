@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-21T15:38:42.392561+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-21T19:40:15.875178+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "EN DIRECT Manifestation du 21 novembre : Montpellier, Nîmes, Paris… Les cortèges se sont élancés pour cette journée de mobilisation - Midi Libre",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPOTF1OFhwdkJ0NS1meDVpX1Zob3A4SVptamt3dHJxRFNzRXBiemxra3Z5OHdYOGRmZlV1UHpISko4aHZqRmxzRV9SYTlNdllpTFE0TEdqZ1UwVFBFVlhvcVRQWXNJY2swRVBadk9VWG81U2hRWkx4ZTlzQjM0VGJmNmJPYmN6aE9FbXJrSjhtZW95RXJCS2ExRlBmbGdMajY4ZzVkZ3BJdTZMTm1mR05MaVdqZnhVYk9EaHJta1h4Ulk0Q19kQ3YtR05tVFZEVUk0S3lxaEpROHJ3cGtSWGl6bzlHc3hPNDFKM0xiZ041MHhRSXVBX2lNSjJSZHBWWTlNVU9rY1VTMEM1ZzA?oc=5",
-      "date": "Sat, 21 Nov 2026 12:53:08 GMT"
+      "titre": "Mobilisation du 21 novembre : 82 500 personnes ont manifesté dans l'Hexagone selon le ministère de l'Intérieur, 150 000 selon la CGT",
+      "lien": "https://www.franceinfo.fr/societe/manifestations/direct-mobilisation-du-21-novembre-syndicats-et-gilets-jaunes-appellent-a-manifester-pour-la-jeunesse-et-contre-la-vie-chere-pour-le-sixieme-samedi-d-affilee_8293460.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 18:50:34 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "C'est son père qui a transformé ce village de pêcheurs en capitale mondiale de la tech jonchée de gratte-ciel: la relation très spéciale (et dramatique) de Xi Jinping avec Shenzhen où il a reçu Trump et Poutine - BFM",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOYkw5MGU4NmRPZ1JrTThUbC1FVzVnbHBtWGlVN3p0ZXRaUlpDVEVjdUxEbnYwb1BnTFRTLU02ZzVHbmNvbGNrcG9ieEdDczB2dHNiNENnVFZfUV8xNFhGdjBtRWpuaTNYUFMxYXo2QnJ3Z0pzV3FaOE1vdnVmcEp4TVZudWZWMDc5NndhVGNlYkxPXzhoZVdXcXhzQ3VvUjVuQzU2LUlZRURqSWFLbFJKaWQ2S0FTTndMT1VGZ05QYTRxbEtOU0ZlY2FDYnUtSDlrR2ZiR3d5cGhtTTFCUkctWGlVcXVvZFUxTWZLdEdhTkNFYTJMeEUtNVRxd0NCQ1hSbWU1eTJyckVkc0ZBUC04bkZsQ3dhUWNpZ3FBY2xudlRuUWdQZlZER2JlNTY0bm9ETExNN1QyR1Y2b1NPZnk4Z3FVN2NVbVdIbTQyLTRzdkhOY29MMHlqb1BpYVBqeGt4VWUtQ1pqa3dBU2RSaU0tRUt1MTNVRVJEbUg0SXJtVXNleFkwWkhUTg?oc=5",
-      "date": "Sat, 21 Nov 2026 06:59:00 GMT"
+      "titre": "Le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN, demande à être relevé de ses fonctions",
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-au-rn-des-informations-confidentielles-sur-des-enquetes-visant-le-parti-demande-a-etre-releve-de-ses-fonctions_8294069.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 19:40:48 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "La campagne impossible de Zemmour dans l’ombre de Lisnard et Le Pen - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2pBZm5ZS2U2NE9YM0xNQ09QTi00c05XRy03Q01oTzVTQm5pc3d6a3F2eVF5OVlSa21wNWIzZVF3RWdwOVZ3dXF1VDFMYWJSTkVZZTJKc3VRWmE2NGxwOG44azB5eXBVQUhWcEJQdzZfcDV2QjlmVFIweW9DRUh1djl3MG5XWE9pV2hsX3VKUGN5M2ZKYVJXSXZkY1cwMEVMVFllaG9oRDZjSEd0dE1UXzNqQlRfQWtkU1NhNG42YjNuS2R0NUwxbjdkT29aYy1BMHducWdhcUtsZmZX?oc=5",
-      "date": "Sat, 21 Nov 2026 13:23:01 GMT"
+      "titre": "François Ruffin retire sa candidature à l'élection présidentielle et souhaite \"bonne campagne\" aux \"candidats de gauche encore en lice\"",
+      "lien": "https://www.franceinfo.fr/elections/francois-ruffin-retire-sa-candidature-a-l-election-presidentielle-et-souhaite-bonne-campagne-aux-candidats-de-gauche-encore-en-lice_8294003.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 18:56:33 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Au procès des auteurs de l’interpellation de Michel Zecler, le caractère raciste des violences retenu, trois policiers condamnés à des peines de prison ferme et l’espoir d’une « jurisprudence » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPNmd3SXV6ZDdSTnl3bTV1UkNsb3VRX2lpblpjZjV2NkxoYTZrejNxZTFYUFhZTVhGSWFzaGFiRU5hOG5vY2NWS2F0WDR5cWoxZE5hbzliUmNoMnVFRzBjSWQ3OGFGUDNtLUxQckpBRUtSX2JsTzBjQkd1UDZ3UHZNZTB2Y0VNMUtFdzA2aXU5MW5BM285bXczQ1g0cV8wS0VFTUNTMWY2aFJzN1BzVmtOMlVXWWd2dmNQaGhVc1lZZnFpODlHT195NTBUbmdWeGY4RGlCcVFqcHRzM3d4UzhmNEl6NGdmT1o3OEU1ZGFGX2NmVHdmRlRrX3I4d2FONEZJVnVBUTZfaFJvSFlJblFZdGNySGNMN0lzeUhXU3hWZWdEZC0tWk1zNjE1ZTJQay1wbWFKbTJpT3ZyRG4xcktkMEpabFJGTFV1UldxWmsxbkNMUjJtOVpPVGdtSzB3cjNR?oc=5",
-      "date": "Fri, 20 Nov 2026 23:46:35 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Cargo échoué à Lit-et-Mixe dans les Landes : les autorités tentent de profiter d'une fenêtre météo avant le retour de la tempête - France 3 Régions",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNbnJSMFZleW45Mk91NmhxcHFDczZoSVBDWTI4MC1wckNTeWo2V29NaFg3cXBjTHJsLVNuRGFGblY2WkQ0bVZvNGhvMTM5X1FLYm1BVFI1NU9OWXh2eGVkTDlUam1Fd0lnSFlCTEZuLU5YanhfWTBRd28xZFdza2paSUlkMVo2RWhVb1FnMVlfX0RKQ05Oc3hRa3Z4QzVmX0NLckdsVWRqWkxtY3pZc003TzNlZWpFcFBuenZUaXJSSFBTNDlXbWFvUHdrSmpIZTU0Um9YSkF6aDN3Qk1qSGc1WTJHVl81X0gzRk9VZDJTQTc5TEx4MlZXMHpBWUlyNU9iWWpYN3Ntc1NLZmxfRUl4a19qaUozZ0w4SzhoVjM3bm1nVGlybDJ2V0VlRjcwWGNQbmhMNEtZbzZzOFhwZENCcXNUbUN2TlU?oc=5",
-      "date": "Sat, 21 Nov 2026 11:27:10 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Des syndicats de sept pays européens appellent à des \"manifestations coordonnées\" contre la vie chère vendredi, samedi et dimanche - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPcFNCQm9YRXhVTnRzNGh6eDE0RWhkZjFaLThSal9ON2hud0RENUNZUWtsTHhVSUVZQzE5WWZadlFUYko3RkVVVlBOd0NqRExJLVdmZ1BDNG5TSXI3Nzc5dnBpYnpPTjVHNmVqV1p4dklWUGhOVTlsM1RhUkpjdjh1NTBKZjBBWkNOMzZFWkIyZ3NxeERxdVdkMjdBZFgzTHpyRDlKZWhVd29GdE9xVDRHVTlGU200LXNfOHlJSkJnZjhNSjBTX0hnMldlVXZ2UURmSG9qVmxXNmdITWItS3ZXQUZjNGhmQ0RJMDlXdXdLUVI5cmRMU0h3Yjg3aGNwdm5oLUFxQ3hNT0xlbDJYcGVSNnE1eGV0ZlFl?oc=5",
-      "date": "Sat, 21 Nov 2026 06:17:30 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Inondations dans le Pas-de-Calais : deux cours d’eau en vigilance orange ; près de 800 évacuations depuis jeudi, selon la préfecture - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaVM4X3gtUVg2bnBJdldyR056UFRmeXdrRGg4N3hKWlFKbU5fa1NmVVBFOXdGUFJBWUpPelZEX3Y1N0ozeC1BQXBLVFBpSmJHRHZaOXNQdEhJTFZDeXBfczJqdENtdVNPb3NOcWFqU0tVcE1WZWF0ZGpBUFBnbE9QT0UwMXNFWUJZaGNSeE5CT3hZQjlFUVZ6MXIwMWZEQm1ka0JvOE4wenRhMzVpSGloS3JINVp6QmZ1Uk1BM0ZBaVVta3BHNkozcW43bVpBOVR0a0M4VE5kejdpS1VFSXoxaEVXR1dwX3lnZVVfTFVjLUtLb2ctazlpNlBrME9FVEZYUDMySWtSRDdCTEdzcW8ySy1IbkxYMkR4TGpFd3RUMA?oc=5",
-      "date": "Sat, 21 Nov 2026 07:01:53 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Je vais t’égorger à la Samuel Paty »… Un adolescent de 16 ans mis en exam… - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc2JOYnJnSTh1a2w2bHRSaGtYQlplc2tfc0t4ZUktWEVTckpQazVvQmRVdTNNZUlJcEkyZWVsS2RIUm1YMmtiTzNjSXg3Vm1LZmVpMGtLZHloOEN2V1lKVEplMzFSV083VDliZURDc25rVUZHZERvQnFxa3YtT19nRm9mTlMzalpOODFoUVpNSUZBRUZfNklMY0FfSE1hM3dSYkVLTUlLM2FwMFZ6T0M4UFVYdDBjYnBjUFF1dFA0cFhVMXM0czBrbDdIU2gzNHc4NDVBVjU0cUxiaUZfUjJzMG1FS3daMHMwaUpjaQ?oc=5",
-      "date": "Sat, 21 Nov 2026 09:48:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : le tacle de Sandrine Rousseau à Yannick Jadot qui s’est « enfermé dans un truc anti-Mélenchon primaire - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQOXhKYVlQV1JBOV8wMUFBbUNlenNnSlZraGMtU0VSQk1KNUtWZG9BbzgyWXV2U3NYbkprM2JaTnY4cGVySk5OZWlQUlowbFpqNGNSR2RBQXI1SGNTRUZzZF92dTdjLVE4Vk1zdzd5UXJTZDh2MVFSZmJnZUZiRkl2Y3kzOFBCbFloMF9teXE3NURqTUdQdk43UXhnc0dnTGxxOURXallmMDRaTzlDTjBuNkRyYURoMllhdDc0WjhydXlaX1NKTUJybjVuUDJwOUhNYUdGMU5YbWRTRVFJRlo4S1JhMFhmVlVSQ1hOUHdleVdhbkZpUVU2djlYYVNtTDRFbXBNVHJBUFNtOU1LN2x3ZEVuUXJzU2UtNFhwM01KVWRCWGNuY0J5WkJRd2lBOWJHX0tR?oc=5",
-      "date": "Sat, 21 Nov 2026 09:47:59 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« On est devenus “street medics” parce qu’on se sentait impuissants face aux violences » : à la rencontre des bénévoles qui secourent les manifestants blessés - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTS1hY2Y0OC1HQ0Y0MWVzMWtTVEZaSGhvQUU5ZncweFJwR0thcXJDd3YycGRPRjVfZWc1QW5BWWY4QUFfVWJxdGZIV1I3RmNPRG9uSXg1OTZyMVRvQ3E3T2hxRFNRcVU4Rm5Hel9YbEY0SmNKc2V6VllCMTJhRVNubmxCNm13V1o0NDJXVklSNVB6RkhnYm1NOElwUllRb3I3enItSFR4VU1RVF95UEZPcnB1OW9oSndNRGZuTmtjdzNQVlgwczVjbDZxWklBVGxBbjZyTXdvN0R5RnVZRXlkMklxZkMwWVd0dGZjSTFKUjRCaThjZlZ2MVZXN2ticmVFdUJ2T05RaW1JeUhqbXJhc3FBSkhzNjQ2MG8wRjB6V0xzc2dnR21Pc3RqV2pZQXVoclY1NGtXMi1vVTlzWWdGenB3?oc=5",
-      "date": "Sat, 21 Nov 2026 05:15:05 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Nombre de tirs, enquêtes, lien de confiance... Les questions que pose la loi sur la présomption d'usage légal des armes par les forces de l'ordre",
+      "lien": "https://www.franceinfo.fr/faits-divers/police/nombre-de-tirs-enquetes-lien-de-confiance-les-questions-que-pose-la-loi-sur-la-presomption-d-usage-legal-des-armes-par-les-forces-de-l-ordre_8293529.html#xtor=RSS-3-[lestitres]",
+      "date": "Sat, 21 Nov 2026 16:56:32 +0100"
     }
   ]
 }
