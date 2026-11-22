@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-22T16:34:43.280491+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-22T20:57:19.833348+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "DIRECT. Marine Le Pen dit n'avoir \"jamais reçu d'information confidentielle\" du préfet Hugues Moutouh - BFM",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWUhhNDJOaWhDcFJjT2xpQWEweXJhX1VlZUVxLVJfU3lGRzFaME5kdkRnWnlqUkk2bEVmYjgwWklmUUFSLVp0OG9TX1ZNSDRBV1ZXMHYxZ1RtWnEyN0JxOEJpYXIybDhWX0t4UXdWdW9JYmF1WTQ0a3pIZFpNWEVGcmV0WjhfcmgxaVRMMC01LTZGSGdqa1hXaHdjSG41SFpQbzBXWDdBdjZLaklzYTRwYmdvcldZaGlHalY0MmhZTXp1bVZORU5EVW1TVDZCOU5wc3A3M1N1ajRhdTg2emtwbDRtS2RFbkFCdjlYXzBvMTQtOFVwRnR5QllWcndZaDZ6Mk8yX29vXzgzOHpPdG5RQ2ZFb0l1aEM0S3JnOEhPWTktS3ZO?oc=5",
-      "date": "Sun, 22 Nov 2026 14:58:06 GMT"
+      "titre": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 20:43:53 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQnJoa2UtcW42aXJaUDYya0phbUM4T2dMelJybFRHQzVjSlFyZ1BhTHlhN3Z2bEg0RmxLQm9Lbk45Zlg1S0RfUlZBZDFlZ0N5TlNobEVoSmZMWHZPN3czVndPS2tmMGhFcFJFVmp6VkpkUW83SGFweVhSRHozX2dKblE4dXg0ZWRxcWw0Yko2M01iNk1oOXo5TS1nZmFMNkFDZHlNZ3BrQzBiQ3hjZFpKVkJjMmJkQW05blJYclFUaDNmRUlGWGlSemZPZzhGeFVXcDFTdGVKeEpPcC00a1JqR09DRFB0TElhVjlRUThpNWF6X29G?oc=5",
-      "date": "Sun, 22 Nov 2026 12:41:52 GMT"
+      "titre": "COP31 : le sommet pour le climat s’achève à Antalya sans accord final, de nombreux pays restant divisés sur la question des énergies fossiles",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-cop31-s-acheve-a-antalya-sans-que-les-pays-ne-s-accordent-sur-une-declaration-finale-divises-sur-la-question-des-energies-fossiles_8295011.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 19:45:54 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "En quoi consiste cette « règle d’or » que Macron envisage d’inscrire dans la Constitution - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSEJybUh3dTV1dHdLZVRjSTBLLVZPSXlsb05GTXZrN1pGSVJhSFEwTncxRG5oZjhRdl9US2hrRFF2eEFaSDE0NnlOTVhIcFZMdEp1RDRPcmxCZ0dQSnN0S0hWRG1xNUt6cFN0anAwNzRKWVFGWHZhNmtYbEtxbGtNY2VFM1lFZVJJQXlxbjNSTXM3Tkd2R0RXaXVDVWpnUldWbG1IeEJsdlgtXzIyTGYwZzJEbV9NMUZfcHB0TkpjSTNJNDlVR0pfUDFzNlluMlFPblYwcjczOFZqTjgwdmVTaUFGRVNrR0N4bUR6WA?oc=5",
-      "date": "Sun, 22 Nov 2026 14:33:16 GMT"
+      "titre": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 21:14:16 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Après le Jura, le département de l'Ain à son tour placé en vigilance orange pluie-inondation, le Pas-de-Calais maintenu en alerte orange aux crues - Franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNeEhhUERoX0RGME1Bc3F4YnlheGFBdUdsNzQxM3FLbTR5RktTWGwxVmRqcldNOXYyaFJZNmNjMjBrWkpiQTJ6NUItY042bzhETVNhN3Jkck50b2JMakF1cG5PVmhOdU5qendnTS1JY0NLSnJOZkc2QnhwRWVQcE45TE4weEVQaVZvaGVhUDJLVk1YTXVWdGtQei15RWtVaDVyTmtjZlZGTW1FSXUxcHFLbEtELWR1SVJDZzB6X2ZRcUlQa2lVOHotdFFQNmpKOVFNengwTlFkVHRrNDItZGtXU183QzRvakU2VHU3WFh5S2tKUk9DSWNvc2V2RU03Ymd2c3lpQWV0ei1sbUU4SFp4Ymh5Q2c5bWdSQUJrSFF0WU5KUWlzckdnNVd4Tkp4NzdOdXQxNzY3VnhCMjFrallxN2FVSWdrNDdJcWJ1Q0k1RHBKeGZ5UDEzdzNDS2xScGpnRzVUcEJUTE5iQWU5eEpoag?oc=5",
-      "date": "Sun, 22 Nov 2026 15:30:34 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«On pourra bientôt sortir de cette folie» : au Sommet de Paris, les économistes à l’offensive contre l’oligarchie - Libération",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPc0ptX1ZhS0UtSnhMN0g4UjJGNGYzVVdCVXNEUXRqbUtydnNPUi1xUW84UzlkU2hYdDd5ZUs5LTZiUHNhSDROYkdYZmk3dl9UWFVkTTRjeDVUdmtFMWJDZ2VyakJDcjI2RUJZcFZrSk5lX3hndW5yamhWQ1MtbVNYRmJfUWt3eDI1MUJDcFlnVDZJRHpkZEhfUUtsWkctUElhcEFSZjRmd3lUbDVVT083T2F1RUtlMmV0d3ZJRmxzYzdkY2pWYXdZdndYSnhZTDFhdnpFOGhrYlZkR3BZX2t2MlJtRlROTWZkdGJIWGpfeV8zOGpfUzdpYVdPa2x3YmlCNENCbWdReTVNT0Y4ZFljYmdsVQ?oc=5",
-      "date": "Sun, 22 Nov 2026 07:53:55 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Cinq euros le manège, et puis quoi encore ? »… À la fête foraine aussi, la crise du pouvoir d’achat joue des tours - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdE4xc3YwVVZKNDdNX3RLLS1ULUxsTjVSQzVSN1J1S3dzUVB4UDloWjhuSTB4ZjdLSWlEMmFwTE1velVaeVNIaFFHOElpZ25UdWQxZkZQR0FsNndXTFFCLXlVU2ZZVDA0MXlGLWlKaHVfNy0wSlh4YWJnNHU4aEI0ajNvYld1MUxMUXFaVnFTSE5VY2YzdjVoaGpmcDkwWVNXY3ZXUTZQcFFjUUkxdzZobTdoRnAxbFRuZ0pxU1VvalR1VmhyaGZCRUc3X3BkQjBE?oc=5",
-      "date": "Sun, 22 Nov 2026 05:02:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Après la condamnation des trois policiers qui l'ont agressé, Michel Zecler estime que \"des peines plus dissuasives auraient été peut-être plus efficaces\" - BFM",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOX01vbGJWMG94VXRVc3hXcElYWlBHSllkdkZ5bS1rZTRmYzZMbW56UWtDWTNXY3hpQkp4Zk9HUXZjZjNKR1B5bWJKZ3JDeDZpSjR2azM5eG9KQVFUY3RmRHFMalV1MkxQaUlJN0pmdF9vNW9ISFFSVVhlbXVCeDg2LVMzeHo5dTh3SThwV2VxRktXYTRJWTJadEt5a2d5bDcwczJ4dVo5MlNsNloyMVFxY29pSEt3QTNrOEhMMW9wcnIycmFxT3cycGlKRERXSlozQ0M0MTNXSHl1bEdROTJyWEhzc1pNZWhTenQ1cUxCa2pDNVFKZjlKQmkyR3AwalVSR1lLTElmYlhISFdKNGZBOUtHa2RidFRYeTdMS0FhMnZQRlFGOXpTanozY0JWd3poSEE?oc=5",
-      "date": "Sun, 22 Nov 2026 13:31:07 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Météo : ambiance hivernale dans le Nord-Est, douceur et humidité dans le Sud-Ouest… La France coupée en deux en début de semaine, avant le retour de la pluie partout - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaUlnZzZpbk5aZzM0MHczOWR5VERlMkxuVW5KdWJhUC1nT3JqMEh1ai1MYWFBb0tsYTRPQlhOTWNqaUU0ME1yeFg0aFNOb2tZTVpmMU01NFBSbS13WklQWG1WRDhzejBZaW41QWhwSUE2MktwMDJ3SzFSVHRaN2FuUXZEb3JzY05xV2Vjdk1BNTV5RGlYc0lUbGZaMVM4NV9WTWF3emxkVTF0SW1WMUpmM24yWXhoOGM5T29rNTc0T0haVlRVYzV0RmxrSUxlbzVQVU5WWVNEdjNTQXhmZm5rZThMTGZHSHBQM193OWRSbUNmVFA1TF9OWVVBZTRPNnZZTXZacmNzSnM4dnU3bXFUejAwWlhpZmlDMDVnakVZWVlibjYzYk9yQ1BXSGpmVVhidTU5NWY3eC1yb0p3NkJiSndhcWFaZEk?oc=5",
-      "date": "Sun, 22 Nov 2026 09:27:23 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Le remorquage du cargo échoué dans les Landes pourrait prendre plusieurs jours, voire davantage - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSjJxUG1kZlZtX0RIem0wRTRyX3QzSnZBTVBMaFR4dGl6R2VscDItLTBUa2dTNi1BZ3lFQ1YxZjVNZ0hPdDlLUkNvQ3FJdE5BU1RtMlNCQUhRUld5T0dmRWJIS1V3ZXFRaDFXcGsyWGVhR0NwNkNBeEtXZjdNWmpVUGJkcnZTRjFidDFKMkhWbUwxS1B6aFl2Wm1DZXlxWkx5bWNTc3BSUW8tUldnUkZCeG5qcXBWNTlDUEd0bVBuTEF6NDJRNUoxYWk4UlhEb1o0ZkFSWFpwOWl3cTNDN3FmTlljZS04em9hUTEzTGFydFpzZ1NQT1E?oc=5",
-      "date": "Sat, 21 Nov 2026 17:58:55 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« On appelle les gens à relancer le mouvement » : à Pontivy, la mobilisation contre la vie chère s’essouffle avec seulement neuf manifestants - Le Télégramme",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNbWZmVlhhQVFLMm4xSUcxUV8wT09seHlOMkQ5UHhocXZwd214cnFZeEJJTklaemxnd0sxNXMxZWlYNC01Q0YxcGgwbzVvYnhNY3N6VlJtbjJRRTk0c29ZZzZPTzhaSnJDV0JNb3NPVDFZRlltNDJkUEhYcHJ6U1p5NmpjSkVrdHlLUzVWejF3X0hRRzY4SEVKeXotQTA4bmxRLTFPRFZDYURYcXdDUTliZ01JcjVfR2paU2dKOEl4NHdZa0tDVEoyTkotcGVTS1BDT3JCa0dDZVYwZnVoYXg2aDUxdnpZS1Z1aUhlUXRWUzg0YVR6OWdDOGhxbzRrbGFnNDF1R1pzbnduUWloTXloUlVEWl9tdTVQN3lRcFZlMTdnZw?oc=5",
-      "date": "Sat, 21 Nov 2026 15:23:11 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Tenir le deuxième tour de la présidentielle \"au lendemain d'un 1er mai est une erreur\", estime Raphaël Glucksmann, qui demande d'avancer le scrutin",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 20:48:44 +0100"
     }
   ]
 }
