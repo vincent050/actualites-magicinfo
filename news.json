@@ -1,26 +1,95 @@
 {
-  "mise_a_jour": "2026-11-23T21:56:21.226224+00:00",
-  "manche": [],
-  "france": [
+  "updated": "2026-11-23T22:48:48.488670+00:00",
+  "items": [
     {
-      "titre": "Faut-il changer les dates de l'élection présidentielle ? On fait le point sur ce débat qui agite la classe politique",
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/faut-il-changer-les-dates-de-l-election-presidentielle-on-fait-le-point-sur-le-debat-politique-sur-cette-question_8296431.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 18:15:13 +0100"
+      "source": "Google Actualites",
+      "title": "«Le fossé n’a jamais été aussi grand» : après l’échec de la COP31, la presse internationale s’interroge sur l’avenir des sommets climatiques - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzg2RFhoMmdZc2Z6bjl0WjEwMlVKTlo1aWdIeFZjZmVaTF9NcWxKa1ozc1ZyWHJoWnJzYlhKTU41V0F2aWZlX2F3YW84VjU2SjJrT2JHOXdrY3pJSWJ2Q09aanJBQlRubHNvYTMyNVJXR1M2M0IyU2k5Um5LV0pVYVYwQWhmMkRZcWdyVnFnSkZRVVVPYXBXUHJHX3RPQkh6ZUJScENNaWc2RU5tdWhseXZmRjNNc3FuQW50SEZzaUNWNkZHYjN5WTlVQlV1OWxrOWt3bUR2VEdyWE1IMERiblVtbnpfalB6aWoxSjFYZTIyWVBwYkQ3NDNud1E3clVYa25Gdzhqb1hnVmlCRnEw?oc=5",
+      "date": "Mon, 23 Nov 2026 15:37:33 GMT"
     },
     {
-      "titre": "S'il est élu, Dominique de Villepin prévoit d'organiser \"un rassemblement\" et convoquera le Congrès au lendemain de l'élection présidentielle",
-      "lien": "https://www.franceinfo.fr/elections/video-s-il-est-elu-dominique-de-villepin-prevoit-d-organiser-un-rassemblement-et-convoquera-le-congres-au-lendemain-de-l-election-presidentielle_8296740.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 21:51:01 +0100"
+      "source": "Google Actualites",
+      "title": "Yannick Jadot et Jérémie Iordanoff, en rupture avec Marine Tondelier, créent un nouveau parti écologiste - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObnUwU2JVc3dWdnZLSGdSOEN2QVVwZVFpN2ItTnR1c2c5Vk52SXdWWnktc0NTQ3pXbUxVZHBrNDNnb1NfUFhYMEJaRU5LQmItNDN2TlBQRE5rN296WGxrbGpjQ3A3TF91ekF0MW0tRTZZeXFlZVQydWUtX3pUZnpxcFZwdC1RamNzT2YyRTZTdUpYWmJiQ0gwbUVwVWtueHRUZ3NjMlZlYWNMWkItazdFQzBrbERRZ2diV0c0bTZGa3p1OWpLbUZVOFczNFZnejR3LVJ3bWFvTUh0VDV5VnJTUnRKWXhCSWU0ckk0NHFsYkpXZW9iRWVRM1ByQWtBVTdROWVPMA?oc=5",
+      "date": "Mon, 23 Nov 2026 17:43:27 GMT"
     },
     {
-      "titre": "La \"règle d'or\" budgétaire envisagée par Emmanuel Macron, un dispositif pensé pour \"calmer les marchés financiers\" et garantir l'équilibre des comptes publics",
-      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/la-regle-d-or-budgetaire-envisagee-par-emmanuel-macron-un-dispositif-pense-pour-calmer-les-marches-financiers-et-garantir-l-equilibre-des-comptes-publics_8295920.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 19:04:27 +0100"
+      "source": "Google Actualites",
+      "title": "Déraillement d'un train en Normandie : quatre individus, dont un père et ses deux fils, interpellés dans un camp de gens du voyage - CNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEhLQ1V6RmxWc3VVMmNMRmlhQW9DVG1fVE0zTEJIS0p1RkNHSFR1QUp3S2J3WGpKSXdUT0dtVzI3c2w1S3dFMzVsWnR6a05KRlVJRVBuYkoyMmlfMWdqODZsZVN6U25FM2ViSEZqaFE1ZHEtZll2VXh3cldZRkJrOHE2b3RmYWF2OGJTcmZYVmhnSDRGSU94S0ZpdkNjT1dMeTlZUEM1NFZGOV9KeFAtRFpENWxjQ2FGd3hn0gHAAUFVX3lxTFB6YnVMaXk1WlZvamlHVE15b0hCNU1oSHJ0Sl8xb0g3amtSLVpQQUxvRUEwdWxBMVlxWXRHRHB1RlNwRWt5Zy1sYmlZeF9IVXR4Nm9MRTVVNUVMVll3eTBBSmt2Rks5WHZjT29ibTl0ZkpmcEt0ZHBrazBNalIyNm96NU8zZ1lwS1d0d2d4Zm5aU0IwVWI2RDVXbUNEM3E4SGFuQUo5TlBiSnFUdmM4QTRWMHUzeXlmbnJsdXdEZlEwTg?oc=5",
+      "date": "Mon, 23 Nov 2026 10:40:14 GMT"
     },
     {
-      "titre": "Pays pétroliers offensifs, Européens à sec, organisateurs largués... Qui est responsable de l'échec de la COP31 sur le climat ?",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/pays-petroliers-offensifs-europeens-a-sec-organisateurs-largues-qui-est-responsable-de-l-echec-de-la-cop31-sur-le-climat_8295716.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 19:53:09 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, guerre en Ukraine : la Libye réclame des explications à Kiev après les attaques contre des navires russes près de Benghazi - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWm9KYk5pVlNBUlYwSVZyTFBwN0V0N0hqQTlWcG9MWXBicWVXemdHYXRuSmo1cFJJU09fMzNwZ1hRREJDbjVmOFNwTVVtdkZfNDRXTkNFTE94aTB0SlJsTmxERklnU2ljX1dOV0R0N3JoQ3FVMnNlem5RZEY0LTczUTloMkx6QWwxWjN1M2hPQ0lvQkFIQVpEM09RZ3VZa25FV0ZUZUtLc1FOT3AtcHF5bm0wVDFlVjhtb3VZeEpqdmctVk5XM2NzdHBwbTNZcGtxeUJ6ZC00T0RIODRWQThsX2Z4MUVzdTAwal8xRU84MkpuWFdkMU9LNGR2NHlZZEd0VVJMNHVRSnlGTTJuQVBkS3BlSzkwTmRrRVlMVnFXMFZ6ZUpxdWx2WQ?oc=5",
+      "date": "Mon, 23 Nov 2026 21:21:03 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Salut nazi et racisme à l’école des officiers : le patron de la police saisit la justice - La Croix",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNlAyZzRQTjdhWjZxREZtZlh4RmtVdUE4cVEtUUFtNmU1SEpqQXdJbHJkSnJRb2FBSTJYVll6V3JFV3ljbjJER3RjQzAtelNGWVFOWmJTTmtyQld1Qk5XeUM2OTBWWnB5bjVNa2JLQjljSjJyeHFHa0h6blRsUmhPYlFGNjZOLTJkcEQxcUxua1ROLVhJM2VHbVp4NEwzREx4UDEyX0FIX2FsSC14TDhSNXRTSHJRSXhlWVRqdXNQMTVRWEhoWUlz?oc=5",
+      "date": "Mon, 23 Nov 2026 05:27:43 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "\"Nous défendrons chaque centimètre du territoire de l'Otan\": l'Alliance se dit prête à se défendre après des révélations sur un projet de satellite nucléaire russe - BFM",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNSU9MYnBXMFRhLTdaWk12QXhLLVB5S3cxZXpvOG9ZdXFtVm9jYVBZSFZqMzg2TVg1OWlEMks3TzM1OVZFeHkxREMtUjRJUm11Z3BVZGdQZ3NiOVRIZ3EwVVcxLTBlZlhDOEt3U1JkcGxkTkd6bjJ3SzhYZWJXNGRWNjltYTA1bmZoOXVYWkZ3bEk0cGZLZnBVM0ZHMlI2dXBjdHpKOEdUOGZoNk5yY3dpdWkzV0tEWENHVjQzWGVfV2tIaHNValRrMllmVkw5SEFBeVFOZGttSHVYTmJBc2N4dWg2RURsMUtVaFByRWNiVE5hRGRBNVFvX05tb2kyc1RFVTlkNTNYQk1OdC1FX0dOSXBnaXV5bk9odXhrWE51X3I1RHhYV19fN1Y3TXd1Vjl0d0ppaUdPOUVXMzh3eHR1VQ?oc=5",
+      "date": "Mon, 23 Nov 2026 17:35:05 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "« Il a été mis en joue et menotté » : le militant écologiste Cédric Herrou à nouveau placé en garde à vue - L'Humanité",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZXlaS3plaDhzbjROcGxfcXFrQTluZHJVYUlUaTZRUEdNMG5QeE5sWF9RenUzcERuVE1ic2FEaDd4eGJDVV84Uy1ZMm92Z2Nfdm9Qb0NXR0F3aEZkeHRpUTdsVjd5QmVuT2xvaHE0a3R5VW9ZUEM1Wk5aNEdKR05RTXNUVzNBRHc4a3h1ZERJZ2puTmgtb01MYUlxcVNnS0R6cUt5Ujk2RUtVUTNvT0JOWnBoZ1NKUF9pZjVJSDgxRXI1TFpiQ2JOWG44V0ZfZi1iQ2g2OTAtNTZjYXpWeXc?oc=5",
+      "date": "Mon, 23 Nov 2026 10:07:07 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Gisèle Pelicot va porter plainte contre la maison d’édition qui a diffusé des photos pornographiques - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOF94ckpncmpUY3lLNjVnZEZiOEJ0bU15QWwtT0VRcVUxRVJPMlFYNms1VjFCeHN5ajBUVHV3N3JqOHdXRlpMc1FlbVBtZm9fdmFfR2puRlNFbUJTSGVrOTlRQzBQRE5qQTFrNThFNDlTMXZiVjdDOXQ3LWs3R29PREZYOEoxaWlOVEJsU05UYkY5bm1wSlZOWUlCdGt5d1c2V2s3eVBRaFJ5bU5VQW5hQ3oyWmJuX1FlVi14Qmthc21BallDc1hjRUFLS2g0YUU3Z2Nxc0tMZERqYWYwLXNqM0R0YWhLbXpQTTJZUk9B?oc=5",
+      "date": "Mon, 23 Nov 2026 14:38:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "C’est quoi cette marche contre le racisme qui s’élance de Marseille ? - 20 Minutes",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd2p0SXNkSWdVVm5LSXVCTnM5UzNDY0VodEpVMW84amVYNmpVSDRwSWl0bjVSTE9ua2pkRXJjVER3MGQ3aXR5bjlQVlF1YVFJY2NUczdrMTZlU092N1QtQkc2Qkkxa0o0MUJCZ05ZOEtySG0tbWFteEVXLXVyblEtYVBjUTBPRlBUdF9QSjFjaXhHbzV4R0F2N1JhVkxjdXM5cThrNzU1TGZ3RmhoR1Y0ZXNCX0hiNnpRVURGSnhiV2RNNzNp?oc=5",
+      "date": "Mon, 23 Nov 2026 13:55:00 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Jusqu’à -5 °C, gelées généralisées, pluies verglaçantes… le froid va sérieusement s’installer en France cette semaine - La Montagne",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXpCNWFNVUt1YWREQ0hkNlh0UktXZzFhWV9GMjBxUVFKUklwd182MVNjMHkxSk4xbzVabktxaHdoeEVwMUZVa01DMzlfNXlVaURYWkIzRElwV2VRSHEzeEZSRVVMbFZUMjcxSVN2M01rRnFZendGVkR0Z25qdXpYRXo2azcxRmVOODJsTnJBY1NMbkJuaG1keDN2dzNvS1p6QWkzbVM2M1cwQTZySWRJQTZQVTlzemNVQ2RDemRXdWVkRjg0OG50clViSmdXRzMxbVg1V1hiX3k4ajczZnhGSnhOdEJ6aVJEQ1hLRXo1c09PQlRRVWRMZjNURGZlSFE?oc=5",
+      "date": "Mon, 23 Nov 2026 10:20:00 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
