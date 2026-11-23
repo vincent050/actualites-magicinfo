@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-23T02:43:47.467496+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-23T09:49:35.552347+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "La « pire de toutes les COP » se termine sans accord et avec un retard historique - Reporterre, le média de l'écologie",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQXJ3enZIYUVFbHZ6Wk9jU3NBeEViTS1kQjE4bDJ3YTJpUnBfY3NiSnhQZmJoaEV5WG9ETXJXZkF6eDNNX1dzaDBRZEEyR0NYRzNKT1NManBQbW15enFyQVlnWFE4dXRCNzhFcnFEelY1VjkyQVoyc3BzSjk3OWl0cVdSUXhmeEZTb2x6TTNIdi1WOFlabzEyOXV6T3JtaUFZVlpCQ2lJRDg?oc=5",
-      "date": "Sun, 22 Nov 2026 13:51:00 GMT"
+      "titre": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 10:16:56 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre ouverte entre Lisnard et Le Pen, Macron culotté sur le déficit - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdE54NVlxYnJ1emMycFRudWFtVHc0SU02RlFRbnRoNTZ3WjRwTHcyLXFuOTMzY21pNGhKZVpyYktrWnVSeWNZLTFZUGRXMzZWYXlMU2lmczF1T2hsa1hJeWVjWlg4ZUlIZGcyVkY1Z0VYakJ0N3JCZkdKWjFlZU9qVE1kMUE3T2NpQi1aeGtXRnpHd0pUckVFR0JCWHVaeWNpWElZcEhTUlZvR3Q5ZHZ3SlRORHFfX0EzalNhSzhaVGxWZ21OUFE?oc=5",
-      "date": "Sun, 22 Nov 2026 17:39:00 GMT"
+      "titre": "\"On va mettre la maison en vente\" : les sinistrés du Pas-de-Calais épuisés par les inondations alors que la décrue s'amorce",
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-va-mettre-la-maison-en-vente-les-sinistres-du-pas-de-calais-epuises-par-les-inondations-alors-que-la-decrue-s-amorce_8295701.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 10:20:06 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Budget : Macron envisage d'inscrire une \"règle d'or\" dans la Constitution - Boursorama",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2ZUb1k3SU1uTFJ6NmM4Umx4WFh0MkNQUGhmOXpwUThIcDVyWm5TWHdwUGJmUkoyMW9PenJSZW1RNWhBbE1YcDN5ZmRYcUpRV0R5dHlWQTExZk1nS3dabnNvZVlDdE04TGxtbTh3U1hISk9JUnNhQ2lvd1dqUFh4QlBlZGt5OFFmcTVfalNJenRRVHpnaGxrUnVhdVNaTTF3UkRma3IyYUQ1TE0tT01GWFFXYjVYZW9YeFlhbFI3ek5nOGNIdUo4VjAtaF9BRk00TTljZEF5NExOV01RVWJjM2JDc1o4YmJmYTVXQUZiMmZndlXSAfgBQVVfeXFMTWpiTUpldlU2UWtSVmFreTBJYTVLbGo1akdOMURKQXNac2lYaC0wd2ZLS2tWNGlFNkxnZEN2T2tWemNlS05OUjJaRXdGOGVVQlcyT1dZLThTYXp4OUNTczREblJIcXBuQndGR1pJWEF4VUFwaHM0Unk5dF9KR3JkSU1vZ3l1OE1OOFlQak40RHJoZjdzTjl5eHdOYWxWa2V0U2d0cWt6UE4tQ29CZEFxY0ZUMTNNOEU3UndTbUo2QUZCLUtiXzZUVWY3VUdaQlZmTmhvMHV3V3Fkc1VGb1BUUFZ6WWlxalJ6T1ZEOUZUOTVVYWFsV2FLVTI?oc=5",
-      "date": "Sun, 22 Nov 2026 18:18:00 GMT"
+      "titre": "Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire",
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 07:47:45 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Ce mail du service du préfet Hugues Moutouh au cœur de l’affaire des fuites vers le RN - Le HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdVluWVkySWU4U3ZOMFhtMDlNaEl6MDllYUxwTWsyNUlCNDdILVVyT0wwcFpJUzNxTU5lQ3FxNE5SeUF1el9OanJxMnhyaHhOQkI5ejBtQURtV2c5d2E4RkQzRjU4eE81dzM5T3pwaE9iZF9FQlVaYndfdFRtSEZkbkVlRXFXUUZZVEU4alBMMWJxZmlKQWpZdWZZZGsyLWx1Ny1mLU52NHZ2SVhmUF81Rk5PbWVXMTczTEtRcmNEa3NXVy1oR2UzRGJ4TkFISHA2RmlzQl9uUTc0Unc?oc=5",
-      "date": "Sun, 22 Nov 2026 12:28:54 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Ukraine en direct : après des attaques russes, les secouristes recherchent des survivants - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUi1HOFFsS21GSjBJNGRIeU53SUV6djB0ODNDbXlxZF85VUUtYV8tYlQ5MDJRSDhmTHo1MFdxcnJ2b05iU2tYRVYtR2ZpWFdhSllKb0JjZGZ3c1QxcnZ5T1VPTmFPUGdhV3lGUWQxSkxVcTBmS0NBbGNmbmJNUm9sWXB6VVROeWhoNU4wTnJVa2ptZC00bDZnaUxiN1k4V2RQU0FwWV9KMHJQX21yaWNodlRtbGRNcThSUmRIempkbEktYmNiQWRKdTRkQ3dxc1NEb0wweVZNOGdSdEdVd2FsZg?oc=5",
-      "date": "Sun, 22 Nov 2026 05:55:48 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "\"C'est de l'ordre de l'évidence\": après son retrait de la course à l'Élysée, François Ruffin souhaite \"bon courage\" aux candidats de gauche - BFM",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUE1kX3dYVjVaMFo2a25JckhoeGNCdTR2SXA3MXF4bWhYazhUUGdvdThrVi1Qd3NYU0QwbWFPaEk5Y1Q0TE1hb183T05GbjkyRzBiUzVKYm5mMHBpT0htSkh3anhjUWRsY1Z6d0ZWdVFtTTd6UUxHZERXYnFyWGxxdFVjemhjSC15eTBWN2dTdDlRU193RHVVNEdYb1I4WUhtMm01NXBQUFU2bVhIQzlaRHhtcUpUYVk4UW1YcWFGVEp2Y1ZRR0kxMTJac05uWmFSTnA2ajBLOUJVOXZDYlI1SW1PdkUwTC1mX3A5ZTFPbHdIbE9heGhsaUU0aXcyVUtJWlFTVTNPYTl3QnczYjhoSGQ0NjE5Z01MWVhpbnJ0Z2YwSThsSWt0YjZrLUw5VWQtQThVb0F3?oc=5",
-      "date": "Sun, 22 Nov 2026 21:39:45 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Sans mes vidéos, les gens ne me croiraient pas » : Michel Zecler sort du silence après le verdict du procès des policiers qui l’ont agressé - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdnM0aVVqOHdnazZWY2l5YTctVXpQR2tqSk5kb3BRekhJSkdIT0FMR1lGNFdxYnBSRm9ac25PbkV5ZnBUMkRFbU5hLWlMY2ZoRW1wTmZGTnZRajRYNl96WFczNDdya2xLX3UzZF9DSjQ3SnN4M09oekJaZk5hYU9IRnpIeVlmRWhUbXdFTThGbi1DMjY1RG4zYlNSNVh0UnVyaHhwdTZ1TzFmQXRxNUtDNzVER2s2N2dRVjM1NnF3ZVBvdXFmcnJ6NmV3bjdjNXBLSDdZREtiS19XblE3UU1LM0ZYYmhPb3kwdHR6TUpfNlBlck1sVkNoY0R5Wi00YkR4X3RXRTNRSjdUUU1CbFJ3MUNIZGJnYmppa0c4SG9oaGtUbndWWWVFM3RRV1RScGFmNk9fTW1TeTl6Zw?oc=5",
-      "date": "Sun, 22 Nov 2026 15:22:44 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« La cérémonie s’internationalise ! » : Cate Blanchett a donné le coup d’envoi des illuminations sur les Champs-Élysées - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTHp4amptLXBnTWVCX2ptNFNDcUVwT1hDdTdMYzIxSFFGRmxXZjUtMnc1RmZRRWlaLXQ5blJkVDF1dXB3bmFpZzZyTXpCeGlnOTJOMG5WVDdBd01IRmxpWDVXNjFkUjdCYXAyUXpTdHlQTDdlUlVXQTJZeEJxNFFPRWNQdnhxQWdHUE9aOVFtaUdEdW52dUJrdG9EZWlvSm9JRVowZFhkakUxYjVUTl9OSDhBWDZWOTdBS1hpV2dLY2VzTS1JRnpPQWQyckhnaFZtZU5TNWN2dG9uMTIwTVBieUpGcWtWY3U5c3ozeHJ5anlRSzlmUE03VUt4VVJUaTFIMlg1UThwbnBkTndkTEdBcUpBdng?oc=5",
-      "date": "Sun, 22 Nov 2026 18:56:39 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "La Corse placée en vigilance orange pour des vents violents à partir de lundi ; l’Ain et le Jura touchés par de fortes pluies et face à des risques d’inondations - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOS1hFc1o1MWlwcjBCNm43Z29xcno2VTBSNk1iOVJqdDZuR3FTMDh4TnNPbmNKZnc0RmdCTy05STltQWNFeXhpZmU1aHAzNzVrb1FKX1R2ZUhQN09aTkptaTdzbjJQUG1yQ21jQ2h0QjNfbE9WRFAxMmtGNjB0UklhRGp2d0djbFVsSl9pN1V1M2VFRGFsN29aWkFLSGJUVDhob1NYOFpFSWZmVWZMRW9mc0FVZUxjSmZfRDVkZnpOMEZ4aGJhbjB5RmVOWmlhaHR1dmtOMlA2SDdtYnBpRmpaVnpSQlNVbjNpNXhXelJKdGFFS210YjFzVEgxYi1QVERkajAzbkRFYkJxR3JkYVoxZXp1RE9jRk9zMVVMdTdlZUZQTXFMYko5WjgwNFhrV0JEQjJDX1RqTDdqRFVpLVU5NFNhVW1OWG05LVFmd1FR?oc=5",
-      "date": "Sun, 22 Nov 2026 22:11:34 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«On pourra bientôt sortir de cette folie» : au Sommet de Paris, les économistes à l’offensive contre l’oligarchie - Libération",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPc0ptX1ZhS0UtSnhMN0g4UjJGNGYzVVdCVXNEUXRqbUtydnNPUi1xUW84UzlkU2hYdDd5ZUs5LTZiUHNhSDROYkdYZmk3dl9UWFVkTTRjeDVUdmtFMWJDZ2VyakJDcjI2RUJZcFZrSk5lX3hndW5yamhWQ1MtbVNYRmJfUWt3eDI1MUJDcFlnVDZJRHpkZEhfUUtsWkctUElhcEFSZjRmd3lUbDVVT083T2F1RUtlMmV0d3ZJRmxzYzdkY2pWYXdZdndYSnhZTDFhdnpFOGhrYlZkR3BZX2t2MlJtRlROTWZkdGJIWGpfeV8zOGpfUzdpYVdPa2x3YmlCNENCbWdReTVNT0Y4ZFljYmdsVQ?oc=5",
-      "date": "Sun, 22 Nov 2026 07:52:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-[lestitres]",
+      "date": "Mon, 23 Nov 2026 10:44:47 +0100"
     }
   ]
 }
