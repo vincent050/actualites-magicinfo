@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-22T22:03:14.743073+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-23T01:31:45.938790+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Emmanuel Macron envisage de réunir le Congrès à Versailles pour faire adopter une « règle d’or » budgétaire, une procédure inédite à plus d’un titre - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdVRRVnBMRkhFdFdabWJwNG1vaVR5ZnFVeGdpTk1hejcxSUc3bnJqdFFpVXNsOG1QaGxRSThDQWxjNE5xeWtnQkh2NG5XUmo2R2hGSzNBbGY4MWRNeWduZFBJenYzVkJIdzVpQk1yeVg5Wm8zLW00Y1h2dGgzNk1yRi02cDdyd2pnXzI1dWJ1RzN6NHJTdXpsdDFxNkJuTDJZbW4yNXJIT1hLUWVsQ08zRncxLWJwdU9MUnNrcmM1WU1oVzNCLVd3X3MxRjJLSXlLWHd3TUVqNG1LNFZBSlFrVUFycTZiZTNydkQ1YUg4OHZwVWV2NTJfUnNUWEh1c2k5bmdwc0c1UDhoTXhoYUZOZUNtM0g3N2VkbUx3TllINEdtWFhhT0g1aU4zZVZuVThMYUZGNTdFMHRfa2M?oc=5",
-      "date": "Sun, 22 Nov 2026 18:53:29 GMT"
+      "titre": "La tension monte entre l'Europe et la Russie après plusieurs incidents militaires",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/la-tension-monte-entre-l-europe-et-la-russie-apres-plusieurs-incidents-militaires_8295158.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 22:44:10 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "«Il n’y aura pas d’accord» : à Antalya, l’impasse sur les énergies fossiles fait échouer la COP31 - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT3dHSzdmZUJxSHY2RGZ5bGs0aGwtNGFUZ1dPQmpzV3VVS3ZvdjZrX3JUQzhHcmdaRXRvVUc4cmFKM2V1c0NJdzM1TnN4a1FaRXdvV2NBdk5NYm9KR05sNG1XUndQM1dScVByUFpPWkZDN2dMVGVnS3UwRXVZa2JzUjk3dWtNdGtVM0F4WlVabFpkblFKa2dkbWlXWEZZWG41Z0pUempGWU1YSEtGQWhuai1lMTQ3VXZLMXVRM01iRU9aVWNjSnd3?oc=5",
-      "date": "Sun, 22 Nov 2026 18:25:34 GMT"
+      "titre": "COP31 : le sommet pour le climat s’achève à Antalya sans accord final, de nombreux pays restant divisés sur la question des énergies fossiles",
+      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/la-cop31-s-acheve-a-antalya-sans-que-les-pays-ne-s-accordent-sur-une-declaration-finale-divises-sur-la-question-des-energies-fossiles_8295011.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 19:45:54 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Marine Le Pen attaque David Lisnard et son projet de \"broyer\" le Code du travail - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckNZY0FkcjlxMWJDTlNMQVF0U1FxLTdjLWluaTU0MFBwSE5KdkltRWFnSk5lSEY2LUJpaGJPX1Y4LVBGUkh6eXo3QVNGRnRJM3E0VGoxZThoc2g0ZmpDMXl3djdCQUxhUV93S0JUYnR1QVJKYTJVd1JIQ3FUcFRHNndWYk9Ka3Y1cnczTU1uMUQ0QTlKRkdwMS15SmRYZjdRNDBReU1PbmQ5MjNuaVdGekN5a25WOGI1bVZMRnRQUEc0TGZxTUstdUkyTmdrM0VaanR5RzVPVjNzZ1FLMFlDb09tX3NjVDJBQjJmdg?oc=5",
-      "date": "Sun, 22 Nov 2026 15:54:12 GMT"
+      "titre": "\"Ça devient lassant\" : avec la répétition des inondations dans le Pas-de-Calais, des quartiers vont-ils bientôt être désertés ?",
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ca-devient-lassant-avec-la-repetition-des-inondations-dans-le-pas-de-calais-des-quartiers-vont-ils-bientot-etre-desertes_8295173.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 22:46:09 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Guerre en Ukraine : l'Ukraine attaque pour la première fois le quartier général de la flotte russe de la Baltique - L'Indépendant",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2dYSTZpa3pSRk9HV0FTTlhvV2M2RXRTYllBa0d0d21Xd09oZXdVTWU2V21oTzdhNWs0SWxRZjd5MGJWQW8tOS1ManlqbU05N3daOU5waDZpVnNPa0x2ak1ESFZERWJpdDl2bXlfaGFrZlVmaGpmVnQzRk55cUVjT2JVbXh0TGlWaHo2WFZyQWxuWjFiTmVoRURFbE41ekNSQWRBc2wtRC02RURlUHMtR0t1SVJNcEpneDBHQmNxOW0wZUZJWTJOdWtPMFE4UkFjTnJOTENqSk5KdVZEdElIZzZfd2ZoeWdMM3kzM1dua1lIZmN3?oc=5",
-      "date": "Sun, 22 Nov 2026 09:22:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "«On pourra bientôt sortir de cette folie» : au Sommet de Paris, les économistes à l’offensive contre l’oligarchie - Libération",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPc0ptX1ZhS0UtSnhMN0g4UjJGNGYzVVdCVXNEUXRqbUtydnNPUi1xUW84UzlkU2hYdDd5ZUs5LTZiUHNhSDROYkdYZmk3dl9UWFVkTTRjeDVUdmtFMWJDZ2VyakJDcjI2RUJZcFZrSk5lX3hndW5yamhWQ1MtbVNYRmJfUWt3eDI1MUJDcFlnVDZJRHpkZEhfUUtsWkctUElhcEFSZjRmd3lUbDVVT083T2F1RUtlMmV0d3ZJRmxzYzdkY2pWYXdZdndYSnhZTDFhdnpFOGhrYlZkR3BZX2t2MlJtRlROTWZkdGJIWGpfeV8zOGpfUzdpYVdPa2x3YmlCNENCbWdReTVNT0Y4ZFljYmdsVQ?oc=5",
-      "date": "Sun, 22 Nov 2026 07:52:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Météo : Inondations, crues, vent… Cinq départements en vigilance orange ce lundi - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYTY1LTFnRUowVWhKa1VubjFuX3AxdnVqRklzZ2k2MVZmM3JBbHdMUmloenJjVm96d0tSbmMzeGxKbXBtc2UtaXFNRzF0X0dfWDcwUW8zN0dEX21fUWFWT28xZFp4bVRfcVVfeGJYby1IYmZtMDk4UmNIMkZQR1NDSDgzeUxTVWlaemRqMW1YZ0pjTFE0Smt4eHZONWwxQ2g3alJobWlicFhEak5CU2pJeEdPTFJxUVVyT3ozblZvRXJIUGJkV3h2U0xna3VIRlNyX2pjdzQ0TnM5LWNlM2ZQQ3c4bkdHWmw4bnc?oc=5",
-      "date": "Sun, 22 Nov 2026 15:17:21 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« Sans mes vidéos, les gens ne me croiraient pas » : Michel Zecler sort du silence après le verdict du procès des policiers qui l’ont agressé - Le Parisien",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdnM0aVVqOHdnazZWY2l5YTctVXpQR2tqSk5kb3BRekhJSkdIT0FMR1lGNFdxYnBSRm9ac25PbkV5ZnBUMkRFbU5hLWlMY2ZoRW1wTmZGTnZRajRYNl96WFczNDdya2xLX3UzZF9DSjQ3SnN4M09oekJaZk5hYU9IRnpIeVlmRWhUbXdFTThGbi1DMjY1RG4zYlNSNVh0UnVyaHhwdTZ1TzFmQXRxNUtDNzVER2s2N2dRVjM1NnF3ZVBvdXFmcnJ6NmV3bjdjNXBLSDdZREtiS19XblE3UU1LM0ZYYmhPb3kwdHR6TUpfNlBlck1sVkNoY0R5Wi00YkR4X3RXRTNRSjdUUU1CbFJ3MUNIZGJnYmppa0c4SG9oaGtUbndWWWVFM3RRV1RScGFmNk9fTW1TeTl6Zw?oc=5",
-      "date": "Sun, 22 Nov 2026 15:22:44 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "L'hiver s'invite cette semaine dans la région, déjà de la neige et des routes glissantes dans les Vosges - L'Alsace",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY2RibFRVS21CenY2Z1RXTzJQUy1seGd3XzR2bHQ5Mk5ReHVhTmpHTldXNFpQUkN0TlhFTkFTMkV5YW5iREpiX3Q1aWJvUjN6SVYzeXVhR3I0ZVBVWHdnVGhTcldVLUhXbmQxa2ZIQldrLVRfTEJid3NMV2I0UVI1MXQ0RW9xZlpnSjR4NjNBNUFtQm1ydnh4cGNBaEEzSzJFRWx3bV9aWnhsY1ZBSFBmcHFhV2hWQTVzWGRxTlROQXhHZTJ4ZV9QMQ?oc=5",
-      "date": "Sun, 22 Nov 2026 21:09:39 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "France-Algérie : pour Dominique de Villepin, le « temps de la reconnaissance » du passé colonial est venu - TSA - Tout Sur l'Algérie",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckFPdVBhWWRuajUxQlFWVkR6YmJBXy1wVHk2U3VtMGtTVWlJR2NBMl8xOGhhZDMzdmljeTR5OE9MOUxYT09FNHpGVGFSQ2JFUS1HUkw3RHNSbkFla3JQSnhjeTZsX3ZLNG5ISHBHdGtkVlBRcHA3SEZzd1luNmJUbkFSNHhCYllNc1Vka09jY0tGbzAzOEk5S09rQ0Uwc1VHRmctdHZLT0JLTkJzanBnQWhvcktyTlZsbzg1cW5wMGZ1eXo4MUE?oc=5",
-      "date": "Sun, 22 Nov 2026 12:48:19 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : François Ruffin jette l'éponge face à \"l’impasse\" de sa campagne - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMEJxR0xjU3k4ajdZQWNPSkgtMkF5a1RnTXVSRDJSS0VGTF9NMkJmektXdC1wWkhacldkSVJqd1hGR1lSa1U5S08zUWN4MlNuVkJNX0RXWlRQLVVYX0ZNdklzTUlVcVE3elIzWWtJWEZHUEtCWU5vTnJ5cU1tQWVQaEdtRWNxUmRtbU9rRUxnVWhveVhyN1RyaWNKejhwN1JTNVhPMUxoRVR1d2tsQXIwbjZKblFXV1lreWhzRHJwdE9PODEweWFZTFNvbGZraDlNQmNiUEg0cEZFSXVxNVBlSg?oc=5",
-      "date": "Sat, 21 Nov 2026 17:37:20 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Tenir le deuxième tour de la présidentielle \"au lendemain d'un 1er mai est une erreur\", estime Raphaël Glucksmann, qui demande d'avancer le scrutin",
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+      "date": "Sun, 22 Nov 2026 20:48:44 +0100"
     }
   ]
 }
