@@ -1,26 +1,95 @@
 {
-  "mise_a_jour": "2026-11-23T09:49:35.552347+00:00",
-  "manche": [],
-  "france": [
+  "updated": "2026-11-23T11:19:07.701597+00:00",
+  "items": [
     {
-      "titre": "\"Une opération exemplaire\" : ce que l'on sait de l'attaque de deux navires au large de la Libye revendiquée par l'Ukraine",
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-operation-exemplaire-ce-que-l-on-sait-de-l-attaque-de-deux-navires-au-large-de-la-libye-revendiquee-par-l-ukraine_8295566.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 10:16:56 +0100"
+      "source": "Google Actualites",
+      "title": "Emmanuel Macron au Figaro : «La règle d’or budgétaire peut être une idée à explorer» - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSnB3X1BlcHVQUTNFQk9iNU9PRnYySjUtQndhNVQ0X1JTcjhmMTJmU2FjbS1CNlVYWE9KUFh1eHpnbDNfV1FWcTh3cWttTWpScXNjYzBGWEpZNGR5UlhodWFJRmwzVWdZVXZ0NEVsNU15Wmc4b05tMmlfY0I2S0JhenB4UGozUUZwVU1ZM1N1Y1JpWkNvSFNPQXo2VFg1bHVDS1hOSTIzU0RMNlVObTJITnBOTUNVa1lNWFNmVnBHSmE?oc=5",
+      "date": "Mon, 23 Nov 2026 05:31:06 GMT"
     },
     {
-      "titre": "\"On va mettre la maison en vente\" : les sinistrés du Pas-de-Calais épuisés par les inondations alors que la décrue s'amorce",
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/on-va-mettre-la-maison-en-vente-les-sinistres-du-pas-de-calais-epuises-par-les-inondations-alors-que-la-decrue-s-amorce_8295701.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 10:20:06 +0100"
+      "source": "Google Actualites",
+      "title": "L’itinéraire d’Hugues Moutouh, préfet « provocateur et dominant », ex-bras droit de Claude Guéant aujourd’hui soupçonné d’être une « taupe » du RN - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNb2ROT2x2V0RfRDFEdHBHUlhocDFpMkJPME9scEs0ZlBVdEcxRkJQUGZvSkQwTlJMRFVnTmRwTHJ4aXdYU0ZfTGMzcC1VQnBKZFd1VVNZeGdNbnpkdjBiY2Fla3NNRjBhVHFOaGFQZlFuZjR6R0l1aGtUR25CYWliNWV2QmFZUFJ3bWt5eGVvR1NWMnpWRkVNanV3TnBXS1dJRVpTLVRHSVRSaFRVYnFCMXl5WWpzTTYtWlMtZ0FJV3ZOanBhaWpjeG5oTXJ4N0NBQ2pWMm9HbUN2a3gwVGtob0tMRlJUN3FidlpRVllkLThkUXN5WlFQMjZTaFlnQUFlV2pJekRobTJLbG5tS2l6UVRmc0lfOFNXTkpnMmlXSFNVLW10V3R3QkJVUGk?oc=5",
+      "date": "Mon, 23 Nov 2026 10:49:00 GMT"
     },
     {
-      "titre": "Emmanuel Macron réfléchit à instaurer une \"règle d'or\" budgétaire",
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/emmanuel-macron-reflechit-a-instaurer-une-regle-d-or-budgetaire_8273864.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 07:47:45 +0100"
+      "source": "Google Actualites",
+      "title": "INFO ICI Normandie - Un père et ses deux fils interpellés après le déraillement du train Rouen-Caen - ici.fr",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONFBZUVVtN1FBZkxJZ2t2T28tLUlJaTIxaHhsaXNTbDBvTExicEc3Y2gwMnZzRWxBUnMyQXJ2Ymw5X3NwMEVnVXZRUFVmc21IZlZNRGU5Yy1Sb295eEJyU2R0WGxqOEkyWkpvYlZtMXVhSlBlZFpLMUFMR2pFZF9QQUg5N2NhdmhXMGYxWXpWc2ZWTGNoZkxjcVJjbWl1cVpDdHRHb0tCVnpHRTRJNWozaFAyU01DTlR0ZHRvUFRrdWlsLUh3MG1IZUZHZzViOWM2WjZRay0zQzVDN1NmZXlHVW9mTWhZMVBFSWdmVVVoVQ?oc=5",
+      "date": "Mon, 23 Nov 2026 07:25:50 GMT"
     },
     {
-      "titre": "Echec des négociations, engagements sur l'électrification, financements… Ce qu'il faut retenir de la COP31 d'Antalya sur le climat",
-      "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/echec-des-negociations-engagements-sur-l-electrification-financements-ce-qu-il-faut-retenir-de-la-cop31-d-antalya-sur-le-climat_8290226.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 10:44:47 +0100"
+      "source": "Google Actualites",
+      "title": "Guerre en Ukraine : Zelensky revendique l’attaque de bateaux russes ; frappes meurtrières sur Kiev - La Croix",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFFlM1hzTVFJaXlBcS1ZcVNIQnBiODJqYU5CVEtoN1RSamo0OHE4dUlGeDJ6V3Bja2QyRHhoczQxZGZHaTRQVkdOb19NaUxiUGt1ZUFHZVVzUkMtYkp4UVdzSDBVSXNhemZBYUgyMzBjcUc1b0xuOUpXMkVwRmFNYXI1b1hpeFNhTlZaZGxyUS1pZHh4SlZNNTV5VkdVNG9CTlltb0Rvdk5RZ1VESzhWZWxRWWpLZw?oc=5",
+      "date": "Mon, 23 Nov 2026 05:48:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Sondage présidentielle 2027 : David Lisnard double Édouard Philippe, Marine Le Pen perd jusqu’à 5 points - Le Parisien",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPR29zU2lHcmtVeUtCcmwtQURMSEJtQm4wT3BXd3dHN1poYzNpS1JjbzZDT0Z1T0JjSEtpMTgwVE5nNGZHaFBuWVFRaU93UEpWcmxVbTYxNmk1N0Q0amMwSlV0ZElqRGdKYlNrdXo4TmFhSXNDR0Nya1M5LXdndFo4d2RZb3l4YnhlMGdfYWtTcXo3TUlZeEFjMlNKSlpvcVRsUVA4eFVqLUgzSU8wNGpEc3c1SVFxWHNBX3A5ZGlQeDQySHR5UlBmV3NoNFNIS0VhYms1Y29vXzNSc0NRV0xycFJTWXRiOERkLWhzRUU3SktodmJQV3I3SWpCcEJ3Yi01YWxnbC04MTdwcElsQmFTeEZ2VktLOEtRSmt5eEtzXzgyWnZWUUc0OA?oc=5",
+      "date": "Mon, 23 Nov 2026 05:25:53 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Courtisé par la gauche, Ruffin espère voir Mélenchon gagner en 2027, mais doute de sa capacité à rassembler - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWE9GbmRGN2Z5M0FHMXMwTWdiZlBsallyamhaY2xMOFZiUkhvdTJVVXJ3OFMtLVhaQkxObXVZd3pJMEpIcUJqMGVpLXlOVWlNNEpIU09abjlFTFRYYXZEenJ5YWROcDB2SXhxeXR1QWliUXNNN3hzQVZwaXpnaC1YRXJGM1hIWWFxTFV0VU5Jcm94anJUQV9lYmNITjQyNER6MjJFQmQ3N2xyV2NVZGNTNjF4cFFqRnRtX2tRdnhVa2tqSzJvNlhmcUFEMTFzR09Eb3V0dzNTWjlHNHR5NV9jOHd3SEVMakpYT1hhUEVwOGtTUHdaU2Z2M29Yaw?oc=5",
+      "date": "Sun, 22 Nov 2026 21:35:50 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Pluie-inondation : voici les 3 départements en vigilance jaune ce lundi - CNews",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1RaLWE4TnVoWFl6RUk5UklIRGJvb043OVM1YVRtMDJqd21HTTR2WmhTQTJycTFyMzF2S1ZNRk5UWThvbE1TdFJTbGlNX3VKMnBzWlpTeW5WZ2FRWE5PR1lZYXFBMWFJdmRsSTU1U0xDc1o1OExQTVk5c1U2WmRKUU0wQ0t3bEV3N1FtWngyMk1rV0hNZEI3N09ZaGxLd2QxOG9JR0tqbW5ibkxtOHRTZ3VMdHNpWTjSAbwBQVVfeXFMTnUtRzA5ZnlqRGJ5S0xPREVOcm1SbHVkNHk0V1Izb3BLMDJzc05Wa0JlelhkVmpIM2IwZWNvMjloaE96WUNGekFKa3RTOGlPWm51UlFZaG1uY3I0LTY2WlJQOTQ0TWN3X1BkQ0gwWm5JOEVXWm5ycGU2LUlvbnVyVUg4UzIwbVVQUTZFSDc3ZGY5XzFPNHFxOGJrRTRiYy1MLUdyUHhmRkk2bi1SWTAyallqczhWSjJnWk9uVTM?oc=5",
+      "date": "Mon, 23 Nov 2026 06:36:48 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Après dix ans de macronisme, un Congrès des maires aux accents présidentiels - Les Echos",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQm9YTzdhblN0NGUwX3VWbkdvR0t4cmdqaldJS01HOFJqLTBBRVdpTHRiOFU1a1hMVGc4WkI0N0Z4dUxQOHJHSmduNkdSUGR6Q05YTmJEVFVjbjFPU21DbjUyN3lQazBDQzA3cVZqNlE1eFE1WFE4R0c3MlpGWXZ6YW9EeEw4QmJyVl9ULXc5amdEOTBYbzhUMzQzQ1hsaXBJR19YWTFTQjNhR3ZVUkJnMXNhSmtBM1psOVRUZVltS29TR1R4WWRXYmc3N19LQQ?oc=5",
+      "date": "Mon, 23 Nov 2026 06:00:15 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Elle représente parfois plus de 10% de leur budget: pour 7 millions de Français, la voiture est indispensable mais très coûteuse dans leur quotidien - BFM",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRHhRaWttTHNxQTJDX1oxMERMTG45eURVbTg4d2gxMy1TbG1GWF94TGpIeXg3RjkwLWlIZjg4LUlVd0Vqa21VQXFud1Q2V2wyc09XTWtFdTcwWU91U1Q0aG0zcTZSNGtsdjhEcmQ5aGxZalhLZGpLNGFMYkU0YzZxNW1NTFotM040WUxIQ2FJYzBQemZTN0o1UFpleFJ2RnlRblI2Nm9tZW9kZDNzV0tSX1NvY0FNTHB6Qll5MlBQWG40WlVDQjVQWnJrZFBkNzFMTlBCa1VNRUN0Z2pxVFcxMDQ5b0tHejg3QTlCVmh0SDBZMGVXbzl1allhV0FSb3BsODEwc2FGbDY3UldRSXM5SlBGalpoS3hRYWtsV1V3?oc=5",
+      "date": "Mon, 23 Nov 2026 05:35:51 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "EN DIRECT - Colère lycéenne : 98 élèves blessés la semaine dernière et 280 personnels blessés depuis le début du mouvement, affirme Édouard Geffray sur LCI - TF1 Info",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQZzdYczRDNFhLZnczTl8wWUY5a3NHUGRFWjN6RG9LYVRGanpjbUlZcVpBZURwOHg0NmV5UHlmdl9KSW5ZZm5iYTN3UHVLTE1wSVRxZmlOdVNzSFFrZ3NsR2NpUjU2WkxZV3Ywb2JfU1pKc2xqa0ZHWG1NSXZyNWdmOUcxRFphaTRsNW5hYTNScUhUYVBjYWtkZEtMZmZHUFdhZ2w1MmNOanBIa3pNbldzQXB2Tms0QVVMUHk0ZkR3Z3QtajZ0T3duYkh4VVZIdUxubUFZTDhuMVN0elBMX1dZZTUyTnJhS1ZpVXhqRGJXYTJUdUhrTVdhNDRxQnFIOTBhcVJueFpwa20td2FCTENXSWNpdkd2S2UyaWZiQWF3MXpqVnB6R0VTZmhYd1drSHVCWG5jcGxXdE5QT1VfRkRJOW1pRzFVS1hNREplUjVJUlJlUzBBS1BHNkd6dXA5a1kzeWhyWkhVcHdVRlpM?oc=5",
+      "date": "Mon, 23 Nov 2026 07:58:55 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
