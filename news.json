@@ -1,26 +1,95 @@
 {
-  "mise_a_jour": "2026-11-24T05:50:15.275128+00:00",
-  "manche": [],
-  "france": [
+  "updated": "2026-11-24T06:43:49.394364+00:00",
+  "items": [
     {
-      "titre": "\"On n'est plus à une surprise près\" : pourquoi Emmanuel Macron envisage-t-il de créer une règle d'or budgétaire à cinq mois de la présidentielle ?",
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/on-n-est-plus-a-une-surprise-pres-pourquoi-emmanuel-macron-envisage-t-il-de-creer-une-regle-d-or-budgetaire-a-cinq-mois-de-la-presidentielle_8295866.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 24 Nov 2026 06:16:18 +0100"
+      "source": "Google Actualites",
+      "title": "EN DIRECT, guerre en Ukraine : la Libye réclame des explications à Kiev après les attaques contre des navires russes près de Benghazi - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWm9KYk5pVlNBUlYwSVZyTFBwN0V0N0hqQTlWcG9MWXBicWVXemdHYXRuSmo1cFJJU09fMzNwZ1hRREJDbjVmOFNwTVVtdkZfNDRXTkNFTE94aTB0SlJsTmxERklnU2ljX1dOV0R0N3JoQ3FVMnNlem5RZEY0LTczUTloMkx6QWwxWjN1M2hPQ0lvQkFIQVpEM09RZ3VZa25FV0ZUZUtLc1FOT3AtcHF5bm0wVDFlVjhtb3VZeEpqdmctVk5XM2NzdHBwbTNZcGtxeUJ6ZC00T0RIODRWQThsX2Z4MUVzdTAwal8xRU84MkpuWFdkMU9LNGR2NHlZZEd0VVJMNHVRSnlGTTJuQVBkS3BlSzkwTmRrRVlMVnFXMFZ6ZUpxdWx2WQ?oc=5",
+      "date": "Tue, 24 Nov 2026 00:15:00 GMT"
     },
     {
-      "titre": "Nvidia : Jensen Huang redevient PDG, Donald Trump aux commandes de l'opération ?",
-      "lien": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/nvidia-jensen-huang-redevient-pdg-donald-trump-aux-commandes-de-l-operation_8296710.html#xtor=RSS-3-[lestitres]",
-      "date": "Mon, 23 Nov 2026 23:28:13 +0100"
+      "source": "Google Actualites",
+      "title": "«Le fossé n’a jamais été aussi grand» : après l’échec de la COP31, la presse internationale s’interroge sur l’avenir des sommets climatiques - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMzg2RFhoMmdZc2Z6bjl0WjEwMlVKTlo1aWdIeFZjZmVaTF9NcWxKa1ozc1ZyWHJoWnJzYlhKTU41V0F2aWZlX2F3YW84VjU2SjJrT2JHOXdrY3pJSWJ2Q09aanJBQlRubHNvYTMyNVJXR1M2M0IyU2k5Um5LV0pVYVYwQWhmMkRZcWdyVnFnSkZRVVVPYXBXUHJHX3RPQkh6ZUJScENNaWc2RU5tdWhseXZmRjNNc3FuQW50SEZzaUNWNkZHYjN5WTlVQlV1OWxrOWt3bUR2VEdyWE1IMERiblVtbnpfalB6aWoxSjFYZTIyWVBwYkQ3NDNud1E3clVYa25Gdzhqb1hnVmlCRnEw?oc=5",
+      "date": "Mon, 23 Nov 2026 15:37:33 GMT"
     },
     {
-      "titre": "Enquête sur des fuites présumées vers le RN : qui est Frédéric Chatillon, ex-président du GUD et ancien proche de Marine Le Pen ?",
-      "lien": "https://www.franceinfo.fr/societe/justice/enquete-sur-des-fuites-presumees-vers-le-rn-qui-est-frederic-chatillon-ex-president-du-gud-et-ancien-proche-de-marine-le-pen_8296470.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 24 Nov 2026 05:57:22 +0100"
+      "source": "Google Actualites",
+      "title": "« Ça me fait doucement sourire » : David Lisnard balaye les critiques sur sa candidature à la présidence de l’AMF et à la présidentielle - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWnZ0S3JMVDVLU1dkcExuNUVqWVhWaVRlUDF4MVBRWE02bjlxZXVOWmhMVHdTV09oM0hTT2dJeXM0TUN4eEZFbTFWX1FucnFmV3Z1N1NZcEI2bW12aENNUWwxWXQyMmFybEZNV0pQVjZicDZYWWNnOVBFeHg0dlJpVzRTRGNwWlpvckVqS2UxTXNGNzNON0o3SGZNaEFtX0drRmVtUlYyMGFLcXlQcmpHaHpYSkNKS2RQYzdPV05KangtSFZTQ2VuOThja0pHOWVnaEFweVVxelJVZVRXU1drVE1kNjAwSE5DUlFiNHZIdDM0MWdySHA5OGtvdl9Gb0c3Z1NPdS1xNUY?oc=5",
+      "date": "Mon, 23 Nov 2026 10:26:58 GMT"
     },
     {
-      "titre": "Depuis janvier, les Français ont retiré près de 10 milliards d'euros de leurs livrets A, qui connaît sa pire année depuis 2008",
-      "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/depuis-janvier-les-francais-ont-retire-pres-de-10-milliards-d-euros-de-leurs-livrets-a-qui-connait-sa-pire-annee-depuis-2008_8297058.html#xtor=RSS-3-[lestitres]",
-      "date": "Tue, 24 Nov 2026 06:17:59 +0100"
+      "source": "Google Actualites",
+      "title": "Gisèle Pelicot va porter plainte contre la maison d’édition qui a diffusé des photos pornographiques - Le HuffPost",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOF94ckpncmpUY3lLNjVnZEZiOEJ0bU15QWwtT0VRcVUxRVJPMlFYNms1VjFCeHN5ajBUVHV3N3JqOHdXRlpMc1FlbVBtZm9fdmFfR2puRlNFbUJTSGVrOTlRQzBQRE5qQTFrNThFNDlTMXZiVjdDOXQ3LWs3R29PREZYOEoxaWlOVEJsU05UYkY5bm1wSlZOWUlCdGt5d1c2V2s3eVBRaFJ5bU5VQW5hQ3oyWmJuX1FlVi14Qmthc21BallDc1hjRUFLS2g0YUU3Z2Nxc0tMZERqYWYwLXNqM0R0YWhLbXpQTTJZUk9B?oc=5",
+      "date": "Mon, 23 Nov 2026 14:38:10 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Présidentielle: Boris Vallaud estime que la main tendue de Marine Tondelier à Jean-Luc Mélenchon est \"une sorte de fatalisme\" - BFM",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNYmhzT1ZqUXYzdjVmWGJZekZYSk1PUnpXUGFvRWhCOHh0LXF1LTNyaEJza3hWeXNrd1UxSlJ5Q0J6Q2pTdnlCc2JYc2E4cHYzWC1Jd0MxeUZWYmd3SURPWElrVnlLbThMQnl6eG9kT0I0ZG9RRXhoMUlocUF3QnhRNUxOOGZRN01wQWxxTlRfMVFoOUU1VURfZmVTR1g0YWJHUHBkZ0Jsa1NVRmo5NVVjdm93ckpLck5uZ3hyYm9XaDY5LTF1aUlxXzRrT0dDc3ZhUGFFcmxNZnNZNFhDNHRVVl9yZHJXNG9FeHJHMXFuVlRacy1qdkJnU2U5UXBZWlYyN2ZrMVpXOWN4cnBITzItT29NSFlhc2lvNHhNcw?oc=5",
+      "date": "Mon, 23 Nov 2026 23:20:51 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "« Il se fout de la gueule du monde » : la règle d’or budgétaire évoquée par Emmanuel Macron laisse dubitatif - Public Sénat",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWUkxbzJ4Yy1rSGVXRkZpTFlSQTc2c01UV2otLUR0TkUwdzNFVmJVNGljcldWMXk0cHZ0d3Nfbm1QZmI0TUdkejBhMi01RVc3UFNGR2FnNmN2NTJXQkhFeThBTHlrc1pVR0VyaXJ1VjIwMDQtM2h0WDR3TU05ekZEVGZKdm54cExmWm9GNUVkY1p3UlhRMkM5ajB0eE1jTDVzTUN4RWF5aWNTaW9KYlJVdm1DMjBCLU5BWDRZbWdEUlpZdzV0aHhFT1ZUNW55VWNoRGpreUtfc19BTWE1T0UyWWJHbw?oc=5",
+      "date": "Mon, 23 Nov 2026 17:57:43 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Déraillement d'un train en Normandie : quatre individus, dont un père et ses deux fils, interpellés dans un camp de gens du voyage - CNews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEhLQ1V6RmxWc3VVMmNMRmlhQW9DVG1fVE0zTEJIS0p1RkNHSFR1QUp3S2J3WGpKSXdUT0dtVzI3c2w1S3dFMzVsWnR6a05KRlVJRVBuYkoyMmlfMWdqODZsZVN6U25FM2ViSEZqaFE1ZHEtZll2VXh3cldZRkJrOHE2b3RmYWF2OGJTcmZYVmhnSDRGSU94S0ZpdkNjT1dMeTlZUEM1NFZGOV9KeFAtRFpENWxjQ2FGd3hn0gHAAUFVX3lxTFB6YnVMaXk1WlZvamlHVE15b0hCNU1oSHJ0Sl8xb0g3amtSLVpQQUxvRUEwdWxBMVlxWXRHRHB1RlNwRWt5Zy1sYmlZeF9IVXR4Nm9MRTVVNUVMVll3eTBBSmt2Rks5WHZjT29ibTl0ZkpmcEt0ZHBrazBNalIyNm96NU8zZ1lwS1d0d2d4Zm5aU0IwVWI2RDVXbUNEM3E4SGFuQUo5TlBiSnFUdmM4QTRWMHUzeXlmbnJsdXdEZlEwTg?oc=5",
+      "date": "Mon, 23 Nov 2026 10:40:14 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Eurovision Junior à Nice : Christian Estrosi, son épouse Laura Tenoudji et France Télévisions renvoyés au tribunal - Ouest-France",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNR09Na0k4bzd6NHBTQjFnclFoWkdheDJUZ3FNdkYxdmROR1ZBU0RLTjdld1pyU2Z5VDlqSThadW9ka3EycFJ1Zy1HU1RtUGh4cGVCekhaMnBOWG9waG5yenhIMkFmVjhfQkJHTVByN3hDVmNtVlowRk9NME5WSU05ODFZNHQ0UUJKdTBTY0swZEhiTnk4RWRPOHhVcnptZEoyUHpZVEpjNW5JZlB2d0tWSGNVMkQ2TzhmOHpIaWh5VTI1WXUybUxqczBfMjItZjFEc2E3aWlGRm9sclpEVE9pYUZmWmwzMlBrb2FCLWo2MVd0S29oM2pxNTVHM2Y5NzNjaVpDS0h4b2NIVnFjR3daRWsyelFfWlhwaV9lMGlEUGpOMjhQbW9QbGFkNms?oc=5",
+      "date": "Mon, 23 Nov 2026 10:45:07 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Les écolos pro-Glucksmann fondent «Ecologistes et démocrates», un nouveau parti - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWJ1Qm1DTXlnc3FOZnZGZzlOdi13bk5iNnZ3Q0RndlFTd1Fod3l1WWdWVXVmQkN0OWljR0JYNEd0aHl1ekhGMHFkWEl2UjVBUGJKLVhzbXdpUzFhTENOaFZNVmpWdEhha01FVVhfeUhlZmxVRHRtZmlYR3FRWmJjUjJUa2VwbHotamU0d0VpQkgtZGhPVmRFYlVmZFJCOG5ZQXNJdk10cW93Sk5uOHNOR2l5bHBkejNtdTA2LUxuTndUT3BFSXZqTWhRdkN6R216SExzeHZ1NHNJeFB0NGJBVWpleDRRa0pna0JuS0RScTQ?oc=5",
+      "date": "Mon, 23 Nov 2026 21:13:42 GMT"
+    },
+    {
+      "source": "Google Actualites",
+      "title": "Oise : 12 mois de prison requis contre quatre hommes dont un père et son fils pour le vol de 230 carpes d'élevage - Le Figaro",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRUQzZkJWWmFOeEhfTFhVVDhpQjh1YlZ6blBheFRnYXFxVDVPal85S3B3NXk2YzFyLUZXalBKM1RBZ190M29LZVR4ejhHSXF1Zk9URlNOdWphZGFOQWRqdVMtNk9lLS11X2NyQXRfaEZiYmRJQlJtdXF3X0xFbGhSSWFqLUR5VU1lSk51R1hiaXoyYmx0c2F6ZEtPUGZsWkxtblA3OWxtRnBYQ3Vrclh2WkJ3TXUxbUFyZ2plY2hWLVdUUmVwNEdtRER1Z1lqdFE2c1VKUjdSb0REaWdMcE9QQlFxTjZoVjkyd0Zr?oc=5",
+      "date": "Mon, 23 Nov 2026 19:40:27 GMT"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
+      "date": "2026-09-24T12:05:35Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
+      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
+      "date": "2026-09-24T11:53:23Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
+      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
+      "date": "2026-09-24T11:48:56Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
+      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
+      "date": "2026-09-24T11:24:24Z"
+    },
+    {
+      "source": "Yahoo Actualites",
+      "title": "Pape à Paris : comment accéder à la messe ?",
+      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
+      "date": "2026-09-24T11:02:36Z"
     }
   ]
 }
