@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-24T18:22:19.177312+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-25T01:27:14.914766+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Le cargo échoué près d'une plage des Landes depuis quatre jours a repris le large, tiré par un remorqueur - franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQ21NOHF4OURSSkFnSWR0Sy11Qlg0WkxDejY4WTMwXzdOVDkyNDByXzgxcGpUdzNLOGRHSlNROUhJb1dldHhBM3dieThTY3FwNG1BcTIybjJ0YjJNM2pGTFR0cGJGQ2VNV1VKQUpCWmtJT2ZDY1BMYUxPMG5mR21tUFN0WlVyaXEzS01jMG5pRERoaWZjTV91U1hwaTJ0UHNQWU1JdHZOdGE4bkhQeWlhcEhkRkxQV0hIWTJvUkxuNUFSLXp2YzQ0cjB0Wk14djk0Y25uUXBvSlNVZ1I3X1lMODB0YXkwOTRFOEh4RFVsc0VscF9tdGM1cUd6azNhNVFaYklkZ2hTSQ?oc=5",
-      "date": "Tue, 24 Nov 2026 14:17:20 GMT"
+      "titre": "Nicolas Sarkozy, Carla Bruni, Mimi Marchand… Qui sont les principaux protagonistes de l'affaire de la fausse rétractation de Ziad Takieddine ?",
+      "lien": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/nicolas-sarkozy-carla-bruni-mimi-marchand-qui-sont-les-principaux-protagonistes-de-l-affaire-de-la-fausse-retractation-de-ziad-takieddine_8297730.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 24 Nov 2026 19:10:39 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Le libéralisme hémiplégique de David Lisnard - Libération",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdGdyNUhxbS1NeTVKeHNoTVJGLVNwNGFDSVhsX1BxSXZ4bVlETU5yemxwVFZUVkNVUkhib2dtOF8zUjlMblA3VmZrMDhQcEhhUXhLZExsekNkTnRyczRIQTNDOTJjZE9xR1NOYTRucGdva0Q4Y2k1RE5teEQzbVBtNm9DdHEyeW9SbU15bDh6SFhHRXE0cFJicWNSSkUtbHBhVlgxZ0tpS2g4RU1EOFdDR0pBamhSTlBpLWt6WGdpYldKTmRUeUh3cUZCTlM?oc=5",
-      "date": "Tue, 24 Nov 2026 09:54:52 GMT"
+      "titre": "Mort de Nahel Merzouk en 2023 : quatre questions après la décision de juger le policier auteur du tir pour meurtre",
+      "lien": "https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/mort-de-nahel-merzouk-en-2023-quatre-questions-apres-la-decision-de-juger-le-policier-auteur-du-tir-pour-meurtre_8297382.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 24 Nov 2026 18:52:03 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Mort de Nahel : la cour d’appel de Versailles ordonne un procès pour meurtre à l’encontre du policier - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUXptaU1NTXp5V2t5d2h4VlNTSlRDZlE5eWFCeEZzR1VoREhGU1Z3c1dOd01WQWhfUnN4UXpzbTR3Q3VrOUJWdkZORFEtTHA1ZThNbEVxalMtRGRoQW5PSHRKbmt3NUM0UEttblpOQ19UMXU0NFVJeVpGTjlicmIwQjRmZGpQeUJZdU9JSWQxUVpROGFqeGVHa0ktMG1fR0s5YnB0Qm9ZZ1o5a3A0dnZ6ZnRXT3lXbXRQZEEycDBnYXg1cV8tb2I0eUpIS1hUc1BMelBnTTJiOTB2Q002MjV1dUctc2lpdm9XRVMxdDc5SGZPUGRSVkJaLVpMaw?oc=5",
-      "date": "Tue, 24 Nov 2026 08:55:19 GMT"
+      "titre": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
+      "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 24 Nov 2026 18:48:44 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Fausse rétractation de Ziad Takieddine: Nicolas Sarkozy renvoyé en procès avec son épouse Carla Bruni - BFM",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQV2hTV3V2d3Q3clBhc0xQVXN0OFVOTGtveHJTSTdGMUZKWTRqVnJXTDk3eDlvYmJIQ283R2tvanF5THZHNGRqZE0zNWtlQ0NqdzdYS2FLc0N6Zkk3c3ptVGZ2eGQwakF1WkJoYVkzdlV2eGlQMWpVOFVBX2JjaGZ4aGR2OF9aM3Q5X0NTb1hKekdYTWFOYUpXZVh6a081X3NRTHJsSXR4T09BWUt1WFVkb1JMRnBMTF9DLU56eno2bXlhdEJGQVpnNnlnQUowcG1DY09iTEM3a3F3ekxhMHpqSFR1cE9DNjVfaktkcUlWQQ?oc=5",
-      "date": "Tue, 24 Nov 2026 12:18:25 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Enquête ouverte pour détournement de fonds publics à l’agglo du Havre de Philippe - 20 Minutes",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSnpCYVdSNUxmTGt1SjRJZFNtV2ZXak8xbFUzdjZhUmdTMWxSWExTeFNrSEhRMnpsSWNSNkp0cUtMaTg2OGdSWk92M2gtbkVTRGdPV1Bmck9hNzdEbWtZcUVtcXRaNGktNnlQMkVNZHlmdkNxS3gwOTlRLTNCRlJ1TmxoVzBBNXEySHpkWWhOX1A2TnRHVnBheG1scENEcFhnZmlkbF9CcGR0bmdMSDhlMDhibW9NMXNRUk44dVB1ZmVFd2R1NFNzd0s1UkZGTnNTckdiag?oc=5",
-      "date": "Tue, 24 Nov 2026 12:35:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Le congrès des maires de France s’ouvre sur fond de course à la présidentielle et de protestations autour de la double candidature de David Lisnard - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQVZqVVUyQ25IbFJKNTFhTnRocmlxQWJIc3pzTTBJNW9Hb2h0Q2ZvSjRCbFB5M1ZTZHQ5LXhoems1cGVXS3RJUW5lOUxtbGNYTXNmTXhrTFVlQ2loT0F4d2Uwb2dhd1BxX0hocGJwdDNHaF9saUlHbTA5eF9leHdwUTNtX0ZBNjRtZXhqNU1PRGdILXVkUWp3aE1QSm1DbndIcDNmaS1YR0VjbjBVdWxTVWlSS3N0Zm9PT2wwWEM3N2IyWEQ4cEdlTDJ2ZjlvcXc5U0dqUEstSVJ2bDFjNjE0UkxxOGxkNHA2M3RtRHZZT2JncUE4S3hpUm1ucnJkR2hodHlDcUFqQkFRV1NuRDVMcDlQdERVWDdnM25GTFhlWjBzb1N5WTdoVmN6WktXcDJobVN4bGg1TlhfdndMQ1lxMQ?oc=5",
-      "date": "Tue, 24 Nov 2026 07:09:47 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "\"Règle d'or\" budgétaire proposée par l'Élysée: Emmanuel Macron pourra-t-il remporter son pari et convaincre les oppositions? - BFM",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTVplSFFvb0h4QzlaOFdJNEVmbEdDRUZwTVVXMUhqOWRJcDYwbzhrWk9PdHZINFVnQlNyWC1NbHRoQ1pyWmNoa1VuZWRGUTV2NFd2T3JLTVZ2ZDFucE1NQ0RnNjBrM1kzOFN1UnJXZjVFNXFTdUJwRjVLXzlKTXpoUllDMXFxZkc5WFBfbC1RRDZEbXY4MzN2cGdDcHJKbVQ1cVpQR2tPS0ZSVjg3Q25OQ2tlOHczMnZpZjRhOGF4bDBnc0N6Q2pLZERTUVBPLVJwWlI4M1Z6eUh1VDlYZnlraEJMRWdjUGEwbU5iZGJTamVPdDY5SldMUTg1MmdEaEp5NGo0dlczOWd4blNR?oc=5",
-      "date": "Tue, 24 Nov 2026 05:52:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Météo : attention aux pluies verglaçantes dans ces 10 départements ce mercredi - CNews",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcUx2YzF1dmZ6SEFJWldHR3hrMVZJNndyakdLUXpBU0R0TlpLU21YbGZFQnJIbi1GSk5aTzFkYWpBbXJudTd4YktZZWRnNlgtbEk5amk3eVRaR1VNbVNLWm9hY3NvMjNUNUx3WDV6TGdDd0ZJcjZLdDRQamFoOGhVdEpZVFcwYmlwcW9GSlc1OTNoWllfdUtpZmFaTjVzV3ZVVzhLZVpWSnVhZlFpeXpmTnd0aHJmd9IBuwFBVV95cUxQTGRBRzF3c0JFVURXX0RlMGZoRGZxMkNSNXJyRmR6cjJhQ1ZaSGNYWDVURWwwTFVnS2hjUVduN3hHd2hEOGhicTRQcGNBb0I3eDJTX3pXdG9NWU9MSWI4QzdvcGdYSU9LT3I4TFhEMkJXRWVzS3Bhem1lRWdpWEk0ZnpfdGV5V2FxcE5xOVB4cnVleWxYRFpDVVVZYWdxR3BfWmpxOXFRQmpRbHZSU09MZEFGcDR1ak9XMDFR?oc=5",
-      "date": "Tue, 24 Nov 2026 11:36:50 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "« J’ai perdu quasiment la moitié de mes étudiants de première année » : près de deux mois après le début des mobilisations, le risque de décrochage en licence - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRjNDdlNpVzlBWm9PSlE2YkQwcnV2dFppbEJsLURrWUxKbTQzaDloVHRFS3dGeTNEY25WbkRqWFJrR1NWaFVPVE9fb1E5ZHpid0pGcHQ0TXVqSUlqMU1rcVh0Q2FmSUZ3X1AxVWUzbHJ0V0VWSEpIbGZjX3c3UWZHZktqUHBVOV90NjB5c1VROEhiZy1OUzN3V1JYd3RtUUR4RG95NjRhQWIzR1kzeUV6VkJjdjg2enZIcjRyam9uMWZ4NUZNMDk1OHBOSFVId05kYXhQbk1WbDNvRlZzeEhnWGhPbFVhSmxXNE1pSHJRd0p2M2xVak9ESkJ1WllFc1NNc1JmQ3MxaTBkNUhEclVOTlhsRDdBM012SUpBRE96T0lWLWFJT2FLRW1DRFBfWFhYTUxzMkp4Y29FMnhmQ3dDVUsydw?oc=5",
-      "date": "Tue, 24 Nov 2026 05:00:15 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Etienne C., éborgné par un tir de LBD le 17 octobre à Strasbourg : «Ce qu’ils font, c’est gouverner par la trouille - Libération",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM05UVmdIcEVrZW9rM0dHaElLYUlBeDZTdDJwdFotYWpfLWZYbUNudXFNNUNMVE9CV213cGdpWTluQ3RGYlZxblFEd3ZhODdfUEhGVVhnZDk4dmlqVTZXcVByUmZ1UWVTVEZDZUEtSjJUUVI1bThtV3NCZ2tTV1J4SDVRV3lhbzBKRmt1dXNwbUtEbEdSa3FDWjEtMTk1ZzFhV2ZnQl9pTGpOOTRWdjhWcG5wM1MwYmdaRlRkRDBFTFF3aldvcnRib1UtR0IxajNYMWFjT3IzMVFId1h6LVZUeHNNbzBiRzFpWVBjdXJOY3pxdXRweUVkVmJMbllReUpnYk41eGg5Wk04SV9KZld0dGxodVRGWUNBMjdMRkZ3?oc=5",
-      "date": "Tue, 24 Nov 2026 07:30:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "\"Mayotte appelle au secours, encore et encore !\" : la députée Estelle Youssouffa interpelle le ministre de l'Intérieur à l'Assemblée nationale",
+      "lien": "https://la1ere.franceinfo.fr/mayotte/mayotte-appelle-au-secours-encore-et-encore-estelle-youssouffa-interpelle-le-ministre-de-l-interieur-a-l-assemblee-nationale-1761155.html#xtor=RSS-3-[lestitres]",
+      "date": "Tue, 24 Nov 2026 17:51:29 +0100"
     }
   ]
 }
