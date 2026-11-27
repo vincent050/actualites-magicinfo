@@ -1,95 +1,26 @@
 {
-  "updated": "2026-11-27T13:34:07.776566+00:00",
-  "items": [
+  "mise_a_jour": "2026-11-27T13:35:57.810740+00:00",
+  "manche": [],
+  "france": [
     {
-      "source": "Google Actualites",
-      "title": "Ecrits antisémites : Jordan Bardella s’enferre dans le déni et les mensonges - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc0ZqekdsSThCV0FLV2hNdFZYUEp4dUhoQzlWSnZrbWxCRHJPQmhVTjlIcllZYkY1d0VYOVc4MlM1Q0hVVFdLaTE2OHRtaFpJU0IzTkh6RjU5M2hMbVpYSGhZNzNJMVFVUGJWbXJEN2Z6aUlrX3NicTdlQ0RtWUdNNnlBSGEtRV9GSjM3WjZWRlhuMHJLREw2MDh6TThRRnRMQ0NKbWVRQklWWFQtN0NkbkQ5dkxZNTY3elFEcjhLUHg4R09YOGFNa1R1Qy1FNnhPUFJUeHVwLWFUaUJFak40?oc=5",
-      "date": "Fri, 27 Nov 2026 12:49:33 GMT"
+      "titre": "Agriculture, guerre en Ukraine, présidentielle en France... On vous explique pourquoi les négociations sur le budget de l'Union européenne sont dans l'impasse",
+      "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/agriculture-guerre-en-ukraine-presidentielle-en-france-on-vous-explique-pourquoi-les-negociations-sur-le-budget-de-l-union-europeenne-sont-dans-l-impasse_8302635.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 10:30:55 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : qui sont les huit députés LR soutenant David Lisnard ? - CNews",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDV1QmNnVjgtZEdwM2NydGVXLWZNbE9Yam9HTWExMlZuUlU3dVo2MGtmR2Z6Um5OWHNLWGQ1endiN1FXY1ZaQXRtLXFiOW1sT0g5SVVsZTZnYTA5Q294b055bUFlNXVRc3ZZLXdGb1dsR1MxRHhaNHh1azROaDR4blJpVExEWkpwNzNqZmNfR3BuMTV3cTlSYTQyRVJvSWVtZ0R1cXhDRG1TWlhMZFI5MW1mVkhBeU5GVTZN0gHAAUFVX3lxTE9FNzhqMnMzMVFSb0NhZ0Z0VWQ1dkhKUmFtdzhCY1FqVVktOTM2N2h4Y0FMN1p5bS1MaG16bEtKclNIQk5PcFNaT3FJckFtMnFWelU3Uk1ZVk5rdEl1UV9tWkVCZlV0MEFLUG5RTTVkcXpMa3l0TFR0LWpBZGtwSHhBUUM2SFhPa2Vzdld2RWZ5Z0pIS0Q0UmFrSmptOXM4S0VyMFppeW9lOUJYYURxam4xaS1BOEdtMUMtcmJDWlVZNw?oc=5",
-      "date": "Fri, 27 Nov 2026 06:07:30 GMT"
+      "titre": "Déraillement d'un TER en Seine-Maritime : un homme de 22 ans mis en examen pour vol et blessures involontaires",
+      "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-un-homme-de-22-ans-mis-en-examen-pour-vol-et-blessures-involontaires_8303052.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 13:12:00 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Élections en Espagne : à la veille du scrutin, Pedro Sanchez espère encore une « remontada » à la brésilienne - La Croix",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSl9sNHprd2VzTkM4THg4a2NUeXAzZVY1NF9Dc2R0NWZFNlJyVzUzTll2TjNVc1JJWkFReVh1WFlhT1hBOGFDTUdIbzdaZmtKcmNQUl9YS0VVS2wzVXJLaTlnN3ZYRlhRNjhTRW5aOHJIbnVJSHVHMXdiNFpEUGNXNGNGUHZXUmJ0bFhLd252NG01aUt3bDQwZ2U5ZWFvWkEwdEU5TEU0NjhNY0dCNWM4ZW5GSlF0Qjd6S3MwcVItcXJsRVo4SmNPemJ0SzJoSFJnM1hFcFhyX0lXSGEwVXVHQ2JyZS0?oc=5",
-      "date": "Fri, 27 Nov 2026 05:10:10 GMT"
+      "titre": "Deux enquêtes ouvertes après les violences entre supporters lors du match OM-Levski Sofia",
+      "lien": "https://www.franceinfo.fr/sports/foot/ligue-europa/deux-enquetes-ouvertes-apres-les-violences-entre-supporters-lors-du-match-om-levski-sofia_8303013.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 13:19:53 +0100"
     },
     {
-      "source": "Google Actualites",
-      "title": "Budget de l’UE : Marine Le Pen dénonce de « basses manœuvres politiciennes », Emmanuel Macron critique la « drôle d’arrogance » de la candidate du RN - Sud Ouest",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUmJFVGNlTU1YWmIxa0FNajJSQ1RaTXllRWkwb243ZDBxU01LUVpMV09NcHEwa3JXeUhSVUdYOTJKQk1jXzFJVElZNHhESURkSnYzUzVYOXdpdjQxeVdTNGJBOG9iYU5lc0M1clNDV3UzY0FtZ0k3bUxjdXdySlF3VUtaNzluYjJyV051R2tEOUFiX2FYUDBhWnhPcUFFOGh2T1dsWjRNRXFkaUdPTHM3am45NXJva05Kak1EWkJvY3NaZU9PZkF6LWJIemNVZ1dDUWlOdkVTOTc0Zw?oc=5",
-      "date": "Thu, 26 Nov 2026 21:23:27 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "DIRECT - Procès de la djihadiste bretonne Émilie König : témoins et experts à la barre, ce vendredi - Le Télégramme",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXdsZXJkQzAyN2JRZVZjQzFxeXVBSzN5TVlUc01CVkgtQWxuY3JISzY3RThPVkZfa3FWR1duYTFfalZZXzNDaHpENmdfaGs2MW5MalZVS2YwMy1Hc0ozT2V0YTFJSFZLbl9US1RtQ0RQWEx2SnVjbXR1SzFkQXRSekxxRFRTMnF6QlgxWjhQRVkzZUNmdDh5d1RtZk5MdXRWUmJpY0pjNjk0dGtHbTdiSjlZTjNWR0FEX1R4bUhWM3U1UUZQeE4wZlFPZVpsMHM0azBLeDNRWDlQeGpyX0VhclIxMVVrUQ?oc=5",
-      "date": "Fri, 27 Nov 2026 09:17:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Budget 2027 : le Sénat fait marche arrière sur les économies proposées - Les Echos",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1FGS1lGQTlzUDBEU2NYNkZ3X2NtMV84N1p2dWdjRkQzZGQ0SkRkS1M5b0oxM2FVTUxPb0ZERzJfbi15NmtraTdfU1U2TUNFNjRzczR3SVJZYndMaDJmZXNLWTdHbjlCSFpvMW1XeXQ1N04tWUZhR1Z4U0hPR29WN0k4ZmxXRU5IejVsT1MyZm56SkZRdk1Id3paMjNJdHczZGhncDk5UzVscVRiN3JTS0dycms5Qy1jLVBTajQ5d2RqajdzamZ6OU1lRHk3Zw?oc=5",
-      "date": "Fri, 27 Nov 2026 05:20:09 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Renvoi de Gérard Depardieu en procès pour viol : Charlotte Arnould se félicite d’une « vraie victoire » - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMFpkalBtejRDcWg5dFBrUkk5OVBMQW80WElKbFVJMzhHeVhPMG40Y3JaUkw5OTd4YnVZV1gyVnh3TDdqRnRZVTJQZUFmSlN3dFJqRUFSTlo5RWI0WDZRc2dtZ0htOHpmUUI0dGs4ZlFIVkk1OWZ5UXBpWHdnbVA3VTYzY2VpN3ZPeVpET2ViNS03MjlnY2JDa29HQmkzMGxnNEQyazhyM1Vyb09PNXpqcERSNXQ4aTQwNmtpS2sxWVRleTlsdDNFUFNKcnA4RjBhcjhnbmVtMHdfbDl2eEZaVlhMdEtRbkhlQmtEaUg1UXJNbGY0VnRFaw?oc=5",
-      "date": "Fri, 27 Nov 2026 11:03:12 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Présidentielle 2027 : Édouard Philippe chute à 8% et se fait doubler par David Lisnard, troisième - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOUc4RzJCeGpxbGVqbW1CZkZ4WW5xaml2SEFXZ3ExeW9KaC00Uldiak9SS21FODU3VHRwdW1EamlTUkQ5NmxybHZHWkNtTERSNzVuNThXSm5SM0xCUURBZTNWbHVMcEh3ZVVIRVlfTkNmeWUzMGxCTVVRSGNpZWQwTU1rN28wZHBzZUVBV1JReEZvME9CVGNidUFfUlZmb0pPY05INXV2cFFCejAyaEtLUmVyTTBDNTlUQVl3M0xjTFFuek1qVl9KRUZrWlFUT0Z6NUVwTzgxSEZRLTFOVXFqYjdZdTJJeEp1MjRWdkhfT3F2UFE?oc=5",
-      "date": "Fri, 27 Nov 2026 07:18:42 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "Grève du 1er décembre : transports, écoles, secteur privé... Des rassemblements \"partout où c'est possible\" - Linternaute.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX0g5OVhtX0VQSTlhajRZblFQN2RqUC1OaDdpc2FqVGFSY0VRbUFqTnNadEFOYWZtaFVMYkVxemZCdzhrUmVBUDdoUXp3OEFxcHVjMk52UjBZWm1Zdktya1prSkp0bVRMZWh2ZjhkcEpMNldWZVBRSkUzWWlNRWJrWkswbi1EdkRMZkUtNUpCQUJYQkwxWGs4RXpDa1dtWWNWMHIzUng5T3FBNTh0REhMVGdQQ2dBM1J0Nmo0YUQxV2F4cHU5cWdYZTB3Wk5qc2dhM0hqR3pXWWRxeGZmNVFncGNYOE5KRHFmZWc?oc=5",
-      "date": "Fri, 27 Nov 2026 09:50:00 GMT"
-    },
-    {
-      "source": "Google Actualites",
-      "title": "L’obsession antiallemande de Jean-Luc Mélenchon, en visite ce vendredi à Berlin - Le Figaro",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcWlrTm8yQ0lIWl9wSXBJVjJuM3BjaUI4M3BZblJyTGFHZW8zLXlRbnJQdHlhZlJyMFE3OVVZemw1Qk5jYTd5V0J3aHBMbXZzUEJKVXYwcTJrdzl0RmJLdi1zblB1Rl83YVRiQk1rRTBIcDJrdnZRdFN1UllKOEJKUkhCRjdsM3AwUmphMW5CUDF1ejYxR3BEUUgxb2xyOWFlQzk5XzdDSjllODJBdVVOUHhHU29PS2k2TE5hdjhB?oc=5",
-      "date": "Fri, 27 Nov 2026 05:30:00 GMT"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : « Ça me fait honte »… Sur les réseaux sociaux, les cathos de gauche prient à l’ombre des tradis",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-%C3%A7a-fait-120535479.html",
-      "date": "2026-09-24T12:05:35Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Dijon : Une femme mortellement blessée, son compagnon interpellé",
-      "link": "https://fr.news.yahoo.com/sport/dijon-femme-mortellement-bless%C3%A9e-compagnon-115323715.html",
-      "date": "2026-09-24T11:53:23Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Maine-et-Loire : Cette bouteille Cointreau ne sera vendue qu’à 5.122 exemplaires et dans un seul endroit au monde",
-      "link": "https://fr.news.yahoo.com/sport/maine-loire-bouteille-cointreau-ne-114856925.html",
-      "date": "2026-09-24T11:48:56Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Loire-Atlantique : Attention à ces faux agents qui viennent contrôler votre compteur d’eau",
-      "link": "https://fr.news.yahoo.com/sport/loire-atlantique-attention-%C3%A0-faux-112424964.html",
-      "date": "2026-09-24T11:24:24Z"
-    },
-    {
-      "source": "Yahoo Actualites",
-      "title": "Pape à Paris : comment accéder à la messe ?",
-      "link": "https://fr.news.yahoo.com/sport/pape-%C3%A0-paris-acc%C3%A9der-%C3%A0-110236974.html",
-      "date": "2026-09-24T11:02:36Z"
+      "titre": "Le compositeur Jean-Claude Vannier, arrangeur indissociable de Gainsbourg, est mort",
+      "lien": "https://www.franceinfo.fr/culture/musique/le-compositeur-jean-claude-vannier-arrangeur-indissociable-de-gainsbourg-est-mort_8303085.html#xtor=RSS-3-[lestitres]",
+      "date": "Fri, 27 Nov 2026 14:11:57 +0100"
     }
   ]
 }
